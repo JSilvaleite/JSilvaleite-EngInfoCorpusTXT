@@ -1,0 +1,159 @@
+Medidas de prevenção e controle de infecção neonatal por COVID-19: revisão de escopo
+
+RESUMO
+
+Objetivo:
+
+identificar junto à literatura as medidas de prevenção e controle de infecção neonatal por COVID-19.
+
+Métodos:
+
+revisão de escopo, realizada mediante busca de estudos em bases de dados e sites institucionais de saúde. A amostra final foi de 25 publicações.
+
+Resultados:
+
+dentre as principais medidas, destacam-se o uso de máscaras por pessoas suspeitas ou infectadas no contato com neonatos saudáveis, a higienização das mãos antes e após cada cuidado e mamada assim como dos utensílios utilizados para ordenha. É indispensável o uso dos equipamentos de proteção individual pelos profissionais de saúde nos serviços de neonatologia e a manutenção de quarto privativo para neonatos infectados ou uso de barreiras físicas. O diagnóstico precoce e manejo oportuno dos casos é fundamental para a redução da transmissibilidade do vírus.
+
+Conclusões:
+
+a pesquisa contribuiu para elucidação das ações de saúde e enfermagem na prevenção e controle de infecção neonatal por COVID-19.
+Descritores: Recém-Nascidos; Doenças Transmissíveis; Prevenção de Doença; Controle de Infecções; Revisão
+
+
+INTRODUÇÃO
+
+No final do ano de 2019, uma doença causada por uma nova cepa do coronavírus - síndrome respiratória aguda grave por coronavírus 2 (SARS-CoV-2) foi descoberta por um médico chinês. Essa infecção, designada coma COVID-19 pela Organização Mundial da Saúde em fevereiro de 2020, causa sintomas respiratórios graves e vítimas fatais (1). Em março de 2020 foi declarada como pandemia, e tem surpreendido pelo seu potencial de infectar os seres humanos, tornando-se uma emergência de saúde pública de interesse internacional (2). Os primeiros casos da infecção viral surgiram em Wuhan, capital de Hubei, China, posteriormente, a COVID-19 se propagou para mais de 140 países, incluindo o Brasil (1,3). No Brasil, em 08 de junho de 2020, se constavam 707.412 casos confirmados e 37.134 óbitos, correspondendo a uma letalidade de 5,2% (4).
+
+Os pacientes com COVID-19 apresentam sintomas semelhantes aos da gripe, com tosse persistente, febre, falta de ar e dificuldade em respirar, semelhantes à Síndrome Respiratória Aguda Grave (SARS) e à Síndrome Respiratória do Oriente Médio (MERS). Por tratar-se de um novo patógeno, pessoas de todas as idades não têm imunidade ao vírus e, geralmente, são suscetíveis a infecção. A virose infecta desde recém-nascidos (RN) a idosos (3), esse último e as pessoas que convivem com comorbidades crônicas são as que mais apresentam complicações e mortalidade (5).
+
+Com relação aos RN, ainda são poucas as informações sobre as apresentações clínicas da COVID-19. Estudos apontam que as manifestações da doença são menos graves nas crianças do que nos pacientes adultos, e que os lactentes menores de um ano apresentam complicações mais graves do que as crianças mais velhas (6-8). Os RN merecem atenção especial, visto que seu sistema imunológico ainda é imaturo, tornando-os mais suscetíveis à infecção pelo vírus, além da possibilidade de transmissão vertical da mãe para o filho (9).
+
+A transmissão do vírus para o RN pode ocorrer tanto pelo contato direto através da exposição a gotículas respiratórias de pessoas infectadas quanto pelo contato indireto com superfícies no ambiente imediato ou com objetos usados na pessoa infectada (10-11). Constata-se que ainda há muito a se conhecer sobre a transmissibilidade da COVID-19, o tratamento e demais condições relacionadas aos neonatos, por isso as investigações estão em andamento em todo o mundo.
+
+A prevenção e controle dessa infecção neonatal é essencial nos serviços de saúde, especialmente por essa ser uma população com imaturidade imunológica e considerada de risco. Almeja-se, por meio dos cuidados de saúde e de enfermagem, prevenir a ocorrência de COVID-19, preparar os serviços de saúde para a detecção e o gerenciamento precoces dos casos e organizar uma resposta rápida e eficaz, contribuir com uma resposta coordenada para controlar a pandemia e reduzir o efeito ambiental dessas infecções ou seu manejo (12).
+
+Nesse sentido, reitera-se a necessidade do conhecimento sobre as medidas de prevenção e controle da infecção neonatal por COVID-19 por parte de enfermeiros e demais profissionais de saúde durante a assistência obstétrica e neonatal, a fim de promover cuidados atualizados e baseados em evidências. Com rigorosas estratégias de prevenção e controle, será possível minimizar o impacto da pandemia na população neonatal.
+
+OBJETIVO
+
+Identificar junto à literatura as medidas de prevenção e controle de infecção neonatal por COVID-19.
+
+MÉTODO
+
+Aspectos éticos
+
+Por tratar-se de um estudo de revisão, foram garantidas a confiabilidade e a fidelidade das informações contidas nas publicações selecionadas. Esses aspectos foram assegurados por meio da adequada referenciação e do rigor no tratamento e apresentação dos dados.
+
+Tipo de estudo
+
+Trata-se de uma revisão de escopo, a qual permite revisar de forma mais abrangente uma temática e mapear as evidências disponíveis em determinada área de interesse, identificando lacunas na base do conhecimento pesquisada e reunindo vários desenhos de estudo. Este tipo de revisão é importante para a obtenção de uma visão geral das evidências existentes sobre algum evento em saúde, sobretudo quando emergentes. Para o relatório desta revisão, foram seguidas as recomendações das diretrizes do Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR) (13).
+
+Procedimento metodológico
+
+As seis etapas previstas para o desenvolvimento deste tipo de estudo foram seguidas: (1) elaboração da questão de pesquisa; (2) identificação de estudos relevantes; (3) seleção dos estudos; (4) mapeamento dos dados; (5) coleta, resumo e descrição dos achados; e (6) divulgação dos resultados (13).
+
+A partir da questão de pesquisa “Quais as evidências disponíveis sobre as medidas de prevenção e controle de infecção neonatal por COVID-19?”, foram definidos os seguintes elementos de acordo com o mnemônico P - População, C - Conceito e C - Contexto (13) (P (recém-nascidos); C (COVID-19/SARS-CoV-2) e C (prevenção e controle)).
+
+Fonte de dados
+
+As bases selecionadas para a busca foram a National Library of Medicine (MEDLINE/PubMed), Current Nursing and Allied Health Literature (CINAHL), SCOPUS e Web of Science. Em seguida, para assegurar uma busca criteriosa, definiram-se os descritores controlados [Descritores em Ciência da Saúde (DeCS), Medical Subject Headings (MeSH) e CINAHL Headings] e os não controlados (palavras-chave).
+
+Coleta e organização dos dados
+
+Os descritores controlados e não controlados foram sintetizados conforme a estratégia PCC e suas combinações foram usadas para construir as estratégias, conforme constam no Quadro 1. A busca nas bases de dados foi realizada no período de 30 a 31 de março de 2020.
+
+Quadro 1 Mecanismo de busca e quantidade de artigos recuperados nas diferentes bases de dados, Brasil, 2020 
+Como critério de inclusão, optou-se por publicações que incluíram como população os neonatos, como conceito a COVID-19/SARS-CoV-2 e como contexto a prevenção e controle. As fontes de informação abrangeram pesquisas primárias, revisões, opiniões de especialistas (comunicação, perspectivas, editoriais, consensos) e informes/notas técnicas nos idiomas inglês, espanhol ou português, sem delimitação temporal. Foram excluídas as publicações que não responderam à questão de pesquisa, e as duplicadas.
+
+A Figura 1 apresenta o diagrama de fluxo da seleção dos artigos. Também foram consultados os sites do Centers for Disease Control and Prevention, da Organização Mundial da Saúde, do Ministério da Saúde, da Sociedade Brasileira de Enfermeiros Pediatras e da Sociedade Brasileira de Pediatria, com inclusão de seis informes/notas técnicas sobre a temática, considerando-os como publicações em outras fontes.
+Figura 1 Diagrama de fluxo da seleção dos artigos, Brasil, 2020 
+
+Na quarta etapa, os artigos foram mapeados mediante indicadores de coleta de dados designados por título, tipo do estudo, país de origem e medidas de prevenção e controle.
+
+Análise dos dados
+
+Os resultados foram submetidos à análise descritiva do conteúdo, a partir de quadros analíticos que sintetizaram as informações chave dos estudos, interpretando e comparando as produções, para descrever as evidências disponíveis que respondiam à questão norteadora.
+
+RESULTADOS
+
+Foram incluídas 25 publicações, sendo 19 identificadas nas bases de dados e seis em sites de órgãos oficiais de governo, sociedades profissionais e instituições de controle da saúde, todas publicadas no ano de 2020. A maior parte das publicações trata-se de opiniões de especialistas (n=10; 41,6%) seja por meio de consensos, comunicações, editoriais e outros, sendo originárias da China (n=15; 62,5%).
+
+Os dados das publicações estão descritos no Quadro 2, no qual se identificam algumas características, como o título, o tipo do estudo e país de origem.
+
+Quadro 2 Apresentação dos resultados da Pesquisa, Brasil, 2020 
+Nota: EUA - Estados Unidos da América.
+
+No Quadro 3, são apresentadas as medidas de prevenção e controle de infecção neonatal de mães com suspeita ou confirmação de COVID-19 durante o parto, aleitamento materno e cuidados neonatais pós-parto.
+
+Quadro 3 Medidas de prevenção e controle de infecção neonatal de mães com suspeita ou confirmação de COVID-19 durante o parto, aleitamento materno e cuidados neonatais pós-parto, Brasil, 2020 
+No Quadro 4, por sua vez, são apresentadas as medidas de prevenção e controle de infecção neonatal durante a assistência ao RN.
+
+Quadro 4 Medidas de prevenção e controle de infecção neonatal por COVID-19 durante a assistência ao recém-nascido, segundo cuidados da equipe de saúde e do setor de hospitalização, Brasil, 2020 
+Nota: UTIN - Unidade de Terapia Intensiva Neonatal; UCINco - Unidade de Cuidado Intermediário Neonatal Convencional
+
+DISCUSSÃO
+
+A partir dos resultados, foi possível verificar que as publicações sobre as medidas de prevenção e controle de infecção neonatal por COVID-19 ainda são incipientes, com poucos estudos originais desenvolvidos até então, e a maioria originária da China, primeiro país a identificar a doença. Obviamente, isso ocorre devido a doença ser recente. Assim, a fim de orientar os profissionais de saúde quanto a tais medidas, alguns setores governamentais e departamentos de saúde como Centers for Disease Control and Prevention (CDC), Ministério da Saúde (MS), Sociedade Brasileira de Pediatria (SBP), Sociedade Brasileira de Enfermeiros Pediatras (SOBEP) e Associação Brasileira de Obstetrizes e Enfermeiros Obstetras (ABENFO) também publicaram materiais norteadores, como os selecionados nesta revisão.
+
+Inicialmente, cabe conceituar como suspeitos de infecção por SARS-CoV-2 os RN de mães com histórico de infecção pelo vírus entre 14 dias antes do parto até 28 dias após o parto ou os RN diretamente expostos àqueles infectados (incluindo familiares, cuidadores, equipe de saúde e visitantes), independentemente de apresentarem sintomas (7,9,16,27,35).
+
+Por isso, os setores de obstetrícia e neonatologia devem avaliar conjuntamente as condições maternas e fetais e escolher o melhor horário, via de parto e local para o parto da gestante com suspeita ou confirmação de SARS-CoV-2 (16). Segundo pesquisadores, caso as gestantes possam ser tratadas com sucesso, deve-se permitir que as gestações continuem até o termo. A via de parto deve basear-se nas indicações obstétricas usuais, pois não há benefício claro do parto por cesariana em mulheres com infecção por COVID‐19 (18).
+
+Alguns pesquisadores demonstram incertezas quanto à transmissão vertical do vírus (14-16,18,20,22), a qual refere-se à passagem de um patógeno da mãe para o bebê antes e após o nascimento. Especificamente, é incluída transmissão via células germinativas ou sangue placentário durante a gravidez, via canal de parto durante o parto e durante a amamentação pós-parto (19). No entanto, outros estudos não identificaram este tipo de transmissão da SARS-CoV-2 de mães infectadas para seus filhos (17,19,23-24,26).
+
+Para o CDC, os achados das pesquisas realizadas até então sugerem que não há evidências de transmissão vertical da SARS-CoV-2 de mães infectadas ao neonato (11,30). Portanto, acredita-se que a transmissão do vírus para o RN ocorra, principalmente, através de gotículas respiratórias por meio de contato próximo com pessoas infectadas (cuidadores, familiares e visitantes), infecções adquiridas em hospitais e exposição a fontes de infecção em locais públicos (6,11,19-20). Ainda, a P12 aponta que o novo coronavírus também pode ser transmitido por contato com objetos contaminados (6). Logo, a SARS-CoV2 pode ser transmitida por gotícula, por aerossóis e por contato (33).
+
+Neste sentido, preconiza-se uma sala de pressão negativa para o trabalho de parto, sempre que possível, preparada juntamente com um dispositivo de proteção de isolamento, para minimizar os danos à mãe e ao RN (16,18,20). A gestante com suspeita de infecção deve utilizar máscara cirúrgica como medida de precaução para transmissão do vírus durante o trabalho de parto (18).
+
+Em caso de necessidade de ressuscitação desses neonatos, os profissionais devem basear-se no Programa de Reanimação Neonatal (NRP) padrão, atentando-se para o uso dos equipamentos de proteção individual (EPI), como gorro, óculos de proteção ou viseira do tipo face shield, capote descartável de manga longa, luvas, máscaras N95, entre outros (16,25,33). Essas medidas de precaução padrão para aerossóis devem ser praticadas em todos os procedimentos que possam produzir aerossóis, como a intubação endotraqueal, a ventilação não invasiva, a ventilação manual antes da intubação, a broncoscopia, entre outros (9,16,29-31).
+
+Alguns pesquisadores, por considerarem a possibilidade de transmissão vertical, desaconselham o clampeamento tardio do cordão (16,18). Nesses casos, deve-se realizar o clampeamento imediato, considerado como aquele efetuado em até um minuto após o nascimento (36). No entanto, o MS (32) e a SBP (33) aconselham o clampeamento oportuno do cordão umbilical mesmo nesses casos, provavelmente por considerar que os diversos benefícios desta prática superam os possíveis riscos, ainda desconhecidos.
+
+Os neonatos nascidos de mães com suspeita ou confirmação de COVID-19 devem ser limpos e secos imediatamente após o parto (18), isolados e testados precocemente para a doença (16). O contato pele a pele é desaconselhado (16,18,25,32,34) para melhor controle de COVID-19. Rotineiramente, no Brasil, o contato pele a pele mãe e bebê é um dos cuidados preconizados pelo MS (36) e pela SBP (37) para o RN nos primeiros minutos de vida, devido a seus diversos benefícios. Porém, esses órgãos reafirmam que essa prática deve ser suspensa nos casos de neonatos nascidos de mães com suspeita ou confirmação de COVID-19 (32,34).
+
+Ainda, embora muitos pesquisadores (9,16,18) não recomendem o aleitamento materno na situação de risco ou confirmação da doença, o CDC (11), o MS (32), a SOBEP e a ABENFO (33) consideram que, até então, não há evidências suficientes de transmissão vertical da SARS-CoV-2 ao RN de mães infectadas e que o leite materno é a melhor fonte de nutrição para os neonatos. Portanto, recomendam que a prática do aleitamento materno seja mantida, desde que a mãe e o neonato estejam em boas condições clínicas e que se cumpra todas as medidas de prevenção durante o ato. Ao amamentar, as mães devem colocar uma máscara cirúrgica, higienizar as mãos e os utensílios de amamentação antes e após cada mamada (11,30,33). Outra opção é a mãe oferecer leite materno ordenhado ao RN para estabelecer e manter o suprimento de leite, adotando as seguintes recomendações: lavar as mãos antes de tocar na bomba de extração de leite materno ou recipiente para armazenamento do mesmo, limpar adequadamente a bomba e utensílios utilizados após cada uso e, se possível, outra pessoa deve oferecer o leite ordenhado ao bebê (11).
+
+Salienta-se que, após o nascimento, o rastreio das puérperas suspeitas é crucial para a determinação da decisão de separá-las ou não de seus bebês. A separação deve ser feita caso a caso, por meio da tomada de decisão compartilhada entre a família e a equipe de saúde (30). O isolamento dos neonatos nascidos de mães infectadas ou suspeitas deve durar pelo menos 14 dias, a menos que a infecção por SARS-CoV-2 seja descartada (18,29). Se a separação não for realizada, outras medidas para reduzir o risco de transmissão da mãe para o bebê podem ser implementadas, como o uso de barreiras físicas entre mãe-bebê (30), a manutenção de distância mínima de um metro entre o leito materno e o berço do RN (32), a implementação de medidas rigorosas de controle de infecção, com uso de máscara cirúrgica para o contato com o RN e a adequada higienização das mãos antes e após o contato (24,32).
+
+Em caso de isolamento materno, pode haver ansiedade por parte dos pais e depressão materna, e, portanto, a família deverá receber apoio emocional de uma equipe interprofissional. Todas as situações devem ser comunicadas e totalmente compreendidas pelos pais/responsáveis (9,16,18). Além do mais, sugere-se a presença de acompanhante para a mãe, desde que assintomático e que não seja contato domiciliar de pessoas com síndrome gripal ou infecção respiratória comprovada por SARS-CoV-2 (32).
+
+Propõe-se o rastreio das puérperas e os seus neonatos, incluindo swab faríngeo, sangue periférico, tecido placentário após o parto, líquido amniótico, sangue do cordão umbilical e leite materno, para a realização de estudos aprofundados e observação contínua de acompanhamento nas gerações futuras (15). Tipos de amostras adicionais (por exemplo, fezes, urina) podem ser coletados e armazenados (16).
+
+Se após o nascimento do RN, o teste da mãe suspeita for negativo, o RN pode ser tratado rotineiramente pela equipe de saúde do alojamento conjunto. No entanto, se o teste for positivo, o caso deve ser tratado de acordo com o manejo dos RN diagnosticados. Se os bebês apresentarem sintomas clínicos de suspeita do vírus, eles deverão ser admitidos na unidade neonatal para diagnóstico da COVID 19 e tratamento adicionais (16). Cabe ressaltar que, segundo a P11, a insuficiência respiratória neonatal pode resultar de uma ampla variedade de causas, por isso se deve testar os RN admitidos na unidade de saúde apenas quando houver suspeita razoável (8).
+
+Devido às manifestações clínicas da infecção por SARS-CoV-2 em neonatos serem, em sua maioria, inespecíficas, como febre, tosse, corrimento nasal, vômito e esforço respiratório (6,14,27) , relativamente leves (7,24,27), é imprescindível que os profissionais de saúde monitorem os RN de mãe com suspeita ou confirmação de COVID-19 tanto clinicamente quanto laboratorialmente para melhor controle da infecção. Portanto, é necessário monitorar de perto os sinais vitais, sintomas respiratórios e gastrointestinais (16,18), porém a doença pode ser assintomática.
+
+Destaca-se a relevância da atuação da enfermagem nessas ações, não apenas em razão de sua capacidade técnica, mas também por possuir o maior número de profissionais da área da saúde, e ser a única categoria profissional que está junto ao paciente durante as 24 horas do dia (38). Isso ocorre principalmente na neonatologia, onde o paciente é totalmente dependente dos cuidados da equipe de enfermagem.
+
+Alguns pesquisadores divergem quanto à necessidade de internação do neonato infectado na UTIN. Enquanto uns defendem que todos os neonatos suspeitos ou confirmados laboratorialmente com o novo coronavírus devem ser admitidos na UTIN (29), outros afirmam que estes devem ser isolados e monitorados clinicamente, mas que não requerem, necessariamente, a admissão na UTIN (8). Em caso de internação na UTIN, recomenda-se, se possível, a separação de uma área para admissão de RN de mães casos suspeitos ou confirmados para COVID-19 (33). Propõe-se a suspensão da discussão à beira do leito pela equipe de saúde que presta assistência, bem como de todas e quaisquer atividades coletivas realizadas no setor. Os pais sintomáticos ou contatos domiciliares de pessoa com síndrome gripal não devem entrar na UTI/UCINCo até que o período de transmissibilidade da SARS-CoV-2 tenha se encerrado (14 dias) (32).
+
+Caso seja instituída coorte de pacientes na UTI, é fortemente recomendado estabelecer uma equipe específica para o trato da COVID-19, composta por neonatologista/pediatra, enfermeira neonatologista/enfermeira pediátrica, técnicos de enfermagem, fisioterapeuta, colaborador da higienização e colaborador do laboratório. Essa estratégia previne a disseminação de microrganismos entre pacientes dentro da Unidade de Terapia Intensiva. Também é importante que se respeite o distanciamento mínimo de um metro entre incubadoras, berços comuns e/ou berços aquecidos (33).
+
+Mesmo que esses RN não sejam admitidos em UTIN, espera-se que sejam mantidos em leitos privativos. Equipamentos de diagnóstico e tratamento, como estetoscópio e termômetro, por exemplo, devem ser individuais. Para entrar e sair da ala de isolamento, deve-se seguir rigorosamente o protocolo adequado para a higiene das mãos e uso de EPI (16,21,33). Preferencialmente, a ala de isolamento deve estar equipada com um sistema de ciclo de ar isolado, com pressão negativa (9).
+
+As estratégias a serem implementadas durante a assistência aos neonatos suspeitos ou infectados pelo novo coronavírus incluem o uso de EPI (gorro, óculos de proteção ou viseira do tipo face shield, capote descartável de mangas longas com punhos com elástico ou malha, com gramatura mínima de 30 g/m2, e com amarração na parte posterior, luvas e máscaras cirúrgica); sinalização na entrada; higiene rigorosa das mãos; limpeza e desinfecção diária do ambiente; fornecimento de EPI para toda a equipe de saúde; precauções de contato adicionais aprimoradas e precauções contra gotículas respiratórias que incluem o equipamento dos pacientes; visitas restritas dos pais/familiares; troca de capote e luva após os procedimentos e abrir a janela regularmente para trocar o ar; e higienizar as mãos antes e depois da troca de fraldas, usar luva (se possível) e descartá-la em local apropriado (9,16,30-31,33,35).
+
+Os quartos desses neonatos não podem ser usados por outros pacientes antes de serem adequadamente desinfetados. Se esse paciente dividir um quarto com outros neonatos antes de ser diagnosticado, todos os companheiros da ala devem ser isolados. A desinfecção terminal do quarto do paciente deve feita preferencialmente usando atomização com peróxido de hidrogênio ou um spray de preparação contendo cloro (16,30,35). Os resíduos hospitalares produzidos durante o atendimento ao RN infectado devem ser coletados em um saco de resíduos infecciosos de dupla camada e tratados com uma preparação contendo cloro por, pelo menos, 10 minutos e depois descartados da mesma maneira que os resíduos hospitalares infecciosos (16,35).
+
+Frente à necessidade de transporte desses neonatos, os espaços na ambulância devem ser estritamente fechados e isolados, e o carro deve estar aprovisionado com equipamento de proteção, solução desinfetante e álcool gel para as mãos. A ambulância deve ser desinfetada antes e após a transferência de pacientes. Além disso, os membros da equipe de saúde acompanhantes devem usar os EPI (16).
+
+Ainda, a fim de impedir a propagação da COVID-19 entre neonatos, algumas outras ações devem ser realizadas pelos profissionais, como cobrir a boca ao tossir ou espirrar com lenços descartáveis e limpar e desinfetar os objetos e brinquedos rotineiramente (31). Objetos de uso pessoal desses pacientes não devem ser compartilhados com os demais na área de internação, incluindo os brinquedos (33).
+
+Diante da admissão de um neonato em unidades de saúde, caso seus pais ou responsáveis legais apresentem quadro suspeito ou confirmados para COVID-19 ou tenham contato domiciliar com pessoa com síndrome gripal, deverão manter isolamento domiciliar por 14 dias, sendo impedidos de comparecerem na unidade de saúde nesse período. Nessa situação, o neonato deve ser acompanhado na unidade de saúde por outros responsáveis assintomático e que não seja contato domiciliar de pessoa com síndrome gripal ou infecção respiratória comprovada por SARS-CoV-2 (33).
+
+Durante a pandemia, novas estratégias de cuidados devem ser adotadas para garantir o pleno crescimento e desenvolvimento do neonato, considerando as medidas de prevenção e controle da infecção por COVID-19. Os enfermeiros, durante a assistência ao neonato não hospitalizado com suspeição da doença, devem coletar a história epidemiológica do mesmo, das famílias, cuidadores e visitantes durante os 14 dias anteriores às manifestações clínicas e também medir a sua temperatura corporal rotineiramente (21-22).
+
+É importante entender o papel da população neonatal na dinâmica de transmissão do surto, pois os RN podem se tornar um difusor significativo no estágio de explosão do mesmo. Assim, é necessário aumentar a conscientização da população em geral, reforçar as medidas de controle de infecções e executar o gerenciamento da saúde das famílias (28).
+
+Limitações do estudo
+
+Nesta revisão, a maioria das medidas divulgadas limita-se a experiências anteriores com surtos por outros coronavírus em adultos e crianças, já que as pesquisas ainda são incipientes no tocante a temática. Optou-se por incluir a literatura cinzenta para garantir um maior corpo de conhecimento, contemplando opinião de especialistas e orientações advindas do Ministério da Saúde e das demais instituições de saúde nacionais e mundiais.
+
+Contribuições para a área da enfermagem e saúde
+
+A atuação plural do enfermeiro e sua posição de liderança na equipe o coloca como protagonista no combate a transmissão da doença. Diante do atual cenário epidemiológico do país, esta revisão torna-se essencial por mapear junto à literatura as medidas de prevenção e controle da infecção neonatal por COVID-19, as quais podem nortear os cuidados de enfermagem prestados por enfermeiros e subsidiar pesquisas futuras. Reitera-se a necessidade de atenção às medidas de proteção e controle da infecção neonatal por COVID-19 elencadas, por parte de enfermeiros e demais profissionais de saúde durante à assistência obstétrica e neonatal, as quais provavelmente serão modificadas à medida que novas evidências surjam e experiências clínicas com o novo coronavírus sejam acumuladas. Por isso, os enfermeiros e demais profissionais de saúde devem atualizar continuamente seus conhecimentos e habilidades em prevenção e controle de COVID-19 em neonatologia para minimizar os impactos do evento na saúde pública brasileira.
+
+CONCLUSÃO
+
+Este estudo contribui para o corpo de conhecimento dos enfermeiros e demais profissionais da saúde no tocante às principais medidas de prevenção e controle de infecção neonatal por COVID-19. Acredita-se que, por meio do rigoroso cumprimento dessas ações, é possível reduzir as implicações dessa pandemia aos neonatos. As medidas encontradas nesta revisão direcionam-se à assistência ao neonato desde a sala de parto até a hospitalização, seja em unidades de alojamento conjunto, UCINco, UTIN, assim como na Atenção Primária à Saúde. Dentre as principais medidas encontradas, sobressaem-se o uso de máscaras cirúrgicas por pessoas infectadas no contato com os neonatos saudáveis, a higienização das mãos antes e após cada cuidado e cada mamada e também a higiene dos utensílios utilizados na ordenha das mamas, cuidados fundamentais a serem desenvolvidos em parceria com as famílias. É indispensável o uso dos equipamentos de proteção individual pelos profissionais de saúde nos serviços de obstetrícia, neonatologia e Atenção Primária à Saúde. Durante a hospitalização, faz-se necessário a manutenção de quarto privativo para neonatos infectados ou o uso de barreiras físicas. Destaca-se que o diagnóstico precoce e o manejo oportuno dos casos são fundamentais para a redução da transmissibilidade da doença.
+

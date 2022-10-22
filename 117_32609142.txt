@@ -1,0 +1,128 @@
+Definição de caso suspeito da COVID-19: uma revisão narrativa dos sinais e sintomas mais frequentes entre os casos confirmados
+
+RESUMO
+
+Objetivo
+
+descrever os sinais e sintomas mais frequentes na infecção pelo vírus da síndrome respiratória aguda grave coronavírus 2 (SARS-CoV-2).
+
+Métodos
+
+revisão narrativa da literatura realizada em abril de 2020; a busca foi realizada em bases eletrônicas e complementada com revisão manual das referências dos trabalhos selecionados e das publicações do Ministério da Saúde do Brasil.
+
+Resultados
+
+o espectro da doença clínica mostrou-se variado; febre, tosse e dispneia foram os sinais/sintomas mais frequentes, no entanto, podem não estar presentes, dificultando a definição de caso; sintomas gastrointestinais e alteração de olfato ou paladar têm sido relatados entre casos leves; a dispneia foi frequente entre casos graves e com evolução ao óbito.
+
+Conclusão
+
+considerando-se a escassez de testes diagnósticos e a diversidade de sintomas, os serviços de saúde devem utilizar uma definição de caso sensível, de forma a serem adotadas ações adequadas de vigilância, prevenção e tratamento.
+
+Palavras-Chave: Infecções por Coronavírus; Sinais e Sintomas; Epidemias; Revisão
+INTRODUÇÃO
+
+A pandemia do coronavírus 2 relacionado à síndrome respiratória aguda grave (SARS-CoV-2), causador da doença do coronavírus 2019 (COVID-19), que emergiu no final de 2019 em Wuhan, Província de Hubei, China, rapidamente se disseminou por todos os continentes, aumentando exponencialmente o número de infectados e ocasionando milhares de mortes no mundo. 1 Estima-se que, até 26 de abril de 2020, houve mais de 2,8 milhões de infectados no mundo e mais de 193 mil mortes relacionadas à doença causada pelo novo coronavírus (COVID-19). 2
+
+Pela extensa magnitude e pelos diversos insumos necessários ao seu controle, como a disponibilidade de testes diagnósticos para as populações afetadas, o enfrentamento à COVID-19 tem se tornado um desafio, especialmente para países de baixa e média renda como o Brasil, que dependem de tecnologias produzidas em outros países. 3
+
+Como diagnosticar ou definir que uma pessoa está infectada pelo SARS-CoV-2, quando as unidades de saúde não dispõem de exames laboratoriais suficientes? Ademais, os testes diagnósticos têm seu emprego destinado a momentos específicos da infecção, podendo apresentar pouca acurácia, a depender da fase da doença. 4 Dessa forma, a avaliação dos sinais e sintomas clínicos apresentados pelas pessoas infectadas pode auxiliar a estabelecer o fluxo de atendimento e a indicar a realização de exames confirmatórios. 6
+
+O objetivo deste estudo foi descrever os sinais e sintomas mais frequentes na infecção pelo SARS-Cov-2, de forma a se direcionar a suspeição de casos com base na manifestação clínica e se caracterizar a gravidade dos casos.
+
+MÉTODOS
+
+Foi realizada uma revisão narrativa, de natureza qualitativa. A revisão narrativa tem a finalidade de descrever o estado da arte de um determinado assunto e possibilitar uma discussão ampliada. Esta revisão apresenta-se como análise crítica e pessoal dos autores, sem a pretensão de generalização; foi realizada no mês de abril de 2020, incluindo estudos que apresentassem a descrição do quadro clínico dos primeiros casos de COVID-19.
+
+As buscas se basearam na pergunta de pesquisa: Quais os sinais e sintomas mais frequentes na infecção pelo SARS-CoV-2? A busca bibliográfica foi realizada nas bases de dados Scopus, medRXiv, MEDLINE, SciELO e Google Acadêmico, complementada com uma busca manual nas listas de referências dos trabalhos selecionados e no sítio eletrônico do Ministério da Saúde do Brasil. Não foi determinada limitação de data, país do estudo ou área de conhecimento. Foram buscados os seguintes termos: “Signs”, “symptoms” “clinical”, “laboratory”, combinados com “Novel coronavirus” “Novel coronavirus 2019”, “2019 nCoV”, “COVID-19”, “Wuhan coronavirus”, “Wuhan pneumonia” e “SARS-CoV-2”.
+
+Foram incluídos no estudo artigos originais, de revisão de literatura, artigos de opinião e documentos técnicos nos idiomas inglês e português. Em situações nas quais mais de um artigo descrevia a mesma coorte de casos, ou em que mais de uma revisão era identificada com a temática de interesse, foram excluídos os de menor tamanho amostral e/ou o mais antigo.
+
+RESULTADOS
+
+Sinais e sintomas mais frequentes entre os casos confirmados da COVID-19
+
+Foram selecionados dez estudos que descrevem os primeiros casos confirmados da COVID-19 e os sinais e sintomas mais comuns apresentados. Tais estudos estão sumarizados na Tabela 1 .
+
+Tabela 1 – Sumarização dos estudos que indicam os principais sinais e sintomas encontrados em pessoas confirmadas para a COVID-19, abril de 2020 
+Legenda:
+
+RT-PCR: transcrição reversa seguida de reação em cadeia da polimerase.
+
+COVID-19: doença causada pelo Sars-CoV-2.
+
+UTI: unidade de terapia intensiva.
+
+PCR: proteína C reativa.
+
+SNC: sistema nervoso central.
+
+SNP: sistema nervoso periférico.
+
+SN: sistema nervoso.
+
+IIQ: intervalo interquartil.
+
+AST: enzima aspartatoaminotransferase.
+
+ALT: enzima alanina aminotransferase.
+
+GI: gastrointestinais.
+
+vs: versus.
+
+a) Tipo de estudo determinado pelos autores, não especificado no artigo.
+
+Segundo o Ministério da Saúde, ainda há informações limitadas para caracterizar o espectro da doença clínica. Assim, o ministério estabelece a síndrome gripal (SG) como manifestação mais comum, sendo essa definida como quadro respiratório agudo, caracterizado por sensação febril ou febre, mesmo que relatada, acompanhada de tosse ou dor de garganta ou coriza ou dificuldade respiratória do indivíduo. 7 Na presença de dificuldades respiratórias, considera-se a presença de síndrome respiratória aguda grave (SRAG), 8 definida por SG que apresente dispneia/desconforto respiratório ou pressão persistente no tórax ou saturação de O2 menor que 95% em ar ambiente ou coloração azulada dos lábios ou rosto. 9
+
+Segundo a Organização Mundial da Saúde (OMS), 2 os sinais/sintomas iniciais da doença lembram um quadro gripal comum, mas variam de pessoa para pessoa, podendo se manifestar de forma branda, em forma de pneumonia, pneumonia grave e SRAG. A maior parte das pessoas infectadas apresenta a forma leve da doença, com alguns sintomas como mal-estar, febre, fadiga, tosse, dispneia leve, anorexia, dor de garganta, dor no corpo, dor de cabeça ou congestão nasal, sendo que algumas também podem apresentar diarreia, náusea e vômito. Idosos e imunossuprimidos podem ter uma apresentação atípica e agravamento rápido, o que pode causar a morte, principalmente dos idosos e indivíduos com comorbidades preexistentes.
+
+As definições de caso adotadas pelo Ministério da Saúde do Brasil foram estabelecidas nos meses de fevereiro 10 e março de 2020, 7 conforme detalhado na Figura 1 . As definições de casos suspeitos inicialmente basearam-se na ocorrência de febre e pelo menos um sinal ou sintoma respiratório, com histórico de viagem do indivíduo para áreas com transmissão local ou contato com caso confirmado. 11 No entanto, a febre não necessariamente estaria presente em todos os indivíduos acometidos, 7 considerando-se que idosos ou até mesmo pessoas sem comorbidades não apresentaram esse sinal específico. Ainda, deve-se considerar que o critério para definir a febre não é padronizado, podendo ser uma temperatura medida ≥37,5ºC, 12 temperatura ≥37,8ºC, 7 registro em prontuário para casos hospitalizados 13 ou até mesmo o relato, sem aferição confirmatória. 7
+Legenda: COVID-19, doença causada pelo Sars-CoV-2; BE, Boletim Epidemiológico do Ministério da Saúde do Brasil.
+
+Figura 1 – Definições de caso adotadas no Brasil para COVID -19, 2020 
+
+De toda forma, são considerados como sinais e sintomas mais comuns a febre (temperatura ≥37,8ºC), tosse, dispneia (dificuldade respiratória), mialgia e fadiga. 11 Estudo com 41 casos confirmados na China identificou que a febre esteve presente em 98% deles, seguida por tosse (76%), dispneia (55%) e mialgia/fadiga (44%). 14 Wang et al. 15 descreveram 69 casos da China e identificaram que cerca de 15% dos indivíduos analisados apresentaram a tríade febre, tosse e dispneia. Um relato de casos de Seattle, nos Estados Unidos, 13 mostrou que 50% deles não manifestaram febre, sendo a tosse e a dispneia os sintomas mais relatados, por 88% das pessoas. Em uma revisão sistemática de achados clínicos, laboratoriais e de imagem de casos confirmados da COVID-19, 16 as manifestações clínicas mais comuns foram febre (88,7% [IC 95% 84,5; 92,9%]), tosse (57,6% [IC 95% 40,8; 74,4%]) e dispneia (45,6% [IC 95% 10,9; 80,4%]), embora possam não estar presentes. A prevalência de febre foi maior em adultos do que em crianças. 16
+
+Também há relatos de sintomas menos comuns e difíceis de mensurar de forma objetiva, como anosmia (perda do olfato), hiposmia (diminuição do olfato) e ageusia (perda do sentido do paladar). Entidades de especialistas propõem que a anosmia, a hiposmia e a ageusia sejam incluídas no rastreamento da infecção por SARS-Cov-2, principalmente na ausência de outras doenças respiratórias, como rinite alérgica e rinossinusite aguda ou crônica. 17 Há evidências de um número significativo de pessoas que desenvolveram esses sintomas e que, posteriormente, tiveram resultados positivos para a COVID-19. 18 Um estudo com indivíduos hospitalizados e positivos para a COVID-19 na Itália 19 verificou que 33,9% deles apresentaram pelo menos uma alteração de olfato ou paladar, e 18,6%, ambas. A perda de paladar ocorreu para 91% das pessoas, antes da hospitalização. Tais sintomas foram mais frequentemente relatados por mulheres (52,6% versus 25%) e por aqueles mais jovens (mediana de 56 anos, IIQ 47-60 anos versus 66 anos, IIQ 52-77). Na Alemanha, a anosmia foi encontrada em mais de dois terços dos indivíduos estudados, enquanto médicos italianos e suíços estão relatando sintomas semelhantes, com muitos exibindo também ageusia. Na Coreia do Sul, 30% dos entrevistados com a COVID-19 manifestaram anosmia como principal sintoma. 18
+
+Em estudo transversal com 204 indivíduos confirmados laboratorialmente na China, 21 sintomas gastrointestinais foram relatados por 50,5% no momento da admissão hospitalar, além de febre e sintomas respiratórios. Tais sintomas incluíram ageusia, relatada por 78,6% dos casos, diarreia, em 34% dos casos, além de vômito (3,9%) e dor abdominal (1,9%). Em um estudo retrospectivo realizado em Zhejiang, 22 província chinesa, com 651 pessoas hospitalizadas com diagnóstico da COVID-19, 11,4% apresentaram sintomas gastrointestinais na admissão hospitalar. Os sintomas digestivos mais prevalentes foram diarreia (71,62%), vômito (14,86%) e náusea (13,51%).
+
+Critérios diagnósticos
+
+No documento Diretrizes para Diagnóstico e tratamento da COVID 19 , o Ministério da Saúde, dada a inespecificidade e heterogeneidade da apresentação clínica, considera caso confirmado aquele com a confirmação laboratorial conclusiva para o SARS-CoV-2, independentemente de sinais ou sintomas. 11 No entanto, na ausência de testes diagnósticos confirmatórios para todos os casos suspeitos, os serviços de saúde tiveram que adotar uma definição de caso suspeito bastante sensível, especialmente para os casos sintomáticos leves, considerando os sintomas relatados, em virtude da recomendação de as pessoas não procurarem os hospitais e centros de saúde para avaliação clínica, na ausência de desconforto respiratório como um sinal de agravamento da doença. 8
+
+Desse modo, por critério clínico-epidemiológico, considera-se um caso suspeito de SG ou SRAG quando há histórico de contato próximo ou domiciliar com caso confirmado laboratorialmente para a COVID-19, nos últimos sete dias antes do aparecimento dos sintomas e quando não foi possível realizar a investigação laboratorial específica. Assim, qualquer sintoma gripal tem sido considerado para suspeição de casos, objetivando-se especialmente o isolamento individual, de forma a se evitar a transmissão viral. No entanto, sabe-se que a maioria desses casos considerados suspeitos não serão confirmados, a menos que se agravem e precisem de internação hospitalar, ou procurem voluntariamente testes rápidos disponíveis em alguns locais.
+
+Segundo o Ministério da Saúde, a estratificação de gravidade dos casos suspeitos de SG deve se dar em consulta médica, indicando que casos leves (sem dispneia ou sinais e sintomas de gravidade) podem ser acompanhados completamente pela Atenção Primária à Saúde e Estratégia de Saúde da Família (APS/ESF), devido à menor gravidade do caso. 8 Aqueles que apresentam SG com dispneia ou sinais e sintomas de gravidade, ou em conjunto com comorbidades que contraindicam isolamento domiciliar, necessitam de estabilização na APS/ESF e encaminhamento a Centros de Referência/Urgência/Hospital para observação por 24 horas ou intervenções que necessitem de maior densidade tecnológica. Para essas pessoas que chegam a um serviço de atenção em saúde, achados suspeitos em exames laboratoriais e de imagem podem ser utilizados como indicativos da doença, auxiliando na suspeita diagnóstica. 16
+
+Os testes moleculares, como os de transcrição reversa seguida de reação em cadeia da polimerase (RT-PCR), que fazem a identificação do RNA viral do SARS-CoV-2, devem ser empregados entre o 3º e o 7º dia de sintomas, a partir da coleta de secreções da nasofaringe, a fim de se garantir maior precisão do método e redução de resultados falso-negativos. 24 Devido ao alto custo e à escassez de laboratórios certificados para sua realização, os testes de RT-PCR são realizados em indivíduos sintomáticos que foram hospitalizados e nos profissionais de saúde. Os testes sorológicos por imunocromatografia, conhecidos como testes rápidos, têm se tornado uma opção para pessoas com sintomas leves a moderados, sem necessidade de hospitalização; para a população em geral, no rastreamento de casos assintomáticos; 6 e para se observar a imunidade/recuperação dos casos confirmados. Neste caso, eles devem ser empregados após sete dias do início dos sintomas. 25
+
+O desenvolvimento de uma resposta sorológica à infecção viral é dependente do hospedeiro e leva tempo. No caso da SARS-CoV-2, estudos iniciais sugerem que a maioria dos casos soroconverte entre 7 e 11 dias após a exposição ao vírus. Como resultado desse atraso natural, o teste de anticorpos pode não ser útil no cenário de uma doença aguda e para a avaliação precoce de infecção. Além disso, os testes sorológicos apresentam variabilidade de sensibilidade e especificidade dependentes do fabricante. Em geral, a sensibilidade dos testes aprovados no Brasil pela Agência Nacional de Vigilância Sanitária (Anvisa) foi superior a 85%, e a especificidade, superior a 94%. 4 É importante destacar que uma baixa sensibilidade do teste diagnóstico pode resultar em maior proporção de falso-negativos, o que poderia interferir nas medidas de isolamento social adotadas, principalmente para indivíduos assintomáticos, influenciando diretamente na transmissibilidade do vírus.
+
+Dessa forma, os testes de anticorpos para SARS-CoV-2 podem facilitar o rastreamento de contatos; a vigilância sorológica nos níveis local, regional, estadual e nacional; e a identificação de quem já foi exposto e que possivelmente está imune, considerando-se haver imunidade protetora.
+
+Características de gravidade dos casos
+
+Existem casos da COVID-19 que se complicam seriamente, levando os indivíduos à unidade de terapia intensiva (UTI) e até mesmo ao óbito. Segundo o Ministério da Saúde, além do percentual de assintomáticos, entre os indivíduos com a COVID-19, cerca de 80% apresentam doença leve, 14% apresentam doença grave e 5% são casos críticos. 7 Quanto aos casos mais complexos, ou evoluem dos sintomas iniciais já mencionados, ou já manifestam a infecção pela SARS-CoV-2 por meio da SRAG, pela apresentação de dispneia ou sinais clínicos como diminuição da saturação ou cianose. 8 Além da maior taxa de mortalidade devido a SRAG, há um grupo considerado de risco, por apresentar maior letalidade. As pessoas pertencentes a esse grupo são: idosos a partir dos 60 anos de idade, gestantes de alto risco e pessoas com comorbidades variadas. 9 Dessa forma, indivíduos de todas as idades que possuam doença crônica relacionada aos pulmões, asma, tuberculose vigente ou sequelas de doença pregressa, diabetes, hipertensão, obesidade severa, doenças renais crônicas, doenças hepáticas, imunodeficiência e problemas cardíacos também pertencem ao grupo de risco. Estudos recentes 12 relacionam o diabetes mellitus , a hipertensão arterial sistêmica, a doença cerebrovascular e a idade como fatores de risco mais contundentes em relação à internação em UTI e ao óbito.
+
+Um estudo que avaliou retrospectivamente os aspectos neurológicos de casos confirmados da COVID-19 29 indicou que 41,1% foram considerados graves. Comparados aos casos mais leves, os casos graves eram indivíduos mais velhos (58,7 ± 15,0 anos versus 48,9 ± 14,7 anos), tinham mais comorbidades (42 [47,7%] versus 41 [32,5%]), especialmente hipertensão (32 [36,4%] versus 19 [15,1%]), e tiveram menos sintomas considerados típicos, como febre (40 [45,5%] versus 92 [73%]) e tosse (30 [34,1%] versus 77 [61,1%]).
+
+Outro estudo que descreveu as características dos casos que evoluíram a óbito em comparação aos casos recuperados 30 verificou, com maior frequência nos casos que evoluíram ao óbito, pelo menos uma doença crônica (63% dos que foram a óbito e 39% dos que se recuperaram), sendo as principais: hipertensão arterial sistêmica (48%), doenças cardiovasculares (14%) e cerebrovasculares (4%), versus 24%, 4% e 0%, respectivamente, nos casos recuperados. Também foram mais frequentes entre os óbitos: dispneia (62% versus 31%), aperto no peito (49% versus 30%) e perda da consciência (22% versus 1%); linfopenia (39%) e leucocitose (50%) ( versus 5% e 4% dos curados, respectivamente), saturação ≤93% (64% versus 12%), taquicardia (50% versus 30%) e taquipneia (27% versus 3%), além de complicações que podem ser decorrência do próprio tempo de UTI e necessidade de procedimentos invasivos.
+
+O estudo de Wang et al. 15 avaliou 69 pessoas com COVID-19, de Wuhan, na China, e indicou que todos os que apresentaram saturação ≤90% (n= 14, 20%) foram a óbito, e estes eram mais velhos (mediana de 70,5 anos versus 37 anos), com comorbidades como hipertensão arterial sistêmica (36% versus 7%), doença cardiovascular (36% versus 5%) e diabetes mellitus (43% versus 2%), e tiveram aumento importante de citocinas inflamatórias. A febre foi evidente no início dos sintomas (93% versus 85%) e ao 10º dia de doença (64% versus 38%). Dispneia (50% versus 24%) e linfopenia (79% versus 32%) também foram mais frequentes nesse grupo.
+
+Estudo que investigou as características e os fatores de prognóstico da infecção da COVID-19, em uma amostra composta por 339 idosos (idade ≥60 anos) com testes positivos para SARS-CoV-2, 30 evidenciou que o número de casos críticos e graves foi maior no grupo analisado em comparação com os casos de idade inferior a 60 anos. A pesquisa apontou que 23,6% deles foram classificados como estado crítico , enquanto outros 46,9% estavam em situação grave. 30
+
+O Centro Chinês de Controle e Prevenção de Doenças realizou um estudo com 1.023 casos positivos para COVID-19. 23 Entre os indivíduos que desenvolveram quadros graves, os sinais clínicos mais comuns foram dispneia, frequência respiratória maior que 30 rpm e saturação de oxigênio menor que 93%. Por sua vez, naqueles mais críticos, os sinais mais evidenciados foram insuficiência respiratória, choque séptico e disfunção ou falência em múltiplos órgãos. Nessa amostra, a letalidade foi de 2,3%. Entretanto, se for avaliada apenas a letalidade dos casos críticos, haverá uma proporção muito maior, de 49%.
+
+Nesta revisão, verificou-se que poucos estudos descrevem os sinais e sintomas mais comuns segundo sexo e idade, sendo esta mais relacionada aos critérios de gravidade da doença. É importante considerar que os sinais e sintomas apresentados podem variar entre as fases da doença, oscilando desde ausência de sinais e sintomas até choque séptico, quando ocorre o agravamento do quadro clínico. Cabe destacar também que, além da diversidade de manifestações clínicas, cerca de 80% das pessoas infectadas podem permanecer assintomáticas. Dessa forma, sugere-se manter o monitoramento constante dos casos suspeitos, frente à manifestação de sintomatologias diversas, de forma a não se descartarem casos considerando-se apenas a apresentação clínica, que, em muitos casos, é subjetiva.
+
+Na iminência de o Brasil ser o novo epicentro mundial da pandemia da COVID-19, sugere-se que os serviços de saúde optem pela supernotificação, considerando uma alta sensibilidade do sistema de vigilância, para que, na apresentação de quaisquer sinais e sintomas que possam estar relacionados à infecção pelo SARS-CoV-2, sejam indicadas medidas de isolamento do caso e de seus contactantes, além do monitoramento constante e em tempo real, a partir da investigação e da realidade epidemiológica local. Ademais, os serviços podem estabelecer, com base nos seus atendimentos, um conjunto de sinais e sintomas que melhor defina seus casos e que oriente o rastreamento de acordo com a situação específica. O emprego de telemedicina torna-se ferramenta fundamental na assistência aos casos suspeitos e confirmados que possam ser mantidos em domicílio, de forma a se acompanhar a evolução da apresentação clínica e identificar precocemente o agravamento do quadro, para que se realize o encaminhamento pertinente. Sempre que possível, é imprescindível empregar os testes diagnósticos moleculares ou sorológicos, a depender do dia de início dos sintomas, além dos exames laboratoriais e de imagem, para a confirmação diagnóstica da COVID-19.
+
+CONSIDERAÇÕES FINAIS
+
+A COVID-19 é uma realidade mundial, e é imprescindível que seja enfrentada com base nas melhores evidências disponíveis. Devido às múltiplas apresentações em todas as faixas etárias, o conceito diagnóstico permanece muito amplo e sensível, de forma que não é possível definir nem ao menos um sinal/sintoma obrigatório para determinar a presença da infecção. Parece consenso, no entanto, que a população com comorbidades prévias e com idade avançada está suscetível a um quadro mais intenso e de pior evolução, devendo ser foco de ações preventivas.
+
+Considerando-se o alto percentual de assintomáticos e de pessoas com sintomas leves, as quais não serão captadas pelo sistema de vigilância de forma completa, por meio da investigação e confirmação laboratorial, cabe aos serviços de saúde estarem atentos à heterogeneidade de sintomas e apresentação clínica da doença. Nesta situação, as medidas não farmacológicas de prevenção devem ser adotadas por toda a população, incluindo o uso de máscaras, higienização constante das mãos e ambientes, além do distanciamento social. De qualquer forma, continua sendo imprescindível a ampliação do acesso aos testes diagnósticos, de forma a se conhecer a situação epidemiológica de cada local e melhor orientar as medidas de controle da disseminação do vírus.
+
+O Brasil continua em estado de alerta, visando efetivar desaceleração da curva de infecção de novos casos, no intuito de o sistema de saúde não ser sobrecarregado . Mais estudos devem ser realizados para que a definição de caso se torne mais precisa em relação aos sinais/sintomas, auxiliando na classificação da população e orientando o retorno gradativo às atividades rotineiras, de forma que sejam cumpridas as medidas de proteção indicadas, no intuito de se minimizarem as consequências da pandemia.

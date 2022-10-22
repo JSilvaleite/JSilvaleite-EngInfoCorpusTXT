@@ -1,0 +1,152 @@
+Higiene das mãos em setores de alta complexidade como elemento integrador no combate do Sars-CoV-2
+
+RESUMO
+
+Objetivo:
+
+realizar um diagnóstico situacional do comportamento de profissionais de saúde quanto às práticas de higienização das mãos em setores de alta complexidade.
+
+Métodos:
+
+estudo quantitativo, retrospectivo, baseado em relatórios (anos de 2016 e 2017) dos setores CTI Adulto e Pediátrico de um hospital Federal do Rio de Janeiro.
+
+Resultados:
+
+analisaram-se 1.258 oportunidades para higiene das mãos. A chance de um profissional higienizar as mãos no CTI Pediátrico é 41,61% maior que no CTI Adulto. Quanto higienizar as mãos adequadamente, a equipe médica obteve chance 39,44% menor que a equipe de enfermagem e outros tiveram chance 30,62% menor quando comparada à equipe da enfermagem. O momento “após o contato com o paciente” apresentou 4,5275 vezes a chance em relação a “antes do contato com o paciente”.
+
+Conclusão:
+
+frente à recomendação da higiene das mãos no controle da COVID-19, avaliação diagnóstica e análise prévia do comportamento dos profissionais demonstrou ser positiva.
+Descritores: Vírus da SARS; Higiene das Mãos; Infecção Hospitalar; Unidades de Terapia Intensiva; Enfermagem
+
+
+INTRODUÇÃO
+
+A doença emergente COVID-19 causada pelo vírus Sars-CoV-2 foi identificada pela primeira vez em Wuhan, China, em dezembro de 2019. O vírus provocou uma pandemia e está se espalhando rapidamente e, em muitos países, é relatado aumento na procura dos serviços de saúde por pessoas com complicações relacionadas à doença, podendo sobrecarregar/colapsar os sistemas de saúde e alta demanda de internação nos setores de alta complexidade(1).
+
+Estudos demonstraram que análise de superfícies de objetos presentes em enfermarias e banheiros de pacientes em isolamento com COVID-19 apresentaram resultados positivos do patógeno em superfícies ambientais. Entre as superficíes analisadas com achados positivos, estavam mesa, grade dos leitos hospitalares, armário, cadeira, interruptores de luz, portas (inluindo maçaneta), janelas e superfícies do vaso sanitário(2-3).
+
+A Organização Mundial da Saúde (OMS), Organização Pan Americana de Saúde (OPAS) e órgãos governamentais da saúde vêm considerando a higiene das mãos (HM) como uma das ações integradoras das atividades de prevenção da atual infecção. Isso ocorre porque existem evidências científicas suficientes apoiadas que, se devidamente implementadas, a HM pode reduzir significativamente o risco de transmissão do vírus Sars-CoV-2 na sociedade e nos serviços de saúde(4-5).
+
+Ainda neste contexto, a OMS desenvolve ações e políticas correlacionadas ao incentivo da HM, onde esta prática já era analisada nos ambientes de saúde, como um dos elementos chave no controle da infecção em ambiente hospitalar(6).
+
+Embora a HM seja uma ação simples, rápida e economicamente viável, a não adesão a esta técnica pelos profissionais de saúde ainda é considerada um desafio no controle de infecção nos serviços de saúde(7).
+
+OBJETIVO
+
+Realizar um diagnóstico situacional do comportamento de profissionais de saúde quanto as práticas de higienização das mãos (HM) em setores de alta complexidade.
+
+MÉTODOS
+
+Aspectos éticos
+
+Em atendimento à Resolução 466/12 do Conselho Nacional de Saúde, que dispõe sobre a pesquisa envolvendo seres humanos, o estudo foi aprovado pelo CEP.
+
+Desenho, período e local do estudo
+
+Trata-se de um estudo transversal, retrospectivo, de abordagem quantitativa, desenvolvido a partir de relatórios referentes aos anos de 2016 e 2017, obtidos através de estudos realizados pelo Serviço de Controle de Infecção Hospitalar (SCIH) de um hospital Federal localizado no município do Rio de Janeiro.
+
+Utilizou-se a iniciativa Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) para auxiliar na condução metodológica do estudo.
+
+População ou amostra; critérios de inclusão e exclusão
+
+O banco utilizado para as análises foi construído a partir de observações realizadas e pautadas no instrumento “Manual para Observadores - Estratégia multimodal da OMS para a melhoria da higienização das mãos”(8). De acordo com a OMS, este é um guia auxiliador sobre a HM em serviços de saúde para melhorar a prática e reduzir as infecções relacionadas à assistência à saúde (IRAS). As observações contidas nos relatórios foram realizadas no período de agosto, setembro e outubro de 2016 e em junho, julho, agosto e setembro de 2017. Elegeu-se esse período, pois foram meses subsequentes às estratégias educativas de HM realizada anualmente na instituição. As observações contidas no relatório foram realizadas durante o período da manhã e tarde, de segunda a sexta feira, exceto feriados.
+
+Como critério de inclusão, decidiu-se analisar apenas os dados referentes aos setores de Centro de Terapia Intensiva (CTI) da unidade Adulto e Infantil, pois são setores previamente descritos em literaturas com alta incidência de microrganismos multirresistentes. As observações relacionadas aos acompanhantes e visitantes não estavam relatadas, portanto, foram excluídas da análise.
+
+A população do estudo foram todos os profissionais de saúde que atuavam no setor de alta complexidade. Posteriormente, esta população foi categorizada em auxiliares, técnicos de enfermagem e enfermeiros, como equipe de enfermagem; médicos, como equipe médica. Fisioterapeutas, fonoaudiólogos, nutricionistas, técnicos de nutrição e laboratório e auxiliares de serviços gerais foram categorizados como “outros”.
+
+Protocolo do estudo
+
+Procurou-se categorizar as equipes para ter um maior tamanho de amostra e obter resultados mais estatisticamente significativos para este estudo. A escolha por todos os profissionais se deve à recomendação contida no instrumento “Manual para Observadores - Estratégia multimodal da OMS para a melhoria da higienização das mãos”, pois parte do princípio que todos os profissionais devem ter como prática segura, a realização dos cinco momentos de HM conforme as recomendações do protocolo da ANVISA/OMS(8).
+
+Na coleta de dados, foi utilizada a técnica de amostragem por conveniência, uma técnica não probabilística, onde a amostra tornou-se composta pelas oportunidades que surgiram no período analisado. Os dados advindos dos relatórios foram compilados em planilhas do Programa Microsoft Excel 2013® e analisados utilizando o software R 3.4.2®.
+
+As ações (oportunidades) foram apresentadas como: realização da HM, realização de forma incorreta ou não realização da técnica de HM. Essas ações, quando realizadas (corretamente ou de forma inadequada), foram associadas aos cinco momentos de HM como: antes do contato com o paciente, antes do procedimento asséptico, após ao risco de exposição a fluidos corporais, após o contato com o paciente e após o contato com superfícies próximas ao paciente(8).
+
+Análise dos resultados e estatística
+
+Optou-se pela análise de correspondência múltipla (ACM), por se tratar de uma técnica de análise estatística multivariada que possibilita a visualização gráfica das associações mais importantes de um grande conjunto de variáveis entre si. Com a ACM, podem ser avaliadas quais ações, baseadas nos cinco momentos da HM e uso da solução alcoólica ou água e sabão, estavam mais associadas às categorias profissionais. Desta forma, definem-se relações de proximidade e de oposição do comportamento entre as categorias profissionais e as ações observadas(9).
+
+Optou-se pelo Teste Qui-Quadrado para verificar significância estatística nas associações entre as variáveis analisadas neste estudo.
+
+RESULTADOS
+
+Com base nos relatórios, foram observadas 1.258 oportunidades para HM. Em ambos os anos, 2016 e 2017, a equipe de enfermagem totalizou o maior quantitativo de oportunidades observadas. Esse resultado está relacionado à atividade laboral desenvolvida pela equipe de enfermagem, uma vez que a assistência intensiva é caracterizada pelo cuidado direto, implicando a realização de diversos procedimentos no paciente.
+
+Para entendimento do leitor, os setores (CTI Adulto e CTI Pediátrico) foram agrupados por ano e associação (momentos de higienização e soluções utilizadas), sendo realizada com base na categoria profissional da população estudada.
+
+Referente ao ano de 2016, foram observadas 785 oportunidades para HM. Desse total, 437 oportunidades estavam relacionadas ao CTI Adulto, sendo 284 oportunidades de HM da equipe de enfermagem, 108 oportunidades de HM da equipe médica e 45 oportunidades de HM para a categoria “outros”. No CTI Pediátrico, totalizaram-se 348 oportunidades, sendo 183 oportunidades de HM da equipe de enfermagem, 86 oportunidades de HM da equipe médica e 79 oportunidades de HM da categoria “outros”.
+
+De acordo com a Figura 1, temos três elipses que se referem a cada categoria profissional analisada nos cenários contidos nos relatórios (CTI Adulto e CTI Pediátrico). Houve significância estatística entre a realização da HM e a solução utilizada (Qui-Quadrado=18,192 e valor de p<0,01) e significância estatística da equipe profissional em relação aos momentos para HM (Qui-Quadrado=52,712 e valor de p<0,001). Em ambos os setores, a equipe de enfermagem se associa ao uso de “solução alcoólica”. Em relação aos momentos de HM, essa categoria profissional está associada (em ambos setores) a “após o contato com proximidades” e “após o contato com o paciente”. Em ambos os setores, a equipe médica está associada à “solução alcoólica” e “não realização da higienização”. Quanto às oportunidades, a equipe médica está associada a “após proximidade”, “após contato com o paciente” e “antes do contato com o paciente”. A categoria “outros” está associada ao uso de “água e sabão” ou “não realizou” relativo aos momentos de HM. As ações estiveram mais associadas ao CTI Pediátrico, sendo “após risco de exposição” e “antes do contato com o paciente”.
+Figura 1 Diagnóstico situacional do comportamento dos profissionais de saúde e suas práticas de higienização das mãos, 2016 
+
+Nos relatórios referentes ao ano de 2017, foram observadas 473 oportunidades para HM. Desse total, 194 observações de oportunidade de HM eram referentes ao CTI Adulto, sendo 118 oportunidades referentes à equipe de enfermagem, 32 oportunidades relacionadas à equipe médica e 44 oportunidades relacionadas à categoria “outros”. Já no CTI Pediátrico, obtivemos o total de 156 oportunidades, sendo 83 oportunidades referentes à equipe de enfermagem, 49 oportunidades relacionadas a equipe médica e 24 oportunidades relacionadas à categoria “outros”.
+
+De acordo com a Figura 2, novamente, as elipses se referem às categorias profissionais analisadas nos mesmos cenários dos relatórios estudados em 2017 (CTI Adulto e CTI Pediátrico). Houve significância estatística entre as categorias e o tipo de higienização (Qui-Quadrado=18,594 e valor de p<0,01) e significância estatística entre os momentos para HM (Qui-Quadrado=28,159 e valor de p<0,001) e o tipo de equipe profissional avaliada. Constatou-se que o comportamento dos grupos em ambos os setores foi semelhante. A equipe de enfermagem se associa ao uso de “água e sabão” e “solução alcóolica”. Em relação aos momentos de HM, esta categoria está associada a “antes do procedimento asséptico”, “após o contato com o paciente”, “após o contato com proximidades”, “após risco de exposição” e “após proximidades”. A equipe médica teve associação com “higienização inadequada” e uso da “solução alcoólica”. Em relação aos momentos de HM, esta categoria associa-se a “antes do contato com o paciente”, “antes do procedimento asséptico” e “após contato com o paciente”. A categoria “outros” teve associação com “higienização inadequada”, e quando realiza a ação de HM, utiliza “solução alcóolica”, e a ação está associada a “antes do contato com paciente” e “antes do procedimento asséptico”.
+Figura 2 Diagnóstico situacional do comportamento dos profissionais de saúde e suas práticas de higienização das mãos, 2017 
+
+A Tabela 1 apresenta as razões de chances (OR) de uma regressão logística ajustada, tendo como variável dependente o uso de água e sabão e/ou solução alcoólica como variável dependente no ato de higienizar as mãos relacionada ao setor, por categoria e por momento. A Figura 3 mostra os efeitos principais das variáveis sobre a variável dependente. Em relação ao setor, nos períodos analisados (2016 e 2017), a razão de chances dos profissionais de saúde realizarem a HM no CTI Pediátrico foi OR = 1,42, ou seja, 42% maior que no CTI Adulto (valor de p<0,01).
+
+Tabela 1 Razão de chances das variáveis equipe, momento de higienização e setor, considerando o uso de água e sabão e/ou solução alcoólica como variável dependente (ano 2016 e 2017) 
+Figura 3 Efeitos principais das variáveis sobre o uso de água e sabão e/ou solução alcoólica como variável dependente (ano 2016 e 2017) 
+
+Quanto à categoria profissionais de saúde, utilizou-se a “equipe de enfermagem” como referência de análise. Quando esta categoria é comparada à “equipe médica”, observa-se OR = 0,6056 e valor de p<0,001, ou seja, a “equipe médica” tem chance 39,44% menor em realizar o procedimento de HM com os insumos adequados. A equipe “outros” teve OR=0,6938 e valor de p<0,01, ou seja, com chance 30,62% menor em realizar a higiene de forma adequada quando comparada a “equipe da enfermagem”.
+
+Em relação aos momentos de HM, tomando como referência o momento de higienização “antes do contato com o paciente”, uma das OR mais relevantes encontradas foi referente ao momento de higienização “após o contato com o paciente”, com OR = 4,5275 e valor de p<0,001, ou seja, 4,5275 vezes a chance em relação ao procedimento antes do contato com o paciente.
+
+DISCUSSÃO
+
+Ações educativas realizadas no ano de 2016 e 2017
+
+As atividades educativas de 2016 foram realizadas no mês de julho e durou 30 dias. Iniciaram-se com o evento intitulado “Dia Mundial da Higienização de Mãos”, com a formação de uma mesa itinerante que circulou pelas dependências do hospital. Nessa mesa, foi elaborada uma caixa para “leitura de mãos contaminadas”, visando estimular a realização correta da técnica de HM e relembrar os cinco momentos críticos para HM. Além disso, foi realizada a demonstração em placas de cultura com mãos não higienizadas, mãos higienizadas com água e sabão e mãos higienizadas com solução alcoólica. O objetivo das placas de cultura foi materializar no plano do concreto sobre a eficácia da HM com o uso da solução alcoólica. Associou-se a esse momento, o esclarecimento de eventuais dúvidas e sensibilização dos profissionais acerca da HM, no momento certo e da forma correta, na prevenção de IRAS.
+
+Ao encerrar a Campanha, iniciaram-se as observações nos setores (CTI Adulto e CTI Pediátrico) da referida instituição. A partir dos resultados da análise realizada no ano de 2016, estabeleceram-se novos norteadores para as ações educativas do ano subsequente.
+
+As atividades sobre HM do ano foram realizadas no mês de maio e durou 30 dias. Determinaram-se as seguintes estratégias: 1) observação de que a mesa itinerante influencia na maior participação de profissionais; 2) manutenção da dinâmica da caixa preta, pois observou-se que muitos profissionais foram estimulados a participar da Campanha movidos pela curiosidade; 3) manutenção do cartaz fornecido pela ANVISA acerca da HM(10). Os cartazes promoviam informações explicativas acerca dos cinco momentos da HM; 4) abordagem setorizada direcionada aos profissionais médicos baseadas em análises no ano anterior. Após o encerramento das atividades, iniciaram-se as observações pautadas no “Manual para observadores - Estratégia multimodal da OMS para a melhoria da higienização das mãos”(8).
+
+Por fim, a realização de uma avaliação diagnóstica, por meio da observação prévia das práticas de HM dos profissionais, é reportada como essencial em estudos relacionados a temática, uma vez que busca conhecer o desempenho do grupo, possibilitando, desta forma, estratégias focalizadas(11).
+
+Repercussões das ações educativas (ano 2016 e 2017)
+
+A análise referente ao ano 2016 e 2017 teve por interesse o fato de terem sido realizadas atividades dinâmicas voltadas para a sensibilização dos profissionais acerca da HM. De acordo com o “Manual para Observadores - Estratégia multimodal da OMS para a melhoria da higienização das mãos”, as pesquisas observacionais diretas devem ser realizadas sem o conhecimento dos profissionais em foco, pois assim é possível obter uma avaliação que evite o efeito hawthorne, que consiste em uma mudança positiva forçada do comportamento de um grupo de trabalhadores em relação aos objetivos de uma empresa/instituição, gerência, direção ou por alguma esfera hierarquicamente mais elevada(12). No estudo, foi reportada observância quanto a terem evitado este efeito.
+
+Observa-se maior razão de chances dos profissionais em realizarem a HM no setor de CTI Pediátrico quando comparado ao CTI Adulto. Esse resultado pode estar associado a maior participação dos profissionais do CTI Pediátrico nas Campanhas de higienização e envolvimento dos profissionais da SCIH, Educação Permanente em Saúde, chefias setoriais e Residentes de Enfermagem. O envolvimento desses profissionais pode ter sido um fator decisivo na maior adesão à prática de HM no CTI Pediátrico. Outro aspecto pode estar relacionado ao ambiente de pediatria. Estudo realizado com profissionais de enfermagem, em hospital universitário do sul do Brasil, demonstrou que profissionais que atuam neste setor possuem maior possibilidade de desenvolver e incrementar estratégias para melhorar o cuidado ofertado à criança e sua família(13).
+
+Quanto à população analisada, a equipe de enfermagem obteve maior razão de chances em realizar a HM. Em 2017 apresentou melhorias nos momentos de HM quando comparadas com as demais categorias profissionais estudadas. No entanto, estes resultados não são satisfatórios diante das determinações da OMS ao tratamento de pacientes com COVID-19, mas demonstram que ações educativas, por meio das Campanhas, apresentaram efeitos positivos sobre o comportamento destes profissionais(4,14).
+
+Em relação aos momentos de HM, “após o contato com o paciente” obteve maior chance de ocorrer nas equipes profissionais avaliadas. Este resultado corrobora a cultura de autoproteção e se assemelha ao relatório anual realizado pela Kingston General (Canadá), realizada no período de abril de 2014 a março de 2015. O estudo demonstra que a taxa de adesão à HM foi de 79,5% nas indicações “antes” do contato e de 87,5% “após” o contato(15).
+
+A HM é um componente essencial da prevenção e controle de infecções. Contudo, esta técnica geralmente é negligenciada pelos profissionais de saúde nos países desenvolvidos e em desenvolvimento, com taxas de conformidade inferiores a 20%(16).
+
+A oportunidade de HM nas categorias profissionais remete à pesquisa realizada em hospital de Porto Alegre, Brasil sobre ações de HM por profissionais, onde observou-se a cultura do uso de luvas como “barreira” à HM(17). A evidência acerca do uso de luvas foi descrita nos diários de campo durante os relatórios analisados do presente estudo.
+
+A OMS destaca que no tratamento de pacientes com COVID-19, o uso de luvas não substitui a necessidade de HM e sua respectiva ação deve ser realizada com frequência(18). Aliada às recomendações da OMS, a ANVISA (Brasil) reforça que a HM é recomendada após a retirada do equipamento de proteção individual (EPI) em áreas de isolamento ou com suspeita de COVID-19(19).
+
+Estudo realizado em uma UTI em hospital do distrito norte de Sheung Shui/Hong Kong avaliou os riscos para os trabalhadores de saúde no atendimento de pacientes com COVID-19. Este estudo reportou que mesmo utilizando luvas duplas, há forte recomendação da HM pelos profissionais de saúde(20).
+
+Em relação à solução utilizada, observam-se comportamento variados quanto ao uso de “solução alcóolica” e/ou “água e sabão”. Ressalta-se que não foram relatados nos relatórios analisados o fornecimento inadequado e a ausência de limitações destes elementos nos cenários estudados.
+
+O uso de água e sabão foi reportado em estudos realizados em países de clima tropical, onde percebeu-se uma predilação pela HM com água e sabão, que refere-se diretamente a uma maior sensação de limpeza das mãos(21). O documento da OMS acerca do uso racional de EPI para o COVID-19 recomenda HM a base de álcool e, em caso de sujidade, o uso de água e sabão(18).
+
+A partir de uma avaliação diagnóstica, que abrangeu observações prévias do comportamento dos profissionais dos setores de alta complexidade, determinaram-se ações estratégicas acerca da HM, que seriam trabalhadas com os profissionais.
+
+A evidência demonstra que ações educativas obtiveram efeitos positivos, principalmente nos trabalhadores de enfermagem e devem ser desenvolvidas com o objetivo de orientação e estímulo, além de construir conhecimentos que apreendem os riscos biológicos e ocupacionais em todos os aspectos(11,22).
+
+Limitações do estudo
+
+Sugere-se replicação em demais instituições de saúde para verificar se ocorreram respostas semelhantes, a partir da estratégia adotada no presente estudo.
+
+Contribuições para a área da enfermagem, saúde ou política pública
+
+Diante do potencial de contaminação do Sars-Covid-19 e da alta contaminação dos profissionais de saúde devido à cultura de não higienizar as mãos em todos os momentos, estudos que apresentam impacto e medidas de combate a infecção causada pelo novo Coronavírus emergem como fatores de extrema de importância pelas instituições nacionais de saúde pública do Brasil e do mundo. Ademais, o referido estudo acompanha o protagonismo do Brasil e da área da enfermagem no avanço de conhecimentos que demandem ações de prevenção e promoção da saúde.
+
+CONCLUSÃO
+
+A adesão às diretrizes de HM é um dos componentes no combate e transmissão da COVID-19 no ambiente hospitalar.
+
+A equipe de enfermagem esteve mais associada à ação de HM quando comparada com as demais categorias profissionais estudadas. Em relação aos momentos “após o contato com o paciente”, foi a ação mais presente, corroborando a autoproteção e a cultura do uso de luvas como barreiras de proteção, predispondo a não realização da HM. Quanto à solução utilizada para HM, houve comportamento semelhante pelos profissionais no uso de “solução alcóolica” e “água e sabão”.
+
+A partir da comparação entre os resultados dos anos de 2016 e 2017, é possível direcionar estratégias de adesão contínuas que possam ser eficazes na adesão a HM entre os profissionais da saúde. No estudo, ações estratégicas baseadas em situação diagnóstica do ambiente, análise prévia do comportamento dos profissionais de saúde e envolvimento da equipe demonstraram ser positivas no CTI Pediátrico. A replicação de ações baseadas em tais estratégias pode ser considerada na adesão à HM em setores de alta complexidade diante do atual surto da COVID-19. As estratégias utilizadas na Campanha demonstram que a deficiência relacionada à adesão à HM não ocorre exclusivamente por ausência do conhecimento da técnica de HM e indicações, mas por desvalorização da cultura de segurança.
+
+Diante do atual surto da COVID-19, a frequente exposição ao patógeno nos setores de alta complexidade predispõe os profissionais e pacientes a adquirirem ou transmitirem a infecção. A retirada do EPI, que acontece após contato com o paciente, também é reportada como um dos elementos essenciais que evitam a contaminação dos profissionais. Assim, ações que visam à redução da infecção e proteção dos profissionais, por meio de medidas simples e baixo custo, devem ser consideradas.

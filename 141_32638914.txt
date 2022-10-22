@@ -1,0 +1,191 @@
+A assistência cirúrgica oncológica na era COVID-19: opiniões e consenso do campo de batalha
+
+RESUMO
+
+Objetivo:
+
+sugerir roteiro de assistência oncológica cirúrgica em meio à pandemia COVID-19 no Brasil.
+
+Método:
+
+foi realizada revisão narrativa da literatura e consenso tipo “brainstorming” após discussão com mais de 350 especialistas brasileiros e cirurgiões renomados de Portugal, França, Itália e Estados Unidos da América.
+
+Resultados:
+
+consenso sobre testagem para COVID-19: 1-Todos os pacientes a serem operados devem ser testados entre 24 e 48 antes do procedimento; 2-Equipe que tenha contato com doentes ou sintomáticos deve ser testada; 3-Tomografia de tórax foi sugerida para pesquisa de alterações pulmonares. Consenso sobre proteção das equipes de assistência: 1-Uso de máscaras cirúrgicas dentro de hospitais. Uso de máscaras N95 para todos os profissionais na sala cirúrgica; 2-Seleção dos casos para cirurgia minimamente invasiva e aspiração máxima do pneumoperitônio antes da retirada da peça cirúrgica; 2-Otimização das equipes, com número mínimo de profissionais, reduzindo a exposição ocupacional, o consumo de equipamento de proteção e a circulação de pessoas no ambiente hospitalar; 3 -Isolamento de pacientes contaminados. Consenso sobre priorizações: 1-Construção de prioridades de atendimento; 2- Discussão interdisciplinar sobre via minimamente invasiva ou convencional.
+
+Conclusão:
+
+a Sociedade Brasileira de Cirurgia Oncológica (SBCO) sugere roteiro de enfrentamento para o tratamento oncológico, lembrando que o represamento na assistência desses casos, pode configurar uma nova onda de sobrecarga em sistemas de saúde.
+Palavras chave: Neoplasias; Saúde Pública; Pandemias; Coronavirus; Oncologia Cirúrgica
+INTRODUÇÃO
+
+A estimativa no Brasil para cada ano do triênio 2020-2022 aponta que ocorrerão 625 mil casos novos de câncer (450 mil, excluindo os casos de câncer de pele não melanoma). O câncer de pele não melanoma será o mais incidente (177 mil), seguido pelos cânceres de mama e próstata (66 mil cada), cólon e reto (41 mil), pulmão (30 mil) e estômago (21 mil). Esses dados corroboram a magnitude do problema1,2.
+
+Alguns poucos e limitados estudos abordam o risco de COVID-19 associada a pacientes com câncer em tratamento. A associação dessas doenças e as relações com nossa população são ainda pouco conhecidas2. Soma-se a isso a característica de sobrecarga operacional de sistemas de saúde nos países acometidos, que torna a situação ainda mais preocupante2-5, principalmente em áreas de recursos escassos. Entretanto, faltam dados para entender a dinâmica da doença e a propagação em um país com características peculiares como o Brasil2.
+
+Das informações atuais, sabe-se que pacientes com câncer podem ter maior risco de manifestações da doença COVID-19 quando comparados a indivíduos sem câncer2,6-8. Além disso, foi percebido que os pacientes com câncer apresentaram piores resultados de evolução clínica da COVID-19, sugerindo que maior atenção deva ser dada aos pacientes oncológicos, especialmente em caso de deterioração rápida do quadro2,6,7. Até o momento, três estratégias para pacientes oncológicos foram propostas por equipes que vivenciaram esta crise do COVID-192,6,7:
+
+Otimização de cirurgias eletivas para câncer pode ser considerada em áreas endêmicas4, segundo avaliação da equipe assistente, condições de atendimento, momento da crise e orientação das autoridades sanitárias locais2,5;
+
+Medidas mais intensas de proteção individual devem ser tomadas para pacientes com câncer ou “sobreviventes”2,5;
+
+Vigilância ou tratamento mais intensivo devem ser considerados quando pacientes com câncer estão infectados, especialmente os mais idosos (grupo com maior mortalidade) ou com outras comorbidades graves2,5,6.
+
+A discussão sobre o adiamento do tratamento oncológico é polêmica, uma vez que a definição de gravidade é mutável de acordo com o tipo de câncer e estadiamento2. No Brasil, existem ainda implicações legais com risco de penalização dos gestores segundo a lei nº 12.732/12 (em vigor desde 23/05/3013), que estabeleceu que o primeiro tratamento oncológico no SUS (Sistema de Saúde Pública Brasileiro) deve se iniciar no prazo máximo de 60 dias a partir da assinatura do laudo patológico ou em prazo menor2.
+
+As evidências científicas atuais são incipientes, portanto, quaisquer conclusões generalizadas para esses pacientes devem ser interpretadas com cautela, mas os efeitos prolongados induzidos por cirurgia, quimioterapia, radioterapia e outros tratamentos oncológicos, que podem levar a imunossupressão, não podem ser negligenciados2,6,7. Devido à necessidade consensual de continuidade do tratamento dos pacientes portadores de câncer grave e eminente exaustão de recursos de toda ordem e provável lotação dos hospitais por doentes infectados com COVID-19 a Sociedade Brasileira de Cirurgia Oncológica (SBCO) recomenda fortemente a criação de vias livres de COVID-19 para assistência de pacientes com enfermidades não relacionadas à atual epidemia, denominadas de Unidades Livres de COVID-19.
+
+Essas vias devem ser pactuadas pelos gestores locais, tanto da saúde pública quanto suplementar, e devem estar preparadas para atender demanda reprimida de outras unidades que se especializem no atendimento da COVID-19. Ressaltam-se situações de exceção em que por extrema emergência na saúde pública, se faça necessário por período determinado a utilização ao combate direto contra a epidemia, abandonando a condição de livre de COVID. Com o reestabelecimento da normalidade, estes hospitais deverão ser os primeiros também a retomarem as atividades normais tendo em vista a prioridade dos casos que atendem.
+
+Visando ainda produzir conhecimento, a SBCO articulou grupo de resposta e enfrentamento, com as funções de oferecer aos cirurgiões informação norteadora, condensada em notas oficiais periódicas, construção de comunicações científicas e organização do evento Cancer Updates (formato de conferência virtual) com participação de colegas de países em fase mais avançada de acometimento pela epidemia.
+
+MÉTODOS
+
+Após evento internacional virtual com participação de mais de 350 especialistas nacionais e profissionais destacados da área de oncologia cirúrgica de Milão na Itália, do Porto em Portugal, de Paris na França e de Seattle nos EUA, realizado no dia 30/03/2020. Esses profissionais explicitaram as principais impressões e dados do fronte de batalha nestes centros em situação mais avançada da pandemia. A partir dessa discussão, foi realizado sumário na forma de consenso ao estilo “brainstorming” e revisão narrativa da literatura. Este texto pode servir de base para futuras medidas de saúde pública nacionais e internacionais, diante de crise sem precedentes em que pouco se conhece sobre a doença, as repercussões e os riscos para equipes de assistência à saúde.
+
+Objetivos da Reunião:
+
+Entender as experiências de centros de referência em diversos estados de avanço da epidemia e do associado caos da saúde publica;
+
+Entender momentos importantes da instalação da pandemia;
+
+Selecionar e priorizar pacientes diante de cada doença oncológica;
+
+Organizar a situação hospitalar e do centro cirúrgico;
+
+Indicar cuidados de proteção individual em cirurgias convencionais e laparoscópicas.
+
+Depoimentos:
+
+Após as devidas apresentações e introdução dos objetivos, o Dr. Ailton Sepúlveda, do Hospital Beaujon, Paris, iniciou a apresentação ressaltando os seguintes pontos:
+
+Todos devem se preparar para o pior, pois quando menos se espera o caos vem e número grande de pacientes precisará de cuidados hospitalares e intensivos ao mesmo tempo, com risco de esgotamento de recursos. Prepare-se para a crise, pois a “onda” de pacientes infectados é mais rápida que a capacidade de organização das instituições;
+
+O Dr. Sepúlveda também destacou a escassez de 3 principais recursos hospitalares, além dos equipamentos de proteção individual:
+
+Baixa disponibilidade de leitos de terapia intensiva (UTI) para cirurgias; tende-se a priorizar pacientes com previsão de menor necessidade de internação e expectativa de permanência na UTI;
+
+Baixa disponibilidade de salas cirúrgicas, salas poderão ser utilizadas como leitos de terapia intensiva;
+
+Deficiência no número de anestesistas, uma vez que naquele país estes podem ser designados como intensivistas.
+
+Efeito colateral à assistência oncológica é evidente, com a escassez de recursos acima citados, o atraso no tratamento definitivo é esperado.
+
+A visão da crise é dividida em 5 fases, e no momento acreditam estarem vivendo a segunda:
+
+A primeira é de calmaria, antes da tempestade. Este é o período que todos devem se preparar aumentando leitos de UTI, respiradores e outros insumos;
+
+A Tempestade: com hospitais saturados. Aguardando o pico esperado para uma semana a partir desta data;
+
+Terceira fase, de platô: com limitações para pacientes novos, pela ausência de recursos hospitalares, dependendo do preparo prévio instituído;
+
+Fase de melhora: diminuição progressiva de casos novos e resolução da maioria dos afetados;
+
+A última fase, o rebote: em que todos os pacientes que não foram atendidos nas fases iniciais da pandemia, retornarão aos hospitais para tratarem as doenças oncológicas.
+
+Foi ressaltado ainda que, todos os hospitais franceses são referências para COVID-19. Portanto, o espaço para pacientes com outras doenças é extremamente limitado e que pode ter sido um equívoco não se ter destinado hospitais para atendimento de outras doenças graves.
+
+O Dr. Sepúlveda ressaltou que até então os pacientes não eram testados antes de cirurgias, e que esta rotina teria se iniciado naquela mesma semana, entre 24 e 48h antes dos procedimentos. Lembra que falsos negativos são em torno de 30% e por isso, todos os pacientes cirúrgicos também realizam tomografias de tórax.
+
+Casos de cânceres de pâncreas e fígado, com poucas comorbidades e após neoadjuvância são prioritários, e todos são discutidos em reunião interdisciplinar. Sobre transplantes hepáticos naquela instituição, somente em casos em que o risco de morte neste período de espera seja superior a 50% serão realizados. Outro problema é a falta de doador.
+
+Os casos para laparoscopia são discutidos individualmente, e sempre com o cuidado de esvaziar todo o pneumoperitonio antes da retirada do espécime cirúrgico, evitando o “spray” de partículas virais. É obrigatório o uso de máscaras adequadas.
+
+Em seguida, o Dr. Joaquim Abreu de Sousa, do IPO, Porto, Portugal, iniciou seu depoimento. Explicou que Portugal ainda vive a fase diferente, mas que até o momento a curva de casos é semelhante à francesa.
+
+Salientou que em sua instituição há tentativa de manter via livre de COVID para resguardar os pacientes oncológicos, mas a carência de testes dificulta o diagnóstico eficaz. Em seu centro cirúrgico, a maioria das cirurgias eletivas ocorre, mas já observam diminuição, como nos casos de cirurgia citorredutora com HIPEC e mama.
+
+Foi relatado que muitas cirurgias foram postergadas para aumentar a disponibilidade para casos prioritários, adiando procedimentos que possam ser submetidos a outras estratégias de tratamentos, até o fim da crise.
+
+Cirurgias laparoscópicas foram suspensas. Há também tentativa de reduzir a duração dos procedimentos, uma vez que isto pode estar relacionado a maior risco de contaminação da equipe. O uso de telemedicina iniciado cerca de 3 semanas antes passou a ser realidade, uma vez que era instrumento antes não utilizado.
+
+O terceiro a falar foi o Dr. Flávio Rocha, Hospital Virginia Mason, Seattle, EUA. Ele explicou que o primeiro caso oficial detectado nos EUA foi em janeiro, no estado de Washington, e que logo em seguida houve aumento rápido e significativo de casos. Ressalta que as instituições se prepararam para a crise desde o começo e plano de contingência consistente foi implantado de forma coordenada.
+
+Desde o início, a estrutura física foi preparada para separar casos suspeitos dos já confirmados, com a intenção de evitar contaminação de pacientes não COVID-19, evitando assim sobreposição. Para os casos cirúrgicos, utilizaram o protocolo semelhante ao publicado por grupo de Singapura9.
+
+Grande desafio, apesar do preparo prévio, é a escassez de equipamento de proteção individual (EPIs). Houve necessidade de algumas adaptações tais como: reutilização de máscaras e equipamentos inicialmente considerados descartáveis.
+
+Foi montado comitê cirúrgico, com a função de decidir sobre as prioridades e indicações. Este utiliza sistema semelhante ao de semáforos: verde, amarelo e vermelho, em sequência crescente de prioridade.
+
+Foi determinada a sexta-feira como dia livre de cirurgias eletivas, destinando esse período exclusivamente para atendimento a casos de emergência e outras demandas de salas cirúrgicas. Este bloqueio visa poupar as equipes, bem como a otimização de recursos em dias de maior concentração cirúrgica, e dia para descontaminação de equipamentos, respiradores e salas cirúrgicas utilizados no fronte.
+
+A contaminação da equipe de saúde é comum, levando a sequência de afastamentos e elevado absenteísmo. Tal fato levou ao aumento de cuidados na prevenção da contaminação dos profissionais que lidam com a população, incluindo o uso universal de máscara dentro do hospital para todos os pacientes e profissionais. A recomendação é que todos os profissionais e pacientes em pré-operatório sejam testados para o vírus.
+
+Ainda como estratégia para minimizar o risco da disseminação da COVID entre profissionais de saúde e a circulação de pessoas pela instituição, cerca de metade dos residentes foi liberada. Ao mesmo tempo, várias faculdades anteciparam as formaturas, a fim de credenciarem mais profissionais para o exercício nos serviços de todo o país, sendo também liberado o licenciamento para que trabalhem em qualquer estado.
+
+Nas laparoscopias, foi abolido o uso de “handports” e a cada caso é feita discussão dos possíveis riscos e benefícios dessa via de acesso.
+
+O último a testemunhar foi o Dr. Marcello Deraco, Instituto de Tumores de Milão. Ele informou que praticamente todos os hospitais foram destinados ao tratamento de COVID-19, exceto dois que se mantiveram como referência para Oncologia.
+
+O cuidado com pacientes oncológicos foi redobrado durante a pandemia pelo aumento dos riscos. Há triagem em dois níveis para todos pacientes: Primeiramente, um questionário sobre sintomas, histórico familiar e exposição prévia a contaminados. Caso o questionário seja negativo, o paciente faz exame para pesquisa de COVID-19, avaliação clínica e tomografia de tórax. Casos positivos ou suspeitos em algum destes testes, refazem exames em sete dias e retornam. Os pacientes só são operados se testarem duas vezes negativos. Outro problema é a falta de exames por isso, apenas pacientes sintomáticos ou suspeitos são testados.
+
+Para a entrada na instituição, são obrigatórias lavagem das mãos, medição de temperatura corporal e uso de máscaras cirúrgicas. Nas enfermarias todos usam máscaras cirúrgicas exceto otorrinos, cirurgiões torácicos e endoscopistas, que usam máscaras tipo N95 ou similares.
+
+Por conta da alta demanda, foram suspensas cirurgias plásticas reparadoras, fechamento de estomas e outras sem impacto prognóstico. Quanto às laparoscopias, apesar de grande controvérsia, foram suspensas.
+
+Apesar de todos os cuidados, ainda são registrados casos de COVID-19 em pós-operatórios. Estes pacientes são encaminhados para enfermaria específica, com pessoal treinado e equipado. Nos casos sem necessidade de cirurgias, os pacientes são transferidos para outro hospital. Para a seleção de pacientes cirúrgicos a instituição utiliza fluxograma semelhante ao de Seattle com uso das cores verde, amarela e vermelha, como a seguir:
+
+Verde: pode esperar > 2 meses;
+
+Amarelo: pode esperar de 2 semanas a 2 meses;
+
+Vermelho: pode esperar < 2 semanas.
+
+DISCUSSÃO
+
+É fato que procedimentos cirúrgicos que podem esperar devem assim ser tratados. Essa dificuldade citada remete a outra necessidade, a de construção de termo de consentimento livre esclarecido (TCLE) padronizado, com auxílio de consultoria jurídica, que proteja legalmente a equipe assistencial e que assegure o entendimento e o protagonismo do paciente na deliberação terapêutica. A SBCO por meio do grupo de enfrentamento de crise, cuja existência é “per se”, uma estratégia fundamental de combate, construiu essa ferramenta (TCLE), composta por três partes. A primeira contempla a identificação e os dados da equipe, do paciente e do caso clínico. A segunda parte da ferramenta tem duas funções primordiais: uma sessão assegura que informação constantemente atualizada seja entregue ao paciente e com isso (sua segunda função) estabelece caráter pedagógico do termo. Assim informamos que:
+
+Pacientes sem comorbidezes que se submetem a cirurgias eletivas podem contrair COVID-19 durante a internação;
+
+Pacientes sem comorbidezes que se submetam a cirurgias eletivas que contraírem COVID-19 no pós-operatório poderão desenvolver quadros mais graves devido às alterações imunológicas causadas pela operação;
+
+Pacientes que tenham contraído a infecção há poucos dias podem ainda não ter desenvolvido sintomas e a ventilação mecânica durante as operações pode resultar em agravamento dos casos;
+
+Pacientes com infecção assintomática por COVID-19 podem transmitir infecção à equipe;
+
+Pacientes que se submetem a cirurgias eletivas que tiverem complicações respiratórias podem ter os sintomas semelhantes à infecção por COVID-19 causando confusão diagnóstica;
+
+Pacientes que se submetem a cirurgias eletivas que desenvolverem infecção grave por COVID-19, no pós-operatório, podem ter mais complicações cirúrgicas associadas2,6-8,11.
+
+A terceira parte do termo configura o consentimento em realizar ou postergar o procedimento após o esclarecimento.
+
+Ainda na seara do conhecimento como instrumento de combate, a SBCO estabeleceu um comitê de construção de informações periódicas para imprensa, pacientes e principalmente para especialistas associados ou não. Por meio deste comitê, mantem contato com autoridades e entidades médicas constituídas, visando colaboração científica proativa.
+
+Entendendo o conjunto das diversas dinâmicas e situações, e avaliando as possibilidades de represamento de casos cirúrgicos oncológicos, corre-se o risco de outra ”onda“ de impacto no sistema de saúde, junto à crise econômica prevista após a resolução de COVID. Por isso, alguns pontos em relação à instituição e manutenção de Hospitais Oncológicos livres de COVID (HLC) são apresentados12:
+
+HLCs consumiriam menos EPIs liberando o uso para os demais hospitais;
+
+As equipes de saúde de HLCs seriam menos impactadas pela pandemia e poderiam trabalhar com menor absenteísmo e risco ocupacional;
+
+Pacientes oncológicos são com frequência imunodeprimidos e a realização de tratamento em HLC diminuiria o risco de contaminação.
+
+Após a discussão já citada, e atendendo à estratégia de construção de conhecimento e posterior divulgação, subsidiando decisões terapêuticas e gerenciais, estabeleceram-se ainda os seguintes consensos:
+
+Consenso sobre testes para COVID-1912:
+
+De acordo com a disponibilidade de recursos e determinação da autoridade sanitária local todos os pacientes a serem operados devem ser testados entre 24 e 48 antes do procedimento;
+
+Membros da equipe que tenham tido contato com doentes ou que estejam sintomáticos;
+
+Tomografia de tórax de rotina para pacientes cirúrgicos também é sugerida para pesquisa de alterações pulmonares, diante da possibilidade de pacientes falso negativos mesmo que assintomáticos. Duas das instituições (os hospitais francês e italiano) realizam de rotina.
+
+Consenso sobre proteção das equipes de assistência12:
+
+Uso de máscaras cirúrgicas dentro de hospitais diante da possibilidade de número significativo de pacientes assintomáticos e possibilidade de transmissão por estes casos, principalmente em relação à falta de evidências pouco conhecida. Uso de EPIs para todos os profissionais na sala cirúrgica;
+
+Seleção cuidadosa dos casos para cirurgia minimamente invasiva10,13 e aspiração máxima do pneumoperitônio antes da retirada da peça cirúrgica, evitando “spray”12-14;
+
+Otimização das equipes, com número mínimo de profissionais, reduzindo a exposição ocupacional, o consumo de equipamento de proteção e a circulação de pessoas no ambiente hospitalar;
+
+Isolamento de pacientes em alas dedicadas ao atendimento de contaminados caso o HLC não possa ser instalado.
+
+Consenso sobre priorizações:
+
+A construção de prioridades de atendimento, incluindo aqueles com prioridade absoluta, em que até duas semanas o quadro clínico ou oncológico pode se agravar. O nível intermediário pode esperar entre duas e 8 semanas. E um terceiro em que a espera de mais de dois meses não deve interferir no prognóstico do paciente12;
+
+Discussão em reuniões (preferencialmente virtuais) para avaliar as prioridades e as vias de acesso minimamente invasiva ou convencional10,12, a serem realizadas.
+
+CONCLUSÃO
+
+A SBCO sugere aqui roteiro de enfrentamento relacionado ao tratamento oncológico, lembrando que o represamento de assistência desses casos, pode configurar nova onda de sobrecarga aos sistemas de saúde e que a preparação nos termos supracitados, pode mitigar a tragédia que se anuncia, em especial, da mortalidade colateralmente relacionada à atual pandemia.

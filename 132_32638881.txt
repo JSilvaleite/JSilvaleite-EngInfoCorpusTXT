@@ -1,0 +1,80 @@
+Explosão da mortalidade no epicentro amazônico da epidemia de COVID-19
+
+
+RESUMO
+
+Manaus, capital do estado brasileiro do Amazonas, é o atual epicentro da epidemia na Amazônia com um aumento repentino de mortes que preocupa gestores e sociedade. O objetivo do estudo foi analisar o excesso na mortalidade geral, segundo Semanas Epidemiológicas (SE), visando a identificar mudanças potencialmente associadas à epidemia em Manaus. Dados de mortalidade geral e grupos de causas foram obtidos na Central de Informações do Registro Civil Nacional e no Sistema de Informações sobre Mortalidade, para 2018, 2019 e 2020. Analisou-se faixa etária, sexo, local de ocorrência do óbito, SE, ano-calendário e causas de morte. Calcularam-se razões entre as mortes ocorridas em 2019/2018 e 2020/2019 para avaliar o excesso de mortes, com intervalos de confiança no nível de 5%. Não observou-se excesso de mortalidade geral significativo nas razões 2019/2018, independentemente da SE. Já as razões de 2020/2019 passaram de 1,0 (IC95%: 0,9-1,3) na SE 12 para 4,6 (IC95%: 3,9-5,3) na SE 17. Observou-se excesso de mortalidade geral com a progressão da idade, especialmente em indivíduos com 60 anos e mais, os quais concentraram 69,1% (IC95%: 66,8-71,4) das mortes. A razão 2020/2019 para óbitos em domicílio/via pública foi de 1,1 (IC95%: 0,7-1,8) na SE 12 e de 7,8 (IC95%: 5,4-11,2) na SE 17. A explosão da mortalidade geral em Manaus e a elevada proporção de óbitos em domicílio/via pública expõe a gravidade da epidemia em contextos de grande desigualdade social e fraca efetividade de ações governamentais, em especial aquelas voltadas ao enfrentamento das desigualdades sociais e para a garantia e fortalecimento do Sistema Único de Saúde.
+Palavras-chave: COVID-19; Populações Vulneráveis; Vigilância em Saúde Pública; Mortalidade
+INTRODUÇÃO
+
+Em 20 de maio de 2020, dois meses após a Organização Mundial da Saúde (OMS) declarar a COVID-19 como pandemia, em torno de cinco milhões de casos e aproximadamente 320 mil óbitos foram registrados em 216 países/áreas/territórios. Atualmente, mesmo havendo fortes evidências de subestimação de suas estatísticas oficiais 1, o Brasil é o terceiro país mais afetado, com cerca de 280 mil casos e 18 mil mortes (World Health Organization. WHO coronavirus disease (COVID-19) dashboard. https://covid19.who.int/, acessado em 20/Mai/2020).
+
+A distribuição dos óbitos por COVID-19 reflete a heterogeneidade geográfica e social do país, com apenas cinco estados respondendo por 81% das ocorrências: São Paulo, Rio de Janeiro, Ceará, Pernambuco e Amazonas, sendo que este último apresenta a maior proporção de infectados, 10,6% (IC95%: 8,8%-12,1%) 2.
+
+No caso do Estado do Amazonas, situado na Amazônia brasileira, região que ocupa aproximadamente 60% do território do nacional, cuja população tem sido historicamente submetida a condições de pobreza e desigualdade social 3. Um estudo sobre a Região Metropolitana de Manaus constatou elevada desigualdade no acesso aos serviços de saúde 4. Essa é uma realidade comum para populações vivendo em regiões de acesso remoto e terras indígenas 5, cuja vulnerabilidade social e econômica restringe sua mobilidade espacial no território, tornando-as mais susceptíveis à dramática disseminação da COVID-19, em especial de suas formas graves.
+
+Há mais de quatro semanas, Manaus apresenta sinais de esgotamento na rede pública hospitalar, devido ao rápido aumento do número de casos de COVID-19. Só na primeira quinzena de maio, foram quase sete mil novos casos, o dobro do número até então identificado. Ademais, de 19 a 28 de abril, a média diária de sepultamentos foi de 123, valor quatro vezes maior do que a média diária de 2019 6. Chama atenção que a média diária de mortes por COVID-19, reconhecida pelos serviços de saúde no mesmo período, tenha sido de apenas 14 óbitos, sugerindo ampla subnotificação, um problema mundialmente reconhecido, sobretudo em regiões de precária testagem e serviços de saúde deficitários 7,8.
+
+Apesar das incertezas sobre a mortalidade específica por COVID-19 9, indicadores do excesso de óbitos constituem parâmetros mais objetivos e comparáveis para avaliar o impacto da epidemia sobre a mortalidade 10. Portanto, o objetivo deste estudo foi analisar o excesso na mortalidade geral, segundo Semanas Epidemiológicas (SE), visando a identificar mudanças no risco de morte, potencialmente associadas à epidemia.
+
+MÉTODOS
+
+Tipo de estudo e fontes de dados
+
+Estudo transversal com dados de mortalidade oriundos da Central de Informações do Registro Civil (CRC) Nacional (https://sistema.registrocivil.org.br) e do Sistema de Informações sobre Mortalidade (SIM. http://www2.datasus.gov.br).
+
+Devido ao cenário pandêmico, a CRC Nacional estruturou o Painel Registral COVID-19 (Portal da Transparência. https://transparencia.registrocivil.org.br/registral-COVID, acessado em 10/Mai/2020), cujo objetivo é fornecer dados sobre as causas de mortes de Declarações de Óbitos (DO) lavradas em Cartórios, as quais representam a totalidade de mortes naturais, aqui tratadas como proxy de mortalidade geral. A atualização dos dados é diária e obedece a prazos legais. O tempo entre o registro do óbito e o seu envio à plataforma do Painel Registral é de até 14 dias, quando o dado passa a ser público.
+
+Definições operacionais
+
+De acordo com os critérios da CRC Nacional, uma morte por COVID-19, suspeita ou confirmada, corresponde aos óbitos em que a DO fez menção aos termos COVID-19, “coronavírus” ou “novo coronavírus” nas partes I (linhas a, b, c, d) ou II (outras condições mórbidas preexistentes e sem relação direta com a morte, que não entraram na sequência causal declarada na parte I). Além da COVID-19, outras possíveis causas foram consideradas, de acordo com a CRC: síndrome respiratória aguda grave (SRAG); pneumonia; septicemia; e insuficiência respiratória. Óbitos não classificados em nenhuma das condições anteriores são incluídos na categoria “demais causas”. Por fim, as mortes “indeterminadas” (causas de mortes ligadas a doenças respiratórias, mas não conclusivas) representaram menos de 1% da amostra avaliada e não foram apresentadas separadamente.
+
+Os dados da CRC Nacional foram atualizados em 19 de maio de 2020, 66 dias após o início da SE 12 e 24 dias depois do último dia da SE 17. O início da SE 12 remete aos dois dias subsequentes da confirmação do primeiro caso de COVID-19 e aos 15 dias anteriores à ocorrência da primeira morte pela doença em Manaus.
+
+Para fins de comparação, também foram utilizados dados sobre mortalidade geral do SIM, disponibilizados para as SE consideradas, em 2018, na cidade de Manaus.
+
+Variáveis incluídas
+
+Faixa etária, sexo, ocorrência do óbito no domicílio ou via pública, SE, ano-calendário e causas de morte. As mortes por SRAG, pneumonia (PNM) e insuficiência respiratória (IR) foram agregadas em uma única variável denominada “SRAG+PNM+IR”, a qual exclui o grupo de mortes suspeitas ou confirmadas por COVID-19 e de acordo com os critérios da CRC Nacional.
+
+Análise de dados
+
+Foram calculadas as razões entre o total de mortes ocorridas em 2019 e 2018, 2019/2018, e em 2020 e 2019, 2020/2019, nas SE de 12 a 17, em Manaus. Também foram calculadas as razões de mortes 2020/2019 nas SE de 14 a 17, estratificadas por sexo, faixa etária e causa de mortalidade. Para as razões de mortalidade foram calculados intervalos de confiança, com nível de significância de 5%. As análises foram efetuadas no software R, versão 3.6.1 (http://www.r-project.org).
+
+RESULTADOS
+
+Em 2018, segundo o SIM, o número médio de mortes semanal, em Manaus foi de 230, valor próximo do observado nos primeiros 70 dias de 2019 e 2020, segundo informações da CRC nacional, respectivamente, 225 e 218, óbitos.
+
+Conforme pode ser visto na Figura 1, a razão de mortalidade geral, 2019/2018, é muito próxima a 1, independentemente da SE; já a razão 2020/2019 apresenta um comportamento semelhante apenas entre as SE 12 e 14, com aumento expressivo nas semanas subsequentes. De forma que a razão na SE 12 passa de 1,0 (IC95%: 0,9-1,3) para 4,6 (IC95%: 3,9-5,3) na SE 17.
+Fontes: Central de Informações do Registro Civil (CRC) Nacional (https://sistema.registrocivil.org.br) e Sistema de Informações sobre Mortalidade (SIM. http://www2.datasus.gov.br).
+
+Figura 1 Razões de mortalidade geral, para os anos de 2019/2018 e 2020/2019, de acordo com Semanas Epidemiológicas (SE). Manaus, Amazonas, Brasil. 
+
+As razões de mortalidade geral, 2020/2019, segundo faixa etária, não foram estatisticamente significativas em menores de 40 anos do sexo masculino, bem como nos menores de 30 anos do sexo feminino e em ambos os sexos, expondo, a partir de então, o excesso de mortalidade em 2020, principalmente no sexo masculino (Tabela 1).
+
+Tabela 1 Frequências de mortalidade geral e suas respectivas razões e intervalos de confiança (IC95%), referentes às Semanas Epidemiológicas (SE) 14 a 17, segundo faixa etária e sexo. Manaus, Amazonas, Brasil. 
+Fonte: Central de Informações do Registro Civil (CRC) Nacional (https://sistema.registrocivil.org.br).
+
+Quando comparamos a razão de mortalidade 2020/2019 segundo grupos de causas de morte, observamos um gradativo aumento ao longo das semanas, especialmente a partir da SE 14, para as mortes por SRAG+PNM+IR (Figura 2). No grupo das “demais causas”, a razão de mortalidade mantém-se próxima de 1 até a SE 14, e então aumenta, atingindo o patamar de 3 na SE 17.
+Fontes: Central de Informações do Registro Civil (CRC) Nacional (https://sistema.registrocivil.org.br) e Sistema de Informações sobre Mortalidade (SIM. http://www2.datasus.gov.br).
+
+Figura 2 Razões de mortalidade por grupos de causas, para os anos de 2020/2019, de acordo com Semanas Epidemiológicas (SE). Manaus, Amazonas, Brasil. 
+
+No que diz respeito à distribuição dos óbitos entre os grupos etários, 69,1% deles ocorreram entre os indivíduos com 60 anos ou mais (IC95%: 66,8-71,4). A razão de óbitos em domicílio/via pública (43/38) na SE 12 foi de 1,1 (IC95%: 0,7-1,8). Essa mesma razão (268/33) foi de 8,1 (IC95%: 5,7-11,7) na SE 17 (dados não apresentados).
+DISCUSSÃO
+
+Nossos resultados apontam que o total de óbitos registrados em 2019 é de magnitude similar ao registrado em 2018 entre as SE 12 e 17. Porém, a comparação entre o total de óbitos de 2020 e 2019 revela um excesso de mortalidade a partir da 15ª SE de 2020, com esta razão explodindo na SE 17, na qual o número de óbitos é 200% maior que o observado em 2019.
+
+O aumento de mortes, a partir da SE 15, ocorreu aproximadamente 15 dias após a confirmação dos 30 primeiros casos de COVID-19 em Manaus. Já na SE 17, o número anômalo de mortes coincide com o colapso da rede pública hospitalar. Nesse período, o número médio de sepultamentos diários triplicou. Mortes em casa/via pública também aumentaram, bem como os casos de COVID-19 em municípios vizinhos. Esse conjunto de acontecimentos resulta, provavelmente, de uma grande aceleração da epidemia em Manaus 11, nas semanas anteriores.
+
+A fragilidade da rede de atenção à saúde em Manaus e em municípios vizinhos 4, somada à marcante desigualdade social 3, ajudam a entender a crítica situação da epidemia de COVID-19. O excesso de mortalidade não está restrito aos países de baixa e média rendas, tendo sido também observado em Nova York, Estados Unidos, e nas províncias de Bérgamo e Bréscia, no norte da Itália 9,12,13.
+
+Em relação à idade, quase 70% das mortes ocorreram em pessoas com 60 anos ou mais, em consonância com estudos realizados em outros países 9,12,13,14. Nesse segmento populacional, as comorbidades são mais prevalentes e têm sido associadas a um prognóstico pior em casos de internação por COVID-19 15.
+
+Outro aspecto importante diz respeito aos diferenciais por sexo, com risco de mortalidade maior entre os homens, corroborando achados de outros estudos 16,17. Embora a menor letalidade possa estar associada com a maior percepção dos sintomas da doença e procura por serviços de saúde em mulheres, pois os homens só o fariam nas fases mais graves, em que os recursos terapêuticos geralmente são menores, Zeng et al. 18 argumentam que os maiores níveis de anticorpos IgG em mulheres poderiam explicar, parcialmente, a maior letalidade entre os homens.
+
+Observou-se um aumento explosivo na mortalidade por problemas respiratórios (SRAG+PNM+IR), complicações comuns da COVID-19 14, durante a epidemia. Constatou-se, também, um aumento significativo na mortalidade pelas demais causas, possível consequência de fatores como: adiamento por parte do paciente de tratamento como meio de evitar exposição ao vírus em hospitais, priorização pelos serviços de saúde ao atendimento de pacientes com COVID-19 19.
+
+Este trabalho tem como ponto forte o uso do indicador de mortalidade geral para estimar o excesso de mortes, o qual parece ser um recurso útil para avaliações rápidas e de baixo custo, além de ser um indicador mais robusto e comparável em cenário pandêmico 10, pois ao contrário da mortalidade específica por COVID-19, independe de estratégias de testagem adotadas, da organização e do financiamento dos sistemas de saúde, da estrutura demográfica ou do denominador empregado, o que pode fazer com que as estimativas de letalidade variem amplamente 9. No entanto, a interpretação dos resultados deste estudo deve levar em conta algumas limitações como a ausência de padronização/revisão das causas de morte nas DO e um possível sub-registro de óbitos na plataforma digital da CRC Nacional, especialmente em 2019, o que poderia superestimar as razões entre o total de óbitos de 2020 e 2019, por exemplo. No entanto, a julgar pelas comparações entre o total de óbitos de 2019 e 2018, sempre próximas a 1, é possível que essa distorção seja pequena.
+
+A estratégia de análise adotada neste estudo revela de forma inequívoca o elevado excesso da mortalidade em Manaus, expondo a gravidade da epidemia em contextos de grande desigualdade social, fraca efetividade de políticas públicas e fragilidade dos serviços de saúde. Nesse cenário, reforços devem ser envidados rapidamente por gestores das três esferas de governo, de modo a conter ou minorar o efeito deletério da COVID-19, sobretudo em áreas mais precárias, onde o impacto da pandemia sobre a mortalidade tende a ser mais acentuado.

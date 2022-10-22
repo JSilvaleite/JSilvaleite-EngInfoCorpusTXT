@@ -1,0 +1,295 @@
+Padronização da realização de traqueostomias eletivas no Instituto Central do Hospital das Clínicas de São Paulo durante a pandemia de COVID-19
+
+RESUMO
+
+A pandemia da COVID-19 tem gerado um número elevado de internações hospitalares e muitos pacientes são admitidos nas unidades de terapia intensiva para suporte ventilatório invasivo. A pneumonia viral provocada pelo Sars-cov-2 pode resultar na síndrome da disfunção respiratória aguda (SDRA) e em um tempo prolongado de ventilação mecânica, gerando uma demanda maior de traqueostomias. Diante do alto potencial de aerossolização desse procedimento, com risco de contaminação da equipe e do ambiente, é necessário criar uma padronização específica de todo o processo que envolve essa cirurgia. Este artigo visa demonstrar as principais etapas dessa padronização desenvolvida por um equipe dedicada à realização de traqueostomias em um hospital terciário dedicado ao atendimento de pacientes com suspeita ou confirmação de COVID-19.
+Palavras chave: Cirurgia Geral; Cirurgia Torácica; Procedimentos Cirúrgicos Eletivos
+
+
+INTRODUÇÃO
+
+Uma das grandes preocupações em relação a infecção por Sars-Cov-2 é a evolução desfavorável com necessidade de UTI e o risco de superlotação. Os estudos apresentam números distintos, mas até 26,4% dos pacientes podem necessitar de admissão nas Unidades de Terapia Intensiva (UTI)1. Cerca de 6 a 42% dos pacientes infectados pelo Sars-Cov-19 necessitam de ventilação mecânica invasiva, e até 11,5%, de oxigenação por membrana extracorpórea (ECMO)1-3. A depender da população estudada, esses números podem ser ainda maiores. Estudo com 24 pacientes internados em UTI demonstrou que 75% necessitou de ventilação mecânica4.
+
+O tempo de permanência dos pacientes com COVID-19 na UTI é variável e dependente das condições clínicas do paciente e dos recursos de cada unidade. Bhatraju et al. publicaram pequena série de casos mostrando média de 10 dias de permanência na UTI4. A permanência excessiva de pacientes pode ser um fator adicional para o colapso dos recursos institucionais.
+
+A traqueostomia é um procedimento comumente indicado em pacientes com tempo prolongado de intubação orotraqueal e considerado de risco em pacientes com algumas infecções respiratórias. Em revisão sistemática, a traqueostomia foi considerada como o segundo procedimento que mais gera aerossóis5. Nesse contexto, a criação de grupo dedicado à realização de traqueostomias durante a pandemia da COVID-19 é essencial, uma vez que a experiência e o treinamento do grupo pode resultar em menor tempo de procedimento e maior aderência às precauções de contaminação2.
+
+Este artigo tem por objetivo apresentar o protocolo institucional desenvolvido no Instituto Central do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo, centro terciário dedicado exclusivamente ao atendimento de pacientes com infecção suspeita ou confirmada durante a pandemia do COVID-19.
+
+DESENVOLVIMENTO DO PROTOCOLO
+
+O Time de Traqueostomia (TT) do Instituto Central do Hospital das Clínicas é composto por médicos das equipes de Cirurgia Geral, de Cirurgia Torácica, de Cirurgia de Cabeça e Pescoço, de Otorrinolaringologia.
+
+Diante da pandemia de COVID-19 e das recomendações publicadas em relação a traqueostomias e outros procedimentos cirúrgicos2,6-9, incluindo as oriundas da experiência com a epidemia de SARS10,11, foi necessário modificar e padronizar as diversas etapas referentes à realização da traqueostomia. Tendo em vista as precauções em relação a contaminação, deve-se atentar para algumas modificações da técnica tradicional, do preparo da equipe e dos materiais.
+
+PROTOCOLO INSTITUCIONAL
+
+1) Determinações gerais
+
+Todo caso será avaliado em conjunto pelo time de Traqueostomias do ICHC e pela equipe de Medicina Intensiva para decidir sobre a indicação. Esse time é composto por especialistas em Cirurgia Geral, em Cirurgia de Cabeça e Pescoço, em Cirurgia do Tórax e em Otorrinolaringologia;
+
+Não há evidência de benefícios de traqueostomia precoce nesses pacientes, portanto, as traqueostomias serão realizadas preferencialmente após de 14 dias de intubação, considerando-se possível redução da carga viral e do risco de contaminação12;
+
+A técnica adotada deve ser aquela com a qual a equipe responsável tiver mais experiência, uma vez que não há evidência de diferença entre as técnicas abertas e percutâneas em relação a contaminação. Caso a técnica escolhida seja a percutânea, padronizamos o uso do ultrassonografia como guia em vez da broncoscopia para evitar riscos de contaminação associados ao uso desta7,10;
+
+Os objetivos da padronização descrita neste documento são para não prejudicar o paciente e otimizar o tempo do procedimento e os resultados, minimizando os riscos para os profissionais envolvidos.
+
+2) Critérios para indicar a técnica percutânea guiada por ultrassonografia
+
+Distância entre a cartilagem cricoide e a fúrcula esternal deve permitir o posicionamento adequado do transdutor (geralmente de pelo menos 3cm ou 2 dedos);
+
+Possibilidade de hiperextensão cervical;
+
+Ausência de vasos calibrosos ou com padrão arterial de fluxo no trajeto da punção (observado com o ultrassom).
+
+3) Local para o procedimento
+
+Idealmente uma sala isolada com pressão menor do que a do corredor. Se indisponível, utilizar sala com portas fechadas e sem fluxo laminar;
+
+Procedimentos realizados no Centro Cirúrgico:
+
+A equipe deve se paramentar e preparar os materiais DENTRO na sala em que o procedimento será realizado e conforme fluxo institucional de cirurgias do Instituto Central;
+
+As mesas cirúrgicas devem estar montadas com todos os materiais a serem utilizados;
+
+O paciente só deve ser chamado assim que todas as equipes estiverem adequadamente preparadas, com todos os materiais na sala (incluindo equipamentos de ultrassonografia, caso necessário).
+
+Procedimentos realizados na UTI:
+
+A paramentação, o preparo dos materiais e a montagem das mesas cirúrgicas devem ocorrer FORA do leito do paciente;
+
+A entrada dos profissionais na sala deve ser feita de forma organizada e protocolada.
+
+4) Equipe (idealmente limitada a 4 pessoas na sala para minimizar a exposição)
+
+Cirurgião;
+
+Auxiliar;
+
+Anestesiologista:
+
+Ficará encarregado, além da anestesia, pelo cuidado da via aérea (retirada do tubo orotraqueal).
+
+Técnico de Enfermagem:
+
+Encarregado da administração das medicações e do preparo dos equipamentos necessários.
+
+Outros profissionais como os fisioterapeutas, frequentemente responsáveis pelo ajuste do ventilador mecânico, devem sair da sala antes da realização do procedimento.
+
+5) Preparação pré-procedimento
+
+Checagem do paciente e da indicação da traqueostomia;
+
+Checagem dos materiais necessários e da disponibilidade de Equipamento de Proteção Individual (EPI). Na ausência de algum desses, suspender o procedimento:
+
+Garantir a presença de mais de um tipo de tamanho de cânula.
+
+Reunião pré-procedimento para revisar todos os passos do procedimento e do gerenciamento;
+
+Determinação dos parâmetros ventilatórios e ajuste do ventilador mecânico para pré-oxigenação;
+
+Sugestão de preparo das medicações para sedação:
+
+Propofol em bomba ou em bolus (preparar 10-20mL);
+
+Ketamina 1mg/kg (principalmente se propofol em bolus) + benzodiazepínico;
+
+Fentanil em bomba ou em bolus (preparar 5-10mL);
+
+Relaxante muscular de longa duração (rocurônio - preparar 2 ampolas) para reduzir risco de tosse e aerossolização.
+
+6) Paramentação
+
+Seguir as recomendações da CCIH. Todo profissional que for entrar na sala deve vestir gorro, proteção para os pés, máscara PFF 3 ou N95 e máscara facial do tipo Face Shield. Avental e luvas (esterilizadas para a equipe cirúrgica e procedimento para anestesista e técnico de enfermagem) devem ser vestidos dentro da sala do procedimento. Em caso da impossibilidade de uso da máscara tipo Face Shields, óculos de proteção e máscara cirúrgica adicional (na frente da N95 ou PFF3) podem ser utilizados, todavia, não mantem mesmo nível de proteção.
+
+7) Materiais
+
+Via aérea:
+
+Videolaringoscópio (preferência) ou laringoscópio;
+
+Seringa de 20mL para desinsuflação do balonete;
+
+Traqueia com filtro antiviral.
+
+A mesa deve conter:
+
+Caixa de pequenas cirurgias ou similar contendo pinças Halsted;
+
+Lâmina de bisturi número 11 ou 15;
+
+Fio de Nylon 3-0 para fixação da cânula;
+
+Fio de Algodão 4-0;
+
+4 pacotes de gazes secas;
+
+1 pacote de gaze úmida com clorexidina alcoólica;
+
+1 frasco de anestésico local;
+
+1 agulha rosa ou vermelha para aspiração do anestésico;
+
+1 agulha preta para injeção do anestésico
+
+Cânulas traqueais não fenestradas de uso hospitalar (com balonete e sem cânula interna) números 8, 9 e 10;
+
+Xilocaína gel para lubrificação da ponta da cânula traqueal;
+
+1 seringa de 20mL conectada ao balão da cânula traqueal;
+
+Traqueia com filtro antiviral;
+
+Material de aspiração (circuito fechado);
+
+Para a técnica Percutânea:
+
+Kit de traqueostomia percutânea (preferência pelos métodos de dilatação sem pinças).
+
+1 seringa de 20mL com água destilada ou soro fisiológico para o transdutor da ultrassonografia (na ausência de gel esterilizado).
+
+O equipamento de ultrassonografia deve ser protegido com capa plástica descartável.
+
+O transdutor e o cabo devem ser encapados em invólucro plástico esterilizado descartável.
+
+Todo o equipamento na mesa cirúrgica deve estar pronto para uso;
+
+4 campos esterilizados.
+
+8) Entrada dos profissionais na sala - Procedimento na UTI
+
+Traqueostomia percutânea guiada por ultrassonografia:
+
+Médico Cirurgião principal:
+
+Entra com a mesa cirúrgica e com o transdutor encapado, posicionando-a à direita do paciente.
+
+Inicia assepsia e colocação de campos esterilizados de forma convencional.
+
+Esse cirurgião vai realizar o procedimento e o manuseio da ultrassonografia, simultaneamente.
+
+Médico da via aérea:
+
+Entra com seus materiais, com as medicações e com o equipamento de ultrassonografia, na sequência do Cirurgião Principal.
+
+Deixa o equipamento de ultrassonografia à esquerda do paciente na altura do trocanter maior e conecta o transdutor.
+
+Posiciona seus materiais de via aérea e as medicações.
+
+Administra as medicações.
+
+Traqueostomia convencional (aberta):
+
+Médico da via aérea:
+
+Entra com seus materiais, com as medicações aspiradas.
+
+Posiciona seus materiais de via aérea e as medicações.
+
+Modifica os parâmetros do ventilador mecânico.
+
+Administra as medicações.
+
+Médico Auxiliar à esquerda do paciente:
+
+Inicia a assepsia.
+
+Médico Cirurgião Principal:
+
+Entra com a mesa cirúrgica e se posiciona à direita do paciente.
+
+9) Passos operatórios - Traqueostomia Percutânea Guiada por Ultrassonografia
+
+Identificar as estruturas cervicais e excluir a presença de vasos calibrosos ou com fluxo arterial no trajeto da punção. Caso haja alguma condição anatômica desfavorável, não observada previamente, alternar a técnica para convencional (aberta);
+
+Identificar o local de punção entre o 2º. e o 3º. Ou 3º. e 4º. anéis traqueais;
+
+Anestesia local guiada por ultrassonografia e incisão na pele;
+
+Suspender a ventilação, aspirar o balonete e tracionar a cânula orotraqueal guiada por ultrassonografia, mantendo a ponta da cânula na altura do 1º. anel traqueal). Assim que ideal, insuflar o balonete e refixar a cânula. Retomar a ventilação mecânica caso necessário e suspendê-la novamente antes da punção traqueal;
+
+Punção traqueal centralizada e perpendicular guiada por ultrassonografia até aspiração de ar, confirmando o posicionamento intratraqueal
+
+Passagem do fio guia;
+
+Passagem do primeiro dilatador;
+
+Passagem do segundo dilatador / dilatação com pinça de Griggs (nessa etapa, se for necessário ventilar o paciente, realizar oclusão do orifício traqueal / do dilatador com o dedo). Manter a oclusão até a parada da ventilação mecânica com tempo para expiração;
+
+A passagem da cânula traqueal deve ser realizada em apneia, insuflando-se o balonete imediatamente após;
+
+Desconectar o ventilador mecânico do tubo orotraqueal ocluído e conectá-lo à cânula traqueal;
+
+Confirmar o posicionamento intratraqueal com capnografia. Na ausência de capnógrafo, confirmar o posicionamento observando deslizamento pleural bilateral;
+
+Excluir complicações intraoperatórias com o exame de ultrassonografia (pneumotórax e enfisema de subcutâneo);
+
+Curativo com gazes ao redor da cânula e fixação da mesma à pele com Nylon 3-0 ou fixador específico;
+
+Descartar os materiais descartáveis e acondicionar os materiais permanentes de forma apropriada.
+
+10) Passos operatórios - Traqueostomia convencional (aberta)
+
+Passos operatórios:
+
+Realizar a incisão na pele e a dissecção dos tecidos conforme técnica habitual, evitando-se o uso de eletrocautério pelo risco de formação de fumaça particulada. Dar preferência para ligaduras para fazer hemostasia;
+
+Antes de fazer a incisão na traqueia: garantir a paralisia do paciente e ventilação adequada. Cessar a ventilação e desligar qualquer fluxo. Garantir tempo suficiente para expiração com a válvula expiratória aberta;
+
+Avançar o tubo orotraqueal ocluído e insuflar o balonete abaixo do local proposto para a traqueostomia com níveis pressóricos acima dos habituais. Restabelecer a ventilação, confirmar pré-oxigenação adequada e, então cessar novamente a ventilação, garantindo tempo para a expiração completa, e ocluir a cânula;
+
+Criar a janela traqueal tomando cuidado com o balonete, desinsuflá-lo e tracionar a cânula até que a ponta fique proximal à janela traqueal. Garantir que a janela tenha tamanho suficiente para permitir fácil introdução da cânula traqueal;
+
+Após a passagem, insuflar imediatamente o balonete da cânula com a seringa já acoplada à via. Retirar o introdutor e conectar a traqueia com filtro antiviral à cânula e ao circuito. Restabelecer a ventilação e confirmar posicionamento com capnografia (evitar o uso do estetoscópio);
+
+Fixar o tubo com sutura ou com fitas próprias.
+
+11) Desparamentação
+
+Desparamentação pessoal e retirada das capas plásticas (a desparamentação deve seguir os cuidados preconizados pela equipe de CCIH);
+
+Higienização dos equipamentos.
+
+12) Área limpa
+
+Após a desparamentação, recomenda-se que a equipe envolvida no procedimento utilize chuveiro para limpeza corporal;
+
+Descrição do procedimento e orientações sobre cuidados pós-operatórios;
+
+Preenchimento do questionário para o banco de dados.
+
+13) Pós-procedimento (UTI e outros)
+
+Equipe multiprofissional:
+
+Treinar os cuidados durante a transferência;
+
+Um membro da equipe do setor deve ser responsável pela traqueostomia; durante as mudanças de decúbito e pronação
+
+Evitar oxigênio umidificado, utilizar somente filtros;
+
+Aspirar das vias aéreas sempre em circuito fechado;
+
+Realizar checagem periódica do balonete, mantendo-o sempre insuflado em COVID positivo (evitar ao máximo hipoinsuflação do balonete);
+
+Evitar troca de curativo, salvo sinais francos de infecção.
+
+Troca da cânula:
+
+Evitar troca antes de 7 a 10 dias, dando-se preferência para realização em período de menor carga viral7;
+
+Utilizar EPI completo para as trocas;
+
+Seguir as mesmas orientações sobre o fluxo do ventilador mecânico para as trocas. Desinsuflar o balonete apenas com o fluxo desligado e insuflar o balonete da nova cânula imediatamente após a passagem.
+
+Desmame da Unidade de Terapia Intensiva:
+
+Ala dedicada a pacientes traqueostomizados com COVID com equipe de enfermagem treinada;
+
+Utilizar cânulas sem fenestras até negativação do exame COVID;
+
+Trocar a cânula após 30 dias.
+
+CONCLUSÃO
+
+As traqueostomias são procedimentos de alto risco de contaminação visto o potencial de aerossolização. Este protocolo pode sofrer mudanças ao longo das próximas semanas e, caso seja reproduzido em outros serviços, pode exigir adaptações às realidades locais. A padronização descrita neste artigo visa reduzir o tempo de permanência no ambiente do procedimento e o risco de aerossolização reforçando os cuidados em cada etapa da assistência.

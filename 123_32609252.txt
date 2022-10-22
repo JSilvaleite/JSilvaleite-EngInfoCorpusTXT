@@ -1,0 +1,76 @@
+Recomendações em tempos de COVID-19: um olhar para o cuidado domiciliar
+
+RESUMO
+
+Objetivo:
+
+Propor recomendações para a prática de enfermagem domiciliar no contexto da COVID-19.
+
+Método:
+
+Estudo reflexivo, produzido com base em leituras correlacionadas com a área temática, disponíveis em diretrizes atuais da Organização Pan-Americana da Saúde, Organização Mundial da Saúde e Ministério da Saúde.
+
+Resultados:
+
+Foram construídas recomendações segundo evidências científicas atuais para prevenção de infecções, controle de epidemias e pandemias no contexto domiciliar brasileiro.
+
+Considerações finais:
+
+As reflexões realizadas contribuem para nortear ações com vistas a uma melhor assistência ao paciente, familiares cuidadores e comunidade na perspectiva de um cuidado domiciliar seguro em relação à COVID-19; se caracterizam como uma discussão inicial sobre o tema, estimulando que novos estudos sejam realizados com base na evolução do cenário atual.
+Descritores: Vírus da SARS; Pacientes Domiciliares; Enfermagem Domiciliar; Serviços de Assistência Domiciliar; Assistência à Saúde
+INTRODUÇÃO
+
+No final de dezembro de 2019, os primeiros casos da doença chamada de COVID-19, causada pelo vírus SARS-CoV-2, foram registrados na província de Wuhan, na China(1). A partir desse momento, os números de pessoas infectadas aumentou, e o vírus se espalhou por todos os continentes; porém, somente em 11 de março de 2020, a COVID-19 foi caracterizada pela Organização Mundial da Saúde (OMS) como uma pandemia(2).
+
+Desde então, as instituições de saúde do mundo todo e os serviços de enfermagem atuam em constante pressão contra uma doença respiratória potencialmente fatal, porém ainda incerta, pois até o momento não há uma vacina ou tratamento específico contra o vírus. Dessa forma, a quarentena e o isolamento social têm sido a medida tomada por diversos países na tentativa de diminuir a transmissão(2).
+
+A atuação dos profissionais de enfermagem e de outras categoriais ultrapassam os ambientes hospitalares. Muitos atuam nos lares dos pacientes; e, nesse contexto de saúde, os pacientes domiciliares geralmente são aqueles com quadros agudos, crônicos, reagudizados, em cuidados paliativos, com síndromes respiratórias, distúrbios neurológicos, hipertensos, diabéticos, estando mais suscetíveis ao vírus SARS-CoV-2(3).
+
+O cuidado domiciliar requer conhecimentos técnicos científicos que extrapolam aqueles aprendidos durante a formação do profissional de enfermagem, pois adentrar no domicílio e desenvolver as ações de cuidado exigem muito mais do que saber e agir. Isso porque o cuidado é realizado em um espaço de domínio do paciente e sua família, e o profissional de saúde é um mero convidado(4).
+
+O domicílio é o lócus de cuidado; é nesse ambiente que as relações se constroem e se fortalecem. Crenças, valores, costumes e tradições são considerados e discutidos no planejamento das ações, pois o contexto domiciliar influencia a recuperação e saúde do paciente(4).
+
+O cuidado realizado pelo enfermeiro no domicílio, mesmo considerado como relevante, ainda se demonstra incipiente diante da especificidade do cenário atual. Considera-se que possam ser identificados estudos que abordam a temática da COVID-19 no domicílio(3,5). Entretanto, atualmente, não há normativas, políticas, ou consenso científico específico sobre a descrição e recomendação dos cuidados de enfermagem no domicílio para a COVID-19, identificando-se assim uma lacuna do conhecimento.
+
+Nessa perspectiva, este ensaio teórico-reflexivo foi construído tendo por base leituras correlacionadas com a área temática, sendo as principais fontes, materiais produzidos pela Organização Mundial da Saúde, Organização Pan-Americana da Saúde e Ministério da Saúde. Esses documentos foram desenvolvidos segundo diretrizes anteriores e atuais com as melhores evidências científicas para prevenção de infecções, controle de epidemias e pandemias.
+
+OBJETIVO
+
+Propor recomendações para a prática de enfermagem domiciliar no contexto da COVID-19.
+
+Prática de enfermagem domiciliar e a COVID-19
+
+A OMS recomenda que todas as pessoas com suspeita de COVID-19 com infecção respiratória aguda grave sejam submetidas a triagem no primeiro ponto de contato com o sistema de saúde e que o tratamento de emergência seja iniciado com base na gravidade da doença. Indicava ainda que todos os casos confirmados em laboratório fossem isolados e tratados em um estabelecimento de saúde(3,5).
+
+Posteriormente, a OMS atualizou as diretrizes de tratamento para pacientes com Infecção Respiratória Aguda associadas ao vírus SARS-CoV-2 incluindo orientações para populações vulneráveis (p.ex., idosos, mulheres grávidas e crianças). Nas situações em que o isolamento de todos os casos em um estabelecimento de saúde não seja possível, a OMS enfatiza a priorização daqueles com maior probabilidade de resultados ruins: pacientes com doenças graves e críticas e aqueles com doença leve e risco de resultado ruim (idade > 60 anos, casos com comorbidades subjacentes - por exemplo, doença cardiovascular crônica, doença respiratória crônica, diabetes, câncer)(5-6).
+
+Se todos os casos leves não puderem ser isolados nas instituições de saúde, aqueles com doenças leves e sem fatores de risco poderão ser isolados em unidades não tradicionais, como hotéis, estádios ou ginásios reaproveitados, onde possam permanecer até que os sintomas sejam resolvidos e exames laboratoriais para o vírus COVID-19 sejam negativos. Como alternativa, pacientes com doença leve e sem fatores de risco podem ser gerenciados em casa(3,5-6).
+
+Para aqueles que apresentam doença leve, a hospitalização pode não ser necessária ou pode não ser possível devido ao ônus do sistema de saúde, a menos que haja preocupação com a rápida piora do quadro(6). Assim, se houver pacientes com doença leve, a prestação de cuidados no domicílio pode ser considerada, desde que possam ser acompanhados e tratados pelos membros da família e por profissionais de saúde, respectivamente(3).
+
+O atendimento domiciliar também pode ser considerado quando o atendimento hospitalar não está disponível ou é inseguro (p.ex., a capacidade é limitada e os recursos são incapazes de atender à demanda por serviços de saúde). Em qualquer uma dessas situações, podem ser tratados em casa pacientes com sintomas leves(3) e sem condições crônicas subjacentes, como doença pulmonar ou cardíaca, insuficiência renal ou condições de imunocomprometimento que colocam o paciente em risco aumentado de desenvolver complicações. Essa decisão requer julgamento clínico cuidadoso da equipe multiprofissional e deve envolver uma avaliação da segurança do ambiente domiciliar do paciente para a continuidade dos cuidados(5).
+
+Recomendação para o cuidado de enfermagem domiciliar em casos de COVID-19
+
+Nos casos em que os cuidados devem ser prestados no domicílio, se possível, o enfermeiro deve realizar uma avaliação para verificar se o ambiente residencial é adequado para a continuidade da prestação de cuidados; o profissional de saúde deve avaliar se o paciente e a família são capazes de aderir às precauções recomendadas como parte do isolamento do atendimento domiciliar (p.ex., higiene das mãos, higiene respiratória, limpeza ambiental, limitações de movimento ao redor ou em casa) e pode abordar questões de segurança, tais como ingestão acidental e riscos de incêndio associados ao uso de fricção à base de álcool(3,5).
+
+Se e sempre que possível, um vínculo de comunicação com o enfermeiro ou equipe de saúde, ou ambos, deve ser estabelecido durante o período do atendimento domiciliar, isto é, até que os sintomas do paciente sejam completamente resolvidos(3). Porém, são necessárias informações abrangentes sobre a COVID-19 e sua transmissão para definir a duração das precauções de isolamento em casa. Os pacientes e membros da família devem ser informados sobre higiene pessoal, medidas básicas de prevenção e controle de infecção para que possam cuidar da maneira mais segura possível da pessoa suspeita de ter COVID-19, a fim de evitar que a infecção se espalhe para os contatos da família(3,5). O paciente e os membros da família devem receber apoio e educação contínuos, e o monitoramento deve continuar durante o atendimento domiciliar. Os enfermeiros devem orientar pacientes e familiares a seguirem as recomendações explicitadas nos Quadros 1 e 2, respectivamente.
+
+Quadro 1 Recomendações para os pacientes 
+Nota:
+
+*Se o paciente não tiver condições de realizar as tarefas citadas acima, é necessário que o familiar cuidador o auxilie
+O enfermeiro, ao realizar o preparo para o cuidado domiciliar, deve selecionar os materiais necessários, deve realizar uma avaliação de risco para escolher o equipamento de proteção individual de forma adequada e, nesse caso, seguir as recomendações para precauções de contato e gotículas, e outras, conforme explicitado no Quadro 3.
+
+Quadro 3 Recomendações para enfermeiros no cuidado domiciliar 
+CONSIDERAÇÕES FINAIS
+
+Esta reflexão teve o objetivo de propor recomendações baseadas nas evidências mais recentes para guiar os enfermeiros que atuam no domicílio na prevenção e controle de infecção de pacientes confirmados ou com suspeita de COVID- 19.
+
+Espera-se que estas orientações promovam estratégias práticas para o cuidado de enfermagem domiciliar junto às pessoas e às comunidades, visando ampliar o engajamento e atitude na busca pela melhor resolução dos casos e situações de risco à saúde em seus contextos reais e potenciais.
+
+Acredita-se que as recomendações ora realizadas possam contribuir para a ampliação das discussões sobre o cuidado de enfermagem domiciliar no contexto da COVID-19, bem como nortear ações para melhorar a assistência no que se refere ao cuidado seguro do paciente, família e território.
+
+Dessa forma, este estudo se caracteriza como um passo inicial na discussão do cuidado domiciliar da COVID-19; poderá oferecer subsídios para novas reflexões que promovam e elucidem melhor as contribuições da enfermagem com base na evolução do cenário mundial e brasileiro, contribuindo para o ensino e pesquisa.
+
+Como limitação, tem-se que estas orientações envolvem a necessidade de adequação das estruturas políticas, sociais e profissionais, para que assim o profissional possa aplicar, incorporar e concretizar tais práticas.

@@ -1,0 +1,263 @@
+Recomendações sobre a Utilização de Fármacos
+Psicotrópicos durante a Pandemia COVID-19
+RESUMO
+Introdução: A pandemia de COVID-19 constitui uma ameaça particularmente relevante para os portadores de doença mental e um
+novo desafio para os profissionais que os acompanham. Até à data, tanto quanto sabemos, não existe qualquer revisão abrangente
+publicada relativamente à utilização de fármacos psicotrópicos durante a pandemia COVID-19.
+Material e Métodos: Revisão não sistemática da literatura. A pesquisa na PubMed foi realizada com os termos ‘psychotropic drugs’,
+‘COVID-19’, ‘psychiatry’ e ‘pandemic’. Foram incluídos os consensos e as normas publicadas pelas sociedades científicas, entidades
+governamentais e agências regulamentares de medicamentos.
+Resultados e Discussão: Apresentam-se recomendações relativamente à utilização de psicofármacos durante a pandemia
+COVID-19, em contexto de ambulatório e de internamento. O tratamento da perturbação afetiva bipolar e da esquizofrenia tem agora dificuldades acrescidas. Alguns psicofármacos interferem com os mecanismos fisiopatológicos envolvidos na infeção pelo novo
+coronavírus e têm interações com os fármacos utilizados no tratamento da COVID-19. Em doentes com COVID-19 e com delirium,
+a utilização de psicofármacos poderá ser necessária. A cessação tabágica altera os níveis séricos de alguns psicofármacos e pode
+condicionar a sua utilização.
+Conclusão: A pandemia de COVID-19 coloca novos desafios na prática clínica. Os doentes psiquiátricos constituem uma população
+vulnerável, sendo frequentemente necessária uma avaliação clínica, laboratorial e eletrocardiográfica cuidadosa, naqueles com o
+diagnóstico de COVID-19. Os doentes mentais com COVID-19 apresentam uma complexidade acrescida na gestão da sua terapêutica
+habitual
+Palavras-chave: COVID-19; Fármacos Psicotrópicos; Pandemia; Psiquiatria
+INTRODUÇÃO
+A pandemia de COVID-19 representa uma ameaça particularmente relevante para os doentes mentais e um novo
+desafio para os profissionais que os acompanham. É admissível que estes doentes tenham uma maior vulnerabilidade
+para a infeção COVID-19, atendendo às características biológicas (elevado número de fumadores com compromisso
+respiratório e ao risco de desenvolvimento de complicações associadas às síndromas metabólicas), às psicológicas (má
+adesão ao confinamento, incumprimento de regras) e sociais (compromisso social, pobreza, limitação do acesso precoce
+a cuidados de saúde).
+Aproximadamente 14% dos doentes com COVID-19 desenvolvem doença grave com necessidade de hospitalização1
+e 5% podem apresentar critérios de admissão em unidades de cuidados intensivos (UCI).1,2 É de antecipar que possam
+vir a existir doentes mentais infetados que necessitem quer de internamento em unidades de Medicina/ UCI, atendendo à 
+gravidade da doença, quer de internamento prioritariamente psiquiátrico em área dedicada ao COVID-19 (ADC) hospitalar.
+Até à data não se encontrou nenhuma revisão abrangente relativa à utilização de psicofármacos durante a pandemia
+COVID-19. Pretende-se rever as recomendações relativas à abordagem psicofarmacológica, durante a pandemia, dos
+doentes mentais, independentemente de estarem infetados ou não.
+MATERIAIS E MÉTODOS
+Foi efetuada uma revisão não sistemática da literatura com o objetivo de pesquisar artigos científicos sobre o uso de
+fármacos psicotrópicos durante a pandemia COVID-19. Os autores identificaram resumos e textos completos da base de
+dados PubMed até 19 de abril de 2020. Os termos MeSH usados na pesquisa foram: ‘psychotropic drugs’, ‘COVID-19’,
+‘psychiatry’ e ‘pandemic’. Adicionalmente, foram revistas as referências dos estudos encontrados para identificar eventuais publicações complementares.
+Foram, também, incluídos consensos e normas de orientação clínica sobre fármacos psicotrópicos e a abordagem
+da infeção COVID-19. Estes documentos foram publicados por sociedades científicas (Royal College of Psychiatrists e
+American Psychiatric Association), entidades governamentais [Direção-Geral da Saúde (DGS) e National Health Service]
+e agências regulamentares de medicamentos de Portugal, do Reino Unido e dos Estados Unidos da América. A extração
+de dados foi efetuada independentemente por dois dos investigadores. 
+RESULTADOS E DISCUSSÃO
+1. Abordagem dos portadores de doença mental com COVID-19
+A norma da DGS n.º 011/2020 introduziu o modelo de intervenção em serviços de Psiquiatria e Saúde Mental, nas
+várias vertentes assistenciais.3
+ A referida norma advoga que doentes mentais com COVID-19 deverão ser transferidos
+para uma enfermaria COVID-19 (com apoio da Psiquiatria de Ligação), pelo risco potencial de contágio a outros doentes
+e a profissionais e risco de descompensação não psiquiátrica da doença.3
+ Contudo, a decisão sobre o serviço ou unidade
+em que o doente deverá ser internado e também o nível de cuidado compete ao responsável pela ADC hospitalar.3
+Nas situações em que o internamento de um doente mental com COVID-19 observado em ADC não seja possível,
+poderá ser necessária a prestação de cuidados em enfermaria de Psiquiatria na ausência de critérios de gravidade associados à infeção (Fig.1).
+As orientações resultantes da nossa pesquisa destinam-se ao tratamento psicofarmacológico de doentes internados
+e em ambulatório durante a pandemia COVID-19, sendo que o tratamento da perturbação afetiva bipolar (PAB) (Fig. 2) e
+da esquizofrenia (Fig. 3) poderá revelar dificuldades acrescidas.
+2. Recomendações quanto ao uso de psicofármacos (em doentes infetados e não infetados)
+Lítio
+A principal indicação do lítio é no tratamento da PAB.4
+ Nos doentes com episódios maníacos decorrentes de PAB é
+recomendável o início do tratamento em monoterapia ou a utilização alternativa de antipsicóticos de segunda geração.
+Nos doentes com episódio maníaco que responderam ao tratamento com antipsicóticos, a sua utilização estará indicada
+para a prevenção das recorrências.
+O lítio apresenta uma janela terapêutica estreita, pelo que a sua monitorização está recomendada para excluir a
+existência de níveis plasmáticos superiores a 1,5 mmoL/L que, geralmente, estão associados a toxicidade.5
+ A determinação dos seus níveis deve ser realizada, idealmente, 12 horas após a última administração.6
+ Existem vários fatores que
+conduzem a um aumento da sua concentração plasmática, nomeadamente, hiponatremia, desidratação e interação com
+inibidores da enzima conversora de angiotensina II (IECA), antagonistas dos recetores de angiotensina II (ARA2), diuréticos tiazídicos e anti-inflamatórios não esteroides (AINEs).5,6 Estes fármacos podem aumentar a concentração de lítio em
+até quatro vezes o seu valor habitual.5
+O lítio está contraindicado na insuficiência renal grave e na insuficiência cardíaca.4
+ Níveis tóxicos de lítio podem estar
+associados a alterações de gravidade variável a nível gastrointestinal, cardiovascular e no sistema nervoso central (SNC),
+podendo, nalguns casos, conduzir à morte.4
+ A redução da dose diária ou a interrupção do lítio deverá ser considerada na
+presença de sinais de toxicidade. O tratamento de eleição na intoxicação grave por lítio é a hemodiálise4
+, indicado quando a litemia está acima de 2,5 a 3 mmoL/L5,6 e existe deterioração clínica (alterações neurológicas graves, compromisso
+cardiovascular e insuficiência respiratória).4,5
+Os doentes com COVID-19 poderão apresentar um risco aumentado de desenvolver toxicidade induzida pelo lítio,
+através de diversos mecanismos. O estado febril está associado a mecanismos periféricos em resposta ao aumento de
+temperatura desencadeado pelo centro termorregulador, nomeadamente, vasodilatação, sudorese e consequente desidratação e hipovolémia.7,8 Adicionalmente, os doentes podem estar medicados com AINEs ou com outros fármacos com
+potencial de interação (havendo alguma evidência de que a furosemida possa ser mais segura do que a hidroclorotiazida).4,9
+
+Todavia, se a necessidade da administração de fármacos com potencial de interação for imperiosa, recomenda-se
+essa administração na menor dose possível, bem como a realização do doseamento do lítio antes e de forma regular
+durante esse período. Deve ser evitada a prescrição destes fármacos de forma intermitente, pois as oscilações das concentrações são maiores e imprevisíveis.
+A avaliação do risco-benefício relativamente à instituição e manutenção da terapêutica com lítio é efetuada em função
+de cada doente, tendo presente que a sua interrupção súbita está associada a aumento do risco de recaída e que a sua
+eficácia pode ficar comprometida (Fig. 2).6
+Valproato de sódio
+É reconhecida a indicação do valproato de sódio (antiepilético e anticonvulsivante) no tratamento do episódio maníaco
+associado à PAB, quando o lítio está contraindicado ou não é tolerado.10 Está também indicado na terapêutica de manutenção em doentes com episódio de mania aguda anterior que responderam ao tratamento com valproato.10
+O valproato de sódio apresenta uma janela terapêutica mais ampla comparativamente ao lítio.5
+ No contexto da pandemia, os efeitos adversos que se consideram mais relevantes são a existência de alterações do perfil hepático (frequentemente, transitórias e, raramente, associadas a hepatite fulminante), leucopenia e trombocitopénia.6
+ Muitos dos efeitos
+adversos relacionam-se com a sua concentração plasmática elevada. A frequência e gravidade das manifestações está
+associada a níveis séricos superiores a 100 mg/dL.6
+A disfunção hepática significativa constitui uma contraindicação do valproato de sódio.10 Este possui uma forte ligação
+plasmática a proteínas. Em UCI, a hipoproteinemia é comum, a ligação do valproato de sódio às proteínas plasmáticas é
+imprevisível e a sua concentração total não é preditora da sua fração livre (mesmo corrigida para a albumina),11 pelo que
+se sugere uma monitorização da fração livre mais regular nestes doentes.
+A inibição do metabolismo do valproato de sódio pelo ácido acetilsalicílico (em doses superiores a 300 mg/dia) está
+descrita, bem como o aumento da concentração plasmática de varfarina quando coadministrada com este estabilizador
+de humor.6,10 A utilização concomitante destes fármacos deve ser feita com precaução, recomendando-se a monitorização
+da valproatémia.
+Clozapina
+O tratamento da esquizofrenia durante a pandemia COVID-19 poderá revelar-se mais complexo (Fig. 3), particularmente nos doentes medicados com clozapina.
+A clozapina está indicada no tratamento da esquizofrenia resistente ao tratamento6,12,13 e em perturbações psicóticas
+que ocorrem durante o curso da doença de Parkinson, nos casos em que o tratamento convencional não mostrou eficácia.13
+Uma das complicações mais graves associadas à clozapina é a agranulocitose, a qual pode conduzir a sépsis e ser
+fatal.7,15,17 Por isso, a sua utilização deverá ser limitada a doentes que apresentem inicialmente níveis leucocitários normais [contagem leucocitária superior a 3500/mm3
+ (3,5 x 109
+/L) e contagens absolutas de neutrófilos (CAN) superiores a
+2000/mm3
+ (2,0 x 109
+/L)], e nos quais possam ser efetuadas contagens leucocitárias e CAN semanalmente nas primeiras
+18 semanas de tratamento e, depois, em intervalos de, pelo menos, quatro semanas.13,15 A monitorização tem de continuar
+durante o tratamento e durante quatro semanas após a interrupção completa da clozapina.13,15 Embora sendo necessária
+a determinação dos níveis séricos de clozapina, nem todos os laboratórios têm capacidade para a realizar.
+O desenvolvimento de neutropenia é um indicador de risco aumentado de agranulocitose (CAN inferior a 0,5 x 109
+/L),14
+não é dose-dependente e, geralmente, ocorre nas primeiras 18 semanas de tratamento.13 As incidências de neutropenia
+e de agranulocitose são de, respetivamente, 0,8% e 3%.14
+Pelo risco de exposição à COVID-19, a realização do controlo hematológico regular pode implicar riscos acrescidos.
+Por outro lado, doentes em quarentena têm limitações na acessibilidade à realização de exames laboratoriais.16 A omissão transitória do controlo analítico pode ser considerada uma estratégia razoável12 em doentes medicados com clozapina há mais de um ano, sem alterações prévias no hemograma,17 e que integrem o grupo de risco associado à doença
+COVID-19.
+A realização de uma avaliação médica urgente, incluindo a realização de hemograma, está indicada nos doentes que
+apresentem sintomas sugestivos de infeção respiratória (tosse, febre, odinofagia ou outros sintomas do tipo gripal).17–19
+Em caso de COVID-19, sugere-se uma avaliação clínica com pesquisa de sinais de toxicidade induzida pela clozapina,
+a realização do hemograma completo e a determinação dos níveis séricos de clozapina.18
+A redução da dose em doentes infetados sem critérios de gravidade, não fumadores, não tem evidência robusta.
+Alguns autores referem que a clozapina está associada a um aumento de risco de pneumonia devido à sialorreia e consequente aspiração17 e através de mecanismos imuno-mediados.17,20 Todavia, o risco de recaída da psicose é elevado após
+redução ou suspensão da dose, particularmente, se houver uma descontinuação súbita.17
+Em doentes febris, a redução da dose para metade está indicada na presença de manifestações de toxicidade induzida pela clozapina (sedação excessiva, mioclonias e convulsões) e esta dose deverá ser mantida até ao final do terceiro 
+dia de apirexia.17
+As alterações na fórmula leucocitária dos doentes com COVID-19 são variáveis, sendo a linfopenia o achado mais
+comum.21 A continuação do tratamento com clozapina é segura em doentes que apresentem leucopenia associada a uma
+CAN normal ou ligeiramente reduzida,14 na ausência de contraindicações. A abordagem dos doentes com neutropenia
+está descrita na Fig. 4.
+O nível sérico de clozapina pode estar aumentado devido a alterações do seu metabolismo e/ou à cessação tabágica,14,17,18 devendo-se ponderar um ajuste de dose nestes doentes.
+Em doentes com depressão do SNC, compromisso da função renal ou cardíaca grave e/ou doença hepática,13 a
+clozapina está contraindicada. Se tiver havido descontinuação da clozapina durante um período superior a 48 horas, é
+necessário fazer de novo a titulação deste fármaco.18
+Em doentes com toracalgia e dispneia, o diagnóstico diferencial deve incluir, para além da suspeita de infeção COVID-19, infeções não-COVID12,14 associadas a neutropenia e outras doenças inflamatórias não infeciosas, como a miocardite (em que a interrupção de clozapina está indicada).13 Contudo, sabe-se que doentes com COVID-19 podem apresentar cardiomiopatia.21
+Antipsicóticos injetáveis de libertação prolongada (APILP)
+A periodicidade de administração de APILP depende da substância ativa. Nas situações em que não existe possibilidade de administrar o APILP da forma e na frequência habituais, podem ser consideradas várias estratégias.18,22 Sempre
+que possível, sugere-se a escolha de um APILP com um maior intervalo de administração.
+Em doentes estáveis medicados quinzenalmente com solução injetável de risperidona de libertação prolongada, sugere-se a mudança para palmitato de paliperidona na dose equivalente, atendendo à sua maior semi-vida.22 Nos doentes
+medicados com injetável mensal de palmitato de paliperidona, com estabilidade clínica há, pelo menos, seis meses,
+sugere-se a formulação de administração trimestral, na dose equivalente.22
+Após alteração do esquema terapêutico, o doente deverá ser reavaliado uma semana depois.22
+Em doentes com suspeita ou diagnóstico de infeção por COVID-19, a administração deverá ser feita, preferencialmente, no domicílio, pelo profissional de saúde, com equipamento de proteção individual (EPI) adequado.
+Em situações particulares, pode ser diferida a administração do APILP18 e optar-se pela formulação oral (por exemplo,
+num doente com critérios de gravidade).
+Os resumos das caraterísticas de cada um destes medicamentos (RCM) contêm orientações relativas a situações em
+que existe a omissão da administração prevista do APILP.
+Benzodiazepinas
+As benzodiazepinas estão aprovadas no tratamento sintomático da ansiedade e da insónia.23 Também podem ser utilizadas no tratamento da abstinência alcoólica ou como coadjuvantes no tratamento de outras perturbações psiquiátricas,
+particularmente, em quadros de descompensação que motivam internamento. Apresentam um elevado índice terapêutico,
+sendo que doses terapêuticas podem produzir sedação ligeira, geralmente, sem efeito depressor do centro respiratório e
+sem compromisso cardiovascular.24
+As benzodazepinas diferem entre si pelas suas propriedades farmacocinéticas. Estão contraindicadas na presença
+de insuficiência respiratória grave.23 Situações de depressão respiratória ocorrem quando se verifica a combinação das
+benzodiazepinas com outras substâncias depressoras do SNC (nomeadamente, antidepressivos tricíclicos, opióides ou
+álcool).
+Em doentes com alterações hepáticas, genericamente, as benzodiazepinas devem ser utilizadas com precaução e
+está recomendada a prescrição de oxazepam, lorazepam ou temazepam. Estes fármacos são metabolizados apenas
+por conjugação (reações de fase II), não sofrendo processo de metabolismo hepático de fase I (oxidação, hidroxilação
+ou outras).25 Para doentes com depuração renal inferior a 10 mL/min, sugere-se a redução da dose em 25% a 50%.25
+Doentes idosos, com doença neurológica ou perturbação da personalidade têm risco acrescido de apresentarem reações
+paradoxais.
+Na presença de repercussões sistémicas associadas a COVID-19 em doentes sob terapêutica benzodiazepínica,
+podem colocar-se problemas relacionados com o surgimento de um quadro de privação ou a existência de insuficiência
+respiratória, com eventual necessidade de admissão em UCI.
+No contexto de UCI, a evidência atual recomenda a sedação com recurso a fármacos não benzodiazepínicos, em
+doentes com ventilação mecânica invasiva (grau de recomendação 2B).26 A utilização de benzodiazepinas em UCI está
+associada a piores outcomes,27 em termos de sedação excessiva, desenvolvimento de delirium, extubações mais tardias
+e permanência mais prolongada nestas unidades.28
+Opióides (buprenorfina e metadona)
+Os fármacos opióides são usados para terapia de substituição, em manutenção, dos doentes adultos com perturbação
+da dependência de opióides. A depressão respiratória surge essencialmente por diminuição da sensibilidade do centro
+respiratório ao CO2
+. Provavelmente os pacientes que sofrem de dependência a opióides estão em risco aumentado de ser
+infetados.29
+Não se encontraram referências específicas para os riscos de insuficiência respiratória em doentes COVID-19 medicados com opióides. Assim, deverá prevalecer o sentido clínico individual. Os opióides devem ser usados com precaução
+em doentes com reserva respiratória limitada (asma, doença pulmonar obstrutiva crónica ou outras). Devem-se evitar
+aumentos da dose e vigiar cuidadosamente a saturação de oxigénio e os sinais de dificuldade respiratória. A dose deve
+ser reduzida, tanto quanto possível lentamente. Em emergência dever-se-ão usar os antagonistas dos recetores dos
+opióides, particularmente, a naloxona.
+É de realçar que a abstinência a opióides, isoladamente, não conduz à morte, contrariamente à privação alcoólica.6
+Outros fármacos
+Para além dos fármacos referidos, alguns antidepressivos (antidepressivos tricíclicos, mirtazapina e trazodona) e
+alguns antipsicóticos (clorpromazina, levomepromazina, ciamemazina, clozapina, quetiapina e olanzapina) apresentam
+propriedades sedativas6
+, pelo que a sua prescrição deverá ser criteriosa.
+3. COVID-19 e manifestações neuropsiquiátricas
+As manifestações psiquiátricas num doente com uma determinada infeção viral podem decorrer do envolvimento
+primário do SNC, dos efeitos secundários produzidos pela resposta imunomediada ou, indiretamente, através de efeitos
+sistémicos.30 Dados recentemente publicados sugerem que o novo coronavírus tem propriedades neurotrópicas,31 podendo conduzir ao aparecimento de sintomas neuropsiquiátricos.
+Síndrome confusional aguda
+A síndrome confusional aguda (SCA) é uma das causas mais frequentes de manifestações psicopatológicas em doentes internados noutras especialidades, sendo mais comum nas pessoas de idade mais avançada,32–34 nos quadros de
+maior gravidade e na presença de défices sensoriais e demência.33,34 A desorientação, flutuação do estado de consciência
+e diminuição da atenção podem constituir a apresentação clínica da infeção COVID-19 em idosos, dado que que a febre
+é menos comum nesta população e nem todos os doentes infetados apresentam tosse ou dispneia.
+A infeção, fármacos sedativos e/ou anticolinérgicos e exacerbação de doença crónica são alguns fatores que podem
+estar presentes num doente com COVID-19 e que são precipitantes do SCA.34 Este quadro pode ocorrer sob a forma
+hiperativa, hipoativa (mais comum e associada a pior prognóstico) ou mista.34
+Nos doentes com SCA importa pesquisar a existência de etiologias metabólicas, tóxicas e farmacológicas, entre outras.
+As intervenções de primeira linha são dirigidas à causa da SCA34 e utilizam-se, preferencialmente, estratégias não
+farmacológicas na gestão das alterações do comportamento.34 Contudo, a sua implementação na população de doentes
+COVID-19 é limitada. A utilização de EPI e o isolamento podem conduzir ao agravamento do quadro.33
+No tratamento do SCA em doentes COVID-19 sugere-se a utilização de haloperidol (0,5 – 2 mg; máximo: 3 – 5 mg/
+dia), risperidona (0,25 – 0,5 mg; máximo 3 mg/dia), quetiapina (12,5 – 50 mg; máximo: 50 – 100 mg/dia), olanzapina (2,5
+– 5 mg; máximo: 10 – 20 mg/dia) e lorazepam (0,25 – 1 mg; máximo: 2 mg/dia).26,32–34 No entanto, nem todos os doentes
+poderão responder a estas estratégias, pelo que se torna necessária a articulação com a Psiquiatria de Ligação.
+Está recomendada a utilização de um antipsicótico na menor dose possível. O haloperidol é, geralmente, um dos fármacos de primeira linha, devendo ser utilizado com precaução pelo risco de desenvolvimento de sintomas extrapiramidais
+(SEP) e pelo seu potencial arritmogénico. Em pacientes com doenças neurológicas com sintomas motores, sugere-se a
+escolha da quetiapina, a qual apresenta um perfil de menor risco de desenvolvimento de SEP. Na doença de Corpos de
+Lewy pode haver um aumento da sensibilidade aos antipsicóticos, com consequente necessidade de escolha adequada
+do antipsicótico e de ajuste da sua dose.
+4. Psicofármacos e medicamentos usados no tratamento da COVID-19
+Atualmente, em Portugal, não existem fármacos com indicação regulamentar no tratamento da doença provocada pelo
+novo coronavírus. Recentemente, o Infarmed recomendou a suspensão da utilização de hidroxicloroquina,35 pelo risco de
+desenvolvimento de efeitos adversos potencialmente graves. De qualquer forma, estão descritas interações entre algumas das potenciais intervenções medicamentosas no tratamento da doença COVID-19 e vários psicofármacos (Tabela
+1),36-39 nomeadamente, no que respeita ao prolongamento do intervalo QT e à redução do limiar convulsivo.
+O risco de prolongamento do intervalo QT e de torsades de pointes está aumentado se duração do intervalo QT corrigido for superior a 450 ms nos homens e a 470 ms nas mulheres.6
+ Nos doentes COVID-19 medicados com fármacos associados ao prolongamento do intervalo QT e com outros fatores de risco (doença cardíaca e distúrbios hidroeletrolíticos),
+recomenda-se uma monitorização eletrocardiográfica mais frequente.
+A redução do limiar convulsivo está descrita quando há coadministração de lopinavir/ ritonavir e valproato (por redução
+dos seus níveis séricos)40 e nos doentes medicados com cloroquina ou hidroxicloroquina.37 Os antipsicóticos podem também diminuir o limiar convulsivo, pelo que a sua administração com fármacos com potencial de interação deverá ser feita
+com precaução.
+A utilização de clozapina e quetiapina está contraindicada em doentes medicados com ritonavir, devido ao aumento
+das suas concentrações plasmáticas e risco de toxicidade associada.36 O lopinavir e ritonavir são indutores da glucuronidação da lamotrigina, pelo que em doentes medicados com este psicofármaco dever-se-á ter em consideração os regimes
+de escalonamento ou suspensão propostos no RCM.41
+Apesar da administração lopinavir/ ritonavir estar associada a um aumento dos níveis séricos da buprenorfina, a relevância clínica deste aspeto tem sido questionada e vários autores referem não parecer haver necessidade de alteração
+da dose.42,43 Recomenda-se, assim, vigilância e prudência na associação, ponderando mudanças de dose de acordo com
+o eventual surgimento de efeitos tóxicos.
+Os eventos adversos psiquiátricos mais importantes associados à terapêutica da infeção COVID-19, pela sua frequência ou gravidade, são: os comportamentos suicidários (raros) e sintomas psicóticos com a hidroxicloroquina44; a ansiedade
+com o lopinavir/ ritonavir45 e as manifestações psicóticas ou maniformes com glucocorticóides.5
+5. Outras considerações
+Psicofármacos e termorregulação
+Durante um quadro infeccioso, pode ocorrer a perda de equilíbrio entre os mecanismos de termogénese e termólise
+(como a vasodilatação e a sudorese),46 o que pode associar-se à SCA.
+A transmissão colinérgica a nível do hipotálamo e a transmissão dopaminérgica na área pré-ótica e no hipotálamo
+anterior têm um papel no centro termorregulador.47,48 Alterações na transmissão colinérgica a nível central, mas também a
+nível dos recetores muscarínicos M2 das glândulas sudoríparas, interferem na termorregulação.48 Alguns fármacos podem
+ainda causar febre através da estimulação da resposta imune ou por possuírem propriedades pirogénicas intrínsecas.47
+As principais classes de psicofármacos com ações anticolinérgicas47,48 que poderão agravar estados febris são os
+antipsicóticos (particularmente as fenotiazinas alifáticas e piperidínicas, a clozapina, e antipsicóticos de segunda geração
+tais como a olanzapina e a quetiapina), alguns antidepressivos (nomeadamente os antidepressivos tricíclicos) e os fármacos utilizados no tratamento de SEP (cloridrato de biperideno e cloridrato de triexifenidilo). Sugere-se uma utilização
+criteriosa destes fármacos, particularmente nos doentes com critérios de gravidade.
+Psicofármacos e cessação tabágica
+O consumo de tabaco está relacionado com a indução de enzimas hepáticas, particularmente do CYP1A2.12 Durante a
+pandemia, alguns doentes poderão reduzir ou cessar os seus consumos, o que poderá levar ao aumento da concentração
+plasmática de alguns fármacos. Aconselha-se a avaliação clinico-laboratorial, podendo ser necessária uma redução da
+dose de alguns psicofármacos (nomeadamente clozapina, olanzapina e fluvoxamina). É pouco provável que a terapêutica
+de substituição da nicotina seja uma alternativa terapêutica, uma vez que esta não parece induzir o metabolismo hepático.18
+CONCLUSÃO
+A pandemia de COVID-19 coloca novos desafios na prática clínica. Os doentes psiquiátricos constituem uma população vulnerável, sendo frequentemente necessária uma avaliação clínica, laboratorial e eletrocardiográfica cuidadosa,
+particularmente naqueles com o diagnóstico de COVID-19. Os doentes mentais com COVID-19 apresentam uma complexidade acrescida na gestão da sua terapêutica habitual.
+Estas recomendações pretendem ser úteis e têm como objetivo apresentar o racional clínico subjacente às estratégias
+psicofarmacológicas, de forma a minimizar os riscos associados. 

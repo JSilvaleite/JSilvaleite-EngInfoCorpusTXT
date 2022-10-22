@@ -1,0 +1,90 @@
+Recomendações para realização de anestesia loco‐regional durante a pandemia de COVID‐19
+Resumo
+Desde o início da pandemia de COVID‐19, muitas questões surgiram referentes à segurança do manejo anestésico de pacientes acometidos pela doença. A anestesia regional, seja esta periférica ou neuroaxial, é alternativa segura no manejo do paciente COVID‐19, desde que o emprego de modalidades que minimizam o comprometimento da função pulmonar seja escolhido. A adoção dessa técnica anestésica minimiza os efeitos adversos no pós‐operatório e oferece segurança para o paciente e equipe, desde que sejam respeitados os cuidados com proteção individual e de contágio interpessoal. Respeito às contraindicações e emprego criterioso das técnicas e normas de segurança são fundamentais. Este manuscrito tem por objetivo revisar as evidências disponíveis sobre anestesia regional em pacientes com COVID‐19 e oferecer recomendações práticas para sua realização segura e eficiente.
+Palavras‐chave: COVID‐19, Anestesia regional, Anestesia peridural, Raquianestesia
+Introdução
+A pandemia de COVID‐19 expõe toda a equipe médica e, principalmente, o anestesista, a grande risco de contaminação. Em se tratando de doença com alto potencial de gravidade, especialmente para a população de risco, devido ao alto risco de contágio e de transmissão para terceiros durante o seu período assintomático, a adoção de medidas preventivas é necessária.
+
+As alterações fisiopatológicas da doença e os fármacos empregados no seu tratamento podem interagir com os anestésicos e técnicas anestésicas, provocando desfechos desfavoráveis.
+
+A American Society of Regional Anestesia – ASRA,1 a European Society of Regional Anesthesia and Pain Medicine – ESRA2 e a European Society of Anesthesiology – ESA3 emitiram recomendações sobre a utilização da anestesia regional no paciente portador de COVID‐19. Tais recomendações foram revisadas em parceria com a Latin American Society of Regional Anesthesia – LASRA (capítulo Brasil) e a Sociedade Brasileira de Anestesiologia – SBA, fornecendo ao anestesista recomendações práticas para o manejo seguro dos pacientes (fig. 1 ). É importante ressaltar que, frente à alta incidência de portadores assintomáticos da doença, essas recomendações também devem ser consideradas em casos nos quais a suspeição da doença está presente.
+
+Por que anestesia regional?
+A anestesia geral requer abordagem da via aérea, situação na qual existe grande risco de contágio da doença pela equipe médica, principalmente para os anestesistas, devido à produção de aerossóis.4, 5 Técnicas para minimizar a geração de aerossóis, tais como indução em sequência rápida,6 implicam em maior risco de lesões, falhas de intubação e necessidade de ventilação com balão‐máscara por dessaturação. O risco de transmissão da infecção respiratória aguda para os profissionais de saúde durante a intubação traqueal é 6,6 vezes maior no grupo exposto a essa técnica.2
+
+A anestesia geral não produz analgesia pós‐operatória, demandando o uso de analgésicos diversos para o controle da dor, como opioides, anti‐inflamatórios e adjuvantes (clonidina, dexmedetomidina, cetamina, sulfato de magnésio, lidocaína). Tais medicações podem interagir com as diversas terapêuticas atualmente utilizadas no tratamento da COVID‐19 e produzir efeitos colaterais que se somam às alterações fisiopatológicas, com potenciais efeitos adversos.
+
+Náuseas e vômitos (PONV) são frequentes após a anestesia geral, potencializando o risco de contágio dos profissionais de saúde e o desconforto do doente. As medicações utilizadas no tratamento e profilaxia de PONV podem ter efeitos adversos no paciente com COVID‐19. A anestesia regional produz analgesia por tempo prolongado, muitas vezes por 24 horas ou mais, diminuindo o consumo de analgésicos, e tem potencial para reduzir a incidência de PONV.
+
+Até o presente momento, não existem evidências na literatura de que a anestesia regional agrave o quadro de COVD‐19 ou tenha efeitos adversos específicos nos pacientes com essa doença. Evidências sugerem que a anestesia regional, incluindo os bloqueios de neuroeixo,7, 8 seja segura. Há, porém, evidências sugerindo maior incidência de hipotensão arterial após bloqueio de neuroeixo,9 como será discutido mais adiante neste artigo. Assim, a anestesia regional torna‐se alternativa interessante nos pacientes com COVID‐19.10, 11, 12
+
+Avaliação pré‐anestésica
+Sinais e sintomas sugestivos de COVID‐19, como dispneia, fadiga, febre, tosse seca e cefaleia, devem ser registrados, pois permitem a triagem dos casos suspeitos e a adoção imediata de medidas protetoras. Nos casos confirmados, o registro deve ser realizado de forma clara e de fácil visualização.
+
+A situação clínica do paciente frente à infecção deve ser registrada no prontuário, como, por exemplo, caso confirmado, caso suspeito (incluindo contato com casos confirmados e suspeitos), e caso sem suspeita de COVID‐19.13 Os resultados dos exames diagnósticos devem ser registrados.
+
+Exames negativos, principalmente nos primeiros dias da doença, não descartam o diagnóstico de COVID‐19. Em caso de dúvidas, o paciente deve ser considerado positivo para a doença, até que os exames possam descartar o contágio.
+
+A avaliação pré‐anestésica deve incluir todas as medicações utilizadas no momento pelo paciente diagnosticado com COVID‐19, já que estas podem causar efeitos adversos. A hidroxicloroquina, por exemplo, pode aumentar o intervalo QT, tendo, portanto, o potencial de causar arritmias graves e, até parada cardiorrespiratória, principalmente em pacientes que empregam outras medicações com esse mesmo efeito adverso. Desta forma, todas as medicações utilizadas pelo paciente devem ser registradas.
+
+A COVID‐19 produz quadro de insuficiência respiratória aguda, com importante alteração na relação ventilação‐perfusão14 e shunt pulmonar, causando dessaturação da hemoglobina e retenção de dióxido de carbono (CO2). A adequada avaliação da função respiratória deve incluir contagem da frequência respiratória, da saturação da hemoglobina e sinais e sintomas de insuficiência ou desconforto respiratório.
+
+Hipotensão arterial e instabilidade hemodinâmica podem ocorrer no paciente com COVID‐19. O conhecimento das medicações em uso é extremamente importante, pois sua somatória com alguns dos atuais tratamentos podem causar alterações cardíacas, como arritmias. A avaliação do sistema cardiocirculatório deve incluir pressão arterial, frequência cardíaca, perfusão periférica e eletrocardiograma. Sinais de insuficiência circulatória e choque, tais como palidez, alteração do nível de consciência e alteração na perfusão periférica devem ser registrados. Chen e colaboradores relataram hipotensão significativa durante a anestesia peridural em gestantes.9 Os episódios de hipotensão foram frustros, de moderada intensidade (≤ 30% de redução em relação aos valores basais) e foram tratados efetivamente com a administração de vasopressores (fenilefrina), infusão de líquidos e deslocamento uterino para a esquerda. Possível explicação para os episódios mais frequentes de hipotensão arterial nos pacientes com COVID‐19 é o fato de que o vírus SARS‐CoV‐2 liga‐se ao receptor da enzima conversora da Angiotensina II, prejudicando seu desempenho normal. Este receptor desempenha o papel de fator protetor cardio‐cérebro‐vascular, regulando a pressão arterial e tendo efeito anti‐aterosclerótico.15
+
+A COVID‐19 pode causar trombocitopenia.16 Devido ao seu potencial efeito trombogênico, os pacientes com diagnóstico da COVID‐19 frequentemente estão em uso de anticoagulantes. É fundamental a coleta de exames para análise da coagulação sanguínea sempre que possível, além do conhecimento sobre as recomendações em relação ao uso de fármacos anticoagulantes e bloqueios regionais.17
+
+Insuficiência hepática e renal pode ocorrer nos casos mais graves. A coleta de exames de sangue é útil nestes casos para diagnóstico e acompanhamento da evolução destas disfunções orgânicas.
+
+Sintomas neurológicos têm sido descritos em pacientes com COVID‐19.18 Estes sintomas podem ser divididos em duas categorias: 1) Sintomas do Sistema Nervoso Central (SNC), como cefaleia, tontura, doença cerebrovascular aguda e epilepsia; e 2) Sintomas do sistema nervoso periférico, como anosmia, hipogeusia, hipopsia e neuralgias. Portanto, frente à decisão sobre qual técnica anestésica é mais apropriada e segura para os pacientes confirmados ou suspeitos de COVID‐19, torna‐se imperativa a pesquisa criteriosa dos sintomas neurológicos potencialmente presentes, da mesma forma que se faz com os sintomas pulmonares ou cardiovasculares comuns nesses pacientes.19 Desta forma, podemos nos deparar com casos nos quais a diferenciação entre cefaleia pós‐punção dural e cefaleia por infecção por SARS‐CoV‐2 seja difícil. Assim como pode ser difícil distinguir entre neuralgia viral e aquela causada por lesão mecânica após bloqueio regional. Por fim, durante a realização da raquianestesia, potencialmente, o vírus SARS‐CoV‐2 pode ser carreado, por meio da agulha, para dentro do SNC. É importante mencionar que não há nenhuma evidência direta desse meio de inoculação do vírus até o momento. Por outro lado, a anestesia geral compromete a barreira hematoencefálica,20 o que pode facilitar a invasão do vírus no SNC. Assim, nos pacientes com sintomas neurológicos presentes, sejam centrais ou periféricos, a avaliação do risco e do benefício da anestesia regional deve ser criteriosa.
+
+Leito em Unidade de Terapia Intensiva (UTI) pode ser necessário para o paciente com COVID‐19. Em estudo retrospectivo com 34 pacientes confirmados para a doença, Lei e colaboradores encontraram mortalidade de 20,5% e necessidade de leito em UTI para 44,1% dos pacientes.21.
+
+Preparo da sala cirúrgica
+A unidade cirúrgica deve ser preparada de forma a evitar o contato e proximidade dos pacientes suspeitos ou confirmados para COVID‐19 com pacientes sem a doença. O paciente deve ser levado imediatamente para a sala cirúrgica onde será avaliado, anestesiado e recuperado, evitando, assim, a contaminação de outras salas e a sua permanência em áreas comuns.
+
+Os materiais e medicamentos a serem utilizados devem ser embalados individualmente.
+
+Todos os pacientes devem ser transportados para a unidade cirúrgica portando máscara cirúrgica. Materiais e medicamentos adicionais podem ser mantidos fora das salas cirúrgicas e dispensados por auxiliar quando requisitados. Recomenda‐se restringir o número de pessoas na sala cirúrgica ao mínimo necessário.11, 22, 23
+
+O uso da monitorização habitual deve ser seguido, conforme determina a Resolução 2170 de 2017 do Conselho Federal de Medicina.
+
+Cuidados para a anestesia regional
+Nos pacientes com distúrbio de coagulação, os bloqueios do neuroeixo são contraindicados. Bloqueios regionais em sítios profundos e não compressíveis também são contraindicados. A anestesia regional em sítios superficiais e compressíveis pode ser realizada, considerando‐se o risco/benefício, nos pacientes com alterações leves a moderadas da coagulação.24, 25
+
+Nos casos de pacientes negativos para COVID‐19 e que não estiveram em situação de risco, a anestesia pode ser realizada com cuidados habituais. O uso de máscara cirúrgica nesses pacientes se justifica, já que existem exames com resultados falso negativos.
+
+O paciente deve ser mantido com máscara cirúrgica sempre que possível e o anestesista deve usar máscara cirúrgica durante todo o contato com o paciente, juntamente com gorro, proteção ocular e luvas.16, 26 A lavagem por pelo menos 20 segundos das mãos é obrigatória, podendo ser substituída por aplicação de álcool 70%.
+
+Nos pacientes confirmados ou suspeitos para a doença, a adoção de medidas de proteção individual é obrigatória, sendo estas: avental impermeável (gramatura mínima de 30 g), uso de luvas de proteção, óculos, uso de máscara facial N95 ou similar e touca.21 Os Equipamentos de Proteção Individual (EPIs) devem ser colocados antes de entrar na sala cirúrgica e devem ser retirados em sala destinada a esse fim, preferencialmente com a presença de um observador atento às possibilidades de contaminação.
+
+Apesar da recomendação favorável ao uso de máscara cirúrgica quando em contato com o paciente com COVID‐19 em procedimentos curtos e não geradores de aerossol,27 deve‐se considerar a possibilidade de falhas de bloqueio, necessidade de assistência ventilatória ou conversão para anestesia geral. Nesses casos, o uso prévio de máscara N95 ou similar evita exposição da equipe em eventual situação de urgência.28 Na eventual escassez da máscara N95, o uso de máscara cirúrgica é aceitável.
+
+A sedação deve ser evitada ou, quando necessária, deve ser leve e realizada com cautela na tentativa de evitar a depressão ventilatória, dessaturação da hemoglobina e necessidade de oxigênio suplementar. Sedação profunda e utilização de máscara laríngea para suplementação de oxigênio devem ser evitadas, nesses casos. A reserva funcional pulmonar dos pacientes estará baixa, aumentando o risco para eventos adversos. Nos pacientes portadores de COVID‐19 recomenda‐se a adoção de técnicas que preservem a função respiratória.
+
+Cateteres nasais de oxigênio podem ser instalados sob a máscara cirúrgica, mas altos fluxos de gases podem aumentar a dispersão de aerossóis e devem ser evitados.29 Hui e colaboradores mostraram que a distância de dispersão do ar exalado lateralmente aumenta com o aumento do fluxo de oxigênio (20 cm, 22 cm, 30 cm e 40 cm em relação ao plano sagital com a utilização de fluxos de oxigênio de 4 L.min‐1, 6 L.min‐1, 8 L.min‐1 e 10 L.min‐1 respectivamente).30 A tosse também pode aumentar essa dispersão para distâncias ainda maiores.11 As máscaras faciais para administração de oxigênio suplementar substituem eficazmente os cateteres nasais, sendo preferível. O uso de máscara cirúrgica sobre a máscara facial reduz a dispersão dos aerossóis.
+
+O fluxo de gás fresco administrado ao paciente deve ser o menor possível para manutenção da oxigenação dentro dos parâmetros normais.
+
+O uso de técnicas assépticas deve ser assegurado, tanto para segurança do paciente, como para a da equipe médica.
+
+O vírus SARS‐CoV‐2 já foi isolado no líquor; por esse motivo, recomenda‐se evitar seu gotejamento durante a anestesia espinhal.31
+
+Os portadores de COVID‐19, como já mencionado anteriormente, podem apresentar instabilidade hemodinâmica, principalmente após bloqueios de neuroeixo, podendo ocorrer intensa hipotensão.13, 32 O emprego de vasopressores pode ser necessário.
+
+A adoção do ultrassom (USG) e de neuroestimuladores durante a realização da anestesia regional deve ser encorajada para melhorar a qualidade do bloqueio e reduzir as chances de falhas, bem como minimizar os riscos de lesões neurológicas.33
+
+A avaliação da instalação do bloqueio deve ser realizada, garantindo a qualidade da anestesia e evitando a necessidade de sedação profunda ou possível conversão para anestesia geral.
+
+É fundamental a escolha adequada do bloqueio e sua realização em ótimas condições, preferencialmente pelo anestesista mais experiente em realização de anestesia regional.
+
+A recuperação pós‐anestésica deve, preferencialmente, ocorrer na sala cirúrgica. Caso não seja possível e o paciente seja encaminhado para sala de recuperação pós‐anestésica comum, junto com outros pacientes, deve‐se manter a distância mínima de 2 metros34 entre eles. Porém, não recomendamos essa prática.
+
+Até o momento não existem recomendações específicas quanto ao manejo da cefaleia pós‐punção nos pacientes com COVID‐19. O bloqueio do gânglio esfenopalatino não deve ser realizado de rotina por se tratar de procedimento com possibilidade de produção de aerossóis, aumentando, assim, o risco de transmissão do SARS‐CoV‐2 para os profissionais de saúde. O uso de tampão sanguíneo peridural deve ser considerado com cautela frente à identificação do vírus no líquor. Há possibilidade de injeção de carga viral significativa, com possibilidade de complicações neurológicas.35 Caso necessário, seu emprego deve ser postergado para após a recuperação da infecção.
+
+Ao término do procedimento, os EPIs devem ser retirados com cautela para evitar a contaminação da equipe.36 O conhecimento prévio da técnica de anestesia regional, assim como de paramentação e de desparamentação de EPIs, o treinamento das equipes e dos profissionais e a utilização de medidas de proteção são as ações mais importantes frente à COVID‐19. Um resumo das recomendações anteriormente descritas está apresentado no infográfico a seguir, adaptado das recomendações americanas e europeias.1
+
+Go to:
+Conclusão
+A anestesia regional é alternativa interessante no manejo do paciente com COVID‐19. A adoção de técnica anestésica adequada minimiza os efeitos adversos no pós‐operatório e oferece segurança para o paciente e para a equipe de saúde, desde que sejam respeitados os cuidados descritos.
+
+O emprego criterioso das técnicas e normas de segurança é fundamental. O conhecimento sobre as particularidades da fisiopatologia da doença e de seus sintomas ajuda na decisão sobre qual é a técnica anestésica mais segura e adequada para cada paciente.

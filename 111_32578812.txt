@@ -1,0 +1,129 @@
+Análise inicial da correlação espacial entre a incidência de COVID-19 e o desenvolvimento humano nos municípios do estado do Ceará no Brasil
+
+RESUMO:
+
+Objetivo:
+
+Analisar a distribuição espacial da incidência de Covid-19 e sua correlação com o índice de desenvolvimento humano municipal (IDHM) dos municípios do Ceará.
+
+Métodos:
+
+Trata-se de um estudo ecológico com dados recuperados da 15ª e da 19ª semana epidemiológica do ano de 2020 utilizando como variáveis o IDHM e o coeficiente de incidência de Covid-19 para cada município. Foi analisada a correlação espacial uni e bivariada por meio dos softwares TerraView e GeoDa.
+
+Resultados:
+
+A incidência da Covid-19 possui dependência espacial com correlação positiva moderada e formação de clusters do tipo alto-alto localizados na região metropolitana de Fortaleza e municípios da região norte. As menores incidências foram cluster tipo baixo-baixo na região sul e na região oeste. Houve correlação bivariada positiva entre IDHM e incidência de Covid-19 com formação de cluster na região metropolitana de Fortaleza.
+
+Conclusão:
+
+O mapeamento desigual de Covid-19 e sua relação com IDHM no Ceará podem contribuir com ações de enfrentamento regional à pandemia.
+Palavras-chave: Coronavírus; Vírus da SARS; Indicadores de desenvolvimento; Mapeamento geográfico
+
+
+INTRODUÇÃO
+
+Em 31 de dezembro de 2019, o escritório da Organização Mundial da Saúde (OMS) na China foi informado sobre casos de pneumonia de etiologia desconhecida detectados na cidade de Wuhan, província de Hubei. Um novo tipo de coronavírus foi isolado em 7 de janeiro de 2020 e novos casos foram confirmados na Tailândia, no Vietnã, no Japão e na Coreia do Sul. Em 30 de janeiro de 2020, a OMS declarou emergência de saúde pública de importância internacional, em razão da disseminação rápida do coronavírus, após reunião com especialistas. Naquele momento, havia 7,7 mil casos confirmados e 170 óbitos na China, principal local de disseminação do vírus, além de 98 casos em outros 18 países1.
+
+A doença é altamente infecciosa e seus principais sintomas clínicos incluem febre, tosse seca, fadiga, mialgia e dispneia. Os casos graves são caracterizados por síndrome do desconforto respiratório agudo, choque séptico, acidose metabólica de difícil tratamento e disfunção de sangramento e coagulação2.
+
+Em 11 de março de 2020, a OMS classificou a doença pelo coronavírus 2019 (Covid-19) como uma pandemia. Isso significa que o vírus está circulando em todos os continentes e há ocorrência de casos oligossintomáticos ou com apresentação clínico-imaginológica inespecífica, o que dificulta sua identificação e facilita a transmissibilidade rápida com gravidade muito alta3,4.
+
+Uma revisão sistemática mundial avaliou o perfil epidemiológico de Covid-19 e verificou que a taxa de mortalidade por essa causa chega a 0,3% da população, sendo maior em homens idosos4. O primeiro caso confirmado de Covid-19 no Brasil data de 26 de fevereiro de 2020 em homem idoso vindo da Itália5. Até 7 de maio de 2020, o país contava com 135.106 casos confirmados e 9.146 óbitos. A Região Nordeste possui percentual de 31,2% do total de casos do Brasil, sendo o estado do Ceará o terceiro com o maior número de casos confirmados do país6. Em maio de 2020, a taxa de transmissão de Covid-19 no Brasil foi considerada uma das 11 maiores do mundo, estimando-se que cada infectado favoreça o contágio de outras três pessoas, sendo o país com terceira maior letalidade absoluta, atrás de Estados Unidos e Reino Unido7.
+
+Pesquisas no país sobre Covid-19 aumentam em ritmo acelerado, com 162 estudos observacionais e 37 ensaios clínicos até o dia 1º de maio de 2020. A Região Nordeste conta com apenas um ensaio clínico aprovado pela Comissão Nacional de Ética em Pesquisa, situado no estado do Ceará, com 300 pacientes com pneumonia por Covid-19 tratados com novos agentes farmacológicos8.
+
+Como até o momento ainda não há evidências científicas que garantam a eficácia terapêutica de medicamentos antirretrovirais para o combate à pandemia, as intervenções não farmacológicas têm prioridade no Brasil, com os objetivos de postergar o pico da curva epidêmica, reduzir a demanda por cuidados de saúde e diminuir o número de casos e efeitos sobre a saúde da população9. As estratégias mais recomendadas para controlar a disseminação de Covid-19 são o distanciamento social e a lavagem frequente das mãos, porém não são factíveis para os milhões de indivíduos que vivem em comunidades altamente densas ou moradias precárias com falta de saneamento e de acesso à água potável10. Acredita-se que nas fases iniciais do processo epidêmico de Covid-19 no estado do Ceará exista correlação espacial característica entre o coeficiente de incidência de Covid-19 e os seus diferentes municípios.
+
+O Brasil faz parte dos países com ascensão da Covid-19, juntamente com Canadá, Colômbia, República Dominicana, Equador, Índia, México, Paquistão, Peru, Rússia e África do Sul. Isso reforça que o contágio é maior em países emergentes, apesar de nações com proporções continentais e economias heterogêneas representarem um novo perfil epidemiológico para a doença7. Nesse sentido, é importante verificar a associação ecológica entre o desenvolvimento humano e a pandemia de Covid-19.
+
+Portanto, o objetivo deste estudo foi analisar a distribuição espacial da incidência de Covid-19 e sua correlação com o índice de desenvolvimento humano municipal (IDHM) nos municípios do Ceará.
+
+MÉTODOS
+
+Trata-se de um estudo ecológico, exploratório e analítico cujas unidades de análise foram os 184 municípios constituintes do estado do Ceará. Utilizaram-se os coeficientes de incidência de Covid-19 nos municípios em 2020. As informações sociais dos municípios foram coletadas no Atlas de Desenvolvimento Humano no Brasil11, sistematizadas pelo Programa das Nações Unidas para o Desenvolvimento (PNUD) de 2010. A estimativa oficial da população de cada município do estado do Ceará, bem como dessa unidade federativa, foi obtida para o ano de 2019 mediante consulta ao sistema do Departamento de Informática do Sistema Único de Saúde (DATASUS)/Informações de Saúde (TABNET), em 12 de maio de 202012.
+
+As incidências de Covid-19 foram obtidas com base nos casos confirmados disponibilizados pela Secretaria da Saúde do Estado do Ceará (SESA) por meio da plataforma eletrônica Integra SUS13. Para o cálculo do coeficiente de incidência de cada município com casos, o número de casos confirmados foi dividido pela população residente e multiplicado pela base populacional de 100 mil habitantes. O cálculo dos coeficientes foi realizado em dois momentos: o primeiro considerou os casos disponibilizados até as 14 horas de 12 de abril de 2020, possibilitando a inferência do risco de acometimento de cada município até a 15ª semana epidemiológica; e o segundo momento coletou dados até as 18 horas e 11 minutos do dia 7 de maio de 2020 (19ª semana epidemiológica).
+
+Como variável independente, foi utilizado o desenvolvimento social, sendo a variável IDHM estimada para cada município no ano de 2010, conforme disponível no PNUD. O IDHM pode ser classificado em muito baixo (0 a 0,499), baixo (0,500 a 0,599), médio (0,600 a 0,699), alto (0,700 a 0,799) e muito alto (0,800 a 1). O IDHM sintetiza em uma média de três subíndices, calculados na base de poucos indicadores facilmente coletados nas diversas nações, três dimensões básicas e universais da vida, que são as condições para que as escolhas e oportunidades dos indivíduos possam ser ampliadas: o acesso ao conhecimento (educação), o direito a uma vida longa e saudável (longevidade) e o direito a um padrão de vida digno (renda). Pela sua simplicidade, o IDHM não aprofunda nenhuma dessas dimensões particularmente, mas permite comparar o nível geral alcançado pelas unidades de análise no atendimento dessas necessidades básicas para que os indivíduos possam desenvolver suas capacidades e suas escolhas14.
+
+Para a análise descritiva dos dados, utilizou-se o software Statistical Package for the Social Science (SPSS, versão 20.0, IBM, Estados Unidos). Foi realizada a estatística descritiva com os dados dos casos e da população de cada município, sendo em seguida feito o cálculo do coeficiente de incidência. A variável IDHM foi apresentada pelos respectivos valores da média aritmética referente aos três subíndices. Foram empregadas técnicas de análise espacial de dados de área considerando as malhas digitais dos municípios do estado do Ceará, por intermédio de dois programas de sistemas de informações geográficas.
+
+A análise espacial foi realizada pelo software TerraView 4.1.0, do Instituto Nacional de Pesquisas Espaciais15. Para a estimativa da autocorrelação espacial, utilizou-se o índice de Moran global (IMG), que varia entre -1 e +1 e fornece sua significância estatística (p). Após essa análise, foi avaliada a presença de aglomerados espaciais (clusters), com base nos indicadores de associação espacial (LISAs), pela construção de boxmaps relativos à variável dependente e a cada uma das variáveis independentes. Os cartogramas exibiram o delineamento de aglomerados espaciais em quatro tipos:
+
+alto-alto: regiões formadas por municípios com altas frequências da variável e circundadas por regiões de altas frequências;
+
+baixo-baixo: regiões formadas por municípios com baixas frequências da variável e circundadas por regiões de baixas frequências;
+
+alto-baixo: regiões formadas por municípios com altas frequências da variável e circundadas por regiões de baixas frequências;
+
+baixo-alto: regiões formadas por municípios com baixas frequências da variável e circundadas por regiões de alta frequência.
+
+O software GeoDa 0.9.9.10 (Spatial Analysis Laboratory, University of Illinois, Urbana Champaign, Estados Unidos) foi utilizado para proceder à análise bivariada LISA para avaliação da correlação espacial entre a variável dependente (coeficiente de incidência de Covid-19) e a variável independente (IDHM). Essa análise gerou o índice de Moran local (IML) e os mapas de correlação espacial (LISA). Para a correlação espacial bivariada, os clusters foram interpretados em um dos cinco tipos:
+
+não significativo: territórios que não entraram na formação de clusters, por suas diferenças não terem sido significativas;
+
+alto-alto: regiões formadas por municípios com altas frequências da variável dependente e altas frequências da variável independente;
+
+baixo-baixo: regiões formadas por municípios com baixas frequências da variável dependente e baixas frequências da variável independente;
+
+alto-baixo: regiões formadas por municípios com altas frequências da variável dependente e baixas frequências da variável independente;
+
+baixo-alto: regiões formadas por municípios com baixas frequências da variável dependente e altas frequências da variável independente.
+
+Os valores de correlação gerados pelos IMG e IML puderam ser avaliados como positivos ou negativos e como fracos (< 0,3), moderados (0,3-0,7) ou fortes (> 0,7), como utilizado na avaliação da correlação de Pearson16.
+
+Todos os dados usados foram secundários, sem identificação pessoal e de domínio público, o que, conforme a Resolução nº 510/2016, do Conselho Nacional de Saúde, dispensa a necessidade prévia de aprovação do Comitê de Ética em Pesquisa com Seres Humanos17.
+
+RESULTADOS
+
+O estado do Ceará possui população de 9.178.363 habitantes projetada para o ano de 2020, com densidade demográfica de 56,76 habitantes/km2 e IDHM de 0,682, considerado médio. No dia 12 de abril de 2020, estavam confirmados 5.520 casos e 137 óbitos, o coeficiente de incidência da Covid-19 era de 60,14 casos por 100 mil habitantes, sendo os municípios com as maiores incidências Fortaleza (54,88), Aquiraz (36,13) e Senador Sá (13,12).
+
+Já no dia 7 de maio de 2020, havia 16.440 casos e 1.056 óbitos e o coeficiente de incidência aumentou para 179,11 casos por 100 mil habitantes, sendo os municípios com maiores incidências Fortaleza (362,22), Eusébio (350,63) e Ibicuitinga (199,60), para uma base populacional de 100 mil habitantes, referente aos 166 municípios com casos. Os dados de todos os municípios com casos na primeira coleta foram sumarizados com seus respectivos IDHM e contendo as subdivisões coeficiente de incidência no tempo 1 (I1) e coeficiente de incidência no tempo 2 (I2) para os dias 12 de abril e 7 de maio, respectivamente (Tabela 1).
+
+Tabela 1. Distribuição de índice de desenvolvimento humano municipal (IDHM) e coeficiente de incidência* de Covid-19 por município do Ceará em 12 de abril e 7 de maio de 2020. Sobral, Ceará, 2020. 
+*Base populacional: 100 mil habitantes; I1: incidência no tempo 1: 12 de abril de 2020; I2: incidência no tempo 2: 7 de maio de 2020.
+
+Fonte: Brasil11,12 e Governo do Estado do Ceará13.
+
+Na análise de correlação espacial do I1 para a Covid-19, os municípios apresentaram significativa e fraca autocorrelação espacial (IMG = 0,28; p < 0,05), com indicativo de aglomerados espaciais do tipo baixo-baixo formados pela maior parte dos municípios, incluindo Paracuru, Paraipaba, Trairi, Itapipoca, Tururu, Umirim, Itapipoca, Uruburetama, Pentecoste, Apuiarés, Tejuçuoca, Canindé, Caridade, General Sampaio, Paramoti, Pacoti, Mulungu, Guaramiranga, Baturité, Caridade, Palmácia, Capistrano, Aratuba, Itapiana, Ibaretama, Aracoiaba, Acarape, Barreira, Chorozinho, Ocara, Beberibe e Morada Nova. Já os aglomerados do tipo alto-alto foram formados pelos municípios de Fortaleza, Caucaia, Maranguape, Maracanaú, Pacatuba, Eusébio, Aquiraz, Pindoretama, Horizonte e Itaitinga (Figura 1A).
+Figura 1. Análise da correlação espacial no estado do Ceará. Sobral, Ceará, 2020: (A) autocorrelação espacial da Covid-19 em incidência no tempo 1 (12 de abril de 2020); (B) autocorrelação espacial da Covid-19 em incidência no tempo 2 (7 de maio de 2020); (C) autocorrelação espacial do índice de desenvolvimento humano municipal (IDHM) (2010); (D) análise bivariada (indicadores de associação espacial - LISA) do coeficiente de incidência de Covid-19 e do IDHM do Ceará no tempo 1 (12 de abril de 2020); (E) análise bivariada (LISA) do coeficiente de incidência de Covid-19 e do IDHM do Ceará no tempo 2 (7 de maio de 2020). 
+
+Em I2, a autocorrelação espacial da Covid-19 manteve-se positiva e moderada (IMG = 0,47; p < 0,05), com formação de cluster alto-alto em municípios da região metropolitana de Fortaleza, estendendo-se para os municípios de Aquiraz, Beberibe, Morada Nova, Ibicuitinga, Banabuiú, Quixeramobim, Choró e Quixadá. Observou-se também cluster do tipo alto-alto em municípios do litoral norte (Jijoca de Jericoacoara, Cruz, Bela Cruz, Acaraú e Itarema) e municípios na região norte (Sobral, Coreaú, Moraújo, Frecheirinha, Cariré, Mucambo, Alcântaras, Massapê e Meruoca) (Figura 1B).
+
+Os clusters do tipo baixo-baixo para Covid-19 abrangeram a maioria dos municípios da região do Cariri (sul do Ceará), assim como municípios da parte sudoeste, como Sobral, Boa Viagem, Independência, Ocara, Novo Oriente, Quiterianópolis, Poranga, Ipueiras, Ararendá, Tamboril, Nova Russas, Hidrolândia e Catunda, Varjota, Reriutaba, Ibiabina, Carnaubal, São Benedito e Guaraciaba do Norte (Figura 1B).
+
+Em relação ao IDHM, os valores concentraram-se entre 0,540 (Salitre) e 0,754 (Fortaleza) (Tabela 1). A análise de autocorrelação espacial do IDHM foi moderada e significativa (IMG = 0,36; p < 0,05). Verificou-se a presença de aglomerados espaciais formados pela maior parte dos municípios de sertão central e sul do estado, que foram do tipo baixo-baixo. Já a maior parte dos municípios de litoral leste formaram aglomerados espaciais do tipo alto-alto para esse índice (Figura 1C).
+
+No primeiro tempo de análise bivariada de dados do estudo, viu-se que o coeficiente de incidência de Covid-19 teve autocorrelação espacial positiva e fraca com o IDHM (IML = 0,20), porém com formação de um aglomerado espacial bivariado do tipo alto-alto em municípios que fazem parte da região metropolitana de Fortaleza (Figura 1D). Esse panorama apresentou ligeiro aumento no segundo tempo de análise do estudo (IML = 0,25), ou seja, os municípios com maiores coeficientes de incidência de Covid-19 possuíam maiores valores de IDHM. Relações espaciais do tipo baixo-baixo foram presentes em municípios com menores valores de IDHM e com menores coeficientes de incidência de Covid-19, porém sem formação de cluster (Figura 1E).
+
+DISCUSSÃO
+
+A distribuição espacial do coeficiente de incidência de Covid-19 nos municípios do estado do Ceará demonstrou desigualdade no coeficiente de incidência dessa pandemia com dependência espacial e correlação positiva do tipo alto-alto associada ao IDHM, com formação de cluster nos municípios com proximidade da região metropolitana de Fortaleza. Assim, o presente estudo confirmou a associação entre Covid-19 e o desenvolvimento humano, apontando a importância do rastreamento geográfico em espaços de potencial transmissão infecciosa local como aspecto fundamental para coordenar melhor as ações de enfrentamento à pandemia.
+
+No caso de Covid-19, há a necessidade de avaliação crítica de dados epidemiológicos referentes à mobilidade humana para entender a dinâmica da transmissão de vírus nas escalas local, regional e global. A integração contínua desses fluxos de dados ajuda a orientar a implantação de recursos para mitigar a transmissão de Covid-1918.
+
+A literatura recente tem se concentrado na geração de evidências haja vista os seguintes fatores influenciadores do surto de Covid-19: endemicidade para outras infecções, regulação imune com outras coinfecções, vacinação do bacilo Calmette-Guérin (BCG), idade da população e dados quantitativos transponíveis para previsões epidemiológicas19. A compreensão da distribuição espacial de Covid-19 no Ceará, terceiro maior estado afetado no Brasil6, é urgente no país, dados sua alta magnitude de morbimortalidade, a ausência de imunização efetiva disponível e o caráter pandêmico, que ainda não atingiu o pico máximo de crescimento18. O georreferenciamento mostra-se uma ferramenta útil para vigilância epidemiológica de doenças transmissíveis e associação a determinantes sociais, em micro ou macroanálise espacial20.
+
+As correlações espaciais positivas encontradas entre o coeficiente de incidência de Covid-19 e o desenvolvimento social medido pelo IDHM, ainda que fracas, são inéditas no Brasil, o que também pode ser limitador sob a ótica da comparação de poucos trabalhos iniciais na temática abordada. Em geral, pesquisas epidemiológicas de doenças transmissíveis encontram no IDHM um indicador indireto para a saúde, pois seus maiores valores constitutivos se relacionam à longevidade, à renda e à educação21.
+
+Na perspectiva socioeconômica, é importante ressaltar que a população idosa representa um dos grupos mais sujeitos à infecção e sintomatologia por Covid-19, com risco dessa causa mortis mais elevado para homens e a partir da sétima década de vida, na China e nos Estados Unidos22. A pandemia provocada por Covid-19 colocou as metrópoles em alerta, especialmente as grandes, que apresentam altas densidades e facilitam a propagação da doença, como pode ser observado no alto coeficiente de incidência em Fortaleza e municípios circunvizinhos, com tendência para difusão menos concentrada nos demais municípios do estado, embora as medidas tomadas pela gestão estadual contribuam para limitar a velocidade de ocorrências, já que o Ceará teve explosão de casos de Covid-19 no fim do mês de março para o início de abril23.
+
+Os primeiros casos de contaminação ocorreram nos bairros de melhor IDHM de Fortaleza e todos os infectados tinham feito viagem ao exterior. O vírus já circula na periferia da cidade, com áreas de grande densidade populacional e piores condições sanitárias, o que aumenta a preocupação com a rapidez do contágio23. A região metropolitana de Fortaleza é geradora de renda e serviços, polo turístico, possui alta densidade demográfica e mobilidade urbana24. Embora no Brasil o tráfego aéreo internacional seja mais intenso na Região Sudeste, que recebe a maioria de viajantes provenientes dos Estados Unidos, da França e da Itália18, o aeroporto de Fortaleza constitui um potente hub nacional para a Europa25. Esse conjunto de fatores pode corroborar o presente estudo, sugerindo que um maior IDHM também pode facilitar as condições de circulação viral intensa, transmissibilidade e recrudescimento do quadro clínico de Covid-19.
+
+A distribuição das variáveis no território do estado do Ceará aponta para a existência de um espaço geográfico que parece estar em uma etapa de disseminação epidêmica para municípios do interior. Apesar de o Ceará apresentar taxa de letalidade de 1,03% em relação à sua população, o que equivale à décima posição de óbitos pelo coronavírus do país, o estado é o quinto no Brasil com maior subnotificação de Covid-19, na ordem de 18.857 casos estimados26. Em adição, a população residente no interior do Ceará, apesar de menor contato direto com alguém testado positivamente para coronavírus, está menos reclusa do que os indivíduos da capital27.
+
+Os baixos níveis de IDHM revelam não apenas vulnerabilidade da população, mas também dificuldades nos serviços de saúde quanto ao diagnóstico e tratamento da enfermidade nos municípios cearenses, de forma similar ao panorama de fragilidade esperada dos serviços de saúde do Brasil28 e nos países da América Latina no enfrentamento à pandemia5.
+
+Dadas a grande mobilidade da população e as intensas relações sociais e econômicas que os municípios do interior guardam com as respectivas capitais, a disseminação de Covid-19 deverá afetar fortemente a infraestrutura no interior29. Diferentemente de outras enfermidades em outros momentos, dessa vez talvez não haja tempo hábil de transferência para as capitais ou capacidade de atendimento para toda a demanda de pacientes graves, o que poderá refletir em diferentes coeficientes de letalidade associados às desigualdades sociais.
+
+Da mesma maneira, há preocupação com a manutenção dos empregos, visto que a fragilização dos vínculos empregatícios já estava em percurso por causa do contexto da crise econômica atual no Brasil, mas está sendo exacerbada pela pandemia. Nesse sentido, o número de pessoas invisíveis às políticas sociais, especialmente a população em situação de rua, tende a aumentar, e formas de proteção a toda sociedade contra o novo coronavírus precisam ser repensadas30.
+
+Apesar da evolução do sistema de saúde público brasileiro, vale ressaltar que doenças negligenciadas ou associadas aos cuidados com saúde em populações de baixa renda podem emergir de modo secundário à Covid-19 e ter impacto ainda mais sombrio no seu prognóstico de cura28.
+
+Este estudo apresenta algumas limitações próprias da metodologia empregada e seus resultados devem ser interpretados com cuidado, em função da possível existência de um viés de agregação ou falácia ecológica31. Em estudos ecológicos, a observação da existência de uma relação entre duas variáveis no nível agregado não implica, necessariamente, o fato de que essa relação se mantenha no nível individual16. O estudo apresenta boa validade interna, pois os dados são representativos dos estratos geográficos analisados, entretanto é preciso cautela na análise da incidência diante da possibilidade de subnotificação dos dados26, que poderia ser influenciada pela desigualdade no acesso aos testes diagnósticos e pela variabilidade na qualidade dos serviços de saúde3,18,27.
+
+O estudo é válido ao demonstrar a necessidade de articulação de serviços de vigilância epidemiológica em serviços de saúde privados com o SUS, os primeiros mais buscados por grupos populacionais com maior poder aquisitivo. Os achados contribuem para o conhecimento acerca do processo epidêmico de Covid-19 no estado do Ceará, assim como abrem caminho para análises constantes que indiquem o comportamento da doença.
+
+A transparência de dados advindos da SESA possibilitou essa análise e a discussão sobre aspectos sociais e a ocorrência de Covid-19 no estado, gerando produtos que possibilitem o planejamento de ações mais efetivas, coerentes e resolutivas aos problemas que interferem negativamente no processo saúde-doença vivenciado pela população.
+
+Conclui-se que a ocorrência do coeficiente de incidência de Covid-19 foi desigualmente distribuída nos municípios do estado do Ceará e foi associada ao IDHM. O mapeamento desigual de Covid-19 e sua relação com o IDHM no Ceará podem contribuir com ações de enfrentamento regional à pandemia.

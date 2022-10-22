@@ -1,0 +1,110 @@
+Descrição de um cluster da COVID-19: o isolamento e a testagem em assintomáticos como estratégias de prevenção da disseminação local em Mato Grosso, 2020
+
+
+RESUMO
+
+Objetivo:
+
+descrever um cluster da COVID-19 e as estratégias utilizadas para a contenção do vírus, num município do interior de Mato Grosso, Brasil.
+
+Métodos:
+
+estudo descritivo com dados dos registros documentais da investigação epidemiológica realizada em abril de 2020.
+
+Resultados:
+
+a introdução do vírus SARS-CoV-2 no município foi identificada a partir do cluster com cinco pessoas, sendo quatro sintomáticas e uma assintomática, consequente à importação pelos casos índices C01 e C02; além da transmissão intradomiciliar (C03 e C04), uma fisioterapeuta (C05) foi infectada por C02; com exceção do C04, todos apresentaram um quadro influenza símile e somente C02 necessitou de internação; quanto aos testes laboratoriais, todos foram sororreativos, e somente C01 foi RT-PCR positivo.
+
+Conclusão:
+
+a disseminação da COVID-19 foi contida pelo isolamento domiciliar, uma importante estratégia que deve ser adotada precocemente pelos municípios indenes na contenção da disseminação viral, e pelo teste sorológico, que detectou a infecção em assintomáticos.
+Palavras-Chave: Coronavirus; Infecções por Coronavirus; Epidemiologia; Transmissão de Doença Infecciosa; Epidemiologia Descritiva
+
+
+INTRODUÇÃO
+
+A recente pandemia causada pelo coronavírus SARS-CoV-2, iniciada na China, se alastrou pelo mundo, atingindo o Brasil, onde em fevereiro foi declarada emergência em saúde pública de importância nacional.1–2 É considerada a pandemia mais desafiadora da atualidade; a proporção de casos e óbitos por COVID-19 vem atingindo patamares alarmantes, com 3.672.238 casos e 254.045 óbitos no mundo3 e 135.106 casos no Brasil, com 9.146 mortes, até 7 de maio de 2020.2
+
+Esse cenário mundial deve-se à alta transmissibilidade4 e à elevada disseminação, com número básico de reprodução (R0) estimado de 2,6 a 4,1,5,6 associado à diversidade de formas de contágio,7 assim como à ausência de medicamentos efetivos e vacinas. Em novos territórios, a introdução do SARS-CoV-2 ocorreu inicialmente por casos importados. Sua propagação, no entanto, foi associada principalmente aos casos assintomáticos,8 possivelmente pela dificuldade de testagem diagnóstica em massa pelos serviços de saúde e de identificação dos infectados, que o transmitem durante o período de incubação. Sabe-se que o indivíduo pode transmitir o vírus dias antes do início das manifestações clínicas.9
+
+Nesse contexto, e considerando-se que os assintomáticos se infectam geralmente em ambientes de saúde e familiares,10 estudos publicados na Alemanha, Vietnã e China evidenciaram a transmissão assintomática da COVID-19 em clusters familiares.11–13 Além da dificuldade de se detectar os assintomáticos, a escassez de insumos para diagnóstico e a dificuldade de acesso aos serviços de saúde tornam a adoção de medidas protetivas e mitigatórias – que visam ao isolamento precoce dos suspeitos, ao distanciamento social e à intensificação dos hábitos de higiene – que contribuem para o controle da disseminação viral.14
+
+Cabe ressaltar que, nos locais com logística frágil e dificuldade de acesso às tecnologias em tempo hábil, como é a situação de muitos municípios brasileiros, torna-se fundamental e estratégico o papel da vigilância em saúde. Lu e colaboradores15 afirmaram que uma investigação epidemiológica abrangente e rigorosa pode auxiliar na identificação dos assintomáticos e contribuir para o controle de doença no seu território de abrangência.
+
+Conhecer como ocorre a introdução de um agente infeccioso com elevada taxa de transmissibilidade em municípios até então indenes é fundamental para determinar os riscos, bem como dimensionar a efetividade do isolamento domiciliar enquanto medida que mitigue a disseminação do SARS-CoV-2 no interior brasileiro.
+
+Frente a esse cenário, objetivou-se descrever um cluster da COVID-19 e as estratégias utilizadas para a contenção do vírus, num município do interior de Mato Grosso, Brasil.
+
+MÉTODOS
+
+Trata-se de um estudo descritivo sobre a introdução do SARS-CoV-2 em Tangará da Serra, município do interior de Mato Grosso, nos meses de março e abril de 2020.
+
+O município se localiza na região sudoeste mato-grossense, em área do bioma Cerrado, a 240km de Cuiabá, capital do estado. A população local, estimada em 2019, era de 103.750 habitantes, com densidade populacional de 7,37 hab/km2 e Índice de Desenvolvimento Humano (IDH) de 0,729. É a principal cidade de sua microrregião – sendo referência em assistência à saúde no âmbito privado – e a quinta maior de Mato Grosso, com cerca de 3% da população do estado;16 possui 211 estabelecimentos de saúde, públicos ou privados, inscritos no Cadastro Nacional de Estabelecimentos de Saúde (CNES).17
+
+Foram utilizados dados públicos disponibilizados diariamente pela Secretaria Municipal de Saúde de Tangará da Serra, e de registros documentais constituídos pelas fichas de notificação e relatórios de investigação epidemiológica.
+
+Como variáveis, utilizaram-se dados sociodemográficos e de exposição dos infectados: idade (em anos completos), sexo (feminino, masculino), ocupação, situação provável de infecção, data de início dos sintomas, data da coleta de exame laboratorial para RT-PCR e sorologia, intervalo entre sintomas e coleta do RT-PCR, intervalo entre coleta do RT-PCR e acesso ao resultado, intervalo entre sintomas e realização da sorologia. Foram verificadas as manifestações clínicas (febre, coriza, cefaleia, tosse, dor de garganta, desconforto respiratório, saturação <95%), bem como tomografia computadorizada, hospitalização, suporte ventilatório (não, sim) e a evolução do quadro.
+
+Os testes laboratoriais foram realizados no Laboratório Central do Estado de Mato Grosso, referência estadual vinculada à Secretaria Estadual de Saúde de Mato Grosso. Swabs combinados de nasofaringe e orofaringe foram submetidos ao teste de RT-PCR em tempo real, utilizando-se kit (Protocolo Charité: SARS-CoV2 E/P1 - Bio Manguinhos), enquanto as amostras de soro foram analisadas pelos testes rápidos comerciais Smart Test Covid-19 Vyttra, lote 2004313, e Bio-activity, lote 9500437, validados pela Agência Nacional de Vigilância Sanitária (Anvisa).
+
+Os dados foram sistematizados em planilhas eletrônicas por digitação dupla e posteriormente conferidos, utilizando-se a ferramenta Data Compare, e importados para o Statistical Package for the Social Sciences – SPSS versão 21.0, para descrição estatística por frequência absoluta.
+
+Todos os aspectos éticos em pesquisa envolvendo seres humanos foram respeitados, conforme Declaração de Helsinki e Resolução n° 466/2012 do Conselho Nacional de Saúde (CNS/Brasil). Este estudo integra projeto matricial intitulado Sistema de Informação em Saúde (SIS), sob registro CAAE n° 29208720.1.0000.5166, e foi aprovado pelo Comitê de Ética em Pesquisa da Universidade do Estado de Mato Grosso (Parecer n° 3.903.719), em março de 2020. Após o término do isolamento domiciliar, os sujeitos, ou seus responsáveis, assinaram Termo de Consentimento Livre e Esclarecido (TCLE).
+
+RESULTADOS
+
+O cluster incluiu os primeiros cinco casos de COVID-19 ocorridos no município de Tangará da Serra, Mato Grosso, Brasil. Foi composto pelos casos índices C01 (51 anos) e C02 (42 anos); seus filhos C03 (12 anos) e C04 (09 anos); e o caso C05 (a fisioterapeuta de C02).
+
+O casal C01 e C02 viajou a São Paulo no dia 6 de março de 2020 e retornou dia 11 de março de 2020, permanecendo na capital mato-grossense, Cuiabá, entre os dias 11 e 13 de março de 2020. Sem apresentar manifestação clínica, ainda em Cuiabá, C02 referia ter sido palestrante em um evento de saúde para aproximadamente 150 pessoas, e que ambos, C01 e C02, tiveram contato social com profissional de saúde que foi posteriormente diagnosticado com COVID-19.
+
+Com o retorno para Tangará da Serra em 13 de março, o casal C01 e C02 manteve contato com os filhos (C03 e C04) e com a fisioterapeuta de C02 (caso C05), além das duas funcionárias domésticas (C06 e C07). No dia 17 de março, C01 e C02 começaram a apresentar quadro clínico compatível com COVID-19: C01 com tosse, coriza, cefaleia e discreta dispneia; e C02 com febre, tosse, coriza e dispneia moderada. Até então, não haviam procurado comprovação médica a respeito. Na manhã de 17 de março de 2020, C02 foi atendida pela fisioterapeuta (C05) em consultório, onde foram atendidas outras pessoas até a instituição do decreto municipal de suspensão das atividades em 19 de março de 2020 (Figura 1). A fisioterapeuta se manteve em isolamento social, em residência com seus tios C08 e C09.
+Figura 1 Linha do tempo do cluster familiar de COVID-19 em Tangará da Serra, Mato Grosso, Brasil, 2020 
+
+Na Tabela 1, são apresentadas as características sociodemográficas, epidemiológicas e clínicas do cluster de infecção por SARS-CoV-2 em Tangará da Serra, Mato Grosso, em abril de 2020.
+
+Tabela 1 Características sociodemográficas, epidemiológicas e clínicas dos integrantes de cluster familiar de COVID-19 em Tangará da Serra, Mato Grosso, Brasil, 2020 
+Legenda:
+
+NSA = Não se aplica.
+
+NR = Não realizada.
+
+TC = tomografia computadorizada.
+
+Em 17 de março de 2020, após a comunicação à central de atendimento telefônico para sintomáticos respiratórios do município sobre a recente viagem ao estado de São Paulo, C01 e C02 se mantiveram em isolamento domiciliar, tendo sido diariamente monitorados por telefone. Porém, apenas em 19 de março relataram a existência de manifestações clínicas desde 17 de março; então, C01 e C02 foram direcionados para atendimento médico, notificação e coleta de amostra biológica para testagem em serviço privado de saúde.
+
+No dia 21 de março, com a piora do quadro respiratório, com dor torácica e dispneia moderada, C02 foi hospitalizada, e o resultado da tomografia computadorizada (TC) confirmou o padrão de vidro fosco. Com suporte respiratório não invasivo, C02 permaneceu hospitalizada por 24 horas, e o resultado do teste rápido para pesquisa de influenza (Alere AG pandêmico A/B/A [H1N1], lote 19BOD005A-A) se mostrou negativo.
+
+No mesmo dia, C03 apresentou tosse e coriza, sendo avaliada por consulta médica e orientada quanto à permanência em domicílio. A coleta de swab não foi realizada em atendimento ao critério epidemiológico que exigia viagem ou contato com caso confirmado, considerando-se que, até a referida data, ainda não se tinha o resultado da RT-PCR em tempo real disponível.
+
+No dia 25 de março, chegou o resultado negativo do RT-PCR de C02, que contudo permaneceu em isolamento domiciliar, pois o resultado de C01 não foi disponibilizado. Naquela data, C02 conversou com uma colega com a qual havia almoçado durante evento em Cuiabá em 12 de março, e esta informou que tivera resultado positivo do RT-PCR e estava se recuperando após internação.
+
+Embora o resultado da RT-PCR em tempo real de C02 tenha sido negativo, o swab de C01 coletado no segundo dia de manifestação clínica foi RT-PCR em tempo real positivo. Assim, 14 dias após início dos sintomas, no dia 31 de março, com a confirmação laboratorial do caso e com encerramento do isolamento domiciliar de C01 e C02, foi possível confirmar C02 por critério clínico-epidemiológico. Além do contato com C03 e C04, os casos índices informaram contato também intradomiciliar com C06 e C07.
+
+Posteriormente, amostras de sangue dos membros da família e da fisioterapeuta, assim como dos outros dois contactantes, foram submetidas ao teste rápido (Smart Test Covid-19 Vyttra e Bio-activity COVID-19). Todas as amostras, com exceção das funcionárias de C01 e CO2 e dos contactantes da fisioterapeuta, foram sororreativas pelos dois testes sorológicos comerciais utilizados.
+
+DISCUSSÃO
+
+A emergência da COVID-19 em Tangará da Serra, Mato Grosso, deu-se por dois casos importados, oriundos do estado de São Paulo, que naquela data era considerado local de transmissão comunitária. Estes casos índices infectaram, por transmissão domiciliar, os dois filhos e a fisioterapeuta de C02, em atendimento de Pilates. Todos foram confirmados por sorologia, e apenas o RT-PCR de C01 foi positivo, evidenciando o risco de falso negativo deste teste. Todos os envolvidos no cluster mantiveram isolamento social, contendo assim a disseminação da doença e evidenciando a importância mitigadora dessa ação.
+
+As descrições de clusters durante a pandemia de COVID-19 foram importantes para a compreensão da emergência da doença, principalmente na identificação dos casos assintomáticos e sua importância na disseminação.11–13 Em estudo realizado na China, Bai e colaboradores18 evidenciaram que o início de um cluster familiar de cinco membros foi disparado por um portador assintomático que retornara de área com transmissão comunitária da doença, assim como aconteceu na situação de infecção aqui descrita. O estudo de Huang e colaboradores11 ressalta que os indivíduos jovens são responsáveis por alta infectividade de seus contatos, que em grande maioria são oriundos de vínculos familiares ou profissionais, tal como ocorreu entre C02 e C05 no atendimento fisioterápico.
+
+A transmissão viral para as crianças C03 e C04 decorreu dos cuidados diretos e vínculos afetivos entre pais e filhos. O fato de as crianças iniciarem isolamento domiciliar imediatamente após os primeiros sintomas dos pais contribuiu para a contenção da doença ao domicílio, evitando sua disseminação no ambiente escolar, pois, até aquela data, não havia suspensão das aulas, tendo em vista que esses foram os primeiros casos suspeitos do município. Chen e colaboradores19 apontam que a ameaça de uma doença emergente pode influenciar o comportamento da população e a conscientização pode retardar a propagação da doença.
+
+A conscientização do público é importante na propagação de doenças infecciosas. Ações individuais, como prestar maior atenção à higiene e evitar multidões, podem reduzir a propagação de doenças, além de auxiliarem na identificação e tratamento de novos casos e facilitarem respostas coletivas.20 Adicionalmente, o fato de as duas funcionárias deixarem de frequentar o ambiente domiciliar, assim que os sintomas surgiram, pode ter contribuído para evitar a infecção dessas prestadoras de serviços domésticos. Ainda assim, as recomendações do poder público para fechar comércio e clínicas de forma precoce, como o instituído pelo Decreto municipal n° 122, em 17 de março de 2020,21 contribuiu para o início do isolamento social de C05, que até então não tinha conhecimento da doença de C02, reforçando a importância da gestão local no controle da disseminação da COVID-19.
+
+Os efeitos benéficos no controle de doenças infecciosas a partir do isolamento precoce dos casos suspeitos e do distanciamento social são bem descritos na literatura, inclusive na pandemia atual de COVID-19.14 Esse cluster foi o primeiro reportado no munícipio, e foi seguido pelo surgimento de dois casos pontuais também importados. Desde então, foram transcorridos 20 dias sem registro de casos confirmados, ou seja, com descarte dos suspeitos por critério laboratorial, ressaltando-se a capacidade de se controlarem os casos importados com isolamento domiciliar e vigilância em saúde rigorosa.
+
+Fato importante a ser destacado é que o município criou uma central telefônica para sanar dúvidas, acolher sugestões e denúncias em relação à COVID-19, anterior aos primeiros registros, e foi por essa via que a população informou que C01 e C02 haviam retornado de viagem a local com transmissão comunitária. Estudo conduzido em Hong Kong descreveu que a população percebe o alto risco de adoecimento, adotando, assim, medidas de autoproteção e mobilização social para controlar a doença.22
+
+Os sinais e sintomas relatados pelos casos (febre, tosse, coriza e dispneia) corroboram as descrições internacionais,23 bem como os achados de vidro fosco na TC de C02. Estudo apontou que a sensibilidade da TC é alta (97%), e que o aspecto de vidro fosco foi detectado em 56,4% de pessoas chinesas com COVID-19.24 Adicionalmente, a testagem laboratorial, mesmo na ausência de febre, é fundamental, sendo reportada em situações de casos afebris,25 como o de C01, e nas infecções pediátricas, como as de C03 e C04.26,27
+
+Em relação aos exames laboratoriais para diagnóstico da COVID-19, destaca-se a possibilidade de falsos negativos, e estudo chinês apontou que a sensibilidade do RT-PCR em amostras de swab de orofaringe variou de 30% a 60%, devido às limitações do método de coleta e o período da coleta, entre outros fatores.28 Esse fato pode explicar o resultado negativo da análise molecular de C02. Em contraponto, a análise por teste rápido realizado por Li e colaboradores29 em indivíduos com COVID-19, confirmados por RT-PCR e controles saudáveis, demonstrou uma sensibilidade de 88,7% e especificidade 90,6%, e foi corroborado por estudo brasileiro que analisou os testes rápidos disponíveis no país como eficazes;30 neste estudo, foi importante para confirmar laboratorialmente C02, C03,C04 e C05.
+
+A confirmação sorológica, mesmo que tardia, de C03, C04 e C05, reforça a importância do conhecimento sobre os assintomáticos e a possível dinâmica na transmissão da doença, aqui contida pelo isolamento domiciliar. Por seu turno, a evidência de falso negativo no RT-PCR levanta a necessidade de monitoramento clínico por profissional de saúde, bem como a necessidade de reteste após a condução de uma ampla reflexão sobre diagnóstico diferencial.
+
+A limitação desse estudo consiste na pequena amostra analisada, porém sua relevância reside em descrever a introdução da doença em um município do interior de Mato Grosso, a partir de um cluster. A disseminação da doença foi contida pelo isolamento domiciliar, evidenciando a importância desse comportamento na contenção da expansão da COVID-19 e sua adoção precoce pelos serviços de saúde para os municípios indenes.
+
+Neste relato de cluster domiciliar, evidenciou-se que C01 e C02 foram os casos índices do município de COVID-19 por infecção importada, e que houve transmissão local para os filhos (C03 e C04) e para a fisioterapeuta (C05). A possibilidade de casos de COVID-19 com análise molecular negativa precisa ser considerada e, assim, a complementação de teste sorológico como ferramenta diagnóstica pode contribuir na elucidação de casos e na identificação de assintomáticos. Diante de uma evidência sorológica e da possibilidade de resultado positivo, a confirmação do caso C01 por RT-PCR em tempo real e por teste sorológico aponta para a complementaridade dos testes sorológicos, que, com uma adequada interpretação, podem ser instrumentos estratégicos para diminuir o desconhecimento de um agente viral e auxiliar na tomada de ações de controle e prevenção da COVID-19.
+
+Sugere-se que novos estudos sejam conduzidos, a fim de se conhecer a dinâmica da expansão da infecção/doença, considerando-se as realidades diversas no território brasileiro.

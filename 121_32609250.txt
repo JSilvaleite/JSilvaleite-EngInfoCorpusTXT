@@ -1,0 +1,125 @@
+A (in)visibilidade da criança em vulnerabilidade social e o impacto do novo coronavírus (COVID19)
+
+RESUMO
+
+Objetivo:
+
+Refletir sobre o impacto da infecção pelo novo coronavírus nas crianças brasileiras em situação de vulnerabilidade social, com base nos Objetivos de Desenvolvimento Sustentável do Milênio.
+
+Método:
+
+Estudo reflexivo fundamentado na formulação discursiva em três momentos: princípios dos objetivos e das metas de desenvolvimento sustentável do milênio; impacto da pandemia na saúde das crianças e famílias em vulnerabilidade social; e o papel da enfermagem pediátrica nos cuidados prestados - limites e desafios.
+
+Resultados:
+
+Em janeiro de 2020, a COVID19 é divulgada como pandemia. No Brasil, crianças e famílias ainda se encontram sem acesso a direitos básicos, aumentando os riscos de vulnerabilidade social pela quarentena. A enfermagem tem papel relevante no acompanhamento das crianças e suas famílias, oferecendo orientações na busca de soluções e na prevenção da contaminação.
+
+Conclusão:
+
+Ainda existem desafios a serem superados pelas crianças e suas famílias em situação de vulnerabilidade diante da COVID-19.
+Descritores: Infecções por Coronavírus; Criança; Vulnerabilidade Social; Desenvolvimento Sustentável; Enfermagem Pediátrica
+
+
+INTRODUÇÃO
+
+No início de dezembro de 2019, vários casos de pneumonia de origem desconhecida surgiram em Wuhan, província de Hubei, China. A maioria dos pacientes diagnosticados com essa pneumonia relatou exposição ao Mercado Atacadista de Frutos do Mar, que vende muitas espécies de animais vivos(1).
+
+No dia 3 de janeiro de 2020, um novo membro da família do coronavírus foi identificado em amostras de líquido de lavagem broncoalveolar de um paciente em Wuhan. O novo vírus foi confirmado pelo Centro Chinês de Controle e Prevenção de Doenças como sendo o causador da doença em investigação e se espalhou rapidamente pela China e outros continentes(1).
+
+Em 7 de janeiro de 2020, a Organização Mundial da Saúde (OMS) nomeou o agente etiológico recém-descoberto como o novo coronavírus, causador da síndrome respiratória aguda grave (Severe Acute Respiratory Syndrome), também conhecida como SARS-CoV-2 ou COVID-19 (denominada assim em 11 de fevereiro de 2020)(1).
+
+Em 11 de janeiro, a OMS declarou o problema como uma emergência de saúde pública de interesse internacional, pois a disseminação do vírus estava ocorrendo mundialmente e caracterizando-se como uma pandemia. Nessa ocasião, diversos países já haviam confirmado importações de casos da COVID-19, incluindo os Estados Unidos da América, Alemanha e Japão(1).
+
+A COVID-19 atinge todas as faixas etárias causando desde sintomas leves a quadros respiratórios severos, principalmente pneumonia grave. Os sintomas incluem febre, tosse, congestão nasal, coriza, dor de garganta, mas também podem ocorrer aumento da frequência respiratória, sibilos e pneumonia, até chegar a síndrome respiratória aguda grave, ou insuficiência respiratória em alguns casos. Os sintomas gastrointestinais como vômitos e diarreia podem ocorrer, sendo mais comuns em crianças do que em adultos(1-2).
+
+No que concerne à faixa etária infantil, os dados mostram que, até o momento, raramente a infecção com o SARS-CoV-2 ocorre em crianças; e quando estas manifestam sintomas da doença, na maioria das vezes são leves. Assim, na maior parte das vezes, as crianças são portadoras do vírus de forma assintomática, no entanto não foi descartada a capacidade delas de transmissão mesmo que não apresentem manifestações clínicas(1-2).
+
+Estudo realizado na China, do tipo série de casos, acompanhou 2.143 pacientes pediátricos com COVID-19 relatados ao Centro Chinês de Controle e Prevenção de Doenças, no período de 16 de janeiro a 8 de fevereiro de 2020. Os resultados mostraram que houve 731 (34,1%) casos confirmados por laboratório e 1.412 (65,9%) casos suspeitos. A idade média de todos os casos em crianças foi de 7 anos (intervalo interquartil: 2-13), e 1.213 casos (56,6%) eram meninos. Mais de 90% de todos os casos em crianças eram casos assintomáticos, leves ou moderados. O tempo mediano desde o início da doença até o diagnóstico foi de 2 dias (intervalo: 0 a 42 dias). Concluiu-se que, embora as manifestações clínicas dos casos de COVID-19 em crianças fossem geralmente menos graves do que em pacientes adultos, as crianças pequenas, principalmente os bebês, eram vulneráveis à infecção(1).
+
+Resultados recentes, de outro estudo chinês, mostram que, do total de casos reportados da doença, apenas 0,9% destes ocorreram em crianças, totalizando 416 casos na faixa de 0 a 9 anos, sendo que nenhuma delas evoluiu para óbito; já em relação aos adolescentes de 10 a 19 anos, foram totalizados 549 casos (1,2%), com 1 óbito (0,1%) de um adolescente de 13 anos de idade. A taxa de letalidade é de 0,2% em pacientes entre 10 e 19 anos(3).
+
+Com base nas evidências limitadas, no entanto atuais, a Associação Americana de Pediatria e a Sociedade Brasileira de Pediatria, em 30/3/2020, bem como a Associação Brasileira de Obstetrizes e Enfermeiros Obstetras (ABENFO) e a Sociedade Brasileira de Enfermeiros Pediatras (SOBEP), em 06/04/2020, trazem orientações provisórias para o manejo clínico de recém-nascidos de mães com suspeita ou com diagnóstico confirmado de COVID-19, assim como o manejo clínico de crianças com o vírus e informam que, até o momento, a transmissão vertical não foi comprovada(2).
+
+No Brasil, até as 16h do dia 6 de abril de 2020, foram confirmados 12.056 casos, 553 óbitos e taxa de letalidade de 4,6%, porém não há estratificação das idades dos infectados. Sabe-se que 58% (n = 7.046) dos casos confirmados estão localizados na região Sudeste do país. O estado do Rio de Janeiro apresenta 1.461 do total de casos, e 8 destes são de crianças de 0 a 10 anos incompletos. Ainda, os dados revelam que são 71 óbitos, mostrando uma taxa de letalidade de 4,9%, porém não tendo nenhum óbito registrado na faixa etária de 0 a 10 anos até então(4).
+
+No enfrentamento dessa pandemia, se faz necessário refletir sobre o desenvolvimento sustentável do milênio em tempos de COVID-19, pois muitos estão sendo os desafios para combater a pandemia em crianças e família em situação de vulnerabilidade social.
+
+OBJETIVO
+
+Refletir sobre o impacto da infecção pelo novo coronavírus nas crianças brasileiras em situação de vulnerabilidade social, a partir dos Objetivos de Desenvolvimento Sustentável do Milênio.
+
+MÉTODOS
+
+Trata-se de estudo reflexivo fundamentado na formulação discursiva em três momentos: os princípios dos objetivos e das metas de desenvolvimento sustentável do milênio; o impacto da pandemia na saúde das crianças e famílias em vulnerabilidade social; e o papel da enfermagem pediátrica nos cuidados prestados - limites e desafios.
+
+Os princípios dos objetivos e metas de desenvolvimento sustentável do milênio e os desafios antes e depois da COVID-19
+
+Os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 compreendem 17 objetivos e 169 metas e podem ser definidos como um modelo que prevê a integração entre economia, sociedade e meio ambiente, ou seja, é a noção de que o crescimento econômico deve levar em consideração não apenas a inclusão social, mas também a proteção ambiental(5).
+
+Estes envolvem áreas ou temas relevantes para melhoria da saúde infantil, tais como erradicação da pobreza, segurança alimentar e agricultura, saúde, educação, igualdade de gênero, redução das desigualdades, energia, água e saneamento, padrões sustentáveis de produção e de consumo, clima, cidades sustentáveis, proteção e uso sustentável dos oceanos e dos ecossistemas terrestres, crescimento econômico inclusivo, infraestrutura e industrialização, governança e meios de implantação dessas políticas(5).
+
+Nesse sentido, destaca-se como um grande desafio a área da saúde materna, neonatal e infantil, pois muitas mulheres e crianças vivem em condições de vulnerabilidade e devem ser empoderadas. Para tanto, é necessário empreender esforços no fortalecimento das políticas públicas de atendimento a esses grupos.
+
+Considerando que as carências vividas por determinadas populações e pessoas em vulnerabilidade social as colocam em uma situação na qual maiores necessidades sociais e de saúde se apresentam, o não acesso a serviços, tratamentos e tecnologias de saúde de qualidade tem efeito negativo na saúde e na vida/morte desses grupos sociais(6), especialmente no que se refere ao público infantil, pois crianças expostas a condições adversas à saúde, se sobreviverem, podem apresentar problemas em seu crescimento e desenvolvimento.
+
+De acordo com a UNICEF (2020), alguns objetivos de desenvolvimento sustentável do milênio dialogam diretamente com os temas sem os quais as meninas e os meninos não podem sobreviver, prosperar e desenvolver plenamente seu potencial: alimentação, cuidados de saúde, água potável, educação e combate à pobreza(5).
+
+Na perspectiva da saúde, os determinantes sociais, a necessidade de fortalecer os sistemas de saúde e a rede de segurança social afetam a saúde de crianças e famílias em situação de vulnerabilidade, tais como aquelas que vivem em assentamentos informais, pessoas sem-teto, populações rurais, crianças, pessoas com deficiência, migrantes, refugiados, população em área de risco de calamidade e todos os outros grupos vulneráveis.
+
+No ano 2000, o Brasil era considerado um país de alta vulnerabilidade social, mas teve esse índice reduzido, em 2010, para a faixa de média vulnerabilidade social. O índice de vulnerabilidade social (IVS) é calculado com base em três dimensões: renda e trabalho; capital humano; e infraestrutura urbana(7).
+
+Sabe-se que ainda há a manutenção das desigualdades macrorregionais brasileiras, em que o Norte e o Nordeste apresentam, predominantemente, IVS mais elevado, enquanto os municípios do Centro-Sul do país apresentam melhores resultados, com diminuição desse índice(7).
+
+No que tange à dimensão de infraestrutura humana brasileira, ainda existem populações que vivem em domicílios urbanos sem o serviço de coleta de lixo e com abastecimento de água e esgotamento sanitário inadequados(7).
+
+Em relação ao capital humano, ainda temos crianças que não frequentam a escola, enquanto muitas outras passam anos na sala de aula e não aprendem nem mesmo as habilidades básicas. O objetivo sobre educação aborda o acesso a oportunidades de aprendizagem e a qualidade do ensino.
+
+Os ODSs sobre a pobreza, a desigualdade e a discriminação de gênero destacam que as crianças e suas famílias não estão recebendo oportunidades justas, logo existe a necessidade de ações que fortaleçam os sistemas de proteção social(5).
+
+Desse modo, as metas e ODSs a serem alcançados são complexos e demandam tempo de investimento para a construção de políticas públicas que contemplem tantas questões de direitos ao cidadão, em especial à criança.
+
+Nota-se que as questões relacionadas à situação de vulnerabilidade social estão presentes ainda hoje no Brasil e em outros países, mesmo antes da pandemia da COVID-19. Portanto, se faz necessário refletirmos sobre o impacto dessa infecção no alcance das metas e ODSs propostos para o ano de 2030, com vistas à redução dessa vulnerabilidade.
+
+Impacto da pandemia na saúde das crianças e famílias em vulnerabilidade social
+
+A vulnerabilidade social pode ser apreendida como à resiliência de comunidades quando confrontadas por fatores externos estressantes à saúde, tais como desastres naturais ou causados por seres humanos, ou epidemias de doenças. A redução da vulnerabilidade social pode diminuir tanto o sofrimento humano quanto perdas econômicas(8).
+
+Com base no conceito supracitado, os elementos considerados de vulnerabilidade no desenvolvimento da criança e as iniquidades sociais de acordo com a visão do enfermeiro que está inserido na Estratégia Saúde da Família são: baixa escolaridade dos pais; desemprego; baixa renda; ausência de saneamento básico; situação precária da estrutura das construções; e falta de acesso à profissionalização, programas sociais e vagas nas creches. Destaca-se que a vulnerabilidade no desenvolvimento infantil também está relacionada a elementos de ordem socioeconômica e que sua compreensão extrapola os componentes biológicos e individuais a respeito do desenvolvimento infantil(9).
+
+Em países que se encontram em desenvolvimento, um dos aspectos mais importantes que devemos destacar são as contradições existentes entre o que é direito do cidadão e o alcance da população menos favorecida a esses direitos, sobretudo no que se refere às questões básicas como moradia, saúde, escola, entre outras.
+
+Assim, neste momento de pandemia do novo coronavírus, de acordo com a recomendação do Ministério da Saúde, no atendimento ao Plano de Contingência Nacional para Infecção Humana pelo novo Coronavírus, deve-se fazer o isolamento social, cujas medidas principais são: higiene rigorosa das mãos e etiqueta respiratória, bem como evitar aglomerações, manter uma distância mínima de 1,5 m entre pessoas em ambiente fora do domicílio, mas principalmente permanecer em seu lar, exceto para aqueles que trabalham em atividades essenciais, como supermercados, farmácia, unidades de saúde e outras.
+
+No entanto, para o atendimento de tais medidas, é preciso refletir sobre qual parte da população brasileira mora em comunidades que não possuem infraestrutura adequada e saneamento básico, apresentando, assim, dificuldades em relação a higiene pessoal e do ambiente. Muitas famílias moram em cômodos estreitos, em condições que não favorecem o isolamento caso alguém se contamine com o coronavírus. A principal fonte de renda familiar muitas vezes é derivada de atividades informais e presenciais, impossibilitando a realização de seu trabalho remotamente, entre muitos outros problemas.
+
+Portanto, a pandemia do novo coronavírus (COVID-19) pode mudar para pior a realidade vivida pelas crianças, tendo em vista o fechamento de escolas e restrições nos deslocamentos, o que irá perturbar a rotina e o apoio social das crianças, adicionando novos focos de estresse aos pais e responsáveis, que devem encontrar novas opções para o cuidado das crianças no domicílio, como atividades e alimentos que geralmente são fornecidos na escola(10).
+
+A marginalização e a discriminação relacionadas à COVID-19 podem tornar as crianças mais vulneráveis à violência e ao sofrimento psicológico, ou seja, crianças e famílias que já são vulneráveis por conta da exclusão socioeconômica ou aquelas que vivem em lugares superlotados encontram-se particularmente em situação de risco(10).
+
+Papel do enfermeiro pediatra nos cuidados prestados - limites e desafios em época de pandemia do novo coronavírus
+
+É notório que a prática da enfermagem deve estar alinhada com os outros profissionais e setores da área da saúde, a fim de buscar a convergência de ações voltadas aos pacientes, num esforço em conjunto que permite a troca de conhecimentos e potencializa a oferta de um cuidado mais eficaz e resolutivo com vistas à atenção integral ao paciente.
+
+As práticas de enfermagem também devem estar sintonizadas com as demandas e necessidades dos seus territórios. Dentre essas demandas, estão tanto as relacionadas ao atendimento assistencial às crianças e suas famílias em situação de vulnerabilidade social durante a pandemia quanto aquelas relativas à luta por um Estado que cumpra os direitos sociais garantidos pela Constituição Federal(6).
+
+Nessa linha, é primordial que a enfermagem trabalhe seus conhecimentos técnicos e científicos junto às famílias das crianças a fim de promover ações transformadoras da realidade no sentido de empoderá-los, para que juntos lutem pelo cumprimento dos direitos básicos de toda população.
+
+Dentre as ações transformadoras supracitadas, destacam-se as relacionadas à educação das crianças e famílias sobre as medidas de prevenção da pandemia, como a lavagem frequente das mãos com água e sabão, o uso correto e racional de materiais como álcool em gel 70% e máscaras para proteção pessoal. Além disso, a equipe de enfermagem também deve orientar em relação à limpeza e desinfecção dos ambientes domiciliares usando panos umedecidos com produtos desinfetantes na concentração correta - por exemplo, o hipoclorito de sódio.
+
+Tais medidas de higiene pessoal e do ambiente são a base da teoria ambientalista, de Florence Nightingale, teoria esta que, até hoje, é um dos principais alicerces da nossa profissão. Nota-se a necessidade de explicar isso à população em geral e principalmente às crianças já que muitas das vezes são elas que aprendem e difundem o conhecimento em todos os ambientes por onde passam.
+
+A equipe de enfermagem e o enfermeiro pediatra também possuem importante papel na assistência durante uma possível internação hospitalar da criança. Mas, para que a assistência possa ocorrer da maneira preconizada, se faz necessário discutir questões relacionadas à falta de provisão de recursos de proteção individual e tecnologias, que no momento se configuram como um dos principais limites para a enfermagem prestar uma assistência livre de risco para si própria.
+
+Os desafios para a prática da enfermagem vão além da aquisição de recursos e tecnologias, sendo necessário investir nesse profissional a fim de que ele tenha conhecimento sobre o Estado de Direito. Assim, para haver luta pela diminuição das desigualdades sociais, há necessidade de criação de instâncias intersetoriais, para além do campo da saúde, que confluam seus recursos na formulação de políticas públicas que propiciem a garantia do gozo pleno dos direitos sociais por todas as pessoas da nossa sociedade e da comunidade planetária(6).
+
+Limitações do estudo
+
+A ideia central do estudo não é esgotar conceitos, teorias, métodos e possibilidades no que tange ao impacto da infecção pelo novo coronavírus em crianças brasileiras, mas provocar reflexões sobre o alcance dos Objetivos de Desenvolvimento Sustentável do Milênio e também apontar diretrizes que possam sustentar os debates entre instituições de ensino e de saúde.
+
+Contribuições para a Área
+
+Este artigo de reflexão pode contribuir tanto com os processos formativos quanto com as instituições de saúde, uma vez que traz evidências atualizadas. Nessa perspectiva, considera-se que as ponderações ora expostas são valiosas à atuação da enfermagem diante da criança e sua família em situação de vulnerabilidade social. Isto posto, aponta-se a contribuição deste estudo se encontra nas possibilidades de ações de saúde que abarquem a inclusão de populações vulneráveis do contexto brasileiro, com vistas à melhoria de cuidados e serviços em saúde.
+
+CONCLUSÃO
+
+Conclui-se que, em consonância com os objetivos sustentáveis do milênio, ainda existem desafios a serem vencidos para que as crianças e suas famílias em situação de vulnerabilidade possam enfrentar a COVID-19, tais como o acesso a água para higienização pessoal e do ambiente e resposta à diminuição da renda familiar pela quarentena. Nesse sentido, a enfermagem pediátrica tem um papel importante na promoção de medidas de prevenção, bem como na detecção e avaliação de casos suspeitos de COVID-19. Além disso, a enfermagem deve advogar pela garantia do gozo pleno dos direitos sociais, especialmente da criança e sua família.

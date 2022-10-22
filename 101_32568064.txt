@@ -1,0 +1,498 @@
+Proteção Facial e Respiratória: Perspetivas Atuais no
+Contexto da Pandemia por COVID-19
+
+RESUMO
+A nova pandemia por SARS-CoV-2 é um exemplo de uma emergência de saúde pública de âmbito internacional, associada a consideráveis desafios sociais e económicos. A nível das unidades de saúde há o risco que surtos nosocomiais sejam amplificadores locais.
+Perante tal, práticas de controlo de infeção são de importância crítica no funcionamento destes serviços, de que faz parte a utilização
+adequada de equipamento de proteção individual. Este deve ser adequado à via de transmissão do agente que, no caso do SARS-
+-CoV-2, é através de gotícula e contacto. O indivíduo infetado, ao falar, tossir ou espirrar, dissemina gotículas que contêm o vírus,
+contaminando diretamente outros indivíduos, que estão num raio de um a dois metros, assim como o ambiente. A transmissão por via
+aérea também poderá ocorrer, no caso de procedimentos geradores de aerossóis. A nível da proteção respiratória existe, atualmente,
+fraca evidência que a utilização de respiradores permita maior proteção que máscara cirúrgica para o SARS-CoV-2 ou outros vírus
+(com exceção dos procedimentos geradores de aerossóis, em que a utilização de um respirador é recomendada). A proteção ocular
+deverá ser garantida sempre que houver risco de salpicos, gotículas ou aerossóis. A utilização incorreta de equipamento de proteção
+individual, para a via de transmissão do agente ou superior ao necessário, é uma forma de uso indevido e pode afetar o seu suprimento
+para as situações em que é realmente indicado. A disponibilização deste equipamento de proteção, e formação dos profissionais de
+saúde na sua correta utilização, é fortemente recomendado para garantir a prestação de cuidados seguros. 
+Palavras-chave: COVID-19; Dispositivos de Proteção Respiratória; Equipamento de Proteção Individual; Máscaras; SARS-CoV-2
+INTRODUÇÃO
+A infeção tem um amplo espectro de agentes etiológicos, desde bactérias, vírus, fungos, parasitas ou priões.
+Várias vias de transmissão estão descritas, nomeadamente via sanguínea, gotículas, aerossóis (também designados
+de partículas) e contacto (direto e/ou indireto), sendo possível a disseminação por mais do que uma via de transmissão.1
+A proteção facial e respiratória foca-se na possibilidade
+da presença de agentes patogénicos no ar, suportados por
+um “veículo” com um amplo espetro de dimensão. Esta variável determina o número de microrganismos veiculados,
+a distância que podem percorrer, o grau de penetração no
+trato respiratório do hospedeiro, bem como o tipo de proteção necessária. Sob o ponto de vista prático, poderá dividir-se a dimensão destes ‘veículos’ em salpicos (dimensão
+superior a 100 μm, caem logo após serem emanados para
+o ar); gotículas (diâmetro entre 5 e 100 μm, são sujeitos às
+forças gravitacionais segundos após a sua disseminação
+no ar) e partículas (inferiores a 5 μm, com capacidade de
+se manter suspensas no ar e de percorrer distâncias superiores).2
+Estes salpicos, gotículas ou partículas são gerados a
+partir da fonação, espirros, tosse ou resultado de certos procedimentos clínicos. Enquanto a transmissão por salpicos
+e gotículas tende a ser relativamente eficiente (pois podem
+veicular grande número de microrganismos, mas numa curta
+distância), já aquela veiculada por partículas é considerada
+relativamente ineficiente (sendo necessária proximidade, 
+durante períodos de exposição, dispersão e suscetibilidade relevantes), mas com potencial de penetração a nível
+alveolar. Considerando um espaço fechado, o número de
+renovações de ar condiciona, diretamente, a diminuição da
+quantidade de aerossóis. De facto, estima-se que por cada
+renovação de ar seja reduzida a contaminação em 63%,
+o que, em termos práticos, ao fim de cinco renovações se
+pode considerar totalmente descontaminado (desde que a
+fonte tenha cessado a sua emissão).2
+Considerando o passado recente, em dezembro de
+2019 houve um relato de um conjunto de casos de pneumonia de causa desconhecida em Wuhan, província de Hubei na China, e em janeiro de 2020 a descrição de um novo
+vírus pertencente à família dos coronavírus.3
+ Estes microrganismos podem causar uma série de doenças em animais
+e humanos, desde uma coriza até SARS (síndrome respiratória severa aguda) ou MERS (síndrome respiratória
+do Médio Oriente).4 A doença associada a este vírus (que
+se designou SARS-CoV-2) é, atualmente, referida como
+COVID-19. Perante a rápida disseminação desta doença,
+no dia 30 de janeiro de 2020 a Organização Mundial da
+Saúde (OMS) declarou a COVID-19 como uma emergência
+de saúde pública de âmbito internacional e a 11 de março, uma pandemia.5
+ Esta tem tido grande impacto junto da
+população, tendo levado à implementação de medidas de
+distanciamento/ isolamento social, que implicam uma grande mudança de estilo de vida e consequências relevantes a
+nível económico e social. Simultaneamente, os sistemas de
+saúde tiveram de se adaptar rapidamente, para responder
+às crescentes solicitações, inerentes à evolução da situação epidemiológica. A nível das unidades de saúde há o risco de que surtos nosocomiais sejam amplificadores locais
+importantes. Perante tal, as práticas de controlo de infeção
+são de importância crítica no funcionamento destas unidades.6
+ Weber et al, ao reverem experiências pandémicas
+passadas, recomendam que todas as unidades de saúde
+tenham planos de contingência para lidar com estes agentes patogénicos, nomeadamente a nível de identificação
+precoce e isolamento de casos, bem como disponibilização de equipamento de proteção individual (EPI) e formação dos profissionais.7
+ De facto, durante o surto de SARS
+em 2003, houve vários relatos de infeção nosocomial por
+este agente em profissionais de saúde.8
+ Por sua vez, numa
+análise de ‘lições aprendidas’, Cheng et al descrevem que
+o risco de desenvolver SARS foi 12,6 vezes maior para
+aqueles profissionais que não usavam máscara cirúrgica
+durante a prestação de cuidados de saúde. Outros fatores
+de risco ocupacional foram descritos, tais como: contacto
+com secreções do trato respiratório, exposição ocular e de
+membranas mucosas a fluidos corporais, utilização inconsistente de EPI e realização de procedimentos geradores
+de aerossóis.9
+ Na atual pandemia estão descritos 3,8% de
+casos confirmados em profissionais de saúde chineses,
+10% em Itália e 20% em Espanha.10
+No âmbito do quinto componente-chave de atuação do
+Plano Nacional de Preparação e Resposta à COVID-19 da
+Direção-Geral da Saúde, definiram-se como objetivos, entre outros, fortalecer a segurança dos profissionais, doentes e visitantes das unidades de saúde, assim como a sua
+capacidade em responder a esta pandemia.11 Parte integrante dos planos de contingência é a disponibilização de
+EPI enquanto pilar importante na prevenção e controlo da
+transmissão cruzada do SARS-CoV-2, com formação dos
+profissionais na sua utilização.
+Este documento foi estruturado com o intuito de esclarecer e promover as boas práticas na proteção facial e respiratória dos profissionais de saúde, no contexto da atual
+pandemia por COVID-19. A parte final é dedicada ao panorama nacional de produção deste tipo de equipamentos e
+suas perspetivas futuras. 
+MATERIAL E MÉTODOS
+Foi efetuada uma pesquisa da literatura para identificar artigos científicos/ orientações sobre proteção facial
+e respiratória na prestação de cuidados de saúde, assim
+como utilização de EPI na COVID-19 e/ou SARS-CoV-2.
+Os autores identificaram resumos e textos completos da
+base de dados PubMed até 2 de junho de 2020. Foram
+ainda consultados documentos técnicos e recomendações/
+orientações das seguintes organizações: OMS, Centers for
+Disease Control and Prevention (CDC), União Europeia
+(European standards for medical supplies), Public Health
+England (PHE), European Center for Disease Control and
+Prevention (ECDC), Direção-Geral da Saúde (DGS), Autoridade para as Condições do Trabalho (ACT) e Autoridade
+Nacional do Medicamento e Produtos de Saúde (INFARMED). A pesquisa foi restrita para documentos escritos em
+Inglês e Português.
+CARACTERÍSTICAS DAS MÁSCARAS E RESPIRADORES
+Uma máscara é um dispositivo médico (DM) que cobre a boca, nariz e queixo, constituindo uma barreira que
+limita a contaminação por microrganismos, entre o profissional de saúde e o doente. É, também, utilizada pelos
+profissionais de saúde para impedir que gotículas ou salpicos cheguem à sua boca e nariz, ajudando a reduzir e/
+ou controlar a propagação de gotículas da pessoa que usa
+este dispositivo.12 Estudos demonstraram que a mucosa
+nasal, conjuntiva e, menos frequentemente, a boca, são
+portas de entrada possíveis a vírus respiratórios.2
+ Siegel
+et al referem como fatores que influenciam a distância de
+deslocamento das gotículas a sua velocidade, mecanismo
+de impulso, densidade das secreções, fatores ambientais
+(como temperatura e humidade) e a infeciosidade do agente patogénico. Sob o ponto de vista prático, e segundo as
+precauções de gotícula, preconiza-se a utilização de uma
+máscara cirúrgica, se o profissional de saúde estiver a menos de um a dois metros do doente.13 A Norma Europeia
+14683, destinada a máscaras faciais com finalidade médica, classifica-as em diferentes tipos (I, II e IIR) segundo
+as suas características, nomeadamente: a eficiência de
+filtração bacteriana, a pressão diferencial (respirabilidade), a resistência aos salpicos e a carga microbiológica.1
+Podem ser munidas de atilhos ou elásticos e ter, ou não,
+incorporada uma viseira (ver Tabela 1).
+Um respirador (também designado por ‘semi-máscara
+de proteção respiratória’ ou ‘aparelho de proteção respiratória filtrante’) é um tipo de EPI, tendo como principal função proteger quem o utiliza de ser contaminado com partículas emanadas através de espirros, tosse ou resultado
+de procedimentos geradores de aerossóis (PGA).2
+ As partículas têm a capacidade de se manter suspensas no ar e,
+como tal, devem ser instituídas as precauções de partícula
+(ou via aérea), que incluem a utilização de um respirador
+por todos aqueles presentes no mesmo espaço que a fonte
+de transmissão.13
+A nível normativo, os EPI devem estampar a marcação CE, que indica que os mesmos cumprem os requisitos harmonizados e podem ser comercializados na União
+Europeia.15 Os respiradores deverão também obedecer à
+Norma Europeia 149, segundo a qual são divididos em três
+classes, nomeadamente: FFP1, FFP2 e FFP3 (ver Tabela
+1). Por sua vez, nos Estados Unidos da América (EUA), o
+National Institute of Ocupational Safety and Health (NIOSH)
+classifica os respiradores em N (non oil resistant), R (oil resistant) e P (oil proof). Nos primeiros, é feita uma divisão
+segundo a eficácia de filtração de partículas em 95%, 99%
+e 99,97%.16 Em termos práticos, um respirador N95 é equivalente a um respirador FFP2 europeu (ou ao KN95 chinês)
+e tem uma capacidade de filtração de partículas igual ou
+superior a 95%. Vários estudos comparam a eficácia das 
+máscaras cirúrgicas versus respiradores na prevenção da
+transmissão cruzada do vírus influenza: os resultados de
+uma meta-análise, publicada em 2017, apoiam a utilização
+do respirador. No entanto, a evidência encontrada foi fraca
+e os resultados, entre os estudos, foram inconsistentes.17
+Já dois outros estudos mais recentes (uma meta-análise e
+um ensaio clínico randomizado) não encontraram diferença, estatisticamente significativa, na utilização do respirador, quando comparado com a máscara cirúrgica.18,19 Por
+sua vez, em junho de 2020, uma revisão sistemática e meta-análise envolvendo 172 estudos observacionais concluiu
+que a utilização de máscara permite uma grande redução
+no risco de infeção por COVID-19 (aOR 0,15; IC 95% 0,07
+- 0,34), assim como a utilização de proteção ocular (aOR
+0,22; IC 95% 0,12 - 0,39). Sugeriu, embora com pouca certeza, que a utilização de respirador poderá permitir uma
+proteção adicional (versus máscara cirúrgica).20
+A nível europeu, o Regulamento (EU) 2016/425 define os requisitos de conceção e fabrico dos EPI. Por sua
+vez, para os DM, a sua definição consta na Diretiva 93/42/
+CEER e Regulamento (UE) 2017/745. Recentemente, com
+o objetivo de assegurar a disponibilidade de EPI e DM para
+a pandemia por COVID-19, foi emanada a recomendação
+(UE) 2020/40321 e, a nível nacional, o Decreto-Lei nº 14-
+E/2020.22
+Por sua vez, a proteção ocular (óculos ou viseiras) deverá cumprir as especificações da Norma Europeia 166
+(Tabela 1). Segundo a NIOSH, a utilização deste tipo de 
+equipamento deverá ser confortável, permitindo um bom
+ajuste facial e visão periférica sem embaciar, assim como
+assegurar compatibilidade com a máscara ou respirador.
+De ressalvar que óculos de correção ou lentes de contacto
+não são considerados meios de proteção.13
+Com o intuito de prevenir a transmissão cruzada proveniente de fontes de infeção conhecidas (ou não) e de modo
+a garantir a segurança dos utentes e profissionais de saúde, as precauções básicas em controlo de infeção devem
+ser aplicadas quotidianamente. Segundo estas, deverá ser
+considerada a utilização de proteção facial e/ou respiratória
+sempre que houver risco de projeção de salpicos de fluidos
+orgânicos para a face e durante os PGA’s.23
+Existe ainda outro tipo de proteção conhecido como
+‘máscaras comunitárias’ (ou ‘máscaras para uso social’)
+que, segundo o ECDC, incluem várias formas de máscaras de fabrico ‘caseiro’ ou industrial, feitas de tecido ou de
+outros têxteis ou materiais, como o papel. Estes equipamentos não são padronizados e não se destinam a ser utilizados no âmbito da prestação de cuidados de saúde.12
+Este relatório técnico do ECDC conclui que, no âmbito da
+atual pandemia por COVID-19, a sua utilização pela população, especialmente em locais fechados e movimentados,
+pode reduzir a disseminação da infeção, na comunidade,
+através da contenção de gotículas de indivíduos infetados
+que ainda não desenvolveram sintomas ou que permanecem assintomáticos. Alerta-se, no entanto, para o risco de
+constituir uma falsa sensação de segurança (levando a que
+outras medidas recomendadas não sejam adequadamente
+cumpridas), assim como a possibilidade da própria máscara, quando mal utilizada, poder aumentar o risco de transmissão (mãos tocam na máscara contaminada, não são higienizadas, contaminando superfícies e face do utilizador).
+Por sua vez, a DGS refere que “aplicando-se o princípio
+da precaução em Saúde Pública, é de considerar o uso
+de máscaras por todas as pessoas que permaneçam em
+espaços interiores fechados com múltiplas pessoas, como
+medida de proteção adicional ao distanciamento social, à
+higiene das mãos e à etiqueta respiratória”.24
+BOAS PRÁTICAS NA UTILIZAÇÃO DE MÁSCARAS E
+RESPIRADORES
+A utilização adequada destes dispositivos/equipamentos é imprescindível para que cumpram a sua função. Neste sentido, tanto a OMS como o ECDC, e a sua congénere
+norte-americana CDC, tecem recomendações nesta área,
+as quais se resume de seguida.25-27
+Para colocação, deverá ter-se em atenção os seguintes
+passos:
+1. Higienizar as mãos (com água e sabão ou uma solução antissética de base alcoólica - SABA);
+2. Colocar a máscara, cobrindo a boca, nariz e queixo;
+3. Prender à cabeça com os atilhos (dando um laço em
+cada um) ou com os elásticos, sem cruzar;
+4. Ajustar a banda flexível na zona do nariz;
+5. Certificar que a máscara está bem ajustada à face;
+6. Em caso de utilização de proteção ocular, esta deverá ser colocada após a máscara.
+Em relação ao respirador, é vital confirmar que não
+existem fugas entre o equipamento e a face, as quais podem ser verificadas através de um simples teste: com o
+respirador colocado, inspirar vigorosamente. Se não existirem fugas, o respirador deverá colapsar. Ao expirar poder-
+-se-á também verificar se há fugas nas zonas de contacto
+do respirador com a face. Existe, ainda, um teste qualitativo para ajuste dos respiradores, devidamente descrito num
+documento técnico do ECDC.28 De referir que a existência
+de pilosidade facial (e respetiva forma e densidade) pode
+afetar a eficácia do respirador. Dadas estas particularidades, a NIOSH alerta que os potenciais utilizadores de respiradores devem ter formação prévia sobre este tipo de EPI.29
+Enquanto a máscara/respirador estiver colocada/o, deverá atender-se a:
+1. Evitar tocar na máscara/respirador com as mãos. Se
+tal acontecer, higienizar as mãos (com água e sabão
+ou SABA);
+2. Substituir a máscara/ respirador, se estiver
+danificada/o, húmida/o, visivelmente contaminada/o
+ou no caso de se tornar difícil respirar;
+3. Tanto as máscaras como os respiradores estão projetados para 8 horas de utilização ininterrupta. No
+entanto, na prática, é recomendado um tempo máximo até 4 a 6 horas6,30;
+4. Se a máscara/ respirador for retirada/o, deverá ser
+rejeitada/o, as mãos higienizadas e colocada/o um
+novo dispositivo/ equipamento.
+Por fim, recomenda-se o seguinte procedimento para a
+sua remoção:
+1. No caso de proteção ocular colocada, deverá ser retirada antes da máscara/respirador, tendo o cuidado
+de:
+a. Não tocar na sua parte frontal (risco de contaminação);
+b. Se for de uso único, rejeitar para resíduos Grupo
+III – risco biológico;
+c. Se for de uso múltiplo, colocar em local seguro
+para descontaminação (por ex: contentor).
+2. Retirar, de seguida, a máscara/respirador, não tocando na sua parte frontal:
+a. Se se tratar de máscara com atilhos: desapertar
+o atilho de baixo e depois o de cima;
+b. Se for respirador: levantar os elásticos, um de
+cada vez.
+3. Retirar da face, tocando somente nos atilhos/elásticos;
+4. Rejeitar para resíduos Grupo III – risco biológico;
+5. Após rejeitar, higienizar as mãos (com água e sabão
+ou uma SABA).
+PROTEÇÃO FACIAL E RESPIRATÓRIA NA COVID-19
+A nova pandemia por SARS-CoV-2 é uma emergência
+de saúde pública cujo cenário epidemiológico está em constante mutação. Perante a presente incerteza relativamente aos mecanismos associados à sua transmissibilidade,
+tanto a OMS, como o ECDC e CDC consideram como via
+de transmissão do SARS-CoV-2 a gotícula e contacto.6,31,32
+O indivíduo infetado, ao falar, tossir ou espirrar, dissemina
+gotículas que contêm o SARS-CoV-2, contaminando diretamente outros indivíduos que estão num raio de um a dois
+metros, assim como o ambiente. A transmissão por contacto resulta da capacidade do vírus em se manter viável,
+nas superfícies, por um período de horas ou até dias. Há,
+assim, o risco de um indivíduo se infetar ao tocar nessas
+superfícies e, posteriormente, na face (via contacto indireto). De facto, uma revisão recente analisa 22 estudos publicados que revelam que os coronavírus podem persistir em
+superfícies inanimadas como metal, vidro ou plástico até
+nove dias.33 Por outro lado, de acordo com van Doremalen
+et al, a estabilidade ambiental do SARS-CoV-2 é de até três
+horas pós-aerossolização, até quatro horas no cobre, até
+24 horas em cartão e até três dias em plástico e aço inoxidável. Os autores alertam, no entanto, que estes estudos
+experimentais podem não traduzir cabalmente o comportamento real dos fómites na transmissão da infeção.34
+A grande maioria dos autores refere que, segundo a
+atual evidência científica, o coronavírus não é transmitido
+por via aérea (o que implicaria a aplicação de precauções
+de partícula, com a utilização de um respirador pelo profissional de saúde), com a exceção da situação em que se
+realizam PGA’s.35 Se por um lado, Liu et al, ao estudarem
+dois surtos por SARS-CoV-2, relatam a possibilidade de
+aerossolização (encontrando níveis muitos baixos nas enfermarias, mas altos nas instalações sanitárias dos doentes),36 por outro lado, Wong et al, num setting semelhante,
+encontram resultados não compatíveis com transmissão
+por via aérea, sugerindo que a máscara cirúrgica é proteção
+respiratória suficiente para os profissionais.37 Rubens et al
+num comentário ao estudo de van Doremalen et al, referem
+ainda outros dois estudos, relativos ao SARS-CoV-1, onde
+não se encontrou este vírus em amostras do ar ambiente
+provenientes de quartos de doentes infetados e, um outro,
+com achados semelhantes, referente ao SARS-CoV-2.38
+Numa comunicação de 19 de março de 2020, a OMS
+recomendou a utilização das precauções por gotícula e
+contacto e, no caso de PGA’s, precauções de partícula.31
+Tal orientação é seguida pela maioria dos países, inclusivamente Portugal.30 Atualmente considera-se, pois, que o
+risco de transmissão da infeção por SARS-CoV-2 seja decorrente das vias de gotícula e contacto, e não da transmissão por partícula (com a exceção de PGA’s) (Fig. 1).
+De referir ainda que, com base numa revisão recente
+da Cochrane, a evidência para a utilização de um tipo de
+equipamento (por ex: respiradores FFP3/ FFP2/ N95) em
+detrimento de outro (por exemplo, máscara cirúrgica) não
+é tão robusta quanto se poderia considerar, com uma falta
+de evidência clara de benefício dos respiradores.39 É importante lembrar que o EPI é apenas uma parte de um sistema para evitar a contaminação, de que fazem parte outras
+medidas, nomeadamente: adesão rigorosa à higiene das
+mãos; criação de circuitos distintos para casos suspeitos/
+confirmados de COVID-19; reforço da descontaminação
+de equipamento e superfícies; boas práticas e formação
+na colocação e remoção do EPI (o risco de contaminação
+do profissional é elevado na remoção inadequada do EPI);
+descontaminação de equipamento de uso múltiplo entre
+utilizações e triagem/ acondicionamento de resíduos.35
+Cook alerta que a utilização incorreta ou superior ao
+necessário de EPI (para a via de transmissão do agente)
+é uma forma de uso indevido e pode significar suprimento
+inadequado no futuro.35 De facto, tal como Livingston et al
+referem, o EPI, anteriormente ubiquitário e disponível no
+ambiente da prestação de cuidados de saúde, é hoje um
+bem escasso e precioso em muitos locais onde se prestam
+cuidados a doentes altamente infeciosos.40 Na otimização
+da sua disponibilidade, a OMS definiu três estratégias a
+implementar: utilização judiciosa, minimização da necessidade e coordenação da cadeia de fornecimento.41 Para auxiliar no planeamento das necessidades, o ECDC publicou
+um relatório técnico que estima as necessidades de EPI no
+tratamento de doentes com COVID-19.42 Perante a possibilidade de rutura de stock é recomendando que profissionais
+sejam alocados a realizar determinada tarefa, executando
+um conjunto de procedimentos com o mesmo EPI num determinado local (por ex: colheita de amostras para diagnóstico). Também a concentração de casos de COVID-19 em
+áreas/ serviços específicos permite maximização de recursos, a vários níveis.6
+ Ferioli et al referem, ainda, a possibilidade da telemedicina ou utilização de barreiras físicas em
+zonas de atendimento administrativo/ triagem.43 Em relação
+à proteção respiratória e facial, o ECDC estabelece priorização destes dispositivos/ equipamentos. Assim, a nível
+dos respiradores, são os profissionais de saúde que têm
+prioridade na sua utilização (principalmente aqueles que
+realizam PGA’s), salvaguardando que estes poderão ser
+utilizados na abordagem a vários doentes, a menos que estejam danificados, visivelmente contaminados ou húmidos.
+Na ausência de respiradores, os profissionais de saúde devem usar máscaras com a mais alta eficácia de filtração
+disponível.6
+A nível das máscaras cirúrgicas (e no caso de não existirem respiradores disponíveis), a prioridade para a sua
+utilização são os cuidadores de doentes com COVID-19,
+seguido dos casos confirmados sintomáticos de COVID-19
+e, por fim, dos casos suspeitos.6
+A Tabela 2 pretende sistematizar a proteção facial e/ou
+respiratória necessária em contexto da pandemia por COVID-19, considerando a prestação de cuidados de saúde a
+menos de dois metros de distância do doente, tendo como
+variáveis doentes não suspeitos versus doentes suspeitos/
+confirmados, zonas de isolamento e realização de PGA’s.
+Tal informação foi estruturada tendo por base orientações
+da OMS, CDC, ECDC, PHE e DGS e pretende ser meramente orientadora, sem ser exaustiva.6,27,30,41,44
+Considerando a existência de transmissão comunitária
+de SARS-CoV-2, tanto a DGS como a PHE recomendam a
+utilização de uma máscara cirúrgica pelos profissionais de
+saúde sempre que prestem cuidados a doentes em que não
+há suspeita de serem COVID-19 positivo (segundo a PHE,
+esta deverá ser resistente a fluidos, isto é, tipo IIR).30,44 No
+caso de doentes suspeitos ou confirmados (fora de zonas
+de isolamento e sem PGA’s) também deverá ser utilizada
+uma máscara cirúrgica (segundo a PHE, tipo IIR), assim
+como proteção ocular. Nestas situações, a DGS refere que
+se poderá utilizar, em alternativa à máscara, um respirador FFP1 ou, se o doente não tiver máscara colocada, um
+respirador FFP2.30 Por sua vez, todas as recomendações
+consultadas apontam para a necessidade de utilizar respirador FFP2 (ou FFP3, se alto risco) e proteção ocular ao
+entrar em zonas de isolamento e/ou realizar PGA’s a casos
+suspeitos ou confirmados de COVID-19.6,27,30,41,44 Nestas
+situações, perante a indisponibilidade de respirador, o profissional poderá utilizar uma máscara cirúrgica (idealmente,
+tipo IIR), sempre com proteção ocular (idealmente, viseira).6,27 Em ambiente de prestação de cuidados de saúde e
+sempre que a situação clínica o permitir, os doentes deverão utilizar máscara cirúrgica.6,27,30,41,44
+A PARTICULARIDADE DOS PROCEDIMENTOS GERADORES DE AEROSSÓIS
+Grande parte do conhecimento sobre o risco associado a PGA’s provém de estudos realizados previamente à
+pandemia por SARS-CoV-2. Este tipo de procedimento coloca os profissionais de saúde em alto risco de exposição
+a agentes infeciosos por via aérea, sobretudo se não for
+utilizado EPI adequado.43
+Dados relativos a surtos prévios de SARS-CoV-1,
+MERS e influenza A indicam um risco aumentado de transmissão associado a determinados procedimentos, sendo
+a entubação endotraqueal aquele que consistentemente
+apresenta o risco maior. Em relação a este procedimento,
+uma revisão de Tran et al, publicada em 2012, encontrou
+um odds ratio combinado de vários estudos de 6,6.45 No entanto, noutros, como aspiração de secreções, broncoscopia, administração de medicação nebulizada, uso de máscaras de oxigénio, oxigenoterapia de alto fluxo por cânula
+nasal (HFNC), desfibrilhação ou compressões torácicas,
+entre outros, não foram encontradas associações consistentes para transmissão cruzada.45 A geração de aerossóis
+ocorre através de um de dois mecanismos: procedimentos que criam e dispersam mecanicamente aerossóis (por
+ex: entubação ou broncoscopia) e técnicas que induzem
+o doente a produzir e emitir aerossóis (por ex: ventilação
+por máscara).46 A evidência existente sobre a transmissão
+por via aérea foi essencialmente obtida a nível laboratorial,
+em condições controladas, com simuladores em ambiente
+de pressão negativa.43 Apesar de nem sempre existir evidência consistente, vários autores e organismos propõem
+listas de PGA’s com risco de transmissão por via aérea,
+alguns dos quais descritos na Tabela 3.
+Em manobras de reanimação, além da entubação traqueal, outros procedimentos podem ter risco elevado. No
+entanto, é difícil quantificá-los individualmente, uma vez
+que em geral os mesmos profissionais estão envolvidos
+neste conjunto de procedimentos, que ocorrem de forma
+sequencial.48 Têm sido propostas várias estratégias para
+minimizar o risco na entubação, nomeadamente a sua realização em ambiente com pressão negativa, utilizando sequência rápida, com um número restrito de profissionais e
+bem diferenciados.49
+A broncoscopia também está associada a um risco aumentado de aerossolização, tal como documentado durante a pandemia de influenza A.50 Nesse sentido, as principais
+Sociedades das Especialidades Médicas emitiram recomendações sobre as indicações e cuidados a ter durante
+estas técnicas que devem, sempre que possível, ser evitadas em doentes COVID-19.51,52
+Outras questões importantes têm sido levantadas pela
+ventilação não-invasiva (VNI). Depois dos primeiros relatos 
+terem descrito uma elevada taxa de insucesso com estas
+técnicas na COVID-19, outros, mais recentes, têm referido
+que podem ser uma importante arma terapêutica no tratamento destes doentes. Este procedimento pode evitar
+entubações, sobretudo numa altura em que a escassez de
+vagas em cuidados intensivos é uma realidade em muitos
+países. De referir que experiências passadas com o SARS
+relatam ausência de aumento de risco de transmissão do
+vírus com a utilização de VNI (desde que utilizado EPI adequado).53 A utilização de pressão positiva contínua nas vias
+aéreas (CPAP), através de máscara oronasal ou de helmet
+bem ajustados, minimizam a contaminação aérea, sobretudo se for realizada em ambiente com pressão negativa.42
+A própria OMS reconheceu a utilidade da VNI em doentes
+COVID-19, desde que seja usado EPI adequado. O uso de
+máscaras de VNI não ventiladas, com colocação de circuitos duplos e uso de filtros nos pontos de entrada e saída,
+são também recomendados.31,54 Ng et al relatam a exposição de 35 profissionais de saúde, utilizando uma máscara
+cirúrgica (e não um respirador), aos PGA’s através de VNI,
+intubação e extubação num doente COVID-19 positivo.
+Curiosamente nenhum destes profissionais desenvolveu
+doença, tendo tido todos os testes de follow-up negativos
+para SARS-CoV-2.55
+A administração de O2
+ por máscara, ou através de
+HFNC, também envolve um risco de aerossolização, mas
+inferior ao da VNI e dependente do fluxo utilizado. Estes
+riscos podem ser reduzidos através da utilização de O2
+ por
+máscara sem humidificação e evitando os nebulizadores
+em aerossol.43
+A nível cirúrgico devem considerar-se como passíveis
+de ser PGA’s aqueles associados a dispositivos rotatórios
+de alta velocidade, como acontece, por exemplo, em certos
+procedimentos de neurocirurgia, cirurgia maxilo-facial, otorrinolaringologia ou outros.44,47,56 Segundo o Intercollegiate
+General Surgery Guidance do Reino Unido, considera-se
+que a laparoscopia apresenta, também, algum risco de formação de aerossóis, recomendando-se precaução na sua
+realização.57
+INOVAÇÃO NACIONAL NA PRODUÇÃO DE EQUIPAMENTOS DE PROTEÇÃO
+Nesta parte final pretende-se dar a conhecer o que tem
+sido feito a nível nacional na produção e certificação de
+máscaras de utilização comunitária. De facto, a indústria
+têxtil e do vestuário em Portugal está a enfrentar novos desafios, reunindo esforços para mitigar o impacto da pandemia através do desenvolvimento de EPI e DM. Para tal,
+foram definidas orientações para a sua colocação no mercado sem marcação CE (regime excecional e transitório),
+por parte de fabricantes nacionais que habitualmente não
+os produzia.22 Num comunicado conjunto da DGS, INFARMED, Autoridade de Segurança Alimentar e Económica
+(ASAE), Instituto Português da Qualidade (IPQ) e Centro
+Tecnológico Têxtil e do Vestuário de Portugal (CITEVE),
+de 14 de abril de 2020, foi implementado um sistema de
+categorização de máscaras a ser utilizadas na atual pandemia, com definição de três níveis: (1) profissionais de saúde
+e doentes (máscaras tipo II ou IIR); (2) profissionais em
+contacto frequente com o público (máscaras tipo I ou, em
+alternativa, máscaras têxteis de uso único ou reutilizáveis,
+com desempenho mínimo de filtração de 90%) e (3) profissionais que não estejam em teletrabalho ou população
+em geral para as saídas autorizadas em contexto de confinamento (máscaras têxteis de uso único ou reutilizáveis,
+com desempenho mínimo de filtração de 70%). O referido
+comunicado refere, ainda, que foram definidos critérios e
+requisitos a cumprir pelas máscaras de uso comunitário
+(classificadas como artigos têxteis), para que seja possível
+a sua produção nacional.58
+Um dos principais desafios no desenvolvimento concreto destes equipamentos é a seleção das matérias-primas,
+particularmente para máscaras, onde existe a necessidade de garantir as propriedades de retenção de partículas
+e respirabilidade, e onde normalmente se usam tecidos-
+-não-tecidos. Dada a sua escassez no mercado, tem sido
+necessário analisar diversos substratos têxteis e proceder
+ao estudo e análise de diferentes combinações, com o objetivo de encontrar soluções para a produção de máscaras
+descartáveis e/ou reutilizáveis. Além dos requisitos de desempenho é, também, necessário conjugar os fatores de
+usabilidade, limpeza e descontaminação e conforto.
+Não obstante os desafios encontrados, os resultados
+obtidos até ao momento são bastante positivos, tendo o
+CITEVE recebido já centenas de protótipos e pedidos de
+certificação das empresas nacionais. As listas dos materiais e dos equipamentos aprovados encontram-se em
+atualização constante no website do CITEVE, salientando-
+-se a existência de mais de 150 máscaras aprovadas.59 De
+referir, ainda, que foi lançado o selo “Máscaras – COVID-19
+Aprovado” que permite a consumidores e produtores reconhecer máscaras ou matérias-primas que foram testadas e
+validadas por uma entidade independente, com laboratórios
+acreditados. Este elemento distintivo informa, também, se
+se trata de uma máscara de uso único ou se é reutilizável
+e, neste caso, a indicação do número de vezes que poderá
+ser lavada sem afetar o seu desempenho, bem como qual o
+tipo de utilização para que foi aprovada: uso profissional ou
+uso geral. Finalmente, o selo apresenta ainda um QR Code
+de acesso ao website onde os consumidores poderão ver a
+lista de máscaras aprovadas.59
+A curto/ médio prazo é expectável o aparecimento no
+mercado de EPI e DM com maior potencial de inovação em
+termos não só de proteção, mas também de durabilidade,
+ergonomia e conforto. Também nos processos de conservação, limpeza e descontaminação se esperam desenvolvimentos com impacto positivo em termos ambientais.
+CONCLUSÃO
+Nas últimas décadas, tem-se testemunhado o surgimento de novos agentes infeciosos, alguns dos quais se
+tornaram grandes ameaças globais. A nova pandemia por
+SARS-CoV-2 é um exemplo de uma emergência de saúde
+pública de âmbito internacional, associada a consideráveis 
+desafios sociais e económicos. As repercussões nos sistemas de saúde são avassaladoras, com um grande risco
+de colapso perante um aumento desmesurado da procura,
+a par de recursos humanos, de infraestrutura e logísticos
+finitos. A nível das unidades de saúde há o risco de que surtos nosocomiais sejam amplificadores locais importantes.
+Perante tal, práticas de controlo de infeção são de importância crítica no funcionamento destas unidades, nomeadamente: na identificação precoce e isolamento de casos
+suspeitos/confirmados; definição de circuitos distintos para
+estes doentes; implementação de medidas transversais
+para distanciamento físico; reforço da etiqueta respiratória e higiene das mãos, assim como descontaminação de
+superfícies e equipamentos. A disponibilidade de EPI, e
+formação adequada dos profissionais, é outro dos pilares
+básicos de atuação. A nível da proteção facial e respiratória existe, atualmente, fraca evidência de que a utilização
+de respiradores permita maior proteção que uma máscara
+cirúrgica, para o SARS-CoV-2 ou outros vírus (com exceção dos PGA’s, em que a utilização de um respirador é recomendada). Por sua vez, a proteção ocular deve ser garantida sempre que houver risco de salpicos, gotículas ou
+aerossóis.22 Por fim, de referir que, perante a contingência
+internacional na disponibilidade de EPI, a indústria nacional tem respondido de forma célebre na sua produção, de
+modo a garantir a segurança de todos os seus utilizadores,
+revelando um sentido de responsabilidade social perante
+este desafio de proporções ainda não inteiramente conhecidas. A seguir a este desafio sanitário, outros surgirão, tal
+como alerta o virologista Nathan Wolfe, “(…) nos 100 anos
+desde que descobrimos os vírus, os seres humanos percorreram um longo caminho para entendê-los. Ainda resta
+muito trabalho…”.60

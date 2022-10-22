@@ -1,0 +1,136 @@
+Alternativas para o estabelecimento de via aérea cirúrgica durante a pandemia de COVID-19
+
+RESUMO
+
+Atualmente médicos e profissionais da saúde encontram-se frente a uma pandemia desafiadora causada por uma nova cepa denominada 2019 Novel Coronavírus (COVID-19). A infecção humana pelo COVID-19 ainda não tem o espectro clínico completamente descrito, bem como não se sabe com precisão o padrão de letalidade, mortalidade, infectividade e transmissibilidade. Não há vacina ou medicamento específico disponível. O tratamento é de suporte e inespecífico. No Brasil, assim como no restante do mundo o número de casos de COVID-19 tem crescido de maneira alarmante levando a um aumento do número de internações assim como da mortalidade pela doença. Atualmente os estados com maior número de casos são, respectivamente, São Paulo, Rio de Janeiro, Distrito Federal e Ceará. O objetivo deste trabalho é oferecer alternativas a fim de orientar cirurgiões quanto ao manejo cirúrgico das vias aéreas em pacientes com suspeita e/ou confirmação para infecção pelo COVID-19.
+Descritores: Traqueostomia; Emergências; Pandemias
+
+
+Atualmente, médicos e profissionais da saúde encontram-se frente a pandemia desafiadora causada por nova cepa denominada 2019 Novel Coronavírus (COVID-19). A infecção humana pelo COVID-19 ainda não tem o espectro clínico completamente descrito, bem como não se sabe com precisão o padrão de letalidade, mortalidade, infectividade e transmissibilidade. Não há vacina ou medicamento específico disponível. O tratamento é de suporte e inespecífico1.
+
+No Brasil, assim como no restante do mundo, o número de casos de COVID-19 tem crescido de maneira alarmante levando a aumento do número de internações e de mortalidade, pela doença. Atualmente os estados com maior número de casos são, respectivamente, São Paulo, Rio de Janeiro, Distrito Federal e Ceará2.
+
+Os profissionais de saúde que atuam na emergência necessitam adaptar a assistência aos pacientes atendidos com intuito de reduzir a contaminação e disseminação da doença. Até o início de março, a China notificou mais de 3300 profissionais de saúde infectados e pelo menos 22 mortes3,4. Seguir diretrizes de proteção em procedimentos invasivos é essencial sempre, mas em especial neste momento assume relevante papel entre profissionais da emergência e cirurgiões.
+
+O estabelecimento de via aérea definitiva está relacionado a difusão de aerossol pelo paciente, principalmente quando se usa oxigênio em alto fluxo. Por isso, devem-se utilizar cuidados que minimizem o risco de contaminação da doença. A ventilação com pressão positiva durante a ventilação não invasiva (VNI) ou quando se utiliza máscara facial ou dispositivos supraglóticos é considerada de alto risco para geração de aerossóis, pela potencial ineficiência da vedação.
+
+A laringocospia, a intubação traqueal e a broncoscopia irão produzir aerossol somente se houver estímulo de tosse ou se houver outros procedimentos associados (por exemplo, aspiração orotraqueal). Muitos destes eventos podem ser prevenidos com o bloqueio neuromuscular adequado e com o foco da equipe direcionado exclusivamente para o manejo das vias aéreas, sempre que possível.
+
+O objetivo deste trabalho é oferecer alternativas a fim de orientar cirurgiões e outros profissionais quanto ao manejo cirúrgico das vias aéreas em pacientes com suspeita e/ou confirmação para infecção pelo COVID-19.
+
+Cricotireoidostomia ou traqueostomia (TQT) de Emergência (status desconhecido do COVID-19)
+
+Frente a atual pandemia, todos os pacientes atendidos nos setores de emergência devem ser considerados portadores do COVID-19, até que se prove o contrário. Pacientes que venham a apresentar sintomas respiratórios deverão, uma vez que não há até o presente momento um teste rápido para esta situação, ser tratados como infectados até a obtenção do resultado por meio de teste apropriado5.
+
+O manejo da via aérea de maneira geral deve SER: Seguro, Exato e Rápido. Seguro para os profissionais e pacientes; exato e preciso evitando técnicas não confiáveis, desconhecidas ou repetidas; rápido evitando atraso não só para a indicação como para realização do procedimento6. Figura 1.
+Figura 1 Abordagem cirúrgica das vias aéreas. 
+
+Alternativas para obstrução das vias aéreas5
+
+A intubação orotraqueal (IOT) deve ser sempre a primeira via de eleição, evitando-se a via aérea cirúrgica de maneira intempestiva. Portanto, procure seguir sempre as orientções para o manejo de via aérea difícil;
+
+Evite o uso de oxigênio de alto fluxo;
+
+O médico que irá executar o manejo da via aérea deve ser preferencialmente experiente para maximizar o sucesso da primeira tentativa de IOT;
+
+Em caso de suspeita de via aérea difícil, é recomendável o acompanhamento de profissional com experiência em vias aéreas cirúrgicas;
+
+Minimize o número de pessoas à beira do leito. Há a recomendação para 3 profissionais: o médico responsável pelo procedimento, um assistente (p. ex: enfermeiro) e um administrador de medicações/monitorização (p.ex.: técnico de enfermagem)6.
+
+A cricotireoidostomia cirúrgica é a preferível frente à cricotireoidostomia por punção por ser mais eficaz e diminuir a disseminação de aerossóis. A técnica por punção fica reservada para casos de exceção nos cenários de emergência.
+
+Procura-se identificar e palpar a membrana cricotireoide, com dois cenários possíveis5, conforme demonstrado na tabela 1.
+
+Tabela 1 Cenários possíveis na cricotireoidostomia de urgência. 
+
+1 - Membrana cricotireóidea palpável	2 - Membrana cricotireóidea não palpável
+- realize incisão cutânea transversa ou longitudinal	- realize incisão cutânea longitudinal ampla
+- faça incisão transversa na membrana cricotireóidea	- localize a membrana cricotireóidea por dissecção romba com os dedos, estabilizando a laringe
+- proceda com a dilatação utilizando pinça ou cabo do bisturi	- faça incisão transversa na membrana cricotireóidea
+- tenha como opção utilizar o bougie para aposição do traqueóstomo	- proceda com dilatação utilizando pinça ou cabo do bisturi
+- realize aposição do traqueóstomo	- opte por utilizar o bougie para aposição do traqueóstomo
+- garanta a confirmação preferencialmente com capnógrafo, se disponível	- realize a aposição do traqueóstomo
+- Realize a ausculta7	- garanta a confirmação preferencialmente com capnógrafo, se disponível.
+- Realize a ausculta7
+Traqueostomia Eletiva
+
+O tempo máximo a que um paciente pode ser mantido em IOT, sem risco de lesão traqueal, é controverso. Há relatos de benefícios entre pacientes submetidos à TQT, podendo esta, de acordo com diferentes definições ser realizada com 2, 7 ou 10 dias de ventilação mecânica8.
+
+Considerando-se que a traqueostomia é um procedimento eletivo, recomenda-se a confirmação diagnóstica prévia do COVID-19 e estabilização clínica, pois trata-se de procedimento de alto risco pela capacidade de geração de aerossóis5.
+
+A indicação precisa e a avaliação correta da necessidade do procedimento devem ser consideradas para que se evitem riscos desnecessários de disseminação da doença.
+
+Se o teste for negativo para COVID-19, realize o procedimento operacional padrão (máscara cirúrgica resistente a líquidos, bata cirúrgica, luvas e proteção para os olhos).
+
+Procedimento operatório padrão para traqueostomia em paciente positivo COVID-19/status desconhecido5
+
+Especialistas que executam a sedoanalgesia e o procedimento cirúrgico, devem garantir que este seja seguro, exato e rápido (SER).
+
+Reduza os membros da equipe para apenas os essenciais.
+
+Preparação e paramentação:
+
+Use a máscara FFP3/N95;
+
+Utilize proteção ocular / facial sempre que realizar TQT ou trocar um tubo de TQT devido ao risco de secreções respiratórias ou líquidos corporais. Uma das seguintes opções é adequada:
+
+máscara cirúrgica com viseira integrada;
+
+protetor facial completo / viseira;
+
+Utilize avental descartável resistente a líquidos/soluções (impermeável). Se for usado avental permeável, utilize avental de plástico descartável por baixo. O avental deve ser esterelizado, de mangas longas, punho de malha ou elástico e abertura posterior. Além disso, deve ser confeccionado com material de boa qualidade, não alergênico e resistente. Deve proporcionar barreira antimicrobiana efetiva, permitir a execução de atividades com conforto e estar disponível em vários tamanhos9;
+
+As luvas devem ser adequadas para permitir a manipulação manual com conforto e sem limitar a destreza. Considere usar “duas luvas”. Em alguns países existe a disponibilidade de luvas com conteúdo de biogel que exterioriza e sinaliza quando há perfuração.
+
+Utilizar traqueóstomo convencional, evitando modelos frenestrados;
+
+Todo esforço deve ser feito para não perfurar o balonete do tubo endotraqueal ao realizar a TQT;
+
+Realizar avanço inicial do tubo endotraqueal antes da janela da TQT ser executada para reduzir eliminação de aerossóis;
+
+Se possível, interrompa a ventilação enquanto a janela da traqueia estiver sendo realizada e verifique se o balonete já está inflado antes de reiniciar a ventilação;
+
+A ventilação é interrompida antes da inserção do traqueóstomo, realize a colocação rápida e precisa do traqueóstomo com insuflação imediata do balonete;
+
+Confirme o posicionamento preferencialmente com capnografo, se disponível;
+
+Verifique se não há vazamentos e se o traqueóstomo está bem fixado;
+
+Um filtro tipo HME (Heat and moisture exchanger) ou HEPA deve ser obrigatoriamente colocado no traqueóstomo para reduzir a exposição do vírus, caso haja desconexão.
+
+Uma alternativa proposta, tanto nos procedimentos eletivos como de urgência, é usar um extensor obstruído pelo êmbolo de uma seringa e, em seguida, usar imediatamente uma pinça para obstrução, remoção do êmbolo e conexão ao sistema de ventilação mecânica (figura 2).
+
+
+Figura 2 Adaptações para reduzir o risco de exposição a aerossóis. 
+
+Cuidados pós-traqueostomia
+
+O Royal College of Anaesthetists sugere evitar circuitos umidificados, pois teoricamente esse reduzirá os riscos de contaminação da sala se houver desconexão inesperada do circuito;
+
+Evite trocar o traqueóstomo até que o paciente apresente exame negativo para COVID-19;
+
+Verifique a manutenção da insuflação do balonete e se há vazamentos
+
+Faça todos os esforços para não desconectar o circuito;
+
+Somente a aspiração em circuito fechado deve ser usada.
+
+Considerações importantes
+
+O equipamento de proteção individual é apenas parte de um sistema para evitar a contaminação e infecção dos profissionais de saúde. Além do equipamento de proteção, procedimentos como descontaminação de superfícies e equipamentos, minimização do contato desnecessário com o paciente e superfícies ao redor do local de realização do procedimento e gerenciamento cuidadoso de resíduos são essenciais para a redução de riscos5.
+
+O vírus pode permanecer viável no ar por período prolongado e em superfícies não absorventes por muitas horas e até dias10. No entanto, a remoção de partículas infecciosas após um procedimento de geração de aerossol depende da ventilação mecânica / natural e da troca de ar, por hora, na sala. Estima-se que uma única mudança de ar remova 63% dos contaminantes transportados pelo ar. Com base nisso, o tempo mínimo considerado para a limpeza do ambiente após a liberação do aerossol é de 20 minutos6,11.
+
+Atualmente classificam-se os procedimentos sobre as vias aéreas de acordo com o risco conforme abaixo (expresso em ordem decrescente)10:
+
+Intubação traqueal;
+
+Traqueostomia/Cricotiroidostomia;
+
+Ventilação não invasiva (VNI);
+
+Máscara de ventilação.
+
+CONCLUSÕES
+
+No lado oposto do isolamento social, estão os profissionais de saúde na linha de frente do enfrentamento do COVID-19, com riscos maiores de infecção. A garantia de equipamentos de proteção individual deve ser priorizada, associada a adaptações da assistência e dos procedimentos cirúrgicos com intuito de reduzir o risco de infecção. Procedimentos com exposição de aerossóis do paciente, como a cricotiroidostomia e traqueostomia, devem ser adaptados e, exigem a educação dos médicos emergencistas e cirurgiões. Os profissionais de saúde são os recursos mais valiosos neste momento.

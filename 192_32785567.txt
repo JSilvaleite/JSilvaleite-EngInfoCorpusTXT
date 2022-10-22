@@ -1,0 +1,9 @@
+Comentário para: Recomendações de suporte intensivo para pacientes graves com infecção suspeita ou confirmada pela COVID-19
+
+Caro Editor,
+
+Nesta edição da revista einstein (São Paulo), Corrêa et al., reportam recomendações de suporte intensivo para pacientes graves com infecção suspeita ou confirmada por doença pelo coronavírus 19 (COVID-19).(1) Com base na demonstração preliminar da eficácia da cloroquina, os autores sugeriram, para tratamento de pacientes graves admitidos em unidade de terapia intensiva (UTI) com COVID-19,(1) a utilização da hidroxicloroquina em monoterapia ou em associação com um macrolídeo (azitromicina ou claritromicina), de modo a inibir a replicação in vitro do coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2).(2)
+
+Entretanto, evidências provenientes de estudos observacionais(3,4) envolvendo pacientes hospitalizados por COVID-19 demonstraram que a utilização de hidroxicloroquina em monoterapia(3) ou em associação a macrolídeo(4) não foi associada à redução da mortalidade quando comparada a pacientes que não receberam essas medicações (controles). Todavia, a utilização de hidroxicloroquina em monoterapia ou em associação a macrolídeo pode estar associada a maior incidência de complicações cardiovasculares maiores.(4)
+
+Dessa forma, com base nas novas evidências disponíveis, nós retiramos a recomendação para utilização de hidroxicloroquina em monoterapia ou em associação a macrolídeo para tratamento de pacientes hospitalizados com síndrome respiratória aguda grave por COVID-19.

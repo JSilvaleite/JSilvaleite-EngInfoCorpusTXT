@@ -1,0 +1,96 @@
+Padrões de distanciamento social em nove cidades gaúchas: estudo Epicovid19/RS
+
+RESUMO
+
+OBJETIVO
+
+Descrever práticas de distanciamento social em nove municípios do Rio Grande do Sul por sexo, idade, escolaridade e cidade.
+
+MÉTODOS
+
+Foram realizados dois estudos transversais sequenciais representativos da população urbana nos municípios de Canoas, Caxias do Sul, Ijuí, Passo Fundo, Pelotas, Porto Alegre, Santa Cruz do Sul, Santa Maria e Uruguaiana com o intuito de estimar a prevalência populacional de Covid-19. Foi aplicado questionário contendo três perguntas sobre distanciamento social, cujas práticas foram submetidas a análises descritivas por subgrupos. Os dados foram comparados por testes qui-quadrado.
+
+RESULTADOS
+
+Em termos de grau de distanciamento social, 25,8% dos entrevistados relataram estar praticamente isolados e 41,1% indicam praticar bastante distanciamento. Relataram ficar em casa o tempo todo 20,1% dos entrevistados, e 44,5% informam que saem apenas para atividades essenciais. Mais da metade dos domicílios não recebe visitas de não moradores. O grupo que relatou menos distanciamento social foi o de adultos entre 20 e 59 anos, enquanto mais de 80% dos entrevistados com 60 anos ou mais relataram estar praticamente isolados ou fazendo bastante distanciamento. As mulheres relataram fazer mais distanciamento que os homens, e os grupos de maior escolaridade foram os que relataram sair diariamente para atividades regulares com mais frequência.
+
+CONCLUSÕES
+
+Os grupos mais jovens e mais idosos estão mais protegidos pelo distanciamento social, mas há grupos bastante expostos, o que pode ser um limitador importante no controle da progressão da epidemia de Covid-19.
+Palavras-Chave: Infecções por Coronavirus, prevenção & controle; Conhecimentos, Atitudes e Prática em Saúde; Comportamentos de Risco à Saúde; Fatores Socioeconômicos; Distanciamento Social; Estudo de Base Populacional
+INTRODUÇÃO
+
+No Brasil, desde a declaração de pandemia de Covid-19 pela Organização Mundial da Saúde, em 11 de março de 2020, estados e municípios, apoiados pelo Ministério da Saúde, começaram a estabelecer, ainda que com algumas diferenças, políticas e estratégias de distanciamento social. Rapidamente a maior parte do país passou a adotar medidas restritivas de contato pessoal, recomendando que as pessoas fiquem em casa, fechando escolas, atividades e locais que geram aglomerações, como eventos esportivos e shopping centers, e regulando o funcionamento de estabelecimentos comerciais. Em geral, isso significou fechar boa parte do comércio, com exceção de supermercados, lojas de alimentos, farmácias e outros segmentos considerados essenciais1.
+
+Desde o início da pandemia se tem evidenciado que o distanciamento social pode reduzir a transmissão do Sars-CoV-2, vírus causador da Covid-19. Um estudo em Hong Kong encontrou redução de 44% na taxa de replicação (Rt) da epidemia após a implementação de medidas de distanciamento social, em especial o fechamento de escolas2. Uma metanálise de 29 estudos, sendo 25 de modelagem, também concluiu que essas medidas podem reduzir a propagação da Covid-19, principalmente se associadas a ações amplas como fechamento de escolas e restrição a viagens3. Outra metanálise, que estudou os efeitos da distância e do uso de máscara e proteção ocular sobre o risco de infecção viral, mostrou que o distanciamento físico reduz em cerca de 80% a probabilidade de infecção (IC95% risco relativo: 0,10-0,41). Distâncias acima de um metro já seriam efetivas, mas dois metros são a distância ideal, e o uso de máscara também se mostrou altamente efetivo4.
+
+No Brasil, utilizando dados da empresa In Locoa, que oferece serviços de inteligência a partir de dados de localização, o efeito do distanciamento social sobre a transmissão da epidemia foi avaliado em três estudos. Um deles encontrou associação inversa entre distanciamento social e a disseminação da doença e associação positiva entre mobilidade aérea e disseminação. Clima e características socioeconômicas apresentaram associação fraca5. Outro estudo mostrou correlação negativa forte (r < –0,7) entre a proporção de pessoas ficando em casa e Rt6. O índice de isolamento social calculado pela In Loco também foi utilizado em um modelo de elasticidade que mostrou que um índice 10% maior implicou em 26% menos casos de Covid-19, em média. Essa mesma variação se associou a 18% menos mortes7.
+
+Contudo, as fontes de dados de mobilidade, como a In Loco e o Googleb, não conseguem caracterizar subgrupos de uma população. Não é possível saber se quem fica em casa são adultos ou idosos, homens ou mulheres. Assim, usamos dados do estudo Epidemiologia da Covid-19 no Rio Grande do Sul (Epicovid19/RS)c – cujo objetivo principal é estimar a prevalência populacional da infecção por Sars-CoV-2 – para apresentar os padrões de distanciamento social nas nove cidades gaúchas pesquisadas, avaliando diferenças por cidade, idade, sexo e escolaridade.
+
+MÉTODOS
+
+O estudo está sendo realizado em nove municípios-sentinela do estado do Rio Grande do Sul, escolhidos por serem os maiores das regiões intermediárias do estado, definidas pelo Instituto Brasileiro de Geografia e Estatística (IBGE), mais o segundo maior município da região metropolitana de Porto Alegre. Os municípios escolhidos no Epicovid19/RS foram Canoas, Caxias do Sul, Ijuí, Passo Fundo, Pelotas, Porto Alegre, Santa Cruz do Sul, Santa Maria e Uruguaiana.
+
+Em cada um dos municípios foi selecionada amostra de 500 domicílios a partir de 50 setores censitários urbanos com probabilidade proporcional ao tamanho, sendo incluídos dez domicílios por setor. Os domicílios foram selecionados aleatoriamente com base em uma lista de endereços do IBGE na primeira rodada. Na segunda rodada, os participantes foram selecionados de forma sistemática, a partir de um pulo de nove domicílios a contar dos entrevistados na rodada anterior. Domicílios em que não havia ninguém no momento da entrevista ou em que houve recusa em participar foram substituídos pelo domicílio vizinho. Em cada local participante os moradores foram listados e um deles selecionado de forma aleatória para ser entrevistado e testado para Covid-19.
+
+O estudo prevê a realização de quatro rodadas independentes, uma a cada duas semanas. A primeira e a segunda rodadas aconteceram entre 11 e 13 e entre 25 e 27 de abril de 2020, respectivamente. Foi utilizado teste sorológico rápido que verifica a presença de imunoglobulinas M (IgM) e G (IgG) com resultado em 15 minutos, validado pelo grupo de investigadores8. Outros detalhes da metodologia do estudo são apresentados em outra publicação9.
+
+O questionário utilizado no estudo coleta informações sobre sexo, idade e escolaridade do entrevistado, escolaridade máxima do domicílio, distanciamento social praticado e sintomas relacionados a Covid-19. De especial interesse para este trabalho são as três perguntas sobre distanciamento social: 1) “Com relação ao distanciamento social que está sendo orientado pelas autoridades de saúde, ou seja, ficar em casa e evitar contato com outras pessoas, quanto você acha que está conseguindo fazer?”, sendo as possíveis respostas, lidas para o entrevistado, “muito pouco”, “pouco”, “mais ou menos”, “bastante”, “praticamente isolado de todo mundo”; 2) “Como tem sido a sua rotina de atividades?”, com as repostas “fica em casa o tempo todo”, “sai apenas para coisas essenciais, como comprar comida”, “sai de vez em quando para fazer compras e esticar as pernas”, “sai todos os dias para alguma atividade”, “sai todos os dias, o dia todo, para trabalhar ou outra atividade regular”; e 3) “Pensando na rotina da casa, quem tem entrado na casa?”, com as respostas “somente os familiares que moram junto, se tiver, e mais ninguém”, “alguns parentes próximos visitam de uma a duas vezes por semana”, “alguns parentes próximos visitam quase que todos os dias”, “amigos, parentes ou outros visitam de uma a duas vezes por semana”, e “amigos, parentes ou outros visitam quase todos os dias”. Nos casos em que o morador selecionado era criança menor de 12 anos ou idoso incapaz de responder, as perguntas foram direcionadas para um adulto responsável.
+
+O trabalho de campo foi realizado pela empresa Instituto Pesquisas de Opiniãod com a colaboração de universidades localizadas nos municípios pesquisados. Os entrevistadores foram selecionados entre alunos de cursos da área de saúde das universidades parceiras e foram treinados a realizar o teste e aplicar o questionário. Todos os requisitos de biossegurança foram adotados para proteger entrevistadores e participantes.
+
+O protocolo de pesquisa foi aprovado pela Comissão Nacional de Ética em Pesquisa (processo 30721520.7.1001.5313). Todos os entrevistados ou seus responsáveis assinaram termo de consentimento livre e esclarecido após receber informações sobre os objetivos e procedimentos da pesquisa.
+
+As análises apresentadas são essencialmente descritivas, baseadas no cálculo de percentuais de grupos e gráficos de barras. Quando necessário, as frequências foram comparadas usando testes qui-quadrado.
+
+RESULTADOS
+
+A Tabela 1 apresenta o número total e por município de entrevistas realizadas nas duas primeiras rodadas do Epicovid19/RS, nos dias 11–13 e 25–27 de abril, assim como a distribuição da amostra por sexo, idade e escolaridade. As cidades foram comparadas usando um teste qui-quadrado. Foram realizadas 8.611 entrevistas, com maior proporção de mulheres, quase 60% da amostra total. Observamos também que a distribuição etária difere expressivamente da distribuição populacional estimada para 2020 pelo IBGEe, na qual temos 12% para o grupo etário de 0 a 10 anos, 13% para o grupo de 11 a 19 anos, 30% para o de 20 a 39 anos, 26% para o de 40 a 59 anos e 19% para o grupo de 60 anos ou mais. Em nossa amostra há muito menos crianças e adolescentes e um excesso de idosos, provavelmente pela ausência de pessoas no domicílio na hora da entrevista e recusas para fazer o teste que envolve uma punção de polpa digital. Entre todos os domicílios abordados, 9% se recusaram a participar e 11% foram substituídos, na maioria das vezes por não haver ninguém em casa.
+
+Tabela 1 Distribuição da amostra por município de residência, sexo, idade e escolaridade para as rodadas 1 e 2. Epicovid19/RS, abril de 2020. 
+Nota: Valores p se referem à comparação entre municípios usando teste qui-quadrado.
+
+Em termos de grau de distanciamento social, a resposta mais frequente foi “bastante”, com 41,1% (Tabela 2). A resposta menos frequente foi “muito pouco”, com 5,8%. Os que se disseram estar praticamente isolados foram 25,8%.
+
+Tabela 2 Distribuição dos três indicadores de distanciamento social para as rodadas 1 e 2. Epicovid19/RS, abril de 2020. 
+Relataram ficar em casa o tempo todo 20,1% dos entrevistados, e a maioria respondeu que sai apenas para atividades essenciais (44,5%). O grupo que sai todos os dias foi 19,4% do total (Tabela 2), e suas características foram exploradas para melhor entendê-los. Predominam homens (54,9%, p < 0,001) e adultos (90,3% entre 20 e 59 anos, p < 0,001) entre aqueles que relataram sair todos os dias para trabalho ou atividade regular. Entre os que saem todos os dias, apenas 7,6% têm 60 anos ou mais, contra 36,5% dos que não saem todos os dias, predominando também indivíduos com escolaridade mais alta (p < 0,001) – 39,2% dos que saem todos os dias têm nível superior incompleto ou mais, comparados com 33,1% entre os que não saem todos os dias. Esses resultados são apresentados na Tabela 3.
+
+Tabela 3 Características dos indivíduos que relataram sair de casa todos os dias, o dia todo, para atividades regulares. Epicovid19/RS, abril de 2020. 
+Sobre o movimento na casa, mais da metade dos entrevistados relatou não receber ninguém além dos próprios moradores, e menos de 10% relataram visitas de não parentes.
+
+Analisando os indicadores de distanciamento social por município, idade, sexo e escolaridade, encontramos diferenças estatisticamente significativas em todos os casos. Os resultados são apresentados nas Figuras 1 a 4 e nas Tabelas 4 a 7 . Em relação ao grau de distanciamento social, Porto Alegre e Santa Maria apresentam o melhor perfil, enquanto Uruguaiana e Ijuí apresentam situação menos favorável. Na rotina de atividades, não há grande diferença entre as cidades em relação ao percentual que relata ficar em casa, mas chama atenção um percentual mais alto de pessoas que passam o dia todo fora de casa em Ijuí e Passo Fundo. Canoas se destaca em termos de movimento na casa, com a maior proporção de só moradores e a menor de parentes e outros. Porto Alegre e Santa Maria figuram logo atrás, em boa situação.
+Figura 1 Indicadores de distanciamento social por município pesquisado utilizando dados das rodadas 1 e 2. Epicovid19/RS, abril de 2020.Nota: Valores p < 0,001 para grau de distanciamento, rotina de atividades e movimento na casa. 
+
+Tabela 4 Indicadores de distanciamento social por município participante do estudo. Epicovid19/RS, abril de 2020. 
+Tabela 5 Indicadores de distanciamento social por grupos de idade. Epicovid19/RS, abril de 2020. 
+Tabela 6 Indicadores de distanciamento social por sexo do entrevistado. Epicovid19/RS, abril de 2020. 
+
+
+Tabela 7 Indicadores de distanciamento social por escolaridade. Epicovid19/RS, abril de 2020. 
+
+Figura 2 Indicadores de distanciamento social por grupo de idade do respondente utilizando dados das rodadas 1 e 2. Epicovid19/RS, abril de 2020.Nota: Valores p < 0,001 para grau de distanciamento, rotina de atividades e movimento na casa. 
+
+Em relação ao sexo (Figura 3), fica claro que as mulheres apresentam padrão mais favorável de distanciamento social e de rotina de atividades, com maior proporção de mulheres praticamente isoladas e ficando em casa o tempo todo. O movimento na casa pouco difere, apesar da significância estatística, como observado para idade.
+
+Figura 3 Indicadores de distanciamento social por sexo do respondente utilizando dados das rodadas 1 e 2. Epicovid19/RS, abril de 2020.Nota: Valores p < 0,001 para grau de distanciamento, rotina de atividades e movimento na casa. 
+
+A escolaridade do respondente tem clara associação com o distanciamento social e a rotina de atividades (Figura 4). Se avaliamos o grupo que relatou estar praticamente isolado ou bastante distanciado, observamos um padrão em U, mas menos marcado do que para idade. Os indivíduos com ensino médio e superior incompleto são os que menos aderiram ao distanciamento social. Em contraste, na rotina de atividades os indivíduos com maior escolaridade tendem a relatar menos a permanência em casa. Na outra ponta da classificação, os grupos de ensino médio para cima são os que mais relatam sair diariamente para atividades regulares de trabalho. Restringir essas análises a adultos e idosos de forma a retirar indivíduos fora da faixa etária potencialmente ocupada não muda os padrões observados. Finalmente, temos associação clara entre aumento do percentual de domicílios com movimento exclusivo de familiares e maior escolaridade, ou seja, os indivíduos com maior escolaridade saem mais de casa, mas restringem mais a presença de não familiares.
+Figura 4 Indicadores de distanciamento social por escolaridade do respondente utilizando dados das rodadas 1 e 2. Valores p para grau de distanciamento, rotina de atividades e movimento na casa todos p < 0.001. Epicovid19/RS, abril de 2020. 
+
+DISCUSSÃO
+
+Este estudo oferece uma perspectiva do distanciamento social em nove municípios do Rio Grande do Sul e seus padrões por características sociodemográficas. O contexto do estado é de baixa prevalência de Covid-19, como mostraram as duas primeiras rodadas do Epicovid19/RS, com estimativas de 0,05% e 0,13%, respectivamente10. Entre a primeira e a segunda rodadas da pesquisa iniciou-se no estado um processo de reabertura controlada de alguns segmentos do comércio, cujo efeito sobre os indicadores de distanciamento social deve ser sentido de forma mais evidente a partir da terceira rodada. Do ponto de vista dos padrões de distanciamento, não houve mudança relevante da primeira para a segunda rodada, de forma que julgamos melhor usar os dados conjuntamente.
+
+As informações sobre distanciamento e mobilidade se baseiam em relatos e podem estar sujeitas a vieses de memória ou, mais importante, de expectativa social. No atual momento, o respondente pode ser sentir constrangido em revelar fraca aderência às práticas preconizadas para seu município. Nossos resultados, nesse sentido, podem superestimar o distanciamento social. Outra limitação dos dados refere-se à amostra não ser representativa do estado, mas baseada em um conjunto selecionado de cidades. Ainda assim, acreditamos que o quadro apresentado nos oferece um perfil informativo e útil do comportamento da população nas cidades estudadas, que congregam parcela significativa dos habitantes do estado.
+
+Pelo relatado, cerca de 65% dos entrevistados aderiram ao distanciamento social e mais de 80% dos domicílios restringiram as visitas a moradores ou parentes próximos até duas vezes por semana. Observa-se também que há variações expressivas entre cidades, apesar de serem todas do mesmo estado. Duas das três cidades com maior percentual de acesso apenas aos moradores situam-se na região metropolitana, mas a terceira é uma cidade de menor porte, localizada no centro do estado. Não se identifica de forma clara um padrão relacionado a porte ou localização geográfica.
+
+Em relação a idade e escolaridade, vemos que crianças, adolescentes e idosos estão mais protegidos em termos de distanciamento social, estando os adultos de 20 a 59 anos mais expostos. Esse é um resultado importante, visto o consenso já existente na literatura sobre idosos e portadores de comorbidades serem os grupos de maior risco para quadros graves e óbito11,12.
+
+Os mais escolarizados aparecem menos protegidos em nossa análise, dado que evidentemente o grupo que relata sair de casa todos os dias para atividades regulares é composto essencialmente por adultos de escolaridade mais alta, predominando homens. Essa constatação surpreende, visto que se esperaria que este perfil profissional estivesse trabalhando a distância, em escritório doméstico, e que o trabalhador manual, da construção ou indústria, estivesse quotidianamente saindo para atividades laborais. Talvez a drástica redução das atividades econômicas possa explicar o achado. Ao mesmo tempo, as casas de pessoas com maior escolaridade relatam menos circulação de não moradores.
+
+Em conclusão, vemos que os padrões de distanciamento social variam de forma significativa entre as cidades estudadas e entre subgrupos com diferentes características sociodemográficas. Os idosos, um dos principais grupos de risco, apresentam os melhores indicadores de distanciamento, assim como as crianças e os adolescentes, enquanto adultos com maior nível de escolaridade compõem o grupo com menor adesão ao distanciamento social.
+
+Com a realização das rodadas seguintes do estudo no estado do Rio Grande do Sul será possível avaliar as mudanças de comportamento que podem ter ocorrido a partir da flexibilização das medidas restritivas, desde o final de abril de 2020.
+

@@ -1,0 +1,115 @@
+Controle do Intervalo QT para Prevenção de Torsades de Pointes Durante uso de Hidroxicloroquina e/ou Azitromicina em Pacientes com COVID 19
+Palavras-Chave: Coronavirus/complicações; COVID-19; Pandemia; Torsades Pointes; Taquicardia Ventricular; Hidroxicloroquina/uso terapêutico; Azitromicina/uso terapêutico; Arritmias
+INTRODUÇÃO
+
+Em dezembro de 2019, foram relatados os primeiros casos da doença causada pelo novo coronavírus (COVID-19), originários de Wuhan, China.1 Desde a declaração de pandemia em março de 2020 por Organização Mundial da Saúde (OMS), com disseminação intercontinental, vivenciamos intensa busca por um tratamento seguro e eficaz.
+
+Estudos in vitro demonstraram algum efeito da cloroquina contra o novo coronavírus,3 intermediada pela glicosilação dos receptores celulares de SARS-CoV e pelo aumento do pH endossômico, bloqueando a invasão celular pelo vírus.4 Além dessa atividade antiviral, a cloroquina, tradicionalmente um imunomodulador, emergiu como promissora no tratamento da pneumonia que se instala em torno de uma semana após o início dos sintomas.5
+
+A hidroxicloroquina (HCQ), derivada da cloroquina, tem efeitos terapêuticos semelhantes e menos efeitos adversos, sendo amplamente utilizada em doenças autoimunes. Os primeiros ensaios clínicos com a HCQ, no tratamento do COVID-19, reforçaram um aparente benefício e encorajaram a sua aprovação para estudos clínicos por órgãos regulatórios nacionais e internacionais.6 - 8
+
+O macrolídeo azitromicina (AZ), ainda por mecanismo incerto, demonstrou ser efetivo quando iniciado precocemente em pacientes com infecções respiratórias graves.9 Embora estas medicações tenham um adequado perfil de segurança em diversas situações clínicas, ambos bloqueiam o canal de potássio hERG, podendo prolongar a repolarização ventricular e causar torsades de pointes (TdP);10 - 11
+
+O subgrupo da população com maior risco de eventos potencialmente fatais são os pacientes com múltiplas comorbidades ou em cuidados intensivos, que estarão expostos a interações medicamentosas e/ou a distúrbios eletrolíticos, além dos portadores da síndrome do QT longo congênito, que podem necessitar do tratamento (1:2000 indivíduos).12 A avaliação do risco antes e o monitoramento do intervalo QTc durante são fundamentais para prevenção de eventos arrítmicos.
+
+Giudicessi et al.,13 divulgaram uma diretriz institucional da Mayo Clinic , para a segurança dos pacientes em uso de HCQ e/ou AZ.13 O American College of Cardiology apresentou uma sugestão para controle do intervalo QT e prevenção de arritmias ventriculares em pacientes que participam do protocolo HQC/AZ para tratamento do COVID-19.14 0 Núcleo de Arritmias do Instituto do Coração formulou um protocolo institucional a fim de contribuir para o uso consciente dessas medicações durante o surto de infeção por COVID-19.
+
+Definição
+
+O intervalo QT é a medida da duração do início do complexo QRS até o final da onda T e é modulado pela frequência cardíaca ( Figura 1 ). Quando prolongado, está associado a maior risco de ocorrência de arritmias ventriculares polimórficas e TdP ( Figura 2 ).15 A medida do intervalo QT deve ser corrigida pela frequência cardíaca (QTc) e, na população adulta, é considerada normal quando ≤ 440 ms em homens e ≤ 460 ms em mulheres.16
+Figura 1 – Intervalo QT. Fonte: Acervo InCor HCFMUSP 
+
+
+Figura 2 – QT longo com torsades de pointes, Fonte: Acervo InCor HCFMUSP 
+
+Como Medir o Intervalo QTc
+
+O intervalo QT pode ser medido pelo método de tangente ( Figura 3 ) ou visual (quando o final da onda T for de fácil definição), preferencialmente em derivações DII ou V5. 17
+Figura 3 – Exemplos de determinação do intervalo QT pelo método de tangente. Fonte: Acervo InCor HCFMUSP, 
+
+A correção pela frequência cardíaca pode ser feita pela fórmula de Bazett, considerando-se o RR precedente ao intervalo QT medido (QTc= intervalo QT/raiz quadrada do intervalo RR). Essa fórmula está disponível em calculadoras de sites (QTc calculadora) ou em Apps (por exemplo: EP Mobile ou MedCalX).
+
+Monitoramento do intervalo QTc durante o tratamento com HCQ/AZ
+
+Após avaliação do ECG inicial, os pacientes podem ser estratificados conforme o risco de desenvolver TdP, em menor risco (grupo verde), risco intermediário (grupo azul), risco intermediário a elevado (grupo laranja) e alto risco (grupo vermelho).
+
+A monitorização após início do tratamento pode ser feita pelo ECG convencional de 12 derivações, ECG apenas com derivações periféricas, pela telemetria ou por outros dispositivos remotos, para nessa situação peculiar de pandemia, minimizar a exposição de profissionais de saúde e de equipamentos ao vírus. Sugerimos que a frequência de monitorização eletrocardiográfica e o método (ECG, telemetria ou dispositivos) sejam determinados pelo risco do paciente, baseado em um QTc inicial (admissional). A figura 4 esquematiza o modelo de controle proposto.
+
+Figura 4 – Esquema sugerido de controle do tratamento HCQ e/ou AZ 
+
+Quanto à avaliação de risco inicial do paciente para o tratamento pela medida do QT basal em ECG de 12 derivações:
+
+Em casos de dúvidas ou medições limítrofes para maior risco ao longo do tratamento, pode-se optar pelo uso isolado da HCQ ou da AZ ou também pelo uso escalonado da HCQ, seguido da AZ, sob monitorização. Sugere-se decisão compartilhada com a equipe de cardiologia ou arritmia do hospital.
+
+Quando repetir o ECG durante o tratamento hospitalar de acordo com o QTc prévio
+
+Intensificar o controle nas seguintes condições:
+
+
+- Se houver fatores de risco associados ( Tabela 1 ).
+
+Tabela 1 – Fatores de risco para prolongamento de QT e TdP. (18) 
+
+
+- Na presença de complicações cardiovasculares como miocardite e isquemia miocárdica.
+
+Obs.: Sugestão de modelo para Lista de checagem pré-tratameto e controle apresentadas nas Figuras 5 e 6 .
+Figura 5 – Lista de checagem PRÉ-tratamento. AF= antecedente familiar; SQTL = síndrome do QT longo congênitoEm vermelho: atenção às condições de risco; em laranja: moderado risco; em verde: baixo risco ou alvo desejável 
+Figura 6 – Lista de checagem CONTROLE:* Condições clínicas e metabólicas durante a evolução clínica: injurias miocárdicas entre outras. 
+
+Sinais de alerta
+
+- Aumento do QTc > 60 ms e/ou mais de 10% em relação ao ECG basal.
+
+- QTc acima de 520 ms - avaliar suspensão do tratamento depois de serem suspensos outros fármacos (dispensáveis e com efeito sinérgico sobre o QTc) ou distúrbio eletrolítico.
+
+- Necessidade de adicionar medicações que prolongam o intervalo QT, conforme evolução clínica do paciente.
+
+- Presença de arritmia ventricular e/ou bradicardia associada -> escolher os fármacos que podem ser suspensos conforme o balanço risco vs . benefício. Nessas situações, há necessidade de manter o paciente sob telemetria contínua.
+
+Cuidados adicionais para prevenção de TdP
+
+Quanto ao controle de eletrólitos na admissão:
+
+A dosagem de cálcio, potássio e magnésio, fundamentais na estabilidade da repolarização ventricular, deve ser realizada para todos os pacientes elegíveis para o tratamento com HCQ/AZ.
+
+- Manter K+ > 4,0
+
+- Manter Mg++ > 2,0
+
+- Evitar hipocalcemia
+
+Obs.: mesmo em pacientes com nível sanguíneo normal, recomenda-se manter suplementação empírica de magnésio via oral, exceto naqueles com insuficiência renal (ClCr < 30 ml/min).
+
+Quanto ao controle de eletrólitos na evolução:
+
+A rotina de monitorização de eletrólitos deve ser realizada a critério clínico, sempre que houver necessidade de ajustes para manter os níveis ideais ou desejáveis durante o tratamento, principalmente nos pacientes com intervalo QTc inicial > 470 ms.
+
+Quanto ao uso de medicações concomitantes:
+
+Deve-se evitar a prescrição de outros medicamentos, não essenciais, que prolonguem o intervalo QT. Inúmeras drogas, utilizadas habitualmente em pacientes internados, podem bloquear o canal hERG, prolongar o tempo de repolarização ventricular e facilitar a ocorrência de TdP.18 A supervisão de farmacêuticos é desejável sempre que possível, para garantir a segurança do paciente.
+
+Na Tabela 2 elencamos as medicações de risco baixo (verde), risco possível (laranja) e alto risco (vermelho) de prolongamento do intervalo QT e ocorrência de TdP. Assim, sempre que possível, deve-se preferir as medicações adicionais de baixo risco, pois tanto a HCQ como a AZ já são listadas como de alto risco para ocorrência de TdP.
+
+Tabela 2 – Lista de medicações a serem evitadas (em vermelho e laranja) 
+NC – Não classificada, ou seja, sem evidência de prolongar o intervalo QT com base nos estudos publicados.
+
+Alguns medicamentos podem aumentar o risco por outros mecanismos ou de maneira indireta, como no caso da hipocalemia induzida por diuréticos. A lista completa de interações medicamentosa deve ser checada diariamente pelo site crediblemeds.org.19
+
+Em caso de ocorrência de arritmia ventricular ou TdP (Tabela 3) 20,21:
+
+- Lidocaína é o antiarrítmico de escolha:
+
+- Sulfato de magnésio
+
+- Isoprotenerol em TdP mediado por bradicardia
+
+- Marcapasso provisório para pacientes bradicárdicos, com TdP recorrente. A frequência cardíaca inicial deve ser programada para 90 bpm e os ajustes feitos de acordo com a resposta clinica do paciente.
+
+- Suspensão imediata do uso de todas as medicações com potencial para prolongamento do intervalo QT.
+
+CONCLUSÃO
+
+O risco de arritmias fatais, facilitado pelo uso da HCQ e/ou AZ, em pacientes com infecção por COVID-19, ou em outras situações diárias fora da pandemia com medicações que tenham potencial para prolongamento do intervalo QT, pode ser minimizado com a aplicação de protocolos de conduta que auxiliem o profissional de saúde na decisão pela prescrição e manutenção do tratamento.
+
+Tabela 3 – Manejo Farmacológico da arritmia ventricular e/ou TdP 

@@ -1,0 +1,108 @@
+Características epidemiológicas e clínicas dos pacientes com COVID-19 no Brasil
+
+RESUMO
+
+Objetivo
+
+Descrever as características epidemiológicas e clínicas de pacientes com infecção confirmada pelo SARS-CoV-2, diagnosticados e tratados no Hospital Israelita Albert Einstein, que admitiu os primeiros pacientes com essa condição no Brasil.
+
+Métodos
+
+Neste estudo retrospectivo, de centro único, incluímos todos os casos com confirmação laboratorial de COVID-19 no Hospital Israelita Albert Einstein, em São Paulo (SP) de fevereiro a março de 2020. Foram analisados dados demográficos, clínicos, laboratoriais e radiológicos.
+
+Resultados
+
+Foram incluídos 510 pacientes com diagnóstico confirmado de COVID-19. A maioria dos pacientes era do sexo masculino (56,9%), com média de idade de 40 anos. Foi relatada história de contato próximo com um caso positivo/suspeito por 61,1% dos pacientes, e 34,4% tinham história de viagens internacionais recentes. Os sintomas mais comuns foram febre (67,5%), congestão nasal (42,4%), tosse (41,6%) e mialgia/artralgia (36,3%). A tomografia computadorizada de tórax foi realizada em 78 (15,3%) pacientes, e 93,6% deles apresentaram resultados anormais. A hospitalização foi necessária para 72 (14%) pacientes, e 20 (27,8%) foram admitidos na Unidade de Terapia Intensiva. Quanto ao tratamento clínico, os medicamentos mais utilizados foram antibióticos intravenosos (84,7%), cloroquina (45,8%) e oseltamivir (31,9%). A ventilação mecânica invasiva foi necessária em 65% dos pacientes na Unidade de Terapia Intensiva. O tempo médio de internação foi 9 dias para todos os pacientes (22 e 7 dias para pacientes que necessitaram ou não de cuidados intensivos, respectivamente). Apenas um (1,38%) paciente morreu durante o acompanhamento.
+
+Conclusão
+
+Estes resultados podem ser relevantes para o Brasil e outros países com características semelhantes, que começaram a lidar com essa pandemia.
+Palavras-Chave: Doenças transmissíveis; Pneumopatias/epidemiologia; SARS-CoV-2; COVID-19; Infecções por coronavírus; Epidemiologia
+
+
+INTRODUÇÃO
+
+Desde dezembro de 2019, vários casos de pneumonia de origem desconhecida foram relatados em Wuhan, na China.( 1 )O patógeno foi então identificado como um novo coronavírus, um vírus de RNA, atualmente denominado coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2).( 2 )Huang et al., relataram os primeiros casos na China, com manifestação clínica comum de febre, tosse, mialgia, fadiga e dispneia, com disfunção de órgãos (por exemplo: síndrome do desconforto respiratório agudo – SDRA –, choque, cardiopatias e lesões renais agudas) e morte, nos casos graves.( 3 )
+
+Posteriormente, em janeiro de 2020, a Organização Mundial da Saúde (OMS) declarou o surto uma Emergência de Saúde Pública de Interesse Internacional (ESPII) e, depois, em março de 2020, foi caracterizado como uma pandemia.( 4 )Em 7 de abril de 2020, 1.429.437 casos tinham sido relatados em 184 países e regiões nos cinco continentes, com 82.074 mortes em todo o mundo.( 5 )Mais recentemente, o Centro de Controle e Prevenção de Doenças Chinês publicou dados de 72.314 pacientes, sendo 44.672 (62%) classificados como casos confirmados da doença causada pelo coronavírus 2019 (COVID-19). A maioria dos pacientes tinha 30 a 79 anos (87%), com apresentação clínica leve (81%; ou seja, sem pneumonia e com pneumonia leve) e letalidade geral de 2,3% (maior na população idosa, com taxa de letalidade de 14,8% nos pacientes com 80 anos ou mais).( 6 )
+
+Em 26 de fevereiro de 2020, o primeiro paciente brasileiro teve um diagnóstico confirmado de COVID-19 no Hospital Israelita Albert Einstein (HIAE). O HIAE é um hospital filantrópico localizado na cidade de São Paulo (SP), com doze unidades de saúde, incluindo um hospital quaternário com 592 leitos e quatro unidades ambulatoriais de emergência. Ao final deste estudo, em 25 de março de 2020, dentre os 2.433 pacientes com COVID-19 confirmada no Brasil, 32% (769) tinham sido diagnosticados no HIAE.
+
+Dada a rápida disseminação da COVID-19, os dados clínicos e epidemiológicos de vários países são publicados diariamente.( 7 - 9 )No entanto, nenhum estudo foi relatado até o momento apresentando as características dos pacientes com COVID-19 diagnosticados no Brasil.
+
+OBJETIVO
+
+Descrever as características epidemiológicas e clínicas de pacientes com infecção confirmada pelo SARS-CoV-2, diagnosticados e tratados no Hospital Israelita Albert Einstein, que admitiu os primeiros pacientes com essa doença no Brasil.
+
+MÉTODOS
+
+Desenho e supervisão do estudo
+
+Trata-se de estudo observacional retrospectivo, de centro único, que incluiu todos os pacientes consecutivos com diagnóstico confirmado de COVID-19, no HIAE, entre 26 de fevereiro de 2020 e 25 de março de 2020. O estudo foi financiado por recursos próprios do HIAE e elaborado pelos pesquisadores. O estudo foi aprovado pelo Comitê de Ética em Pesquisa da instituição, número do parecer 3.921.190, CAAE: 30047620.3.0000.0071, e pela Comissão Nacional de Ética em Pesquisa (Conep).
+
+Pacientes
+
+O diagnóstico da COVID-19 foi realizado de acordo com as orientações provisórias da OMS.( 10 )Um caso confirmado de COVID-19 foi definido como um resultado positivo da reação em cadeia de polimerase via transcriptase reversa em tempo real (RT-PCR) de amostras de swab nasais e faríngeos.( 11 )Todos os casos incluídos na análise atual tiveram confirmação laboratorial.
+
+Fontes de dados
+
+Os dados foram obtidos no prontuário eletrônico do paciente (PEP), incluindo pacientes internados e ambulatoriais com COVID-19 confirmada por testes laboratoriais. Os dados coletados incluíram informações demográficas, clínicas, laboratoriais e radiológicas e foram anonimizados, para que os pacientes não pudessem ser identificados.
+
+As características demográficas incluíram idade, sexo, tabagismo, peso e índice de massa corporal (IMC). As informações clínicas incluíam história pregressa, histórico de viagens e exposição, sinais, sintomas, doenças de base, uso contínuo de medicamentos e medidas terapêuticas (ou seja, terapia antiviral, corticoterapia, suporte respiratório e terapia de reposição renal). Hemograma completo, avaliação das funções renal e hepática e medidas de eletrólitos, dímero D, procalcitonina, lactato desidrogenase, proteína C-reativa e creatina quinase fizeram parte da avaliação laboratorial. As alterações radiológicas foram definidas com base no relatório médico documentado no PEP. A duração da doença desde o início dos sintomas e o tempo de permanência no hospital (TPH) e na Unidade de Terapia Intensiva (UTI) também foram documentados.
+
+Análise estatística
+
+As variáveis contínuas foram expressas em média com desvio padrão, mediana, valores mínimo e máximo. As variáveis categóricas foram resumidas em contagens e percentagens. Nenhuma imputação foi feita para dados ausentes. Todas as estatísticas são consideradas apenas descritivas, pois a coorte de pacientes em nosso estudo não foi derivada de seleção aleatória. Todas as análises foram realizadas com o uso do Microsoft Excel 2013.
+
+RESULTADOS
+
+Características demográficas e clínicas
+
+Entre 26 de fevereiro e 25 de março de 2020, 769 pacientes foram diagnosticados com COVID-19 no HIAE. Este estudo incluiu 510 (66%) pacientes, cujos dados relacionados a demografia, sintomas clínicos, exames laboratoriais e de imagens estavam disponíveis no PEP da instituição. Os 259 pacientes restantes usaram apenas as instalações laboratoriais do hospital, tendo acompanhamento médico com profissionais de fora da rede.
+
+As características demográficas e clínicas dos pacientes são mostradas na tabela 1 . Dentre os pacientes, 34,4% tinham história recente de viagens internacionais, e 5,7% tinham estado em uma mesma festa de casamento na Bahia, um estado da região nordeste do Brasil; 184 (61,1%) pacientes tinham história de contato próximo com um caso positivo ou suspeito de COVID-19. A maioria dos pacientes era do sexo masculino (56,9%), e a média de idade foi 40 anos. Apenas 0,6% dos pacientes tinham menos de 11 anos, e 6,5% tinham mais de 65 anos.
+
+Tabela 1 Caraterísticas clínicas e epidemiológicas 
+Resultados expressos por n/n total (%), se não indicado de outra forma.
+
+DP: desvio padrão; IMC: índice de massa corpórea; ESI: Índice de Gravidade de Emergência; UTI: unidade de terapia intensiva.
+
+A febre estava presente em apenas 15,6% dos pacientes na admissão, mas 67,5% tinham história relatada de febre, seguida de congestão nasal (42,4%), tosse (41,6%) e mialgia ou artralgia (36,3%). A duração média dos sintomas foi de 2,8 dias – a mesma entre os pacientes internados ou não. Na admissão, a maioria dos pacientes (80,6%) não apresentou alterações significativas ao exame físico. Considerando todos os pacientes incluídos, 20,2% apresentavam pelo menos uma comorbidade. Essa taxa, no entanto, foi muito maior no grupo hospitalizado (50%) quando comparado ao não hospitalizado (15,2%); as comorbidades mais comuns foram hipertensão e diabetes. A distribuição dos pacientes pelo Índice de Gravidade de Emergência (ESI) difere entre os dois grupos analisados, com o grupo hospitalizado apresentando um índice mais alto (ESI 2), o que indica maior gravidade inicial nesse grupo desde o aparecimento dos sintomas.
+
+Achados radiológicos e laboratoriais
+
+A tabela 2 mostra os achados radiológicos e laboratoriais na admissão. Apenas 7,3% dos pacientes foram avaliados inicialmente com radiografia de tórax, ao passo que 15,3% foram submetidos à tomografia computadorizada (TC). Das radiografias realizadas, 24,3% apresentaram alguma alteração, enquanto 93,6% das TC mostraram resultados anormais. Os padrões mais comuns na TC de tórax foram opacidade em vidro fosco (84,6%) e consolidações bilaterais irregulares (79,5%).
+
+Tabela 2 Achados radiológicos e laboratoriais 
+Resultados expressos por n/n total (%), se não indicado de outra forma.
+
+TC: tomografia computadorizada; PaO2/FiO2: pressão parcial de oxigênio/fração inspirada de oxigênio; IIQ: intervalo interquartil.
+
+Na admissão, foi identificada linfocitopenia em 76,3% dos pacientes, trombocitopenia em 25,9% e leucopenia em 21,5%. A maioria dos pacientes apresentou níveis elevados de proteína C-reativa e lactato desidrogenase. Os achados menos comuns foram os níveis elevados de dímero D, aspartato aminotransferase e alanina aminotransferase. O grupo hospitalizado teve mais pacientes com níveis mais altos de proteína C-reativa, procalcitonina e lactato desidrogenase. Os outros resultados não mostraram grande diferença entre os grupos. Um painel viral foi coletado em 146 (29%) pacientes, sendo positivo para rinovírus em nove casos, influenza B em dois casos e influenza A em um caso.
+
+Tratamento e complicações
+
+Conforme mostrado na tabela 3 , 72 (14%) pacientes tinham sido hospitalizados no HIAE no momento da análise. Entre estes, 20 (27,8%) necessitaram de cuidados intensivos durante a internação; 12 foram diretamente da sala de emergência para a UTI, ao passo que os outros oito tiveram piora do quadro em unidades de internação e foram transferidos para a UTI. A maioria dos pacientes recebeu antibioticoterapia intravenosa (84,7%), 45,8% receberam cloroquina e 31,9% oseltamivir. A oxigenoterapia foi necessária em 44,4% dos pacientes hospitalizados; 23,6% demandaram ventilação mecânica (18,1% invasiva e 5,6% não invasiva) e em apenas um caso foi utilizada oxigenação por membrana extracorpórea (ECMO). Considerando os pacientes admitidos na UTI, a ventilação mecânica invasiva foi necessária em 65% deles. Durante a internação hospitalar, a maioria dos pacientes foi diagnosticada com pneumonia (58,3%), seguida de lesão renal aguda (9,7%) e SDRA (8,3%). O período médio de internação foi 9 dias; considerando apenas os pacientes que necessitaram de cuidados intensivos, o tempo médio de permanência na UTI foi 15,25 dias, e o tempo médio total de internação foi 22 dias, ao passo que, para os pacientes que não necessitaram de UTI, o tempo médio de internação foi 7 dias. Apenas um paciente morreu nesta série, representando taxa de mortalidade de 1,38%.
+
+Tabela 3 Tratamentos, complicações e desfechos clínicos 
+Resultados expressos por n/n total (%), se não indicado de outra forma.
+
+UTI: unidade de terapia intensiva.
+
+DISCUSSÃO
+
+Quase 3 meses se passaram desde o primeiro caso diagnosticado de COVID-19 na China até o paciente zero ser diagnosticado no Brasil, em 26 de fevereiro de 2020, no HIAE. Nos 16 dias subsequentes ao primeiro diagnóstico, todos os casos tinham história de viagens internacionais recentes. No dia 11 de março de 2020, foi confirmado o primeiro caso de transmissão local, também no HIAE. Uma proporção relevante de todos os pacientes com infecção confirmada por COVID-19 havia sido diagnosticada no HIAE no momento da análise.
+
+Os pacientes de nossa série tinham média de idade de 39,9 anos e eram na maioria homens (56,9%). Os estudos que descrevem as características demográficas na população geral infectada mostram idade mediana de 47 anos,( 7 , 12 )e a proporção de homens foi de 58,1% no relatório chinês( 7 )e de 50% no de Cingapura.( 12 )Os sintomas respiratórios foram semelhantes aos dos pacientes descritos em relatórios da China, Estados Unidos e Europa.( 7 , 9 , 13 )No entanto, a média de dias de sintomas foi muito menor em nossa série (2,8 dias versus 13 dias em Cingapura,( 12 )7 dias nos Estados Unidos( 13 )e 7 dias na China.( 3 )
+
+Embora tenha sido relatada pela maioria dos pacientes, a febre esteve presente em apenas 15,6% dos pacientes no momento da avaliação inicial no hospital, sugerindo que, talvez, ela não tenha que ser levada em conta para determinar a gravidade da doença, além de os algoritmos diagnósticos que utilizam a febre como parte do exame poderem mascarar o número total de casos e atrasar o diagnóstico. A prevalência de doenças crônicas foi muito maior no grupo de pacientes hospitalizados (50%) em relação ao dos não hospitalizados (15,2%). Essa prevalência foi ainda maior no subgrupo admitido na UTI (80%).
+
+A média de idade dos pacientes hospitalizados foi superior à dos não hospitalizados (51,8 versus 38,6 anos) e a necessidade de hospitalização aumentou com a idade (7,8% para pacientes entre 12 e 49 anos, 33,8% entre 50 e 64 anos e 45,5% para maiores de 65 anos). Nessa série de casos brasileiros, a internação foi necessária em 72 (14,1%) pacientes, e 20 deles demandaram cuidados intensivos, representando 27,8% do total de internações – um número muito superior ao da série chinesa, na qual apenas 5% necessitaram de UTI.( 7 )
+
+A maioria dos pacientes foi internada em UTI devido à insuficiência respiratória hipoxêmica aguda, que necessitava de suporte ventilatório. A ventilação mecânica invasiva foi necessária em 65% dos pacientes da UTI (18,1% do total de internações), ao passo que 20% foram tratados com ventilação mecânica não invasiva. A necessidade de ventilação mecânica invasiva foi semelhante à de uma série de pacientes internados em UTI relatada nos Estados Unidos (75% registrados no estado de Washington)( 13 )e menor do que a relatada em publicação italiana (88% na Lombardia),( 9 )porém superior à dos relatórios chineses (47%, 42% e 30% relatados em Wuhan; metade deles tratados com oxigenação por membrana extracorpórea).( 3 , 14 , 15 )Levando em consideração o uso de ventilação não invasiva, o índice foi novamente semelhante ao relatado em Washington (19%)( 12 )e inferior aos da China (42%, 56% e 62%, em Wuhan, incluindo os pacientes que necessitaram de cânula nasal de alto fluxo).( 3 , 14 , 15 )Três pacientes (15% dos pacientes internados na UTI) apresentaram lesão renal aguda com necessidade de terapia renal substitutiva contínua. Entre estes, apenas um apresentava doença renal crônica. A prevalência de doença renal crônica foi de 2,9% entre os pacientes hospitalizados segundo relatório chinês( 14 )e de 21% entre os pacientes admitidos na UTI na série norte-americana (21%).( 13 )
+
+Este estudo tem limitações importantes. Primeiro, parte dos casos tinha informações incompletas documentadas nos prontuários, e a documentação da história clínica dos pacientes não era homogênea entre todos eles. Essa é uma limitação comum em estudos observacionais retrospectivos, levando-se em consideração que a geração de dados foi orientada em termos clínicos e não de forma sistemática. Segundo, como muitos pacientes permaneceram no hospital e os desfechos eram desconhecidos no momento do encerramento da coleta de dados, censuramos os dados referentes aos desfechos clínicos no momento da análise. Terceiro apenas os pacientes internados no HIAE foram incluídos no grupo hospitalizado, e não há documentação das internações realizadas fora da nossa rede. Por fim, este estudo incluiu apenas pacientes atendidos ambulatorialmente ou internados no HIAE, não tendo sido levados em consideração os casos assintomáticos e leves que não procuraram assistência médica. Assim, nossa coorte de estudo pode representar casos mais graves de COVID-19.
+
+CONCLUSÃO
+
+Até o momento, não há estudos no Brasil relatando as características dos pacientes com diagnóstico de COVID-19. O Brasil é o país do hemisfério sul com o maior número de casos confirmados da doença, e o Hospital Israelita Albert Einstein é o centro onde o primeiro paciente foi diagnosticado, com amostra representativa de todos os casos confirmados de COVID-19 no país. Os resultados apresentados neste estudo podem ser relevantes para o Brasil e para outros países com características semelhantes, que começaram a lidar com essa pandemia.

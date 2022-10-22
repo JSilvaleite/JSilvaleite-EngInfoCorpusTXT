@@ -1,0 +1,106 @@
+Estimação e predição dos casos de COVID-19 nas metrópoles brasileiras*
+
+RESUMO
+
+Objetivo
+
+estimar a taxa de transmissão, o pico epidemiológico e óbitos pelo novo coronavírus.
+
+Método
+
+um modelo matemático e epidemiológico para os casos suscetíveis, infectados e recuperados foi aplicado nas nove capitais brasileiras com o maior número de casos da infecção. O número de casos para os 80 dias seguintes ao primeiro caso foi estimado por meio de equações diferenciais e os resultados foram colocados em logaritmos e comparados com os números reais para verificar o ajuste do modelo. Em todos os cenários, considerou-se que nenhuma medida preventiva foi tomada.
+
+Resultados
+
+as nove metrópoles estudadas apresentaram uma curva de tendência de novos casos do coronavírus com um padrão ascendente. Os dados de predição apontam o pico da doença entre o final de abril e começo de maio. Fortaleza e Manaus apresentaram as maiores taxas de transmissão (≥2,0 e ≥1,8, respectivamente). Rio de Janeiro pode apresentar o maior número de pessoas infectadas (692.957) e Florianópolis a menor (24.750).
+
+Conclusão
+
+as estimativas da taxa de transmissão, pico epidemiológico e óbitos pelo coronavírus nas metrópoles brasileiras apresentaram números importantes e expressivos a serem observados pelo Ministério da Saúde brasileiro. Os resultados confirmam a rápida disseminação do vírus e sua alta mortalidade no país.
+Palavras-Chave: Infecções por Coronavirus; Isolamento Social; Previsões; Epidemiologia; Modelos Epidemiológicos; Enfermagem
+INTRODUÇÃO
+
+O novo coronavírus (SARS-CoV-2) pertence a uma família de vírus que causam doenças no sistema humano respiratório. Surtos anteriores do coronavírus (CoVs) incluíram a síndrome aguda respiratória grave (SARS)-CoV e síndrome respiratória do Oriente Médio (MERS)-CoV, como grandes ameaças à saúde pública(1).
+
+A pandemia de COVID-19 começou em Dezembro 2019 em Wuhan na província de Hubei, República Popular da China e a doença se espalhou rapidamente para outras províncias chinesas(2). Devido à sua alta disseminação, a China declarou a COVID-19 uma doença infecciosa de segunda classe, com medidas de manejo para uma doença infecciosa de primeira classe (a categoria mais perigosa de infecção)(3).
+
+A transmissão da COVID-19 foi rápida e global. O primeiro caso confirmado fora da China foi na Tailândia em 13 de janeiro de 2020. Posteriormente, casos da doença foram confirmados no Japão (16 de janeiro); Coréia do Sul (20 de janeiro); Taiwan e Estados Unidos (21 de janeiro); Hong Kong e Macau, China (22 de janeiro); Cingapura (25 de janeiro); França, Nepal e Vietnã (24 de janeiro); Malásia e Austrália (25 de janeiro); Canadá (26 de janeiro); Camboja (27 de janeiro); Alemanha (28 de janeiro); Finlândia, Emirados Árabes Unidos e Sri Lanka (29 de janeiro); Itália, Índia e Filipinas (30 de janeiro); e Reino Unido (31 de janeiro)(4), enquanto a pandemia continua se expandindo geograficamente.
+
+Neste cenário, resta estabelecer que a pandemia de COVID-19 em curso é devastadora, apesar da ampla implementação de medidas de controle. Em 30 de janeiro de 2020, a Organização Mundial da Saúde (OMS) caracterizou a doença como uma pandemia, constituindo uma Emergência em Saúde Pública de Importância Internacional. Em 1ode abril de 2020, foram confirmados 823.626 casos do Covid-19, com 40.598 mortes em todo o mundo(5).
+
+Um total de 6.836 casos foram confirmados pelo Ministério da Saúde até o dia 1o de abril, em uma análise dos casos de COVID-19 no Brasil, além de 241 mortes e uma taxa de mortalidade de 3.5%. Os casos estão distribuídos em todo o território nacional, com maior concentração no Sudeste (4.223 casos; 62%), seguido pelo Nordeste (1.007 casos; 15%), Sul (765 casos; 11%), Centro-Oeste (504 casos; 7%) e Norte (337 casos; 5%)(6).
+
+Os dados brasileiros são alarmantes. Neste sentido, pesquisas são necessárias e urgentes para estimar o risco da pandemia em macrorregiões brasileiras. Para identificar os centros urbanos expostos à maior carga da doença, é imprescindível acompanhar de perto mudanças na epidemiologia e o efeito de estratégias de saúde pública assim como sua aceitação social. Diante do exposto, o objetivo deste estudo foi estimar a taxa de transmissão, o pico epidemiológico, e óbitos por COVID-19 nas nove capitais brasileiras com o maior número de casos.
+
+MÉTODO
+
+O primeiro caso de COVID-19 foi diagnosticado em 27 de fevereiro de 2020 em São Paulo. No dia 3 de fevereiro, foi decretada emergência pública no país e no dia 20 de março do corrente ano foi anunciada transmissão comunitária da doença no país(7).
+
+Portanto, o modelo epidemiológico SIR proposto por Kermack e McKendric(8) foi adotado para entender a dinâmica da doença na população. Neste modelo, a ideia é que existem três grupos de indivíduos: os suscetíveis (S), os infectados (I), e os recuperados (R). Este modelo é matematicamente expresso por três equações diferenciais, onde β é o parâmetro que controla a transição entre S e I, e γ é o parâmetro de transição entre I e R.
+
+Neste artigo, foi pesquisado o primeiro tercil das cidades brasileiras com o maior número de casos até 27 março de 2020, que corresponde a nove capitais (dentre 27). De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), a população brasileira é estimada em 208.494.900 habitantes que vivem em 5.571 cidades distribuídas em cinco regiões. As capitais selecionadas são Belo Horizonte, São Paulo e Rio de Janeiro no Sudeste; Curitiba, Florianópolis e Porto Alegre no Sul; Manaus na região Norte; e Salvador e Fortaleza no Nordeste. Brasília no Centro-Oeste seria incluída no estudo, no entanto, por conta da dificuldade em obter dados oficiais, a mesma foi removida do conjunto de cidades investigadas.
+
+Os dados foram extraídos dos relatórios epidemiológicos diários desde o primeiro dia em que casos da doença foram confirmados até 30 de março de 2020; a população de cada capital foi obtida no IBGE(9). Inicialmente, foram criados gráficos com o número real de casos confirmados em cada cidade até a data final, seguido de transformações logarítmicas para mostrar os padrões de crescimento. Posteriormente, as equações diferenciais foram solucionadas para os casos em cada um dos nove cenários, predizendo o número de casos para o 80o dia da infecção, contados desde o primeiro dia. O logaritmo natural do número observado e previsto de casos foi usado para testar o ajuste do modelo. Para melhor entendimento, estes são apresentados graficamente.
+
+Além disso, foi possível encontrar a taxa básica de reprodução da doença (R0), que mostra quantas pessoas sadias podem ser infectadas por uma pessoa doente. O número previsto de casos, dia do pico e possível número de óbitos também foram investigados, considerando o número máximo de pessoas que podem ficar doentes com letalidade de 1%. Estes valores consideram que nenhuma medida de prevenção será implementada. Os dados foram analisados no software R, usando o pacote deSolve.
+
+Este estudo dispensou aprovação por Comitê de Ética porque os dados utilizados são públicos e disponibilizados online pelas secretarias de saúde de cada estado. O artigo está em acordo com a Resolução brasileira 466/2012 que regula aspectos éticos em pesquisa.
+
+RESULTADOS
+
+Foi analisado um total de 2.829 casos de COVID-19 confirmados nas nove capitais brasileiras. No Sudoeste, as cidades de São Paulo (SP), Rio de Janeiro (RJ) e Belo Horizonte (BH) notificaram seus primeiros casos em 22 de fevereiro, 6 e 16 de março, respectivamente. Até o final da coleta de dados, tinham sido notificados 1.233 casos em SP, 553 no RJ e 163 em BH.
+
+Em relação aos casos previstos, os casos observados são superiores aos obtidos pelo modelo de predição. Foi verificado um certo grau de estabilidade desde o 14o dia, com os números permanecendo abaixo aos do modelo (Figura 1).
+Figura 1 – Projeção do número de pessoas infectadas pelo novo coronavírus nas cidades da região Sudeste. Fortaleza, CE, Brasil, 2020*Nl = Logaritmo natural; Observed = Observado; Predicted = Previsto 
+
+As cidades de Curitiba, Florianópolis e Porto Alegre na região Sul notificaram seus primeiros casos em 5 de março (Porto Alegre) e 12 de março (Curitiba e Florianópolis). Até 30 de março, o número de casos confirmados aumentou para 77 em Curitiba, 50 em Florianópolis e 143 em Porto Alegre.
+
+Os casos estimados pelo modelo SIR em Curitiba, Florianópolis e Porto Alegre revelaram que os casos observados eram similares aos previstos (Figura 2). Porto Alegre apresentou um número de casos acima do previsto até o 20o dia da infeção e a partir de então, os casos se mantiveram relativamente constantes com números abaixo dos previstos no modelo.
+Figura 2 – Projeção do número de pessoas infectadas pelo novo coronavírus nas cidades da região Sul. Fortaleza, CE, Brasil, 2020*Nl = Logaritmo natural; Observed = Observado; Predicted = Previsto 
+
+Manaus foi a única cidade investigada na região Norte. O primeiro caso de COVID-19 na cidade foi registrado em 13 de março e no último dia da investigação, a cidade registrou 140 casos. O aumento acentuado no número de casos foi similar ao previsto no modelo, como apresentado na Figura 3.
+Figura 3 – Projeção do número de pessoas infectadas pelo novo coronavírus na capital da região Norte. Fortaleza, CE, Brasil, 2020*Nl = Logaritmo natural; Observed = Observado; Predicted = Previsto 
+
+Na região Nordeste, as cidades de Salvador e Fortaleza notificaram seus primeiros casos nos dias 13 e 16 de março, respectivamente. O número de casos confirmados até 30 de março foi 117 em Salvador e 382 em Fortaleza. Salvador e Fortaleza apresentam uma tendência similar ao do modelo (Figura 4).
+Figura 4 – Projeção do número de pessoas infectadas pelo novo coronavírus nas capitais da região Nordeste. Fortaleza, CE, Brasil, 2020*Nl = Logaritmo natural; Observed = Observado; Predicted = Previsto 
+
+Finalmente, a Tabela 1 apresenta os resultados numéricos dos resultados previstos para a COVID-19 nas capitais estudadas. Os dados de predição apontam a ocorrência do pico da infecção entre o final de abril e começo de maio. Fortaleza e Manaus apresentam a maior taxa de transmissão (≥2,0 e ≥1,8, respectivamente). Rio de Janeiro pode apresentar o maior número de pessoas infectadas (692.957) e Florianópolis o menor número (24.750).
+Tabela 1 – Predição dos resultados do novo coronavírus. Fortaleza, CE, Brasil, 2020 
+
+DISCUSSÃO
+
+O Brasil é marcado por grandes desigualdades socioeconômicas e nas condições de saúde, com diferenças geográficas relevantes, seja nos níveis de riscos à saúde ou no acesso aos recursos disponíveis no sistema de saúde(10). Endemias, epidemias e pandemias têm raízes históricas e sociais e seus principais determinantes são as más condições de vida da população, assim como as diferentes formas de ocupação dos espaços e falta de acesso aos serviços.
+
+Diferentemente de outras doenças infecciosas, a COVID-19 afeta tanto países desenvolvidos como em desenvolvimento, sem distinção social. Os resultados desta investigação mostram que a região Sudeste apresenta o maior número de casos de COVID-19, distribuídos nas cidades de SP e RJ, consideradas as maiores e mais desenvolvidas metrópoles do país e, em menor grau, em BH. São Paulo é o principal centro financeiro, corporativo e mercantil da América do Sul, sendo a cidade brasileira mais influente no cenário global. RJ é o maior destino turístico internacional no Brasil, características que levaram ao surgimento do primeiro caso da doença no país.
+
+Ainda no Sudeste, BH apresentou um padrão crescente da curva da doença. Entretanto, quando comparada a SP e RJ, a cidade apresentou um menor número de casos, o que pode ser justificado pelo fato de ter uma população menor que ambas as cidades, além da distribuição uniforme de suas unidades básicas de saúde e seu escopo. Os recursos humanos em BH, assim como as ações e serviços na área da saúde oferecidos pelo Sistema Único de Saúde, são distribuídos de forma mais igualitária, de fácil acesso e com tempo hábil para atender às necessidades de uma maior parcela da população(11), o que contribui para o diagnóstico precoce e contenção de casos da doença.
+
+A região Sul, representada pelas cidades de Curitiba, Florianópolis e Porto Alegre, apresenta um número menor de casos. Estas cidades representam um centro turístico, econômico e cultural importante, com influência europeia, evidenciada na sua população predominantemente idosa. As pessoas vivendo no Sul do país têm maior acesso aos serviços de saúde comparado a outras regiões brasileiras(12).
+
+Vale ressaltar que a distribuição desigual dos casos de COVID-19 entre as regiões brasileiras também é um reflexo da subnotificação. As regiões Norte e Nordeste são marcadas por uma pior avaliação do estado de saúde, maior restrição de atividades, e menor uso dos serviços de saúde, apesar da grande cobertura dos programas públicos(13).
+
+Representando a região Norte, Manaus, a capital do Amazonas, é o principal centro financeiro, corporativo e comercial da região. É a cidade mais populosa, com 2,1 milhões de habitantes e um dos maiores destinos turísticos no Brasil. O crescimento dos casos na cidade é expressivo e vinculado a um cenário social em que prevalecem a assimetria, verticalidade, competitividade e fragilidade das relações entre os munícipios, além de uma rede serviços de saúde insuficiente e com dificuldade de fixação dos recursos humanos(14).
+
+Na região Nordeste, os casos do COVID-19 nas cidades de Salvador e Fortaleza, que são cidades com grande fluxo de viagens internacionais, foram analisados. Salvador é a cidade mais populosa do Nordeste e a terceira no país. Fortaleza, a capital do estado do Ceará, tem a maior densidade demográfica entre as capitais brasileiras. Nestas cidades, foi observado um padrão de crescimento exponencial e Fortaleza também apresentou a maior taxa de transmissão. Atualmente, Fortaleza concentra 91% dos casos de COVID-19 no estado do Ceará, concentrados em bairros com diferentes níveis socioeconômicos.
+
+Neste contexto o número de turistas, tanto nacionais como internacionais, que procuram o Brasil como destino, tem aumentado a cada ano. Capitais como São Paulo, Rio de Janeiro, Curitiba, Salvador e Fortaleza estão entre os destinos mais populares entre os turistas, seja pelas paisagens naturais, atrações culturais ou econômicas. Para acomodar este número de turistas, o Brasil se tornou um dos países emergentes com o maior potencial para o desenvolvimento de transporte aéreo.
+
+Devido a sua dimensão territorial, alta mobilidade geográfica e social de sua população, o deslocamento de fronteiras econômicas tem se acelerado, com inserção competitiva nos mercados globais, estabilidade monetária e aumento do poder aquisitivo dos consumidores(15). O estabelecimento de hubs em vários aeroportos melhorou a entrada de estrangeiros de diferentes países do mundo.
+
+As vantagens econômicas do turismo brasileiro são inegáveis, no entanto, questões de viagens e saúde são uma preocupação. Os perfis de viajantes diferem em termos de origem e destino, o que pode influenciar a ocorrência de epidemias e pandemias, geralmente de magnitude e gravidade inesperadas(16), como a COVID-19. Além disso, a cobertura limitada e o acesso aos serviços de saúde no país podem contribuir para a propagação de doenças.
+
+Enquanto uma pequena porção da população brasileira tem acesso aos serviços de saúde, a maior parte enfrenta uma diminuição no suprimento de leitos hospitalares(17). Este fator, vinculado ao potencial pandêmico da COVID-19, colocou a capacidade de reação dos serviços de vigilância epidemiológica no centro das atenções e exigiu que o governo brasileiro tomasse medidas preventivas como confinamento e distanciamento social.
+
+São necessárias medidas abrangentes para diminuir a transmissão interpessoal da COVID-19(1). No entanto, as medidas adotadas, como pulverizar desinfetante e álcool no ar, nas ruas, veículos e pessoas não têm sido efetivas(3). Medidas mais amplas incluem o isolamento dos casos, identificação e monitoramento de contatos, desinfecção ambiental e uso de equipamento de proteção individual(4). Em relação às estratégias de controle, o distanciamento social destacou-se como uma estratégia que limita a transmissão direta de humano para humano, inclusive reduzindo infecções secundárias entre contatos próximos e profissionais de saúde, prevenindo eventos que ampliam a transmissão, assim como reduzindo ou retardando sua disseminação.
+
+Além disso, epidemias e pandemias paralisam o desenvolvimento econômico, social, político e cultural, interferindo na trajetória demográfica dos lugares por onde estas se espalham(18). O surgimento da COVID-19 e suas consequências deixou a população mundial com sentimentos de medo, preocupação e ansiedade, o que pode aumentar os dados referentes à doença(19).
+
+O caos causado pela COVID-19 em termos biológico, mental, social e econômico requer uma resposta rápida do governo federal e que seja mantida comunicação efetiva deste com os governadores dos estados. No Brasil, vislumbram-se divergências entre membros do poder executivo em nível estadual e federal sobre quais são as melhores formas de enfrentar esta crise. Esta falta de entendimento é factual e pode resultar num maior número de mortes, como resultado das características do vírus e acesso desigual ao sistema de saúde assim como às tecnologias de saúde disponíveis no país.
+
+A publicação de casos previstos nas metrópoles pesquisadas é inédita em periódicos científicos brasileiros. Esta evidência permite que gestores organizem os serviços de saúde a partir de políticas públicas como a criação de leitos hospitalares, a compra de equipamento médico, e a implementação de educação em saúde para assegurar a quarentena ou distanciamento social.
+
+As principais limitações deste estudo se dão devido ao uso de dados secundários, pois alguns casos apresentam dados incompletos. Além disso, a subnotificação e/ou testagem insuficiente pode influenciar o pico previsto. É importante salientar que os resultados não consideram medidas de distanciamento social que objetivam reduzir a taxa de transmissão do vírus.
+
+CONCLUSÃO
+
+As estimativas da taxa de transmissão, pico epidemiológico e óbitos pelo COVID-19 nas metrópoles brasileiras apresentaram números importantes e expressivos que devem ser levados em consideração pelo Ministério da Saúde brasileiro. Todas as metrópoles mostraram crescimento exponencial no número de casos. A taxa de transmissão foi alta em Fortaleza e Manaus, portanto, a estimativa é de muitas mortes. Desta forma, os resultados confirmam a rápida disseminação do vírus e sua alta mortalidade no Brasil.

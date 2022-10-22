@@ -1,0 +1,105 @@
+Máscaras de tecido para a prevenção da COVID-19 e outras infecções respiratórias*
+
+RESUMO
+
+Objetivo
+
+analisar as evidências científicas sobre a eficácia de máscaras de tecido para a prevenção da COVID-19 e outras infecções respiratórias.
+
+Método
+
+revisão integrativa da literatura a partir da questão norteadora: “Qual a eficácia das máscaras de tecido na absorção de partículas causadoras de infecção respiratória?”. A busca ocorreu em oito bases de dados eletrônicas sem restrição de tempo e idioma.
+
+Resultados
+
+as máscaras de tecido de baixa cobertura, 100% algodão, cachecol, fronha, fronha antimicrobiana, linho, seda, toalha de chá e saco de aspirador apresentam proteção marginal/razoável na absorção de partículas, enquanto as máscaras de tecido com alta cobertura têm elevada proteção.
+
+Conclusão
+
+as máscaras de tecido representam medida preventiva com eficácia moderada na disseminação de infecções respiratórias ocasionadas por partículas de tamanho igual e/ou menor ao SARS-CoV-2. A eficácia da barreira contra as gotículas é influenciada, principalmente, pelo tipo de tecido, quantidade de camadas e frequência de lavagens.
+Palavras-Chave: Máscaras Faciais; Coronavírus; Infecções por Coronavírus; Infecções Respiratórias; Prevenção de Doenças; Revisão
+INTRODUÇÃO
+
+Caracterizado como pandemia pela Organização Mundial da Saúde (OMS), o surto emergente da COVID-19 tem constituído uma emergência de saúde pública mundial(1). Causada pela cepa SARS-Cov2 do coronavírus, a doença teve origem em Wuhan, China, e disseminou-se rapidamente pelos países, de forma a constituir cenário desafiador para os sistemas de saúde e governos, diante dos elevados níveis de transmissibilidade e da urgente necessidade de medidas preventivas para conter sua rápida disseminação e reduzir seu impacto(2-3). No mundo, em maio de 2020, os casos confirmados ultrapassaram 3,0 milhões e as mortes chegaram a mais de 200 mil(4).
+
+Com o aumento rápido dos casos da doença, o contato interpessoal apresentou-se como risco de infecção, situação que demandou a adesão efetiva de recomendações preventivas, como lavagem das mãos, etiqueta respiratória ao tossir ou espirrar, uso de máscaras e distanciamento social. Estas medidas individuais e coletivas, relacionadas à rápida identificação e testagem dos casos suspeitos, são fundamentais para reduzir a transmissão do vírus e evitar o colapso dos sistemas de saúde(5-6).
+
+Nessa perspectiva, o elevado consumo de máscaras hospitalares pela população mostrou-se ameaça para que tal Equipamento de Proteção Individual (EPI) se tornasse escasso no mercado. Diante de tal fato, a Agência Nacional de Vigilância Sanitária (ANVISA) e a OMS têm recomendado a utilização de máscaras de uso não profissional pela população, de forma que o uso de máscaras de tecido adquire importância diante da possibilidade do seu potencial preventivo, além de colaborar com a redução na busca por máscaras hospitalares que devem ser, prioritariamente, destinadas aos profissionais de saúde que realizam assistência aos pacientes graves(7-8).
+
+A adoção do uso de máscaras de tecido apresenta-se como medida estratégica voluntária de saúde pública para a contenção do novo coronavírus. O referido tipo de máscara consiste em barreira física que pode ter grande impacto no combate à pandemia e contribuir significativamente para a redução da incidência da COVID-19(7). Assim, o número de pessoas que fazem uso das máscaras de tecido pode interferir na propagação e resultar no achatamento da curva de crescimento da doença, o que é relevante para favorecer a ampliação da capacidade de respostas dos sistemas de saúde(9).
+
+Destaca-se que o uso de máscaras de tecido ainda precisa de maior comprovação científica quanto à sua eficácia na prevenção da transmissão. Contudo, aponta-se que o uso dos diversos tipos de máscara, somado à higienização das mãos e demais medidas preventivas, constitui estratégia relevante para diminuir a disseminação da SARS-Cov2, uma vez que o vírus pode ser transmitido rapidamente por aerossóis e gotículas(10).
+
+Diante desse cenário e da escassez de pesquisas que abordem a eficácia de máscara de tecido na prevenção do novo coronavírus, torna-se pertinente a realização de estudos que busquem trazer subsídios para a prevenção da COVID-19, em especial, quanto ao uso de máscaras de tecido como ferramentas de ajuda e corresponsabilização da população na prevenção da doença. Assim, este estudo objetivou analisar as evidências científicas sobre a eficácia de máscaras de tecido para a prevenção da COVID-19 e outras infecções respiratórias.
+
+MÉTODO
+
+Trata-se de uma revisão integrativa da literatura desenvolvida a partir das seguintes etapas: identificação da temática do estudo e elaboração da pergunta norteadora; busca de artigos nas bases de dados; análise crítico-reflexiva dos estudos encontrados; interpretação e apresentação dos resultados e síntese final da revisão(11).
+
+A questão norteadora do estudo, com base na estratégia População, Interesse, Contexto (PICo)(12), foi: “Qual a eficácia das máscaras de tecido na absorção de partículas causadoras da COVID-19 e outras infecções respiratórias?”, para a qual se consideraram P = máscara de tecido; I = prevenção de doenças/absorção de partículas/eficácia; Co = infecções respiratórias/COVID-19.
+
+A busca ocorreu nas bases de dados: Scopus; National Library of Medicine and National Institutes of Health (PubMed/MEDLINE); PubMed/PMC; Web of Science; Cumulative Index of Nursing and Allied Health Literature (CINAHL); Scientific Electronic Library Online (SciELO); Cochrane e Excerpta Medica dataBASE (EMBASE). Com o intuito de ampliar os resultados encontrados, foram usados termos da linguagem convencional e os Descritores em Ciências da Saúde - DeCS e Medical Subject Headings - MeSH por meio do cruzamento: (“Cloth Mask” OR “Fabric Mask” OR “Mask” OR “Face Mask”) AND “Efficacy” AND (“Respiratory Virus” OR “Influenza” OR “SARS-CoV-2” OR “Covid-19”). Para corroborar a exaustão da possibilidade de busca, o acesso ocorreu a partir do portal de periódicos da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) em cobertura de Internet Protocol (IP) pertencente à Universidade Federal do Ceará e à Universidade Estadual Vale do Acaraú.
+
+Os critérios de inclusão foram: artigos primários, que abordassem a eficácia de máscaras de tecido na absorção de partículas, publicados sem delimitação de idioma e tempo. Excluíram-se dissertações, teses, revisões de literatura, artigos que não possuíssem relação com a questão de pesquisa e artigos duplicados.
+
+O processo de seleção e elegibilidade dos estudos foi seguido conforme as recomendações do Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)(13). Inicialmente, procedeu-se à leitura dos títulos e resumos dos artigos na íntegra para a seleção das publicações que se enquadrassem nos critérios de inclusão. Posteriormente, realizou-se a análise completa dos estudos selecionados, com instrumento semiestruturado, que possibilitou a identificação de informações dos estudos como título, autores, ano, país, características metodológicas e principais resultados. Destaca-se que a busca e a seleção dos artigos foram realizadas por três pesquisadores independentes com o intuito de verificar possíveis divergências nos achados.
+
+Para o estabelecimento do nível de evidência, consideraram-se: nível I - as metanálises e estudos controlados e randomizados; nível II - os estudos experimentais; nível III - os quase-experimentais; nível IV - os descritivos, não experimentais ou qualitativos; nível V - os relatos de experiência e nível VI - os consensos e opinião de especialistas(14).
+
+O estudo respeitou os princípios éticos e legais da Resolução 510/2016 do Conselho Nacional de Saúde que envolvem pesquisas com informações de domínio público.
+
+RESULTADOS
+
+A partir da busca, foi recuperado um total de 3541 publicações, das quais 3447 foram excluídas por não atenderem aos critérios de inclusão e 84 foram excluídas por serem repetidas, de forma que restaram nove estudos para a amostra final, como descreve a Figura 1.
+Figura 1 Fluxograma da busca e seleção de artigos de acordo com as recomendações do PRISMA(13). Fortaleza, CE, Brasil, 2020 
+
+As publicações datavam do período de 2010 a 2020, sendo a maioria de 2020 (44,4%). Quanto à origem dos estudos, quatro foram produzidos nos Estados Unidos (44,4%); dois, no Nepal (22,2%); um, na China, Vietnã e Portugal (11,1%), respectivamente. Em relação ao delineamento metodológico, houve um estudo randomizado por cluster (11,1%), um pelo método de análise matemática do tipo Kermack-McKendrick (11,1%) e sete pesquisas com testes laboratoriais (77,7%).
+
+A Figura 2 apresenta as nove publicações selecionadas de acordo com os autores, ano e país de publicação e aspectos metodológicos.
+Figura 2 – Descrição dos estudos encontrados nas bases de dados quanto aos autores, país e ano de publicação, método e nível de evidência. Fortaleza, CE, Brasil, 2020 
+
+As partículas analisadas nos estudos foram: aerossóis monodispersos e polidispersos (20-1000 nm); Bacillus atrophaeus (0,95-1,25 μm) e B. atrófagos (23 nm); esferas de aerossol monodispersas (30, 100 e 500 nm e 1 e 2,5 μm); partículas (<5, 5–10 e> 10 μm) e partículas (0 a 0,8 μm); micro e macrobactérias (3x106-7 cfu/ml); aerossóis (diâmetros medianos de 3,9 μm e 65% dos aerossóis com diâmetros inferiores a 5,0 μm), ambos com frequência de 11,1% nos estudos.
+
+As máscaras estudadas foram: de tecido; algodão; seda; cachecol; toalha de chá; fronha; fronha antimicrobiana; linho; saco de aspirador; mistura de tecido de algodão com válvula de escape; saco de vácuo lavável High Efficiency Particulate Arrestance (HEPA); lã feltrada grossa; tecido pesado; meia dobrada; colcha de algodão; artesanato em feltro; 100% nylon; jeans; malha de jersey de algodão; lycra; interface fusível e camisa leve. Os principais resultados de tais estudos encontram-se descritos na Figura 3.
+Figura 3 – Descrição dos estudos quanto aos tipos de máscaras, amostra e principais resultados dos artigos. Fortaleza, CE, Brasil, 2020*HEPA = High Efficiency Particulate Arrestance 
+
+Na Tabela 1, foram comparados os tipos de máscaras, sua eficácia e a proporção dos achados. No nível de eficácia “proteção baixa”, foram inclusos os artigos que relataram filtragem insuficiente de partículas; “proteção moderada”, estudos que relataram filtragem marginal/razoável de partículas e o nível “proteção alta”, artigos que relataram filtragem significativa de partículas.
+
+Tabela 1 Tipo de máscara, efeito encontrado e proporção entre os artigos. Fortaleza, CE, Brasil, 2020 
+*HEPA = High Efficiency Particulate Arrestance
+
+DISCUSSÃO
+
+A análise do estudo possibilitou identificar que a maioria das pesquisas (44,4%) foi publicada no ano de 2020. Destas, uma foi publicada na China e quatro, nos Estados Unidos da América (EUA). Esses resultados justificam-se devido ao fato de esses países representarem epicentros da pandemia do novo coronavírus, o que estimula a atuação dos pesquisadores no combate à doença e no desenvolvimento de pesquisas. No final de abril, a China registrava mais de 84 mil casos confirmados e mais de 4,6 mil mortes, enquanto os EUA registravam mais de um milhão de casos e mais de 60 mil mortes(23).
+
+A COVID-19 é uma doença causada por um vírus com RNA de sentido positivo, com 50 a 200 nm de diâmetro(24). As pesquisas desenvolvidas até a segunda quinzena de abril não testaram a eficácia das máscara na absorção de tais partículas, contudo, existem evidências na absorção de aerossóis monodispersos e polidispersos (20-1000 nm)(15), Bacillus atrophaeus (0,95-1,25 μm) e B. atrófagos (23 nm)(16), esferas de aerossol monodispersas (30, 100 e 500 nm e 1 e 2,5 μm)(18), partículas <5, 5–10 e> 10 μm(19), partículas de 0 a 0,8 μm(21), micro e macrobactérias (3x106-7 cfu/ml)(22) e aerossóis (com diâmetros medianos de 3,9 μm)(10).
+
+Parte dos estudos analisou partículas menores do que SARS-CoV-2, visto que um micrometro (μm) é equivalente a 1000 nanômetros (nm). Assim, é possível supor que os achados na literatura científica sejam semelhantes a futuras pesquisas com partículas virais do coronavírus, o causador da COVID-19.
+
+Além disso, foi evidenciada variação entre 40 a 97% na capacidade de proteção das máscaras de tecido entre os estudos analisados. Essa variância está relacionada com o tipo de tecido utilizado, o número de camadas e a quantidade de lavagens. Tal achado corrobora estudo realizado durante o surto da influenza A (H1N1)(15), o qual identificou que alguns materiais de tecido possuem melhores taxas de filtração do que outros: toalhas e cachecol tiveram melhor desempenho do que outros materiais de tecido na testagem de partículas monodispersas com tamanho <100 nm (Aquis, Pinzon e Pem America). Isso evidencia que características da fibra do tecido (diâmetro, carga e densidade) influenciam a eficácia das máscaras.
+
+Estudos descreveram que máscaras de tecido têm eficácia reduzida ao serem comparadas com máscaras hospitalares (N95 e/ou máscara cirúrgica), porém, quando fabricadas com duplas camadas, podem ser tão eficazes quanto às máscaras hospitalares. Esses achados vão ao encontro de condutas tomadas pelo Ministério da Saúde(25) diante da pandemia ao sugerir que a população fabrique suas próprias máscaras com tecido com dupla camada. Essa medida foi tomada em caráter de urgência no processo de prevenção da COVID-19, pois as máscaras cirúrgicas e N95 deviam ser usadas somente por profissionais de saúde, visto que os serviços da saúde estão mais expostos à contaminação pela SARS-CoV-2 e há escassez desses EPIs em todo o mundo.
+
+Além do Brasil, outros países aderiram ao uso de máscaras de tecido caseiras, com o intuito de reduzir a proliferação do vírus da COVID-19, como é o caso dos EUA, Israel, Áustria, República Tcheca, Hong Kong e Mongólia(26-27).
+
+Em dicotomia com esses achados, estudo randomizado por cluster, realizado nas enfermarias de hospital do Vietnã, avaliou máscaras usadas por profissionais de saúde durante plantões de oito horas, por quatro semanas, identificando que máscaras de tecido absorveram quase 97% das partículas ambientais, enquanto máscaras cirúrgicas absorveram 44%. Assim, a filtragem insuficiente torna-se um risco para o desenvolvimento de infecções, principalmente para profissionais de saúde(17).
+
+Contudo, aponta-se que, em contexto de pandemia, se torna válido o uso de máscaras de tecido entre a população, visto que evidências científicas comprovam sua eficácia, principalmente quando apresentam alta cobertura(28). Além disso, conforme estudo desenvolvido nos EUA, a combinação de máscaras de baixa eficácia com outras estratégias de prevenção, principalmente o isolamento social, podem corroborar o controle da pandemia(20).
+
+No tocante ao uso correto das máscaras, pesquisa realizada no Nepal evidenciou que a eficácia das máscaras de tecido é reduzida 20% após a quarta lavagem e secagem(19). Essa perda de eficácia na filtração de partículas ocorre porque o processo de higienização reduz as microfibras do tecido e aumenta o tamanho dos poros. Esses dados contradizem as recomendações da ANVISA, que indicam até trinta ciclos de lavagem(7). Destaca-se que a OMS recomenda o uso e os cuidados com as máscaras de tecido, porém, não delimita a quantidade de lavagens(8) e o Ministério da Saúde recomenda a troca da máscara após sinais de desgastes(25).
+
+Com isso, é possível inferir que esta revisão apresenta contribuições científicas importantes para área da saúde e Enfermagem nos cenários nacional e internacional, pois o uso de máscaras de tecido é uma das principais medidas preventivas orientadas pelos gestores e profissionais da saúde para a redução da disseminação do vírus na comunidade. Assim, os resultados deste estudo fornecem subsídios para o fortalecimento dessa prática implementada em diversos países, a partir de decretos e leis dos órgãos governamentais, tendo em vista que parte dos estudos analisados, evidenciou eficácia moderada na prevenção de infecções respiratórias ocasionadas por partículas de tamanho semelhante ao SARS-CoV-2.
+
+Salienta-se que a eficácia da barreira das máscaras contra as gotículas é influenciada, principalmente, pelo tipo de tecido, quantidade de camadas e frequência de lavagens. Assim, é preciso maior engajamento dos profissionais de saúde, em especial os enfermeiros, para a orientação da população nas mídias sociais sobre o uso e a lavagem corretos das máscaras de tecido com o intuito de otimizar a eficácia protetora deste utensílio por um período mais prolongado.
+
+As principais limitações desta revisão estão relacionadas principalmente com a ausência de informações, em alguns estudos, sobre as características dos tecidos analisados e a ausência de estudos com partículas específicas da SARS-CoV-2.
+
+CONCLUSÃO
+
+A síntese do conhecimento evidenciou nove pesquisas, a maioria publicada em 2020, de âmbito internacional, realizadas por análise laboratorial. As partículas estudadas foram as seguintes substâncias nanométricas e micrométricas: aerossóis monodispersos e polidispersos; Bacillus atrophaeus; B. atrófagos; esferas de aerossol monodispersas; micro e macrobactérias; partículas/aerossóis ambientais e laboratoriais. O diâmetro delas variou de zero μm a 1000 nm.
+
+As máscaras de tecido de baixa cobertura, 100% algodão, cachecol, fronha, fronha antimicrobiana, linho, seda, toalha de chá e saco de aspirador possuíram proteção moderada no processo de absorção das partículas analisadas, enquanto as máscaras de tecido de alta cobertura, saco de vácuo lavável HEPA, lã feltrada grossa, algodão, tecido pesado, meia dobrada, colcha de algodão, artesanato em feltro, 100% nylon, jeans, malha de jersey de algodão, lycra, interface fusível e camisa leve possuíram proteção alta.
+
+A maioria das máscaras de tecido apresentou capacidade de absorção moderada para partículas micrométricas e nanométricas. É possível inferir que a eficácia de filtração observada em tais estudos pode ocorrer de forma semelhante em partículas virais do causador da COVID-19. Assim, acredita-se que esses equipamentos de proteção, elaborados artesanalmente conforme as recomendações dos órgãos sanitários de cada país, podem contribuir para a prevenção da transmissão do Coronavírus na comunidade, de forma que se apresentam como medida preventiva capaz de favorecer a redução dos casos da doença no Brasil e no mundo.
+
+Ressaltam-se a urgência e a necessidade de novos estudos visto que a pandemia demanda que as decisões de prevenção sejam tomadas com base em evidências científicas. Porém, enquanto novas pesquisas são realizadas, sugere-se que seja divulgada e instituída a indicação do uso de máscaras de tecido pela população, principalmente com alta cobertura (mais de uma camada), devido à sua capacidade de maior proteção na absorção de partículas nanométricas e micrométricas semelhantes à estrutura da SARS-CoV-2. Além disso, recomenda-se que, após o quarto ciclo de lavagem e secagem, as máscaras sejam descartadas e substituídas por novas.

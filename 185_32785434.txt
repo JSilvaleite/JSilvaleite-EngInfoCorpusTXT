@@ -1,0 +1,99 @@
+COVID-19 no Brasil: evolução da epidemia até a semana epidemiológica 20 de 2020
+
+RESUMO
+
+Objetivo
+
+descrever a evolução da COVID-19 no Brasil até a Semana Epidemiológica (SE) 20 de 2020.
+
+Métodos
+
+estudo ecológico baseado em dados e documentos do Ministério da Saúde brasileiro e órgãos internacionais; foram realizadas comparações do Brasil com outros países e calculadas taxas de incidência e de mortalidade.
+
+Resultados
+
+até o fim da SE 20, no país havia 233.142 casos, 15.633 óbitos confirmados e 3.240 (58,2%) dos municípios apresentavam pelo menos um caso; o Brasil estava em uma fase anterior da pandemia quando comparado aos demais países, exceto Rússia e Turquia, em casos acumulados, e Canadá, em óbitos acumulados; as maiores taxas foram encontradas em Unidades da Federação da Região Norte, com o Amazonas apresentando as maiores taxas de incidência (4.474,6/1 milhão) e mortalidade (331,8/1 milhão).
+
+Conclusão
+
+o Brasil está entre os países com maiores números de casos e óbitos confirmados, exibindo notáveis diferenças regionais.
+Palavras-Chave: Infecções por Coronavirus; Pandemias; Vigilância em Saúde Pública; Epidemiologia; Brasil
+
+
+INTRODUÇÃO
+
+Em dezembro de 2019, a cidade de Wuhan, localizada na província de Hubei, na China, vivenciou um surto de pneumonia de causa desconhecida.1 Em janeiro de 2020, pesquisadores chineses identificaram um novo coronavírus (SARS-CoV-2) como agente etiológico de uma síndrome respiratória aguda grave, denominada doença do coronavírus 2019, ou simplesmente COVID-19 (Coronavírus Disease – 2019).3
+
+No início do surto, todos os casos estavam relacionados a um mercado de frutos do mar e animais vivos, também em Wuhan.5Nos primeiros 30 dias, a China registrou 11.821 casos e 259 óbitos. Ainda em janeiro, a doença foi registrada em outros países da Ásia, Europa e América do Norte.6 Em 30 de janeiro de 2020, a Organização Mundial da Saúde (OMS) declarou Emergência em Saúde Pública de Importância Internacional (ESPII). Em um cenário com mais de 110 mil casos distribuídos em 114 países, a OMS decretou a pandemia no dia 11 de março de 2020.8
+
+As pessoas com COVID-19 podem apresentar tosse, dificuldade para respirar, dores de garganta, febre e outras manifestações clínicas. Há ainda os portadores assintomáticos, os quais possuem importância epidemiológica, dado que são potenciais transmissores.9 O SARS-CoV-2 apresenta o número básico de reprodução (R0) alto quando comparado a outros coronavírus, chegando a 6,49 na província de Hubei.10
+
+A experiência da China mostrou que intervenções não farmacológicas, que incluem diversas formas de distanciamento social, desde o isolamento de casos e contatos, até o bloqueio total (lockdown), podem conter a epidemia.11 No entanto, a aplicabilidade dessas estratégias se dá de diferentes formas entre os diversos países. As dificuldades na adoção dessas medidas podem ajudar a explicar o registro, no mundo, no dia 16 de maio de 2020, de 4.425.485 casos de COVID-19, com 302.059 óbitos, sendo as Américas o continente mais atingido, seguido da Europa.12
+
+No Brasil, os primeiros casos foram confirmados no mês de fevereiro, e diversas ações foram implementadas a fim de conter e de mitigar o avanço da doença. Em 3 de fevereiro de 2020, o país declarou Emergência de Saúde Pública de Importância Nacional (ESPIN),13antes mesmo da confirmação do primeiro caso. A consolidação dos dados sobre casos e óbitos por COVID-19, coletados e disponibilizados pelas Secretarias Estaduais de Saúde, vem sendo realizada desde o início da pandemia pelo Ministério da Saúde brasileiro. Isso permite o conhecimento da dinâmica da doença no país e, consequentemente, o estabelecimento de políticas para desacelerar o incremento no número de casos.
+
+Este estudo objetivou descrever a evolução da COVID-19 no Brasil até a semana epidemiológica (SE) 20. Tal evolução foi comparada entre os dez países com maior número de casos da COVID-19 notificados até esta semana, bem como entre as Unidades da Federação (UFs).
+
+MÉTODOS
+
+Trata-se de um estudo ecológico descritivo, cujas unidades de análise foram o Brasil, suas macrorregiões e UFs, assim como os demais nove países que apresentaram maior número de casos confirmados (Estados Unidos, Rússia, Reino Unido, Espanha, Itália, Alemanha, Turquia, França e Irã) e nove países que apresentaram maiores números de óbitos confirmados (Estados Unidos, Reino Unido, Itália, França, Espanha, Bélgica, Alemanha, Irã e Canadá) de COVID-19 até 16 de maio de 2020, o último dia da SE 20.
+
+O Brasil possui 5.570 municípios divididos em 27 UFs, as quais são agrupadas em cinco macrorregiões geográficas (Centro-Oeste, Nordeste, Norte, Sudeste e Sul), que possuem características sociodemográficas e de saúde bem distintas entre si.14
+
+Para a situação epidemiológica, considerou-se o período entre 26 de fevereiro, data da confirmação do primeiro caso no país, e 16 de maio de 2020 (data de extração dos dados). Foram utilizados os dados de casos e óbitos confirmados pela doença, por local de residência e agregados por país, macrorregião geográfica e UFs do Brasil, disponibilizados pelo Painel COVID-19 do Ministério da Saúde de modo público, agrupado e não nominal, e, para comparação com a situação mundial, foram considerados os informes epidemiológicos disponibilizados pela OMS e pela Johns Hopkins University.12
+
+Sobre o número de casos confirmados por COVID-19 no Brasil, é importante ressaltar que o Ministério da Saúde adotou diferentes definições de caso durante a pandemia, a saber:
+
+Janeiro e fevereiro de 2020 (divulgada em 23 de janeiro de 2020): indivíduo com confirmação laboratorial conclusiva para COVID-19, independentemente de sinais e sintomas; ainda que o resultado fosse positivo, a vigilância investigaria se o indivíduo estivera fora do país nos últimos 14 dias ou se teve contato com alguém que realizou viagem internacional.16
+
+Março de 2020 (divulgada em 4 de março de 2020): após a decretação de transmissão comunitária no país, a definição mudou para incluir também o critério clínico-epidemiológico, além do laboratorial: caso suspeito ou provável com histórico de contato próximo ou domiciliar com caso confirmado laboratorialmente para COVID-19, que apresentasse febre ou pelo menos um dos sinais ou sintomas respiratórios, nos últimos 14 dias após o contato, e para o qual não fosse possível realizar a investigação laboratorial específica.16
+
+Abril e maio de 2020 (divulgada em 3 de abril de 2020): a definição de caso adotada a partir de abril considera que casos confirmados são indivíduos que possuem confirmação laboratorial para SARS-CoV-2, independentemente de sinais e sintomas, ou por critério clínico-epidemiológico, quando o indivíduo possui histórico de contato próximo ou domiciliar, nos últimos sete dias antes do aparecimento dos sintomas com caso confirmado laboratorialmente, para o qual não foi possível realizar o teste laboratorial.14
+
+Foram elaborados gráficos de casos e óbitos acumulados para os dez países e dez UFs do Brasil com maior número de casos até o dia 16 de maio de 2020, a partir da confirmação do 50° caso ou óbito, com o intuito de descrever em que fase da epidemia o Brasil e suas UFs estão e como estão se comportando as curvas epidêmicas de cada localidade. Foi elaborado, ainda, um histograma do número de casos acumulados no Brasil sobreposto a uma linha do tempo, com o intuito de mostrar o histórico da pandemia, bem como os fatos relevantes para a preparação nacional para resposta à situação de emergência. Para o levantamento dos fatos históricos, foram consultados o sítio eletrônico da OMS, a literatura especializada e documentos oficiais disponibilizados pelo Ministério da Saúde brasileiro.4
+
+Por fim, foram calculadas as taxas de incidência e de mortalidade para os países e para o Brasil, por macrorregiões e UFs, obtidas dividindo-se o número de casos e óbitos, respectivamente, pela população residente, e multiplicando-se por 1 milhão. Esse fator de multiplicação foi utilizado para permitir comparações nacionais e internacionais. As estimativas populacionais utilizadas como denominadores do mundo foram produzidas pelo Banco Mundial21 e as do Brasil foram produzidas pelo Instituto Brasileiro de Geografia e Estatística (IBGE) para o Tribunal de Contas da União (TCU), e são referentes ao ano de 2019.14 Para o cálculo das taxas por SE, foram considerados os valores acumulados de casos e óbitos relacionados ao último dia de cada semana.
+
+Os softwares Microsoft Excel e R 3.5.3 foram utilizados para tratamento, análise de dados e criação de gráficos.
+
+RESULTADOS
+
+De 31 de dezembro de 2019 a 16 de maio de 2020, foram registrados 4.425.485 casos e 302.059 óbitos confirmados por COVID-19 em 216 países e territórios. Em 16 de maio de 2020, os Estados Unidos apresentavam o maior número de casos (1.443.397; 4.380,1 por 1 milhão de hab.), seguido da Rússia (262.843; 1.820,6 por 1 milhão de hab.), Reino Unido (236.711; 3.540,6 por 1 milhão de hab.) e Brasil (233.142; 1.109,4 por 1 milhão de hab.). Naquela data, o Brasil ocupava a 4a posição em números absolutos de casos confirmados, e a 6a posição segundo óbitos confirmados. Os maiores números de óbitos foram encontrados nos Estados Unidos (89.562; 271,8 óbitos por 1 milhão de hab.), vindo em seguida o Reino Unido (34.636; 518,1 óbitos por 1 milhão de hab.) e a Itália (31.908; 528,8 óbitos por 1 milhão de hab.) (Figuras 1A e 1B).
+Figura 1 – Número de casos acumulados a partir do 50° caso confirmado (A) e óbitos acumulados a partir do 50° óbito confirmado (B) por COVID-19, nos dez países com maior número de casos e óbitos até 16 de maio de 2020 
+
+Ao compararmos as curvas dos dez países com os maiores números de casos acumulados após o 50° caso, observou-se que o Brasil (dia 66) está em uma fase anterior da pandemia quando comparado aos demais países, exceto Rússia (dia 63) e Turquia (dia 60). Em relação às curvas de óbitos acumulados por dia após o 50° óbito, observa-se que o Brasil (dia 54) também está em uma fase anterior da pandemia quando comparado aos demais países, exceto Canadá (dia 50). Em ambos os gráficos, as curvas do Brasil se comportam de forma diferente, exibindo aumentos de casos e óbitos em fases diferentes da curva, em comparação com os demais países (Figuras 1A e 1B).
+
+No dia 26 de fevereiro, foi confirmado o primeiro caso importado no Brasil, no estado de São Paulo: um brasileiro do sexo masculino com 61 anos de idade, vindo da Itália. No dia 22 de março, 25 dias após a confirmação do primeiro caso da COVID-19 no Brasil, todas as UFs já haviam notificado casos da doença. Passados 56 dias do milésimo registro, o número de casos aumentou mais de 200 vezes, atingindo 233.142 casos no final da SE 20. O primeiro óbito foi registrado no dia 17 de março, 20 dias após a confirmação do primeiro caso, também no estado de São Paulo, e mais uma vez se tratava de um homem idoso, com o diferencial de que não havia realizado viagem internacional. O estado do Tocantins foi o último a registrar sua primeira morte pela doença, 29 dias após a confirmação do primeiro óbito. Em 20 de março, o país decretou transmissão comunitária em todo o território nacional (Figura 2).
+Figura 2 – Histograma de casos acumulados de COVID-19 e linha temporal dos principais acontecimentos, Brasil, 8 de dezembro de 2019 a 16 de maio de 2020 
+
+Ao final da SE 20, o Brasil registrou 233.142 casos e 15.633 óbitos. A região Norte apresentou as maiores taxas de incidência (2.358,3/1 milhão) e mortalidade (156,6/1 milhão). A taxa de incidência da região Norte ultrapassou a da região Sudeste após a SE 16 (Figura 3A). Além dela, a região Nordeste encerrou a 20ª SE com taxa de incidência acima da nacional. A região Norte também apresentou as maiores taxas de mortalidade desde a 18ª SE, seguida das regiões Sudeste e Nordeste, as quais apresentaram taxas superiores à nacional (Figura 3B).
+Figura 3 – Taxas de incidência (A) e de mortalidade (B) por COVID-19 entre as semanas epidemiológicas 9 e 20 de 2020, Brasil e macrorregiões 
+
+Entre as UFs, o Amazonas apresentou a maior taxa de incidência (4.747,6/1 milhão), seguido de Amapá (4.533,4/1 milhão) e Roraima (2.816,3/1 milhão). O Amazonas também apresentou a maior taxa de mortalidade (331,8/1 milhão), seguido do Ceará (176,7/1 milhão) e de Pernambuco (152,9/1 milhão). São Paulo, embora tenha o maior número absoluto de casos e óbitos confirmados, apresentou a 12a maior taxa de incidência (1.332,4/1 milhão) e a 7ª maior taxa de mortalidade (102,1/1 milhão) (Tabela 1).
+
+Tabela 1 – Indicadores da COVID-19, Brasil, macrorregiões e Unidades da Federação, até a Semana Epidemiológica 20 de 2020 
+Figura 4 – Número de casos acumulados a partir do 50° caso confirmado (A) e de óbitos acumulados a partir do 50° óbito confirmado (B) de COVID-19, nas dez Unidades da Federação do Brasil com maiores números de casos e óbitos, respectivamente, até 16 de maio de 2020 
+
+DISCUSSÃO
+
+Até a SE 20 de 2020, o Brasil se encontrava em uma etapa anterior no curso da epidemia da COVID-19, quando comparado aos demais países que apresentavam os maiores números de casos confirmados da doença. As medidas de mitigação serão decisivas para que o país tenha uma evolução favorável da situação epidemiológica, com desaceleração no incremento de casos e óbitos.
+
+Embora o Brasil tenha sido o primeiro país da América do Sul a apresentar um caso confirmado de COVID-19, este ocorreu várias semanas após a maioria dos países do hemisfério Norte.4Por exemplo, considerando os dias a partir do 50° caso confirmado ou óbito de cada país, o Brasil está 16 dias atrás dos Estados Unidos em relação aos casos e 11 dias em relação aos óbitos. Essa é uma métrica que tem sido utilizada para permitir uma comparação mais fidedigna da situação da pandemia em cada país, considerando-se o estágio em que cada um se encontra.
+
+O Brasil também tem uma extensão territorial bem maior que países como Espanha, Itália, França, Alemanha e Reino Unido, o que dificulta ainda mais as comparações, pois a dimensão territorial tem influência direta sobre a dispersão da doença. Somente no dia 22 de março, quase um mês após a primeira confirmação no estado de São Paulo, Roraima confirmou seu primeiro caso de COVID-19, sendo o último estado brasileiro a confirmar a circulação do SARS-CoV-2.
+
+O maior número absoluto de casos confirmados foi concentrado na região Sudeste, contudo a região Norte do país apresentou a maior taxa de incidência da doença até a SE 20. Nesta região, houve registros de diversos empecilhos de adesão, por parte da população, para o isolamento social recomendado pelas autoridades de saúde.22 Outro motivo que pode explicar esse resultado é que a rede hospitalar da região Norte é menor quando comparada com as das outras regiões do país, possuindo o menor número de leitos, que em longo prazo é incapaz de responder à demanda, tanto no setor público quanto no privado.23 O estado do Amazonas, que apresentou as maiores taxas de incidência e de mortalidade, reportou colapso no sistema de saúde e crise no sistema funerário.24
+
+Em relação ao percentual de municípios com casos de COVID-19 em cada UF, chama atenção o estado do Rio de Janeiro, com 89 dos 92 municípios do estado afetados. Trata-se de um estado com extensão territorial pequena, com extensa malha rodoviária e grande circulação de pessoas, o que permite que uma expressiva quantidade de indivíduos atravesse o estado em poucas horas. Essa elevada dispersão de pessoas levou as autoridades de saúde a adotarem medidas mais restritivas, impedindo a circulação de indivíduos entre os municípios e em 11 bairros da capital.26
+
+As curvas de casos e óbitos das dez UFs com os maiores números de casos, a partir do 50° caso ou 50° óbito, mostram que o estado de São Paulo se encontra em um estágio mais avançado da epidemia se comparado às demais UFs. É importante que sejam avaliados os efeitos das medidas aplicadas pelo estado no combate à epidemia, considerando-se que essa experiência acumulada pode balizar decisões a serem tomadas pelas demais UFs, sem deixar de considerar, contudo, que o efeito de medidas tomadas tem relação direta com características dessa localidade. Informações como a estrutura etária da população, o percentual de pessoas em situação de vulnerabilidade, a mobilidade da população e o acesso aos serviços de saúde são fatores que devem ser levados em conta para a tomada de decisões locais.
+
+Algumas limitações devem ser consideradas na interpretação dos dados apresentados neste estudo. A subnotificação de casos e óbitos, tanto no mundo, quanto no Brasil, implica subestimativa dos indicadores calculados. Na maioria dos países, como no Brasil, ainda não foi possível estimar a magnitude da subnotificação e o seu impacto sobre as estimativas apresentadas. Contudo, há uma série de iniciativas em curso no país para modelar essa subnotificação, com base em premissas bastante robustas. Além disso, espera-se que estudos de soroprevalência que estão em curso no Brasil possam fornecer estimativas confiáveis da população já infectada pelo SARS-CoV-2.
+
+As mudanças na definição de caso para notificação e confirmação da COVID-19 no Brasil também podem ter afetado a captação dos casos suspeitos e, consequentemente, a classificação final dos casos. Estudos que permitam conhecer a sensibilidade e a especificidade dessas definições ao longo do tempo são necessários, dado que permitiriam uma correção das estimativas e uma maior compreensão sobre a real situação da epidemia no país.
+
+As populações de 2019 utilizadas para o cálculo das taxas são estimativas projetadas a partir dos censos de 2000 e 2010, e podem sofrer alterações após a realização do próximo censo. Dado que o Censo Demográfico de 2020 foi adiado e que as estimativas da população referentes ao ano de 2020 ainda não foram disponibilizadas pelo IBGE, é importante ressaltar que as taxas de incidência e mortalidade podem estar superestimadas, considerando-se que se espera um aumento anual da população residente, devido ao crescimento populacional.
+
+Não foi possível padronizar as taxas de incidência e mortalidade, uma vez que a distribuição dos casos e óbitos por faixa etária e sexo no Brasil não está disponível publicamente, impossibilitando aplicação do método direto. Além disso, não se tem uma população de referência para padronização das taxas indiretamente. Reforçamos que as taxas de incidência são influenciadas diretamente pelas estratégias de testagem adotadas em cada país e UF, enquanto as taxas de mortalidade e de letalidade até agora disponíveis apresentam variações importantes entre países. Assim, a adoção de um país como referência, de forma arbitrária, poderia enviesar as taxas reais e levar a uma interpretação equivocada das estimativas.
+
+Finalmente, os resultados aqui apresentados mostram que o Brasil está em uma fase anterior da epidemia quando comparado aos demais países do mundo, porém com taxas de incidência e mortalidade altas quando se observam suas subdivisões macrorregionais e estaduais. Novos estudos serão necessários para monitorar o comportamento da doença no território nacional em longo prazo, além da criação e execução de planos emergenciais para municípios que ainda não registraram casos e óbitos. As características locais, sociais e demográficas devem ser levadas em consideração nas estratégias de resposta à epidemia, uma vez que o país possui uma população grande, distribuída de forma não homogênea no território, com diferenças culturais e geográficas que podem influenciar na adesão às intervenções não farmacológicas, além de ostentar marcantes desigualdades sociais e no acesso aos serviços de saúde.

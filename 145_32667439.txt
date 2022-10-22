@@ -1,0 +1,73 @@
+Análise da subnotificação de COVID-19 no Brasil
+
+RESUMO
+
+Objetivo:
+
+Estimar as taxas de notificação de casos de doença pelo coronavírus 2019 (COVID-19) para o Brasil em geral e em todos os estados.
+
+Métodos:
+
+Estimamos o número real de casos de COVID-19 utilizando o número de óbitos notificados no Brasil e em cada estado e a proporção entre casos e letalidade, conforme a Organização Mundial da Saúde. A proporção entre casos e letalidade prevista para o Brasil foi também ajustada segundo a pirâmide de idade populacional. Assim, a taxa de notificações pode ser definida como o número de casos confirmados (informados pelo Ministério da Saúde) dividido pelo número de casos previstos (estimado a partir do número de óbitos).
+
+Resultados:
+
+A taxa de notificação de COVID-19 no Brasil foi estimada em 9,2% (IC95%: 8,8% - 9,5%), sendo que, em todos os estados, as taxas encontradas foram inferiores a 30%. São Paulo e Rio de Janeiro, os estados mais populosos do país, mostraram baixas taxas de notificação (8,9% e 7,2%, respectivamente). A taxa de notificação mais alta ocorreu em Roraima (31,7%) e a mais baixa na Paraíba (3,4%).
+
+Conclusão:
+
+Os resultados indicam que a notificação de casos confirmados no Brasil é muito abaixo da encontrada em outros países que avaliamos. Assim, os responsáveis pela tomada de decisões, inclusive os governos, não têm conhecimento da real dimensão da pandemia, o que pode prejudicar a determinação das medidas de controle.
+Descritores: Covid-19; Infecções por coronavirus; Relatórios de dados de saúde; Pandemias/estatísticas e dados numéricos; Mortalidade; Brasil
+
+
+INTRODUÇÃO
+
+O número de casos confirmados da doença pelo coronavírus 2019 (COVID-19) é o dado mais importante para que se possa compreender a evolução dessa doença. Contudo, a rápida disseminação da pandemia e o pequeno número de testes realizados tornam difícil estimar o número real de casos e provocam subnotificação em diferentes países. A restrição dos testes compromete o monitoramento da progressão da pandemia, o planejamento de recursos e a avaliação da eficácia das medidas de controle, assim como a comparação com outras regiões e países. Além disso, esse fato pode levar a falsas conclusões de que a doença está sob controle.
+
+Um estudo prévio estimou que apenas 7,8% dos casos no Brasil são notificados.(1) Esse estudo, entretanto, não levou em conta as variações na mortalidade por COVID-19 por faixa etária, o que é considerado importante pela Organização Mundial da Saúde (OMS).(2) Igualmente, o estudo apresentou as taxas em nível nacional, sem levar em conta as diferenças entre as regiões de cada país, o que é particularmente importante no caso do Brasil, em razão de suas dimensões continentais.
+
+Assim, o presente estudo teve como objetivo estimar a subnotificação de casos de COVID-19 no Brasil. Levamos em consideração as variações na mortalidade por faixa etária e a demora entre confirmação e desfecho, para estimar a real proporção de casos notificados. Estas taxas podem evidenciar a fragilidade dos números oficiais e ajudar os responsáveis por tomar decisões na avaliação de novas políticas e medidas para controle da pandemia.
+
+MÉTODOS
+
+Realizamos um estudo transversal para estimar as taxas de subnotificação de casos da COVID-19 no Brasil como um todo e por estado, utilizando tanto dados nacionais quanto internacionais. Incluímos dados secundários a respeito do número de casos confirmados e óbitos no Brasil informados pelo Ministério da Saúde,(3) o número de casos e óbitos no mundo fornecidos pelo European Centre for Disease Prevention and Control,(4) a pirâmide etária brasileira fornecida pelo Instituto Brasileiro de Geografia e Estatística (IBGE)(5) e as pirâmides etárias de outros países, fornecidas pelas Nações Unidas.(6)
+
+Nosso desfecho principal foi relatar a taxa de notificação, ou seja, a percentagem de casos confirmados de COVID-19 que estão sendo reportados. Esse dado foi calculado como a razão entre a taxa de letalidade de casos basal (case-fatality ratio - CFR basal) e a taxa de letalidade de casos observados (CFR observado).(1) Definimos CFR basal como o número de óbitos dividido pelo número de casos da doença.(7) Utilizamos estimativas de CFR a partir das letalidade observada com COVID-19 e casos confirmados na China como a melhor estimativa de CFR basal.(1,8) Um estudo realizado pela OMS(2) sugeriu que a probabilidade de morte durante a COVID-19 varia substancialmente segundo a idade do paciente. Assim, consideramos a CFR observada como a CFR ajustada pela idade para o Brasil, utilizando a taxa de mortalidade do estudo da OMS estratificado por faixas etárias.
+
+Análise estatística
+
+A CFR observada foi ajustada para o atraso da confirmação até o desfecho (recuperação ou óbito), com utilização de uma distribuição log-normal com uma média de 13 dias, e desvio padrão (DP) de 12,7 dias.(9) A seguir, calculamos a taxa de notificação dos casos de COVID-19 para o Brasil e para cada estado do país. Avaliamos os intervalos de confiança de 95% (IC95%) com utilização de um teste binomial, considerando o número de óbitos como “sucessos” e o número de desfechos como tamanho total da amostra. Quanto maior a diferença entre a CFR observada e a basal, mais baixa a taxa de notificação.
+
+As taxas de notificação de outros países (particularmente da Coreia do Sul, da Alemanha, dos Estados Unidos, da Itália e da Espanha) foram também estimadas para comparação com a situação do Brasil. Utilizou-se uma CFR basal para todos os países, calculada como a média, levando em consideração as pirâmides etárias.
+
+RESULTADOS
+
+Até o dia 20 de abril de 2020, o Brasil tinha 40.581 casos de COVID-19 notificados e 2.575 óbitos, o que representou CFR bruta de 6,3% (Tabela 1). Considerando o retardo desde a confirmação até o desfecho, estimamos 18.150 casos com um desfecho, obtendo CFR observada de 14,2%. Como o Brasil tinha população mais jovem do que a de outros países, a CFR basal (ajustada à idade) foi de 1,3%. Com a utilização de nosso método, concluímos que a taxa estimada de notificações de casos confirmados de COVID-19 no Brasil foi de cerca de 9,2% (IC95% 8,8% - 9,5%). Assim, o número real de casos no Brasil foi cerca de 11 vezes mais alto do que o número oficial de casos notificados.
+
+Tabela 1 Número de casos, óbitos e taxas de notificação no Brasil (até 20 de abril) 
+CFR - taxa de letalidade de casos. Resultados expressos como n ou %.
+
+Ao comparar a CFR observada e as taxas de notificação estimadas entre o Brasil e outros países (Figura 1), pode-se observar que Espanha e Itália mostraram as taxas de CFR observada mais altas e as mais baixas taxas de notificação. Em contraste, Estados Unidos, Alemanha e Coreia do Sul tiveram as menores CFR, porém as mais elevadas taxas de notificação
+Figura 1 Taxa de notificações e proporção observada da taxa de letalidade de casos em países selecionados. CFR - taxa de letalidade de casos. 
+
+Foi ampla a variedade entre as taxas de notificação estimadas para os estados brasileiros (Figura 2 e Tabela 2). Dentre os 27 estados, 17 (63%) apresentaram taxa de notificação mais elevada do que a taxa geral de notificação no Brasil. Igualmente, todos os estados mostraram taxas de notificação abaixo de 32%. São Paulo e Rio de Janeiro, que são os estados mais populosos, mostraram baixas taxas de notificação de COVID-19 (8,9%; IC95% 8,7% - 9,1%; e 7,2%; IC95%: 7,1% - 7,3%, respectivamente). Estados com menos óbitos até 20 de abril tiveram intervalos de confiança mais amplos. Roraima teve a mais elevada taxa de notificação (31,7%; IC95% 12,2% - 106,3%), entretanto este estado também apresentou o menor número de óbitos notificados, o que resultou em estimativa com alta variabilidade (Tabela 2).
+Figura 2 Taxas de notificação nos estados brasileiros. 
+
+Tabela 2 Número de casos, óbitos e taxas de notificações nos estados brasileiros (em 20 de abril) 
+Resultados expressos como n ou %.
+
+DISCUSSÃO
+
+O número de casos confirmados de COVID-19 no Brasil tem sido amplamente subnotificado. Neste trabalho, estimamos que o número real de casos foi cerca de 11 vezes maior do que os atualmente informados. Igualmente, ocorreu grande variabilidade na taxa de notificação de casos de COVID-19 entre os estados. Até 20 de abril, São Paulo e Rio de Janeiro juntos respondiam por 48% do total de casos notificados no país e apresentaram taxas inferiores às de outros estados brasileiros.
+
+A subnotificação observada no Brasil pode estar relacionada a alguns fatores, como dificuldades operacionais para realização de testes na população, o que leva a um aumento da demora entre a realização e os resultados dos exames, falta de novos exames e as orientações para só realizar testes em casos mais graves.(10,11) Também a capacidade de obter os resultados dos exames varia entre os hospitais e instituições. À medida que aumenta o número de exames à espera de confirmação, retarda-se também o número de óbitos notificados.(12) A subnotificação não mostra ainda tendência a diminuir, como expõe a análise de variação temporal de Russell et al.(1) (gráfico temporal do Brasil, acessado em 21 de abril).
+
+As taxas de notificação são diferentes entre os estados. A diferença entre a taxa mais alta (31,7% em Roraima) e a mais baixa (3,4% na Paraíba) sugere que estão em vigência políticas distintas para a realização de testes e notificação. Salientamos que os estados com números mais baixos de óbitos ou casos são os que têm maior incerteza com relação às taxas de notificação. Entretanto, observamos que todos os estados apresentavam altos níveis de subnotificação, o que é uma preocupação para aqueles responsáveis por tomar decisões, já que esses dados podem levar a análises equivocadas sobre o controle da doença e medidas de isolamento.
+
+Nossa metodologia baseou-se na estimativa de subnotificação de CFR proposta por Russell et al.,(1) contudo acrescentamos o ajuste pela idade para a CFR observada. Como o Brasil tem população mais jovem do que Itália e Espanha, a CFR prevista tende a ser mais baixa (uma CFR de 1,3% estimada para o Brasil e de 2,5% para os países citados). Assim, a taxa estimada de notificação também é mais baixa no Brasil. Dessa forma, o ajuste pela idade proporciona estimativa precisa da CFR basal, já que a idade é um dos fatores de risco para COVID-19 grave.(13)
+
+Este estudo teve algumas limitações. Primeiramente, para calcular a taxa de notificação, tomamos como base principal para o cálculo da CFR basal os dados oriundos da China. Em segundo lugar, levamos em consideração uma curva de retardo entre a notificação e o desfecho para calcular a CFR real (observada) como uma distribuição log-normal, com média de 13 dias (DP: 12,7 dias).(9) Contudo, a atual condição da doença pode fornecer estimativas diferentes para o retardo entre a confirmação e o óbito. Assim, qualquer variação pode influenciar nos resultados. Em terceiro lugar, o ajustamento por idade para a CFR de outros países se baseou em um conjunto de países de referência (Coreia do Sul, Alemanha, Estados Unidos, Espanha e Itália) e em suas faixas etárias. Assim, a distribuição de casos confirmados de COVID-19 pode variar segundo a região, o que pode também ter um impacto nos resultados. Em quarto lugar, a falta de padronização na notificação de óbitos devidos à doença pode acarretar estimativas imprecisas de CFR, já que diferentes países adotaram políticas variadas para notificação das causas de óbito. Mais ainda, os estados brasileiros mostram diferentes curvas de progressão da doença, o que também pode enviesar os resultados, especialmente para os estados com menos notificações.
+
+CONCLUSÃO
+
+Este estudo avaliou a subnotificação de casos confirmados de COVID-19 no Brasil e seus estados. Os resultados indicam que as notificações de casos confirmados no Brasil representaram apenas 9,2% (IC95% 8,8% - 9,5%) dos números reais, ou seja, muito menos do que o que se observou em outros países. Portanto, os tomadores de decisão e governos não podem confiar nas fontes de notificação e precisam tomar medidas para o controle de uma pandemia cuja real dimensão não conhecem.

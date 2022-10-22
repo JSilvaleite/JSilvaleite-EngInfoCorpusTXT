@@ -1,0 +1,63 @@
+Atenção primária à saúde em tempos de COVID-19: o que fazer?
+
+A pandemia de COVID-19 é um desafio sem precedentes para a ciência e para a sociedade, cobrando respostas rápidas e diversas dos sistemas de saúde que precisam ser reorganizados, em todos os seus componentes, para o seu enfrentamento.
+
+No Brasil, e em diversos países do mundo, a resposta sanitária tem sido centrada nos serviços hospitalares, com ações para a ampliação do número de leitos, especialmente, de unidades de tratamento intensivo e respiradores pulmonares. Sem retirar a importância da adequada estruturação da atenção especializada voltada aos casos mais graves da COVID-19, é preciso alertar que, no âmbito da atenção primária à saúde (APS), muito pode e precisa ser feito.
+
+Na ausência de vacinas e de medicamentos específicos e devido à alta transmissibilidade da infecção, as únicas intervenções eficazes para o controle da pandemia são medidas de saúde pública como isolamento, distanciamento social e vigilância dos casos, com o propósito de reduzir o contágio, evitando sofrimento e morte, ao frear a velocidade da pandemia. Ao mesmo tempo é necessário dotar o sistema de recursos para oferecer a atenção adequada e oportuna 1.
+
+Nesse sentido, a reorganização dos serviços de APS para, simultaneamente, enfrentar a epidemia e manter a oferta regular de suas ações é imperativa, e seu necessário protagonismo e readequação vêm sendo destacados em documentos e relatórios produzidos no país 2,3. Mesmo reconhecendo as diversas fragilidades de atuação das equipes, ressalta-se que a Estratégia Saúde da Família (ESF) é o modelo mais adequado por seus atributos de responsabilidade territorial e orientação comunitária, para apoiar as populações em situação de isolamento social pois, mais do que nunca, é preciso manter o contato e o vínculo das pessoas com os profissionais, responsáveis pelo cuidado à saúde.
+
+Este artigo analisa possibilidades de atuação dos serviços de APS na rede do Sistema Único de Saúde (SUS) que contribuam para o controle da epidemia e, simultaneamente, cumpram com a sua função essencial de garantir atenção cotidiana e capilarizada.
+
+Eixos de intervenção da APS
+
+O enfrentamento à pandemia exige a elaboração de planos de gerenciamento de risco 4 em vários níveis (nacional, estadual, municipal e local), fortalecendo a atuação no território, que considere: a população a ser acompanhada (casos leves de COVID-19 e outros problemas de saúde); a adequada proteção dos profissionais de saúde, com condição segura à realização do seu trabalho, evitando, também, que sirvam de fonte de contaminação; as mudanças organizacionais compatíveis com a realidade local; as necessidades de apoio logístico e operacional (incluindo transporte, material e equipamentos de segurança e proteção); formação e educação permanente dos profissionais de saúde; mapeamento de potencialidades e dificuldades de cada território; a retaguarda necessária a uma ação coordenada da APS com outras instituições e serviços de saúde no território de abrangência das equipes ou fora dele; e parcerias com as organizações comunitárias, potencializando habilidades e estimulando a solidariedade.
+
+A atuação da APS pode ser sistematizada em quatro eixos: (i) vigilância em saúde nos territórios; (ii) atenção aos usuários com COVID-19; (iii) suporte social a grupos vulneráveis; e (iv) continuidade das ações próprias da APS.
+
+Vigilância em saúde nos territórios
+
+Visando a bloquear e reduzir o risco de expansão, a APS deve estar envolvida no gerenciamento de risco da epidemia, atuando de forma articulada com a vigilância em saúde dos municípios, estabelecendo fluxos de informação, em uma via de mão dupla, para aprimorar a qualidade das ações.
+
+A notificação, detecção e acompanhamento dos casos, com isolamento domiciliar dos casos e quarentena dos contatos são atividades centrais de mitigação da epidemia, a serem desenvolvidas pelas equipes de APS.
+
+O isolamento social pode ser incentivado por todos os profissionais da equipe, principalmente pelos agentes comunitários de saúde (ACS), mobilizando lideranças e recursos locais com ampla divulgação de informações e realização de medidas concretas. A literatura tem mostrado que os ACS são importantes aliados no enfrentamento de epidemias 5, especialmente no que diz respeito à conscientização da população e combate ao estigma relacionado à doença, o que realça o seu papel na difusão de informações corretas sobre a prevenção de COVID-19, no combate às fake news e no apoio a atividades educativas no território, relacionadas à higiene e proteção de trabalhadores e usuários nos diversos equipamentos sociais, de modo que se constituam em ambientes seguros para a população.
+
+Atenção aos usuários com COVID-19
+
+Tem sido implementada a organização de fluxos distintos para o cuidado dos pacientes com quadros leves, separando os sintomáticos respiratórios dos usuários com outros problemas que necessitam de cuidado presencial, identificando e orientando indivíduos com maior risco de desenvolver quadros graves e garantindo o encaminhamento oportuno daqueles que necessitam de cuidados de outros níveis de atenção 6,7.
+
+Ademais, as modalidades de atendimento on-line têm sido priorizadas e bastante difundidas, o que impõe a necessidade de se estender o acesso à telefonia celular e Internet de forma rápida para profissionais e usuários. A consulta remota deve ser realizada com base em protocolos, com mensagens claras e objetivas, dando preferência ao vídeo, pois facilita o monitoramento de sinais vitais 8.
+
+A qualidade do atendimento na APS e a continuidade do cuidado aos pacientes com COVID-19 só podem ser asseguradas com recursos adequados que garantam a segurança do paciente e resolubilidade do problema. Na avaliação da gravidade dos casos e de sua evolução, a medição do nível de saturação de oxigênio no sangue é importante, sendo necessário disponibilizar oxímetro para as equipes, para uso na triagem, atendimento presencial e em domicílio, no acompanhamento de casos suspeitos e confirmados. Quanto à continuidade do cuidado ao paciente, é mister que serviços de APS estejam integrados à rede de emergência, hospitalar e de transporte sanitário, associada à regulação de leitos com definição de fluxos e canais de comunicação abertos e ágeis, para a garantia de cuidado oportuno, conforme a gravidade.
+
+Suporte social a grupos vulneráveis
+
+A ESF tem ampliado sua atuação na resposta às necessidades de populações socialmente vulneráveis e de grupos de risco, como idosos e indivíduos que apresentam comorbidades, que vivem cotidianamente situações de isolamento ou restrições, agora agravadas.
+
+Para que possa, efetivamente, seguir as recomendações preventivas relacionadas à COVID-19, essa população necessitará de todo tipo de apoio (sanitário, financeiro, psicológico e social), incluindo atendimento pela rede de serviços de saúde e acesso aos mecanismos de proteção social.
+
+Encontrar as melhores soluções para os problemas graves e diversos dos grupos populacionais mais vulneráveis exige uma ação coordenada no território com as lideranças, equipamentos e instituições locais, articulando as ações implementadas pelas equipes com as iniciativas comunitárias, muitas já em andamento, destacando-se o engajamento comunitário como uma importante estratégia global no enfrentamento da pandemia 9. Podem ser destacadas propostas como a oferta de abrigo em hotéis, escolas ou outros equipamentos para pessoas em risco (idosos, doentes crônicos solitários, mulheres vítimas de violência e população de rua) e apoio domiciliar para idosos que terão dificuldades de se manter e de se cuidar. Iniciativas de engajamento comunitário vêm sendo observadas em experiências de solidariedade, em que as próprias comunidades estão promovendo mutirões de distribuição de cestas básicas, confecção de máscaras por artesãs locais e uso de escolas para o isolamento de casos leves de COVID-19 10.
+
+Continuidade das ações próprias da APS
+
+As atividades de rotina da APS precisam ser preservadas em tempos de pandemia, até porque as previsões apontam para um longo curso de convivência com o novo vírus, com alternância de maior e menor isolamento social, o que exige readequação de certos procedimentos e incorporação de outros para que a APS funcione cumprindo sua missão, incluindo novas formas de cuidado cotidiano à distância, evitando o risco de aprofundamento da exclusão do acesso e das desigualdades sociais.
+
+O uso de tecnologias de informação e comunicação, como WhatsApp e telefone, para a realização de teleconsulta, garante a oferta de ações de forma segura, de modo que não haja descontinuidade e agravamento das condições dos usuários em tratamento. Sugere-se responder a demandas frequentes de usuários - como a renovação de receitas e a busca por medicamentos - de modo que estes não precisem se dirigir à unidade básica de saúde (UBS), seja prolongando o tempo de duração das prescrições, seja viabilizando a entrega domiciliar dos medicamentos pelo ACS, adotando-se os cuidados necessários.
+
+Buscar contatar por telefone os pacientes pré-agendados e realizar teleconsulta com médicos, enfermeiros da equipe ou médicos residentes e internos, e a criação de agenda para teleconsulta são iniciativas sugeridas por experiências em curso 11, lembrando-se que, para alguns, serão mantidos atendimentos presenciais, assim como outras atividades de rotina, a exemplo da vacinação que precisa ser realizada sem expor a população ao risco de contaminação.
+
+CONSIDERAÇÕES FINAIS
+
+O fracasso de experiências internacionais de tentativas de enfrentamento da pandemia centradas no cuidado individual hospitalar alertou para a necessidade de uma abordagem mais territorializada, comunitária e domiciliar, e a necessidade de ativar a APS, forte e integral, em toda a sua potencialidade. O modelo brasileiro, com suas equipes de saúde da família e enfoque territorial, apresentou impactos positivos na saúde da população e tem papel importante na rede assistencial de cuidados, além de poder contribuir vigorosamente para a abordagem comunitária, necessária no enfrentamento de qualquer epidemia.
+
+Não obstante essa potencialidade, as tentativas de desmantelamento da ESF, desde 2017, com redução de agentes comunitários de saúde, flexibilização de carga horária de profissionais, abolição da prioridade para a ESF, extinção dos Núcleo Ampliado de Saúde da Família e Atenção Básica (NASF-AB), perda de profissionais com a finalização do Programa Mais Médicos, desincentivos a abordagem territorial com o novo modelo de financiamento da atenção básica com base em número de cadastrados, fragilizando o enfoque comunitário, entre outros 12, representam constrangimentos importantes para uma atuação adequada da APS no enfrentamento da pandemia.
+
+Essas ameaças recentes foram somadas a problemas cronicamente enfrentados na APS brasileira. A precariedade das relações trabalhistas em grande parte das equipes, a prática de contratação de organizações sociais e de outras formas de privatização da gestão de unidades básicas de saúde que mercantiliza as relações e fragiliza vínculos, problemas organizacionais com baixa integração entre a APS e outros níveis de atenção na rede regionalizada comprometendo a coordenação e continuidade com a fragmentação do cuidado, a insuficiente mediação de ações intersetoriais para incidir na determinação social, promover a saúde e reduzir as desigualdades, são alguns dos obstáculos para a exigida atuação da ESF neste momento 13.
+
+A crise sanitária atual amplificou as debilidades existentes e tem requerido recursos extraordinários da União para os estados e municípios, ainda insuficientes para apoiar as ações de vigilância e cuidado da população. Com todos esses obstáculos, a presença de mais de 40 mil equipes de ESF em todo país, ainda que por vezes incompletas, 260 mil ACS, 26 mil equipes de saúde bucal, cerca de 5 mil NASF, representam as bases do SUS e devem ser fortalecidas se almejamos obter êxito no enfrentamento desta pandemia.
+
+Com todas as dificuldades, é preciso reconhecer que a capilaridade e pujança da força de trabalho da ESF, além das inúmeras bem-sucedidas experiências municipais e locais, têm mostrado a força e resiliência das equipes de SF nos mais diversos contextos.
+
+Mais do que nunca precisamos de uma APS no SUS forte, vigilante, capilarizada, adaptada ao contexto e fiel a seus princípios. A atual crise global é sanitária, política, econômica e social, e exige inovação nos modos de operação e radicalização da lógica de intervenção comunitária no exercício de novas formas de sociabilidade e de solidariedade.

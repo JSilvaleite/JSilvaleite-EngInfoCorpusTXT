@@ -1,0 +1,153 @@
+A saúde mental da enfermagem no enfrentamento da COVID-19 em um hospital universitário regional
+
+RESUMO
+
+Objetivo:
+
+identificar a prevalência e fatores associados à ansiedade e depressão em profissionais de enfermagem que atuam no enfrentamento da COVID-19 em hospital universitário.
+
+Métodos:
+
+estudo observacional transversal, com questionário sociodemográfico e Escala de Medida de Ansiedade e Depressão, com 88 profissionais de enfermagem. Os dados foram analisados por meio de frequência absoluta e relativa, utilizando o software Statistical Package for the Social Sciences.
+
+Resultados:
+
+houve prevalência de ansiedade (48,9%) e de depressão (25%). A maioria da amostra foi composta por mulheres, com mais de 40 anos, casadas ou em união estável, de cor branca, com ensino superior ou pós-graduação, com renda superior a R$3.000,00, concursadas, com regime de trabalho de 40 horas semanais e tempo de atuação no hospital de 1 a 5 anos.
+
+Conclusão:
+
+deve-se considerar o impacto na saúde mental da enfermagem acarretado pela COVID-19 e intervir com estratégias de enfrentamento para minimizar o sofrimento dos profissionais.
+Descritores: Pandemias; Estresse Psicológico; Enfermagem; Adaptação Psicológica; Saúde Mental
+INTRODUÇÃO
+
+O trabalho não é caracterizado somente como um meio de sobrevivência material, mas como configuração de uma socialização e construção de identidade. Nesse contexto, considera-se que o trabalho pode favorecer a expressão da subjetividade das pessoas e resgatar ou promover a saúde conforme a organização e o processo laboral. Logo, a condição de saúde física e mental de uma pessoa não pode ser desvinculada de sua atividade profissional e do seu contexto laboral, atentando-se para os condicionantes e determinantes envolvidos nesta complexa relação entre saúde e trabalho (1).
+
+Sabe-se que em unidades hospitalares, a enfermagem representa o maior número de profissionais de saúde, cujo trabalho é centrado no cuidado ao ser humano, envolvendo uma ligação direta entre profissional/paciente e a vivência de vários fatores. Esses fatores são potenciais de impactos negativos psicossociais e psicossomáticos, gerando a diminuição da produtividade e o aumento do índice de acidentes de trabalho e uma assistência de enfermagem ineficaz (2).
+
+Por sua vez, o trabalho da equipe de enfermagem requer competência técnica e científica, conhecimento, habilidade e controle emocional sobre a prática, tendo em vista que a assistência apresenta situações de risco, desgaste físico e emocional, responsabilidades com a vida das pessoas, enfrentamento de medos e sofrimentos. Toda essa situação em que o profissional fica exposto pode levar à ocorrência de desgastes psicológicos, estresse elevado, ansiedade, depressão. Essas comorbidades, quando se fazem presentes, podem impactar negativamente na satisfação com o trabalho, resultando em prejuízos na assistência, qualidade do cuidado e segurança do paciente (3).
+
+É comum atualmente identificar sintomas de ansiedade e depressão e o grande impacto que essas manifestações causam sobre o bem-estar e as atividades diárias dos trabalhadores da saúde. Na enfermagem, percebe-se um grande índice dessas manifestações psíquicas entre os profissionais, e alguns estudos têm investigado estes sintomas entre a equipe de enfermagem, residentes e alunos de graduação (4-5).
+
+A ansiedade é conceituada como um sentimento vago e desagradável de medo, apreensão, com características de tensão ou desconforto derivado de antecipação do perigo, de algo desconhecido ou estranho. Alguns autores (6-7) definem a ansiedade como um estado emocional que atinge componentes psicológicos, sociais e fisiológicos, e que é uma condição dos seres humanos, podendo passar a ser patológica quando é considerada excessiva e que atinge o meio psicossocial da pessoa diante da situação, afetando questões sociais, convívio familiar, atuação no trabalho, entre outros.
+
+Já a depressão, é caracterizada por lentificação dos processos psíquicos, humor depressivo e/ou irritável, redução da energia, incapacidade parcial ou total de sentir alegria ou prazer, desinteresse, apatia ou agitação psicomotora, dificuldade de concentração, pensamento de cunho negativo, com perda da capacidade de planejamento e alteração do juízo da verdade (8).
+
+Entre os profissionais de enfermagem, em consonância com a literatura, os fatores desencadeantes da depressão podem estar relacionados ao processo de trabalho, como o turno, o relacionamento entre profissional-paciente, profissional-família e profissional-profissional, a sobrecarga de trabalho, o desgaste, o suporte social, o conflito de interesses e as estratégias de enfrentamento desenvolvidas (8-9).
+
+Destaca-se que todos esses fatores estressores relacionados à atuação da enfermagem tendem a se exacerbarem diante de um cenário de calamidade como o qual têm se instalado nos últimos meses, pois o mundo atualmente está passando por um período de turbulência decorrente da pandemia ocasionada pelo novo coronavírus.
+
+Inicialmente, no dia 31 de dezembro de 2019, a Organização Mundial da Saúde (OMS) recebeu informações de que estava acontecendo um surto de doença de etiologia desconhecida em trabalhadores e frequentadores de um mercado de frutos do mar localizado na cidade de Wuhan, província de Hubei, China. Os pacientes apresentavam sintomas respiratórios semelhantes a outras doenças, no entanto, durante a investigação, foi atestada a presença de um vírus nunca antes visto em humanos, o qual foi denominado pela OMS de coronavírus, SARS-CoV-2, causador da doença COVID-19 (10).
+
+O Brasil apresentou os primeiros casos suspeitos no início de fevereiro, na cidade São Paulo. Passado pouco mais de um mês, começou-se a identificar os primeiros casos confirmados e óbitos decorrentes da COVID-19, principalmente na região Sudeste e em grandes capitais (11).
+
+No estado do Paraná, até metade do mês de abril de 2020, haviam 804 casos confirmados, 40 óbitos, 7.119 descartados e 377 em investigação. Na 3ª Regional de Saúde, que abrange Ponta Grossa, Arapoti, Carambeí, Castro, Ipiranga, Ivaí, Jaguariaíva, Palmeira, Piraí do Sul, Porto Amazonas e Sengés, haviam 10 casos confirmados, zero óbitos, 208 descartados e 01 em investigação. Ponta Grossa que é a referência para a 3ª Regional de Saúde, apresentava na mesma época, 06 casos confirmados, zero óbitos, 130 descartados e zero em investigação (11).
+
+Em relação aos serviços de saúde hospitalares, o Hospital Universitário Regional dos Campos Gerais (HURCG) da Universidade Estadual de Ponta Grossa se tornou referência no atendimento de casos suspeitos e confirmados da COVID-19, com o objetivo de atender os 12 municípios que formam a 3ª Regional de Saúde. Em consonância com o Ministério da Saúde (MS), o HURCG tem unido forças e se preparado para receber os pacientes suspeitos, adquirindo insumos médicos, equipamentos de proteção individual (EPIs), capacitando a equipe e oferecendo suporte psicossocial, a fim de oferecer o cuidado de excelência aos pacientes e manter a integridade física e mental dos profissionais (11).
+
+Portanto, para o Conselho Federal de Enfermagem (COFEN), as principais preocupações com os profissionais de enfermagem são o uso de EPIs, a capacitação para os protocolos determinados pelo MS, a garantia que os profissionais estejam preparados para usar os EPIs e, também, que tenham boas condições emocionais para prestar uma assistência de qualidade e no cuidado em relação à própria saúde mental. Assim, o COFEN disponibilizou um canal de atendimento 24h, todos os dias da semana, para que os profissionais de enfermagem pudessem procurar ajuda emocional em meio à situação de pandemia pela COVID-19 (12).
+
+Assim, diante dessa nova experiência percebida pela referida pandemia, há uma lacuna no que tange à harmonia entre as necessidades internas e exigências externas (trabalho, ambiente, entre outros) dos trabalhadores que estão à frente no combate da COVID-19, com enfoque àqueles que estão por 24 horas no cuidado direto aos pacientes, como os profissionais de enfermagem. Dessa forma, para este estudo, adotou-se a seguinte pergunta norteadora: como estão os níveis de ansiedade e depressão em profissionais de enfermagem que atuam no enfrentamento da COVID-19 em um hospital universitário regional?
+
+Diante do exposto, considerando que os profissionais de enfermagem podem apresentar sintomas de ansiedade e depressão, devido ao impacto que a pandemia da COVID-19 pode gerar na saúde mental deles, tem-se o seguinte objetivo de pesquisa.
+
+OBJETIVO
+
+Identificar a prevalência e fatores associados à ansiedade e depressão em profissionais de enfermagem que atuam no enfrentamento da COVID-19, em um hospital universitário regional.
+
+MÉTODOS
+
+Aspectos éticos
+
+Este estudo foi aprovado pelo Comitê de Ética em Pesquisa da Universidade Estadual de Ponta Grossa. Foram respeitados os preceitos éticos de participação voluntária e consentida de cada participante, conforme Resolução nº 466/2012 (13) do Conselho Nacional de Saúde.
+
+Desenho, período e local do estudo
+
+Estudo observacional transversal, norteado pela ferramenta STROBE, realizado com profissionais de enfermagem atuantes em um hospital universitário regional de referência ao enfrentamento da COVID-19, no estado do Paraná. A coleta de dados ocorreu no interstício compreendido entre março e abril de 2020, período em que o hospital já estava com ajustes e modificações de atendimento em virtude da pandemia.
+
+A referida instituição caracteriza-se como pública e de ensino, apresenta 172 leitos, com média de internação de 900 pacientes/mês, no ano de 2019.
+
+População ou amostra; critérios de inclusão e exclusão
+
+A amostra foi selecionada por conveniência, a fim de obter um recenseamento da situação dos profissionais de enfermagem atuantes no combate à COVID-19. Foram considerados como critérios de inclusão: exercer a função de profissional de enfermagem e estar ativo na função exercida. Foram excluídos trabalhadores que estavam em licença médica ou em férias, que estavam afastados e os que não aquiesceram com a participação no estudo. A coleta de dados foi desenvolvida junto aos profissionais de enfermagem por livre aceitação em participação do estudo.
+
+Protocolo do estudo
+
+Desenvolveu-se um questionário estruturado, contendo características sociodemográficas, de atuação profissional e categorização profissional, por meio das variáveis à saber: sexo; idade; estado civil; raça/cor; renda; cargo e setor que trabalha; tipo de vínculo; tempo de atuação profissional; e presença de outro vínculo empregatício. Além disso, os participantes foram convidados a responder questionário de avaliação de ansiedade e depressão por meio de instrumentos utilizados pelo MS no diagnóstico situacional de saúde dos brasileiros. Em consonância com os protocolos e atualizações sobre prevenção e manejo da COVID-19, a coleta de dados foi realizada inteiramente por meio da plataforma Google Forms, sendo disponibilizada ao público de interesse nas redes sociais internas do referido hospital.
+
+O instrumento utilizado para identificação de estresse e ansiedade entre os trabalhadores deste estudo foi a Escala de Medida de Ansiedade e Depressão (Hospital Anxiety and Depression Scale, HAD) de Zigmond e Snaith (14), validada por Botega e colaboradores (15). Esse instrumento é composto por duas subescalas, sendo uma para identificação de ansiedade (HAD-A) e a outra sobre depressão (HAD-D), cada qual com sete questões de múltipla escolha, cujo escore varia de 0 a 21 pontos para cada subescala, apresentando os seguintes pontos de corte: até 07 pontos, considerado como caso descartado, e acima de 08 pontos, considerado como provável caso de ansiedade e/ou depressão.
+
+Após explicitação por mídia eletrônica interna aos profissionais de enfermagem acerca dos objetivos, meios e intermeios de coleta, análise e resultado das informações, os trabalhadores, quando em acordo, espontaneamente participaram do projeto mediante aceite da pesquisa por meio de um Termo de Consentimento Livre e Esclarecido anexo ao questionário.
+
+Análise e tratamento dos dados
+
+Inicialmente, os dados foram analisados descritivamente por meio de frequência absoluta e relativa. Considerou-se como variável dependente a ocorrência de ansiedade e/ou depressão. Essa variável foi criada a partir da análise das respostas estratificadas como escore de ansiedade e depressão. Como variáveis independentes, foram consideradas as características sociodemográficas, de atuação profissional e categorização profissional.
+
+Para testar a associação entre a variável dependente “presença de ansiedade e depressão” e as variáveis independentes, realizou-se, inicialmente, análise bivariada pelo teste qui-quadrado. As variáveis que apresentaram valor de p ≤0,05 na análise foram classificadas como diferença significativa. Os dados foram analisados utilizando o software estatístico StatisticalPackage for the Social Sciences 20 (SPSS ®).
+
+RESULTADOS
+
+Entre os 476 profissionais de enfermagem que compõem o quadro funcional ativo do hospital universitário regional, 88 aceitaram participar da pesquisa, constituindo a amostra total. As perdas decorreram da recusa em participar do estudo, férias e licenças médicas, dos profissionais de enfermagem (n=388).
+
+A prevalência de ansiedade nos profissionais de enfermagem foi de 48,9%, já a depressão, foi de 25%. A maioria da amostra foi composta por mulheres, pessoas com mais de 40 anos, casadas ou em união estável, de cor branca, com ensino superior ou pós-graduação completos, com renda superior a R$3.000,00, concursados e com regime de trabalho de 40 horas semanais. As características sociodemográficas associadas à ansiedade, avaliada conforme o resultado obtido pela aplicação da Escala de Medida de Ansiedade e Depressão (HAD) obtido com a aplicação do questionário, estão descritas na Tabela 1.
+
+Tabela 1 Perfil sociodemográfico de profissionais de enfermagem com ansiedade de um hospital universitário regional, Ponta Grossa, Paraná, Brasil, 2020 
+Nota:
+
+*Demonstrou depressão: apresentou escore em subescala HAD-D igual ou maior que 8 pontos
+
+Em relação à depressão, os dados estão descritos seguindo mesmo modelo de avaliação de ansiedade conforme demonstrado na Tabela 2.
+
+Tabela 2 Perfil sociodemográfico de profissionais de enfermagem com depressão de um hospital universitário regional, Ponta Grossa, Paraná, Brasil, 2020 
+DISCUSSÃO
+
+A prevalência de ansiedade entre os profissionais de enfermagem foi superior à variabilidade encontrada (22,6% - 36,3%) em revisão sistemática e meta-análise (16) de 12 estudos realizados com 31.756 profissionais da saúde em Wuhan e Cingapura. Atribui-se a esse fato a heterogeneidade entre os estudos. Observam-se diferenças entre as populações estudadas e instrumentos utilizados para constatação de ansiedade.
+
+Em relação ao perfil sociodemográfico dos profissionais de enfermagem com presença de ansiedade (48,9%), pôde-se constatar que houve um predomínio de mulheres (90,7%), com idade entre 31 a 40 anos (46,5%) e casadas (41,9%). Esses resultados são semelhantes à pesquisa (17) realizada no estado da Bahia, onde 84,5% dos profissionais eram do sexo feminino e 64,4% eram casadas. Outro estudo (18) aponta que a ansiedade é mais comum em mulheres, onde 3,6% da população, em algum momento da vida, será acometida por essa manifestação psíquica. Tal fato foi observado em estudo (19)semelhante desenvolvido em Wuhan, China, epicentro da doença COVID-19, no qual observaram-se graus mais severos de ansiedade e demais sintomas relacionados à saúde mental em enfermeiras que atuavam no combate à pandemia em unidades hospitalares.
+
+Ainda, é valido ressaltar que o predomínio de mulheres na enfermagem está relacionado a questões históricas e culturais, onde lidam com atividades laborais em seu dia a dia, atendem às demandas dos filhos, companheiros e da casa, favorecendo o surgimento de alterações psíquicas, como o estresse e ansiedade (17-18).
+
+Os profissionais de enfermagem com ansiedade, em sua maioria, são técnicos em cargo assistencial (44,2%), atuam em setores críticos (55,8%), são concursados (44,2%) e trabalham na área da saúde há mais de 10 anos (27,9%). Pesquisa (18) revelou que setores de atuação profissional e situações do ambiente podem provocar ansiedade, tendo destaque os setores fechados e com procedimentos de alta complexidade, bem como a instabilidade ou agravamento do estado de saúde dos pacientes.
+
+Outro ponto relevante é que grande de parte dos pacientes acometidos pela COVID-19 apresentam sintomas graves, sobretudo síndromes respiratórias, necessitando de cuidados intensivos, o que justifica maior prevalência de ansiedade em trabalhadores de setores críticos (20). Além disso, atuação em saúde frente à COVID-19 demanda outros fatores potencialmente estressores, como exposição a risco de infecção pelo vírus, fadiga física e mental, necessidade do uso contínuo de EPIs e afastamento da família (21).
+
+Com relação ao vínculo profissional, estudo (18) aponta a ocorrência de ansiedade entre os profissionais de enfermagem de hospitais privados, devido às condições de trabalho, tais como baixos salários, falta de estabilidade no emprego e mudanças repentinas de função. Já nos hospitais públicos, os profissionais possuem estabilidade em seus empregos e demissões são praticamente inexistentes, o que justificaria menor ocorrência de ansiedade.
+
+Quanto ao tempo de atuação profissional, pesquisa (22) semelhante mostra que 36% dos profissionais de enfermagem atuam há mais de 10 anos na área de formação. Este estudo demonstrou que anos de trabalho podem ser considerados fator de risco para ansiedade, pois proporcionam um cotidiano intenso com os pacientes e equipe. Ressalta-se que a carga horária de trabalho deve permitir aos profissionais de enfermagem momentos de lazer e descanso, caso contrário a falta de lazer poderá contribuir para o transtorno da ansiedade.
+
+Referente ao perfil sociodemográfico dos profissionais de enfermagem com presença de depressão (25,0%), houve predomínio de mulheres (90,9%), com idade entre 21 a 30 anos (45,5%) e solteiras (36,4%). Estudo (23) semelhante demonstra que 31,0% dos profissionais de enfermagem apresentam quadro depressivo, o que é justificado pelo natureza do trabalho, ou seja, lidar com dor, sofrimento e morte diariamente.
+
+A prevalência de depressão observada nesta pesquisa esteve em consonância com estudo internacional (16), o qual foi compilado por meio de revisão sistemática e analisado, evidenciando uma prevalência combinada de depressão de 22,8% em profissionais da saúde atuantes em meio à pandemia. Ademais, outro estudo de revisão (24) sobre a temática evidenciou maior prevalência de depressão entre profissionais de enfermagem quando comparado aos demais profissionais de saúde.
+
+A exposição diária dos profissionais de enfermagem frente a situações estressantes, como assistência a pacientes graves, cuidados intensivos e diretos, funções burocráticas e sobrecarga de trabalho, contribui para o desenvolvimento de ansiedade e depressão (25).
+
+Outra pesquisa (26) aponta que o esgotamento físico, emocional e mental ao qual o profissional de enfermagem durante seu turno de trabalho está exposto pode desencadear apatia, irritabilidade, desânimo, ansiedade e depressão.
+
+Em relação ao perfil dos profissionais de enfermagem com presença de depressão, a literatura (27) constata que a maioria são mulheres, relacionando ao ato de cuidar e grande carga de estresse. Pesquisas (17-18) mostram que a depressão afeta, em sua maioria, mulheres, desde a adolescência, sendo consideradas pela sociedade como sexo frágil e submissas. Nesse contexto, sendo a enfermagem composta, majoritariamente, por mulheres jovens, estudo (1) retrata um desequilíbrio na carga entre o trabalho e a vida doméstica, desencadeando exaustão e podendo levar à depressão grave e síndrome de Burnout.
+
+Os profissionais de enfermagem com depressão, em sua maiorias são técnicos em cargo assistencial (54,5%), atuam em setores críticos (54,5%) e têm contrato temporário (36,4%). Pesquisa (27) realizada em um hospital de médio porte de São Paulo, sobre depressão em profissionais de enfermagem, mostra que a maioria (62%) são de técnicos de enfermagem em cargo assistencial, confirmando os dados apresentados neste estudo.
+
+Com relação aos setores críticos, a literatura (8,18) mostra que na unidade hospitalar existem setores onde o índice de depressão entre os profissionais de enfermagem é maior, como a Unidade de Terapia Intensiva, o Pronto Atendimento e o Centro Cirúrgico. Nesses setores, o profissional precisa estar sempre atento e trabalhar com rapidez. Por fim, ainda existe a sobrecarga e precarização da saúde, expondo o profissional a riscos. Ressalta-se que com tantas atribuições e responsabilidades, o profissional de enfermagem pode desenvolver um desequilíbrio mental, gerando depressão.
+
+Quanto ao tempo de atuação no hospital, a maioria (31,8%) dos profissionais de enfermagem com depressão trabalham em torno de 1 de 5 anos na área, confirmando os dados de pesquisa (18). A maioria, 69%, refere-se a período menor, de até cinco anos, e em relação ao tempo de atuação profissional em enfermagem, 46% a exerce há menos de cinco anos. Esses dados indicam uma porcentagem considerável de profissionais com pouco tempo de atuação na profissão.
+
+Enfim, a ansiedade e a depressão podem apresentar diversas manifestações nos profissionais de enfermagem, com reflexo direto na vida pessoal e profissional, fragilizando-os. Portanto, é fundamental que os trabalhadores priorizem sua saúde como forma de minimizar o desgaste profissional, apropriando-se de estratégias que possam minimizar esse desgaste que é próprio da área da saúde (23).
+
+Limitações do estudo
+
+Evidenciou-se como limitação deste estudo o tamanho da amostra, tendo em vista as perdas acentuadas pelo não aceite em participar do estudo; pelas questões próprias de sobrecarga de trabalho; pela falta de tempo para participar; pelos afastamentos devido às perícias ou decorrentes da pandemia da COVID-19. Essa perícia impôs afastamento do trabalho aos grupos de risco e de profissionais já doentes, impossibilitando a participação desta pesquisa.
+
+Contribuições para a enfermagem e saúde mental
+
+Tendo em vista a relevância e escassez de pesquisas que tratem desse recente assunto tão em voga atualmente, acredita-se que os dados evidenciados contribuirão para a fomentação da literatura brasileira sobre a saúde mental de profissionais de enfermagem no enfrentamento da COVID-19, bem como a intensificação de práticas preventivas e de tratamento de manifestações psíquicas como ansiedade e depressão, com foco à promoção de saúde mental em ambiente ocupacional.
+
+CONCLUSÃO
+
+A enfermagem atua diretamente em um trabalho contínuo e integrado na prevenção, promoção, proteção e tratamento dos agravos em saúde da população, colaborando com os demais profissionais da saúde para a qualidade dessa assistência.
+
+Diuturnamente, as pressões no trabalho, como o conflito de interesses e a sobrecarga, a responsabilidade técnica que a profissão exige, a busca incansável pela qualidade no cuidado, entre tantas outras demandas, podem contribuir para o desequilíbrio emocional dos profissionais de enfermagem.
+
+Não obstante, diante da pandemia da COVID-19, que pode impactar ainda mais a saúde mental dos trabalhadores de enfermagem, pois leva ao desafio de enfrentar o desconhecido, buscou-se identificar a prevalência e fatores associados à ansiedade e depressão dos profissionais que atuam no enfrentamento da COVID-19 em um hospital universitário regional. Os resultados evidenciarem aspectos importantes do processo de trabalho da enfermagem diante da referida pandemia e de sinais de ansiedade e depressão, indicando um sofrimento psíquico além daquele já intrínseco da profissão.
+
+A relação entre ameaça e desafio pode mudar no decorrer de um encontro com a situação conflitante, neste caso a pandemia da COVID-19, e que, uma situação que é avaliada inicialmente como ameaçadora pode vir a ser avaliada como desafiadora, devido aos esforços de enfrentamento que permitem uma visão mais positiva frente às situações, e, assim, os indivíduos utilizam melhor os recursos disponíveis.
+
+Por isso, é imprescindível que os profissionais de enfermagem se preparem para enfrentar esta ameaça, buscando a informação sobre os fatores de risco e de proteção em relação à pandemia e o que ela acarreta em suas rotinas, buscando estratégias de enfrentamento, como apoio psicológico especializado, atendimento por telefone que realiza escuta diferenciada, sigilosa e gratuita, realização de práticas integrativas complementares como Yoga, Reiki, entre outras, e realização de exercícios de relaxamento, a procura por serviços públicos de saúde mental disponíveis, a fim de obterem melhoria em suas condições de trabalho e, consequentemente, em sua saúde física e mental.

@@ -1,0 +1,160 @@
+Conduta nas urgências e emergências cirúrgicas não traumáticas durante a pandemia COVID-19
+
+RESUMO
+
+Em dezembro de 2019, em Wuhan na China, foram descritos os primeiros casos do que seria conhecida como a COVID-19, doença causado por um RNA vírus denominado SARS-CoV-2. A disseminação foi rápida e ampla, levando a Organização Mundial de Saúde a decretar pandemia em março de 2020. A doença tem apresentação clínica variada, desde portadores assintomáticos até casos críticos, com alta letalidade. Paralelamente a isto, pacientes com urgências cirúrgicas não traumáticos, como apendicites agudas e colecistites agudas, continuam a ser atendidos nos serviços de emergências. Neste contexto, surgiram várias dúvidas sobre a conduta nestes casos, entre essas: como identificar rapidamente o paciente com COVID-19, qual o impacto da doença cirúrgica abdominal e o tratamento na evolução dos pacientes com COVID-19, além da discussão sobre o emprego de tratamento não operatório para a doença abdominal nestas circunstâncias. Nesta revisão, trazemos a discussão destes problemas sob a luz das evidências disponíveis.
+Palavras chave: Emergências; Pandemias; Infecções por Coronavirus; Cirurgia Geral
+
+
+INTRODUÇÃO
+
+A COVID-19 é doença causada pelo vírus SARS-CoV-2, um RNA vírus. Foi inicialmente descrita em Wuhan, na China, em dezembro de 2019. Em janeiro de 2020, a Organização Mundial de Saúde entendeu a situação como de “preocupação internacional” e, em 11/03/2020, como pandemia. No momento que escrevemos este texto, há cerca de 4,5 milhões de casos no mundo e, aproximadamente, 300.000 mortes. O primeiro caso no Brasil foi documentado em 25/02/2020, na Cidade de São Paulo. Embora haja curva característica de evolução da doença, a mesma atinge de maneira diferente as regiões do Brasil, dando a entender que cada área pode estar em momento diferente na evolução1,2.
+
+Sabemos também que as urgências cirúrgicas abdominais não traumáticas (UCNT) são muito frequentes e provavelmente continuarão a aparecer nos serviços de emergência durante a pandemia COVID-19. Várias doenças podem se apresentar nesta situação, como apendicite aguda, colecistite aguda calculosa, diverticulite aguda, pancreatite aguda, úlcera perfurada, obstrução intestinal, hérnias encarceradas, isquemia intestinal e mesmo os abdomes agudos hemorrágicos. São doenças agudas com potencial significativo de complicações e óbitos em curto espaço de tempo. Há necessidade de rápida tomada de decisão para que os melhores resultados sejam atingidos.
+
+Em período de pandemia, o tratamento destes doentes merece discussão mais ampla, pois há pontos ainda não bem estabelecidos sobre o diagnóstico e o tratamento destas doenças.
+
+São questões ainda em aberto nestas situações:
+
+Como estabelecer rápida e corretamente o diagnóstico de COVID-19?
+
+A presença de doença infecciosa abdominal pode influenciar a evolução da COVID-19? E vice-versa?
+
+Qual o impacto do tratamento operatório, incluindo a necessidade de anestesia geral e ventilação mecânica, sobre a evolução da COVID-19?
+
+Os protocolos de tratamento não operatório (TNO) de infecções intra-abdominais têm o mesmo resultado em pacientes COVID-19?
+
+Qual o risco de contágio da equipe ao realizar o procedimento cirúrgico?
+
+Independente destes questionamentos, há prioridades claras, como:
+
+Oferecer o tratamento mais seguro e menos invasivo ao paciente;
+
+Prevenir a contaminação da equipe médica e assistencial;
+
+Preservar o uso de Equipamentos de Proteção Individual (EPIs);
+
+Reduzir o uso de leitos de enfermaria e UTI;
+
+Minimizar ao máximo a transmissão viral.
+
+Estas prioridades não devem competir entre si. O equilíbrio destas premissas é essencial, oferecendo o melhor tratamento ao paciente, em associação ao menor risco de contaminação para a equipe e maior preservação possível de recursos.
+
+Atendendo ao chamado nestas circunstâncias, várias sociedades de renome internacional publicaram as recomendações sobre como conduzir pacientes cirúrgicos nesta pandemia, entre essas: Colégio Brasileiro de Cirurgiões - CBC, Sociedade Brasileira de Atendimento Integrado ao Traumatizado - SBAIT, Sociedade Brasileira de Cirurgia Minimamente Invasiva e Robótica - SOBRACIL, American College of Surgeons - ACS, Society of American Gastrointestinal and Endoscopic Surgeons - SAGES, Royal College of Surgeons of Edinburgh - RCSEd, World Society of Emergency Surgery - WSES, European Society for Trauma & Emergency Surgery - ESTES, entre outras1,3-10. Estas respeitadas sociedades elaboraram recomendações de cuidados com a equipe, e priorização de operações, bem como de conduta em cirurgia de urgência traumática e não traumática. Sugerimos a leitura, pois todas as recomendações são de grande validade e orientam nosso pensamento neste momento tão difícil.
+
+Por outro lado, pela necessidade de divulgação ágil de informações sobre o COVID-19, muitos estudos em periódicos importantes estão sendo liberados sem a revisão habitual. Apesar de haver sugestões bem claras, a base científica das mesmas não é inquestionável, o que enfraquece estas recomendações. Desta forma, entendemos que as decisões à beira do leito devam ser tomadas de maneira individualizada, levando em conta as diversas variáveis envolvidas, principalmente as condições locais de trabalho.
+
+O objetivo deste texto é discutir alguns dos pontos que devem ser levados em consideração pelos cirurgiões quando precisarem se posicionar frente a casos de urgências e emergências cirúrgicas não traumáticas durante a pandemia da COVID-19. Mais do que respostas, nossa ideia é fornecer as ferramentas para que cada cirurgião, sob a luz da sua realidade, tome a melhor decisão.
+
+1. O paciente tem COVID-19? Qual a forma de apresentação?
+
+Importante ressaltar que a COVID-19 tem apresentação clínica variada, que vai desde portadores assintomáticos até quadros letais, independentemente da melhor forma de tratamento instituído11-13. Autores que acompanharam a evolução de portadores assintomáticos do vírus observaram que aproximadamente 20% dos casos evoluíram para formas sintomáticas12. A apresentação mais comum é a de infecção de vias aéreas superiores, mas cerca de 25% dos pacientes podem ter sintomas abdominais como diarreia e dor11.
+
+Por tal motivo, recomenda-se que todos os pacientes com urgências cirúrgicas abdominais sejam avaliados para identificação de COVID-19, mesmo em casos assintomáticos. Isto se justifica pois durante a pandemia, caso o paciente seja positivo ou suspeito, haverá repercussões específicas sobre tratamento e precauções de transmissão. Nos casos suspeitos e positivos, sugerem-se medidas de isolamento, envolvimento de equipe especializada (clínica médica ou infectologia), discussão sobre a utilização de medicações específicas, avaliação e suporte de disfunções orgânicas e orientações epidemiológicas aos familiares. Outro ponto importante é que a presença do COVID-19 pode influenciar na forma de tratamento da doença abdominal em alguns casos, como veremos adiante.
+
+A primeira forma de avaliar a presença da COVID-19 é pela história clínica. A presença de febre, tosse, coriza, mialgias são sugestivas da doença, especialmente se o paciente esteve em área endêmica ou houve contato com portador da doença. A anosmia aguda, quando presente, é indicação forte da doença. Há escores específicos que podem ajudar a definir o risco. Contudo, por haver outras viroses que se apresentam de maneira clínica semelhante, o ideal é que haja algum teste para a confirmação da doença. Especificamente em doentes que se apresentam com urgências cirúrgicas abdominais, a recomendação das sociedades é que os pacientes sejam testados para COVID-19, mesmo se estiverem assintomáticos.
+
+O teste que vem sendo utilizado mais frequentemente para diagnóstico de COVID-19 é a identificação do RNA viral em secreções da nasofaringe, por meio da técnica RT-PCR. Contudo, há grande preocupação com resultados falso-negativos. Influenciam a positividade: tempo entre início dos sintomas e coleta, método desta coleta, bem como os órgão atingidos pela doença no momento da coleta. Zhao et al. em 2020, relataram que a sensibilidade do RT-PCR variou de 67% na coleta realizada entre um e sete dias no início do quadro até 45% apenas, quando a amostra foi coletada após duas semanas14. Guo et al., em 2020, demonstram que mais de 90% dos pacientes com história clínica compatível e imagens de tomografia computadorizada de tórax sugestivas de COVID-19, mas com RT-PCR NEGATIVOS, apresentaram IgM positivo para o vírus15. Por outro lado, os testes rápidos para identificação de IgG e IgM têm sensibilidade baixa na primeira semana da doença14. Ou seja, até o momento, os métodos para diagnóstico de COVID-19 podem falhar em número significativo de doentes. Além disto, o resultado destes pode demorar significativamente. Muitos dos pacientes com urgências cirúrgicas abdominais precisam de definições rápidas, pois o atraso no tratamento pode agravar a condição local e sistêmica. Isto torna difícil utilizar os testes laboratoriais na prática clínica.
+
+Desta forma, surge a possibilidade de se usar a tomografia computadorizada (TC) de tórax (realizada em conjunto com a TC de abdome e pelve) como tentativa de identificar os casos suspeitos rapidamente16,17. A presença de imagens de vidro fosco periférico bilateral é muito sugestiva de COVID-19. No estudo de Zhiliang et al., em 2020, 17 (70%) dos 24 pacientes RT-RNA positivos, mas assintomáticos, tinham alterações na TC de tórax. Destes, 12 (50% do total) tinham TC característica de COVID-19. Importante ressaltar que a solicitação de TC de tórax é sugerida por algumas sociedades para todos os pacientes com urgências cirúrgicas abdominais, mesmo nos sem sintomas respiratórios4,8.
+
+Em estudo envolvendo 1.014 pacientes, Ai et al., em 2020, relataram que 97% dos pacientes com RT-PCR positivos para COVID-19 tinham também TC de tórax positiva16. Dos 308 que tinham RT-PCR negativos, mais de 80% dos casos foram considerados prováveis ou altamente prováveis de COVID-19. De grande importância, foi observar que mais de 90% dos pacientes que tiveram RT-PCR inicialmente negativos, e que positivaram durante a internação, tinham TC tórax positiva precocemente.
+
+A TC de tórax negativa não descarta a presença de COVID-19. Nestes casos, não há como prever a evolução do paciente. Na situação em discussão, o foco deve ser a TC positiva, pois, neste contexto, o caso deve ser considerado suspeito e tratado como tal. No “Manual de Prevenção e Tratamento do COVID-19”, editado por Liang em 2020, entende-se que o paciente com história clínica e TC sugestivos de COVID-19 deva ser considerado e tratado como positivo, mesmo que o RT-PCR seja negativo13.
+
+Uma vez que haja diagnóstico definitivo, ou suspeito de COVID-19, cabe a estratificação de gravidade13. É diferente discutir tratamento operatório em doente com imagens sugestivas de COVID-19 na TC de tórax, mas sem hipóxia significativa e outro com falência respiratória. A gravidade da COVID-19 é variável importante a ser considerada na decisão do tratamento a ser instituído para a doença abdominal concomitante.
+
+Casos leves: sintomas clínicos leves e sem sinais de pneumonia nos exames de imagem.
+
+Casos moderados: febre e sintomas respiratórios, associados a alterações nos exames de imagem.
+
+Casos graves: Adultos que tenham algum dos critérios: freq. respiratória >=30 ipm, saturação de oxigênio <94%, PaO2/FIO2 <300 mmHg e progressão de > 50% das imagens pulmonares.
+
+Casos críticos: falência respiratória que necessita ventilação mecânica, choque ou outra falência orgânica em unidade de terapia intensiva. Estes casos podem ser divididos em 3 fases:
+
+Fase inicial: índice de oxigenação (PaO2/FIO2) entre 100 e 150 mmHg, complacência >30 ml/cmH2O, sem outras falências orgânicas além da respiratória.
+
+Fase intermediária: índice de oxigenação (PaO2/FIO2) entre 60 e 100 mmHg, complacência >15 ml/cmH2O, com falência orgânica associada moderada.
+
+Fase tardía: índice de oxigenação (PaO2/FIO2) <60 mmHg, complacência <15ml/cmH2O, falências orgânicas graves além da respiratória, uso de ECMO.
+
+2. Há indicação clara de tratamento operatório?
+
+É importante ressaltar que há casos de doenças abdominais de tratamento cirúrgico que, se não tratadas de maneira adequada, podem evoluir com complicações graves e serem causa de óbito. Nestas situações, a prioridade na decisão deve ser a doença abdominal cirúrgica, independente da presença ou gravidade da COVID-19. Há consenso que o tratamento operatório seja necessário nos casos de pneumoperitonio livre, peritonite difusa, sepse de origem abdominal (SEPSIS-3), isquemia / necrose intestinal, abdome agudo obstrutivo sem resposta aos tratamento clínico inicial, ou mesmo hemoperitônio com instabilidade hemodinâmica, entre outras. Nestes casos, a indicação cirúrgica é clara e independente da presença concomitante de COVID-19.
+
+Existirão situações de pacientes críticos, com descompensação clínica extrema, hipóxia grave, em anticoagulação plena e com disfunções orgânicas, nos quais o risco operatório é consideravelmente alto. Nestes casos, entendemos como importante a discussão interdisciplinar entre as equipes envolvidas e familiares, tomando a decisão entendida como melhor para o paciente, seja essa a tentativa de tratamento operatório mesmo com alto risco de óbito, manutenção dos cuidados clínicos ou até mesmo a paliação, desde que acordada por todos.
+
+3. Quando indicar o tratamento não operatório?
+
+Nos casos em que não há indicação clara de tratamento operatório como as descritas acima, cabe a discussão de tratamento não operatório para a urgência abdominal, em época de pandemia.
+
+Há poucos estudos que reportam evolução de pacientes com COVID-19 que foram operados. Até o momento, o estudo de Lei et al., publicado em 2020, serve como referência18. Os autores estudaram 34 pacientes que desenvolveram quadro clínico de COVID-19 no pós operatório imediato. Estes autores consideraram que estes pacientes foram operados durante o período de incubação da doença. Os resultados são preocupantes. Houve 20% de mortalidade, embora restrita a pacientes submetidos a operações mais complexas. Contudo, 44% dos pacientes necessitou admissão em UTI, sendo que 11 pacientes (32,4%) desenvolveram SARA. Outros relatos de complicações pós-operatórias reforçam o fato que pacientes com COVID-19, mesmo nas formas simples, não são os melhores candidatos a tratamento operatório. Aminiam et al. em 2020, relataram quatro casos de complicações graves no pós-operatório de operações eletivas, que foram atribuídas ao COVID-19. Destes quatro pacientes, três faleceram19.
+
+Some-se a isto o fato da potencial contaminação da equipe (anestésica, cirúrgica e circulantes)1,4-10. Esta contaminação pode ocorrer pelas formas mais comuns como contato e gotículas, mas a maior preocupação é no momento da intubação traqueal e durante o ato operatório, pela produção de aerossóis. O RNA viral foi identificado no sangue de cerca de 10% dos pacientes testados20. Chen et al., em 2020, identificaram RNA viral nas fezes de 66% dos pacientes com COVID-19, sendo que apenas oito (20%) tinham sintomas gastrointestinais21. O RNA viral foi recentemente identificado no líquido peritoneal de um paciente operado por obstrução intestinal22. Acredita-se que este risco de contaminação exista mesmo com os portadores assintomáticos12.
+
+Neste contexto, caso a operação possa ser postergada “sem aumentar significativamente o risco para o doente”, parece ser a melhor opção. Há várias propostas de tratamento não operatório, ou por meio de procedimentos minimamente invasivos, para as urgências abdominais não traumáticas que ganham maior interesse nestas condições. Como apresentado abaixo mais detalhadamente, há diversos estudos sobre o tratamento não operatório para colecistite aguda calculosa, apendicite aguda (com abscesso periapendicular ou mesmo não complicada), diverticulite aguda com abscessos, obstrução intestinal não complicada e até mesmo úlceras pépticas perfuradas (com bloqueio local - sem peritonite difusa), entre outras. A premissa desta forma de tratamento é que o paciente esteja sem peritonite difusa, em condição de estabilidade do quadro infeccioso abdominal.
+
+Contudo, a maioria destes estudos não pressupõe que há doença infecciosa concomitante, o que é a situação nesta pandemia. No entanto, é necessário considerar se o paciente com COVID-19, em uso de diversas medicações, tais como anti-térmicos, anticoagulantes, oxigênio suplementar (e até sedação para ventilação mecânica). Qual a condição de exame físico abdominal? Há como acompanhar a evolução da doença abdominal pelo exame físico? Pode-se acompanhar a evolução pelos exames complementares? Certamente haverá casos em que isto não é possível, quebrando a regra básica do tratamento não operatório. Além do mais, será difícil saber se a piora clínica é secundária ao quadro abdominal ou apenas pelo COVID-19.
+
+Todos os cirurgiões gerais passaram por serviços de emergência e sabem que há potencial risco de complicações e óbitos em pacientes com urgências abdominais não traumáticas. Não é incomum casos de pacientes com apendicite aguda não diagnosticada prontamente, que foram tratados com antibióticos inicialmente pensando-se em infecção de trato urinário, gastroenterite aguda ou mesmo doença inflamatória pélvica. Estes doentes podem ter elevada morbidade, evoluindo com abscessos ou peritonite difusa, o que dificulta o tratamento e prolonga a recuperação. Caso haja complicações ou mesmo morte por doença abdominal cirúrgica para a qual foi optado por tratamento não operatório inicialmente, qual seria a visão dos familiares e dos advogados?
+
+Outro ponto importante: desconhece-se a evolução da COVID-19 nestes casos. Pode-se reconhecer alguns fatores de mau prognóstico, como idade, Doença Pulmonar Obstrutiva Crônica - DPOC, doenças cardiovasculares, diabetes mellitus e obesidade1,13, mas não há uma “bola de cristal” para prever a evolução de determinado paciente. Pode ser que a mesma evolua para falência respiratória, tornando a realização de procedimentos operatórios difícil ou mesmo inviável, perdendo o timing do tratamento operatório. Ou seja, o tratamento não operatório pode ter consequências graves também.
+
+O tratamento operatório não é algo impossível de ser feito em pacientes COVID-19 positivos. Gao et al., em, 2020, reportaram quatro pacientes suspeitos de COVID-19 que foram submetidos a laparotomia exploradora por abdome agudo. Todos tinham diagnóstico clínico e por TC23. Estes casos tiveram boa evolução, demonstrando que é possível ter também bons resultados em pacientes COVID-19 submetidos a tratamento operatório. Cai et al., em 2020 reportaram oito casos de pacientes COVID-19 positivos submetidos a tratamento operatório, com uma morte neste grupo24.
+
+Para pensar… Se você tivesse uma “bola de cristal” e pudesse prever que o paciente com quadro abdominal agudo sem sintomas respiratórios fosse desenvolver, posteriormente, a forma grave de COVID-19 em alguns dias...não seria melhor operar precocemente, em momento de maior estabilidade? Infelizmente, não há dados para a resposta segura.
+
+Portanto, apesar do tratamento não operatório parecer uma opção, não é tão simples prever a evolução. A tabela 1 tem registrada a ponderação sobre as opções terapêuticas neste momento de pandemia.
+
+Tabela 1 Ponderação sobre as opções terapêuticas.Vantagens e desvantagens do tratamento operatório e não operatório para as urgências cirúrgicas não traumáticas no contexto da pandemia de COVID-19. 
+Com estas possibilidades em mente, devem-se avaliar os resultados sobre o TNO em algumas das doenças mais frequentes.
+
+4. Protocolos de tratamento não operatório
+
+Ressalta-se novamente que as propostas de tratamento não operatório disponíveis na literatura não deveriam ser aplicadas sem critério aos pacientes COVID-19, pois foram estudadas em outros contextos. Contudo, frente a situação de pandemia, as informações que os estudos anteriores trazem são importantes para avaliar a expectativa sobre os resultados.
+
+a. Apendicite aguda
+
+O tratamento não operatório para os casos de apendicite aguda pode ser analisado em dois grupos distintos de pacientes: os com abscessos periapendiculares e os com apendicites agudas não complicadas.
+
+O diagnóstico de abscesso periapendicular deve ser considerado quando o paciente se apresenta com tempo de história maior, geralmente mais de sete dias, e tem dor e peritonite localizados. Frequentemente palpa-se plastrão na região. Nestes casos, o tratamento com antibióticos e eventual drenagem percutânea de coleções têm recomendação nos consensos da Sociedade Mundial de Cirurgia de Emergência (WSES) de 2011, 2013 e 201723. Já em 2007, Andersson e Petzold realizaram revisão envolvendo 61 estudos, com falha do TNO em apenas 7% dos pacientes com abscessos periapendiculares. A drenagem percutânea foi necessária em 20% dos casos26. Simillis et al., em 2010, revisaram 17 estudos, envolvendo 1.572 doentes com apendicite aguda complicada com abscesso ou fleimão, chegando à conclusão de que o tratamento conservador diminuiu as complicações na evolução27. Desta forma, em momento de pandemia, a opção pelo TNO parece boa opção, caso o paciente se enquadre nas indicações formais. As falhas nesta forma de tratamento precisam ser rapidamente identificadas, para que a conduta seja revista.
+
+A proposta de TNO no contexto da apendicite não complicada surge com base em estudos prospectivos e randomizados comparando a apendicectomia com o tratamento clínico com antibióticos apenas28. O objetivo aqui seria dar a opção de tratamento não operatório a um grupo de pacientes que seria submetido a apendicectomia. Há vários estudos prospectivos, com resultados semelhantes. Sallinen e colaboradores, em 2016, demonstraram em metanálise que o TNO tem sucesso em aproximadamente 75% dos casos, enquanto, a apendicectomia, em mais de 95%29. Visto que a grande maioria dos casos é resolvido com a apendicectomia, é nossa opinião que esta seja a melhor forma de tratamento.
+
+Contudo, em tempos de pandemia, o tratamento com antibióticos apenas pode ser revisto, pois sabe-se que 75% devem se curar, mesmo sem cirurgia. Nas guias da Sociedade Mundial de Cirurgia de Emergência (WSES) de 2020, o tratamento não operatório para apendicite aguda não complicada é aceito em pacientes selecionados, desde que o mesmo esteja ciente e concorde com os riscos dessa opção28. A recomendação publicada pela Royal College of Surgeons of Edinburgh, comenta a possibilidade de apendicectomia aberta, sob bloqueio regional, como opção ao tratamento não operatório8. Considerando que ambas possibilidades são aceitas, a decisão caberá ao cirurgião e ao paciente, após avaliarem os riscos e benefícios de cada caso.
+
+b. Colecistite aguda calculosa
+
+O consenso de Tóquio de 2018 (atualização dos anteriores) considera o tratamento não operatório apenas nos casos de comprometimento clínico importante, como em pacientes ASA 3 ou os com escala de Charlson >5 (ou >3 nos com colecistite aguda Tóquio 3). Ou seja, a maioria dos pacientes com colecistite aguda calculosa, em tempos normais, são de tratamento operatório de urgência30.
+
+Em tempos de pandemia, vale revisar o TNO como opção nestes doentes. Os resultados do tratamento não operatório da colecistite aguda não complicada são bons. Mais de 90% dos pacientes se recuperam do quadro agudo, segundo estudos de McGillicuddy et al., em 2012 e Janssen et al., em 201931,32. A colecistostomia percutânea transhepática pode ser empregada se o quadro infeccioso não melhorar nas primeiras 48 horas de tratamento com antibióticos. A maioria dos pacientes necessitará de colecistectomia para tratamento da colecistolitíase em um segundo tempo, contudo, como o objetivo é postergar a operação, essa parece ser boa opção durante a pandemia. Janssen et al., em 2019, analisaram a evolução de 33 pacientes com colecistite aguda tratados clinicamente. Destes, 12 necessitaram de colecistostomia percutânea e apenas dois (8%) de colecistectomia na urgência32.
+
+Cabe aqui chamar atenção para os casos em que o TNO tem maior probabilidade de falha e possivelmente não deva ser boa opção, como naqueles de pacientes com diabetes mellitus e formas complicadas de colecistite aguda (necrose de parede da vesícula biliar, incluindo a colecistite aguda enfisematosa, perfuração bloqueada ou mesmo coleperitônio).
+
+5. Momento da epidemia
+
+Outro ponto importante que deve ser levado em consideração para a decisão de como tratar paciente com urgência cirúrgica abdominal não traumática é o momento que a pandemia se encontra, o que inclui a disponibilidade de recursos. Ross et al., em 2020, dividiram em quatro fases a situação que pode ser encontrada33:
+
+a) Alerta: quando não há casos de COVID-19 no hospital. Este é o momento de preparação, quando há poucas mudanças de conduta. Este é o momento para que a estrutura seja montada para o que está por vir.
+
+b) Nível 2: inicia-se com o primeiro caso de COVID-19 e vai até que haja próximo a 100% de capacidade hospitalar e 90% de leitos de UTI ocupados. Nesta fase, há mudanças progressivas nas escalas de cobertura cirúrgica, com intuito de preservar as equipes. Há também diminuição progressiva das operações eletivas. O tratamento das urgências cirúrgicas segue próximo ao habitual. Os autores propõem que os cirurgiões sejam direcionados a formar equipes para cobrir emergências e UTI.
+
+c) Nível 1: quando o hospital está acima de 100% de ocupação e, as UTIs, acima de 90%. Neste momento, já não há condições para realização de operações eletivas e o atendimento deve ser direcionado aos pacientes COVID-19. O esforço deve também envolver a criação de leitos, principalmente de UTI. O tratamento não operatório passa a ser utilizado para urgências cirúrgicas, caso seja possível.
+
+d) Condição Zero: Hospital com mais de 125% de ocupação e, UTIs, acima de 100%. Enfrenta-se falta de EPIs e as salas de centro cirúrgico podem ser utilizadas como leitos de UTI. Os plantões cirúrgicos poderão ser coordenados por cirurgiões não especialistas. Neste momento, apenas operações de emergência devem ser consideradas, bem como a transferência de pacientes não COVID-19 para outros centros. Se a transferência não é possível, o tratamento não operatório passa a ser a melhor opção nos casos em que haja possibilidade.
+
+6. A decisão…
+
+Devem ser contemplados os vários pontos resumidos na tabela 2.
+Tabela 2 Fatores a favor e contra o tratamento operatório em paciente portador da infecção por SARS-Cov-2. 
+
+
+7. E se definir por operar? Quais os cuidados?
+
+Há várias recomendações que precisam ser respeitadas, com intuito de preservar a segurança das equipes e do paciente. As recomendações da European Society for Trauma & Emergency Surgery - ESTES, publicadas por Coimbra et al., em 2020, parecem abranger amplamente o tema10. São vários dados que observam os detalhes durante todo o processo de tratamento, e recomenda-se a leitura. Outras sociedades importantes oferecem suas recomendações, e merecem atenção.
+
+A NOTA TÉCNICA GVIMS/GGTES/ANVISA Nº 06/2020: ORIENTAÇÕES PARA A PREVENÇÃO E O CONTROLE DAS INFECÇÕES PELO NOVO CORONAVÍRUS (SARS-CoV-2) EM PROCEDIMENTOS CIRÚRGICOS, da Anvisa, elaborada e revisada por várias sociedades cirúrgicas brasileiras incluindo o CBC, traz as recomendações sob a visão dos cirurgiões brasileiros34. Quando o paciente é sintomático, suspeito ou confirmado, recomenda-se para a equipe do Centro Cirúrgico o uso de gorro, máscara N95/PFF2 ou equivalente, protetor facial, avental cirúrgico impermeável e luvas esterilizadas. Quando o paciente for assintomático, e em procedimentos SEM RISCO de aerossolização, a recomendação é que a equipe cirúrgica use gorro, máscara cirúrgica, protetor facial ou óculos, avental cirúrgico e luvas esterilizadas. Quando houver risco de aerossolização, a recomendação é igual ao paciente suspeito ou confirmado. Assim como nas situações de emergência, quando não é possível fazer a triagem adequada dos sintomas. Esta recomendação dispõe do mínimo necessário de precaução, e tem data de 29 de abril de 2020, devendo ser modificada conforme a necessidade e o aumento das informações sobre a doença.
+
+CONSIDERAÇÕES FINAIS
+
+Por fim, vale comentar que a produção de conhecimento nestes últimos meses foi impressionante. Podem-se criticar muitos estudos, mas o fato é que muito se publicou e descobriu sobre a COVID-19. Artigos surgem diariamente sobre o tema e novas dúvidas surgirão em breve Os autores consideram que este texto seja mais um convite à reflexão. As ideias aqui expostas visam ajudar colegas neste momento tão delicado.

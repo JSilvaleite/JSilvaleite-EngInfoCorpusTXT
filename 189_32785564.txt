@@ -1,0 +1,213 @@
+Pandemia da COVID-19 e a judicialização da saúde: estudo de caso explicativo*
+
+RESUMO
+
+Objetivo
+
+identificar as razões que conduziram à judicialização da saúde relativas à pandemia da COVID-19, descrever o desfecho das ações judiciais relacionadas à assistência em saúde abrangendo a COVID-19 e analisar os casos de judicialização da saúde relacionados à pandemia da COVID-19 com vistas à garantia do direito à saúde da população.
+
+Método
+
+trata-se de um estudo qualitativo, do tipo estudo de caso explicativo. A coleta foi efetuada nos sites do Ministério Público Federal, do Tribunal Regional do Trabalho (1ª Região) e do Tribunal de Justiça do Estado do Rio de Janeiro. Para atender aos critérios estabelecidos, selecionaram-se as ações civis públicas relacionadas à saúde e às situações da pandemia da COVID-19 com decisões. A análise dos dados culminou na elaboração de duas categorias.
+
+Resultados
+
+captaram-se quatro casos.
+
+Conclusão
+
+a judicialização na saúde consiste em obter bens e direitos nos tribunais, os quais são importantes para a garantia da saúde do cidadão que, em diversas situações, vem sendo negada, geralmente pela omissão dos poderes Executivo e Legislativo. Com a pandemia, analisar a judicialização poderá colocar foco e trazer à discussão a importância de dar voz e visibilidade ao enorme contingente da sociedade brasileira que não é assistido pelo Poder Público.
+Palavras-Chave: Judicialização da Saúde; Direito à Saúde; Coronavírus; Sistema Único de Saúde; Política Pública; Enfermagem
+INTRODUÇÃO
+
+No senso comum, é majoritário o entendimento de que a saúde é o bem maior de um ser humano. Tal entendimento ancora-se no fato de que, diante de sua ausência, é inviável manter-se ativo e funcionante na sociedade.
+
+O conceito de saúde envolve aspectos objetivos e subjetivos. Nesse sentido, caracteriza-se como um equilíbrio entre o ser humano e o meio ambiente, permitindo que ele desenvolva seus papéis sociais, familiares e laborais, contendo ou eliminando agressores físicos, biológicos e psicossociais(1).
+
+Do ponto de vista de sua objetividade, a saúde é a expressão da qualidade de vida resultante das condições de alimentação, habitação, educação, renda, meio ambiente, trabalho, transporte, emprego, lazer, liberdade, acesso e posse de terra e acesso aos serviços de saúde. Assim, o resultado das formas de organização social da produção pode gerar desigualdades nos níveis de vida, ocasionando o adoecimento, sequelas e até a morte(2).
+
+A saúde dos seres humanos é condição fundamental para que a sociedade mantenha seu processo de crescimento, desenvolvimento e progresso. Nesse sentido, a vida saudável, para além da responsabilidade do indivíduo em âmbito privado, deve merecer proteção e tutela do Poder Público.
+
+No Brasil, a Constituição Federal (CF) de 1988 absorveu as recomendações do movimento sanitário brasileiro resultantes de ampla discussão com a sociedade civil organizada. A seção que trata a saúde tem como cláusula pétrea o artigo 196 no qual “a saúde é direito de todos e dever do Estado”(3), bem como estabelece a forma de organização dos sistemas de saúde e seu financiamento.
+
+A partir dos princípios constitucionais, a promoção da saúde, a prevenção de agravos, a cura de doenças e a reabilitação das pessoas são de responsabilidade do Sistema Único de Saúde (SUS), sendo a assistência à saúde livre à iniciativa privada de forma complementar. O setor privado foi tomando novos contornos e arranjos que resultaram na configuração da Saúde Suplementar(4).
+
+O SUS foi regulado pelas Leis n.º 8080/1990 e nº 8.142/1990. É um dos maiores e mais complexos sistemas de saúde pública do mundo, tendo como princípios ideológicos a universalidade, a integralidade e a equidade para toda a população. Envolve os três níveis de entes da Federação: União, Estados e Municípios. A rede que compõe o SUS engloba a atenção primária, secundária, terciária e quaternária; os serviços de urgência e emergência, atenção hospitalar, ações e serviços das vigilâncias epidemiológica, sanitária e ambiental e assistência farmacêutica(5).
+
+A Saúde Suplementar tem como marco regulatório a Lei no 9.656, de 1998, que instituiu a criação da Agência Nacional de Saúde Suplementar (ANS). Apresenta-se como uma alternativa à obtenção de serviços de saúde, que envolve a operação de planos e seguros privados de assistência à saúde(4).
+
+Esse setor é regulado pelo Poder Público por meio da sua agência reguladora - ANS. As operadoras compreendem seguradoras especializadas em saúde, medicinas de grupo, cooperativas, instituições filantrópicas e autogestões; estas, por sua vez, demandam uma contraprestação financeira, visto que seus filiados pagam pelos serviços usufruídos(4).
+
+Destaca-se que, no sistema de saúde, tanto o setor público quanto o privado, por diferentes motivos, apresentam diversos problemas na prestação dos seus serviços, os quais geram a insatisfação dos seus usuários e o comprometimento na qualidade da assistência.
+
+Em relação à saúde pública, identificam-se problemas que envolvem a precarização e o sucateamento de suas estruturas físicas; carência de recursos materiais e humanos; redução das unidades assistenciais, dificultando o acesso da população a métodos diagnósticos e terapêuticos. Tais problemas têm sua origem na aplicabilidade do ideário neoliberal nas organizações laborais cujo princípio mais devastador é o enxugamento da máquina pública, repassando, cada vez menos, verbas para seu funcionamento e restringindo ou inviabilizando os concursos públicos(6). Esse contexto tende a se agravar com a Proposta de Emenda Constitucional (PEC) no55, de 2016, que impede investimentos em saúde e educação por 20 anos(7).
+
+Por outra via, a desigualdade social, a recessão econômica, as novas formas de organização e exploração do trabalho na sociedade brasileira têm cada vez mais pressionado o SUS. São duas pontas que não se unem: por um lado, um sistema desfinanciado e vilipendiado por governos inconsequentes e, por outro, o aumento da miséria e do adoecimento(8).
+
+Desse modo, há como desdobramentos impactos negativos na qualidade da assistência, sofrimento e piora do estado de saúde dos usuários do serviço, insatisfação e adoecimento psicofísico dos profissionais, absenteísmo e presenteísmo dos trabalhadores(9).
+
+Em relação à Saúde Suplementar, igualmente, evidenciam-se problemas de caráter variado, que envolvem contraprestações financeiras cada vez mais elevadas, com reajustes muitas vezes abusivos, sem que a qualidade do serviço corresponda ao incremento das mensalidades. Também se verificam fraudes, exames em excesso e procedimentos desnecessários. Além disso, constatam-se profissionais de saúde, especialmente os não médicos, insatisfeitos com os salários defasados, subdimensionamento de pessoal, pressão e cobrança das chefias por produtividade e alcance de metas cada vez mais elevadas(4).
+
+Tal contexto compromete a qualidade do serviço e resulta em adoecimento dos trabalhadores, sofrimento psíquico devido às relações hierárquicas muito demarcadas que geram medo e assédio moral, bem como o não atendimento pleno das necessidades de saúde dos usuários(10).
+
+Portanto, tanto o setor público quanto o privado apresentam situações que repercutem negativamente no andamento saudável das ações desenvolvidas no SUS, bem como na oferta de serviços que atendam às demandas de saúde da população brasileira. Assim, estão sujeitos a serem acionados judicialmente para que os direitos dos usuários e dos trabalhadores, garantidos na CF e em leis complementares, sejam cumpridos(11).
+
+A pandemia da COVID-19 vem descortinando, de forma contundente, as mazelas sociais e do sistema de saúde. O colapso desse último pelo número crescente de doentes e pela agressividade do SARS-CoV-2 já é vivenciado em alguns Estados brasileiros e muito próximo em outros. A demanda de cuidados complexos e o uso de tecnologias diversas, a escassez de Equipamento de Proteção Individual (EPI), a falta de leitos para internação e de profissionais de saúde em quantidade e qualidade explicam a situação calamitosa dos serviços(12-13).
+
+Entende-se que tal cenário elevará a insatisfação da população e dos profissionais com o sistema de saúde brasileiro e com as condições laborais. Nessa perspectiva, assevera-se que há potencial para aumentar a judicialização da saúde durante a epidemia.
+
+Essas reflexões e inquietações estimularam a elaboração deste artigo cujo objeto trata da judicialização da saúde relacionada aos casos de COVID-19. Selecionou-se como problema: quais são os motivos e os desfechos dos casos de judicialização da saúde relacionados à COVID-19, bem como os impactos para o atendimento do direito fundamental à saúde?
+
+Elencaram-se três objetivos: i) identificar as razões que conduziram à judicialização da saúde relativas à pandemia da COVID-19; ii) descrever o desfecho das ações judiciais relacionadas à assistência em saúde abrangendo a COVID-19 e iii) analisar os casos de judicialização da saúde relacionados à pandemia da COVID-19 com vistas à garantia do direito à saúde da população.
+
+MÉTODO
+
+Trata-se de um estudo qualitativo do tipo estudo de caso explicativo. Os estudos de caso são aplicados visando a explicar, a explorar ou a descrever fenômenos atuais inseridos em seu próprio contexto. Igualmente, caracteriza-se adequado para entender a forma e os motivos que levaram a determinadas decisões(14-15).
+
+Salienta-se que a coleta foi efetuada em base de dados secundários, especificamente nos sites do Ministério Público Federal, do Tribunal Regional do Trabalho – 1ª Região (TRT 1ª Região – Rio de Janeiro) e do Tribunal de Justiça do Estado do Rio de Janeiro, os quais são de domínio universal, o que dispensa autorização do comitê de ética para pesquisas com seres humanos. Além disso, realizou-se a captação de informações por meio de documentos relacionados a leis e decisões judiciais.
+
+A escolha por investigar os casos ocorridos no Estado do Rio de Janeiro fundamentou-se nas seguintes situações: i) é um dos Estados mais afetados pela epidemia; ii) pioneiro na adoção de medidas de isolamento social e iii) o fenômeno foi identificado pelos pesquisadores nessa região.
+
+A coleta de dados foi realizada em abril de 2020 e utilizou-se um formulário contendo os seguintes aspectos: locais onde houve a distribuição das ações judiciais; datas em que foram movidas as demandas judiciais; números dos processos; motivos que justificaram os pronunciamentos judiciais; partes envolvidas nos processos judiciais e desfechos dessas ações.
+
+A escolha dos casos foi embasada no critério de serem Ações Civis Públicas (ACP) relacionadas à saúde e às situações da pandemia de COVID-19, as quais continham decisões, ainda que em caráter precário, visto que se tratava de pronunciamento liminar (não definitivo). Captaram-se quatro casos aplicando-se esse critério.
+
+A análise dos dados foi baseada nos seguintes procedimentos: descrição sintética dos casos selecionados, focando em conteúdo que permitisse a compreensão da problemática pontuada; comparação do conteúdo das decisões judiciais com a legislação e a jurisprudência; e, em sequência, a criação de duas categorias analíticas que possibilitaram a discussão dos casos à luz da literatura.
+
+RESULTADOS
+
+Caso 1 – Processo de nº 0084141-46.2020.8.19.0001
+
+O Ministério Público do Estado do Rio de Janeiro (MPRJ), em 22 de abril de 2020, ingressou com uma Ação Civil Pública em face da Prefeitura de Barra Mansa-RJ, em razão de esta ter anunciado, por meio das suas redes sociais, no dia 21 de abril de 2020, que realizaria a flexibilização das medidas de isolamento social anteriormente adotadas, inclusive, a reabertura do comércio local, a partir de 27 de abril de 2020.
+
+Atrelada a esse fato, deve ser levada em conta a situação do sistema de saúde dessa municipalidade, uma vez que o número de leitos em Unidade de Terapia Intensiva (UTI) e respiradores em Barra Mansa e no hospital de referência da região é ainda muito reduzido para respaldar tal decisão (de redução do isolamento social).
+
+Dessa forma, requereu-se ao Poder Judiciário que interviesse na situação para evitar o fim do isolamento social nessa municipalidade e, com isso, frear a dissipação do vírus na região. Assim, pleiteou-se tutela de urgência determinando a manutenção das medidas de restrição.
+
+Ao apreciar a questão, a juíza do Cartório do Plantão Judiciário 7 - Volta Redonda e Adjacências, embora tenha efetuado uma ponderação entre o direito à saúde e as questões econômicas dos munícipes, tendo em vista que a suspensão das atividades econômicas, por período muito longo, pode provocar efeitos danosos, acatou os argumentos do Ministério Público (MP) para deferir a tutela de urgência a fim de manter arroxadas as medidas de isolamento social no município de Barra Mansa-RJ.
+
+Assim, entendeu que a celeuma envolvendo essa doença reside no fato de ela provocar o aumento exponencial da demanda por serviços de saúde (difunde-se com muita facilidade e rapidez), de modo que o sistema único - quer na sua vertente pública ou privada - não é capaz de oferecer atendimento adequado, pois, nesse caso, não envolve apenas consulta e diagnóstico médico, mas, também, nos casos mais graves, a colocação da pessoa em UTI, com disponibilização de máquina de respiração artificial - item muito escasso.
+
+Caso 2 – Processo de nº 0100300-73.2020.5.01.0047
+
+O Sindicato dos Enfermeiros do Rio de Janeiro ingressou com ação civil pública na Justiça do Trabalho (TRT 1ª Região – Rio de Janeiro), em 13 de abril de 2020, visando a obter liminar para que os enfermeiros, prestadores de serviço nas unidades de saúde do município do Rio de Janeiro, que integrassem os grupos de risco, pudessem ser liberados para trabalho em regime de home office durante a pandemia.
+
+A ação fora ajuizada porque o município, por meio da Coordenadoria Geral de Recursos Humanos, mediante Ofício Circular CVL/SUBSC/CGRH/CTNRH nº 04/2020, de 18/03/2020, estabeleceu regras de afastamento de servidores em decorrência do coronavírus, mas até o momento não se manifestou quanto aos empregados contratados pelas Organizações Sociais que atuam na prestação de serviços de saúde na municipalidade.
+
+O sindicato argumentou que esses profissionais têm a probabilidade de evolução para quadros mais graves em decorrência da infecção pelo vírus, já que estão em contato direto e contínuo com os infectados, sendo expostos a riscos. Alegou também que as Unidades de Saúde Municipais estão sofrendo com a falta de insumos e EPI em seus estoques e que, diante desse cenário, muitos profissionais da saúde têm se contaminado com a COVID-19, elevando exponencialmente o risco de adoecimento.
+
+Nesse contexto, o juiz da 47ª Vara do Trabalho do Rio de Janeiro, em 20 de abril de 2020, deferiu o pedido de tutela de urgência pleiteada pelo sindicato para conceder interrupção da prestação de serviços dos profissionais de saúde, sem prejuízo de suas contraprestações pecuniárias.
+
+O magistrado fundamentou a decisão nos artigos 5º e 230º da CF/88, que garantem a defesa do direito à vida e da dignidade do ser humano como dever do Estado. Irresignados, o Estado do Rio de Janeiro e Fundação Saúde efetuaram pedido de suspensão da liminar em juízo. Dentre os fundamentos arrazoados, destaca-se que a decisão não atentou para os múltiplos aspectos decorrentes da medida deferida e que o afastamento de profissionais de saúde do grupo de risco acarretará prejuízos ao sistema de saúde.
+
+Nesse contexto, argumentam, baseados em preceitos de ordem técnica, que grande parte dos envolvidos no combate à pandemia de COVID-19 é composta por profissionais de saúde com mais de 60 anos, dotados de experiência profissional e ocupantes de cargos estratégicos. Sustentam ainda que a tutela provisória de urgência interfere nas políticas de saúde pública, desenvolvidas pelo Poder Executivo, interferindo em sua autonomia.
+
+Assim, o desembargador presidente do TRT 14ª Região decidiu pela suspensão da decisão do juiz de Primeira Instância. Consequentemente, os enfermeiros, ainda que integrantes dos grupos de risco, deveriam retornar ao trabalho. A decisão foi fundamentada por impactar a redução do efetivo de enfermeiros em manifesto prejuízo aos serviços de assistência à saúde.
+
+Além disso, o Decreto nº 10.282/2020, ao regulamentar as atividades essenciais para os fins dispostos na Lei nº 13.979/2020, que dispõe sobre as medidas para o enfrentamento da emergência de saúde pública decorrente da COVID-19, estabeleceu os serviços de assistência à saúde como fundamentais para o atendimento das necessidades da população.
+
+Caso 3: Processo nº 42.2020.8.19.0001
+
+O MP e Defensoria Pública, ambos do Estado do Rio de Janeiro, ingressaram com uma ação civil pública, em 17 de abril de 2020, contra o município e o Estado do Rio de Janeiro, objetivando obter liminar para o desbloqueio de todos os leitos de Unidades de Terapia Intensiva/Síndrome Respiratória Aguda Grave (UTI/SRAG) do Estado do Rio de Janeiro (ERJ) e do município do Rio de Janeiro (MRJ), previstos no Plano Estadual de Contingência - à exceção daqueles destinados aos hospitais de campanha (com inauguração prevista para o dia 30 de abril de 2020) .
+
+A ação foi ajuizada porque o MP, em consulta ao Sistema Nacional de Regulação, observou que parte dos leitos de UTI/SRAG, considerados necessários para a assistência dos pacientes suspeitos e contaminados pela COVID-19, ainda não estava efetivamente disponibilizada.
+
+Argumentou-se, assim, que, embora existisse um plano de contingência, previamente elaborado pelo Estado e o município do Rio de Janeiro, este não estava sendo cumprido. Além disso, alertou-se sobre fatores que corroboram a necessidade da demanda, tais como o fato de a cidade do Rio de Janeiro ter um déficit histórico de 263 leitos de terapia intensiva/adulto; a possibilidade de esgotamento dos leitos de UTI-SRAG, com o risco de colapso da rede de atenção à saúde antes mesmo do funcionamento dos hospitais de campanha, previsto para 30.04.2020 e o aumento exponencial (de três casos em março para 11 casos apenas no início de abril) de demandas individuais, na defensoria, que visam ao acesso emergencial a leitos de UTI na cidade do Rio de Janeiro por cidadãos com suspeita ou confirmação da COVID-19.
+
+No julgamento ocorrido na primeira instância, o juiz da 14ª Vara da Fazenda Pública indeferiu o pedido liminar de que a intervenção do Judiciário ofenderia os princípios da separação dos poderes (o Judiciário não pode interferir em decisões de caráter político dos demais poderes, salvo casos excepcionais) e da reserva do possível (o orçamento é finito, devendo o gestor, por meio de decisão política, pautado em estudos técnicos, alocar os recursos da melhor forma possível). Além do mais, sustentou que as demais enfermidades não poderiam ser ignoradas.
+
+O MP recorreu da decisão e, ao chegar em segunda instância, a desembargadora da Segunda Câmara decidiu acatar o pedido e determinou que o Estado e o município colocassem em efetiva operação, no prazo máximo de cinco dias, todos os leitos de UTI/SRAG de unidades do ERJ e MRJ previstos no Plano Estadual de Contingência - à exceção daqueles destinados aos hospitais de campanha (com inauguração prevista inicialmente para o dia 30 de abril de 2020).
+
+Também determinou que estruturassem todos os recursos materiais e humanos necessários ao seu pleno e imediato funcionamento. Para tanto, alegou que os leitos não estavam bloqueados para destinação diversa, e sim sem operacionalização, que havia o nítido descumprimento, pelos entes federados, de obrigação por eles mesmos assumida na edição dos respectivos Planos de Contingência e que o princípio da reserva do possível não se aplica ao caso, considerando que os próprios entes federados se obrigaram à consecução das medidas sanitárias e à criação dos leitos de UTI/SRAG indicados no Plano de Contingência do ERJ.
+
+Caso 4: Processo nº 64.2020.8.19.0001
+
+Trata-se de uma ACP distribuída pelo Ministério Público do Rio de Janeiro, em face do Estado e do município do Rio de Janeiro, em 08 de abril de 2020, com a finalidade de obter liminar para a prevenção da proliferação do novo coronavírus nas Instituições de Longa Permanência para Idosos (ILPI).
+
+A ação foi ajuizada para assegurar os direitos fundamentais à saúde e à vida da população mais vulnerável, ou seja, dos idosos que residem nessas instituições.
+
+O MP fundamenta a demanda na ausência de divulgação de um Plano de Contingência destinado ao combate do coronavírus nas ILPI, bem como o aumento do número de casos registrados entre os idosos residentes nas ILPI e seus funcionários, e ainda a falta de medicamentos, de EPI, material de higiene pessoal e limpeza, nos termos das resoluções e notas técnicas expedidas pela Secretaria de Estado de Saúde (SES), Vigilância Sanitária e Agência Nacional de Vigilância Sanitária (ANVISA).
+
+No julgamento em primeira instância, o juiz da 15ª Vara de Fazenda Pública acatou parcialmente o pedido e condenou os réus a:
+
+Disponibilizar um local reservado ao alojamento de idosos (abrigados), com suspeita ou contaminação pelo SARS-CoV-2, que não necessitem de internação médica, bem como prover esses locais com profissionais de saúde, serviços gerais, apoio, medicamentos, EPI, material de higiene pessoal e limpeza, nos termos das resoluções e notas técnicas expedidas pela SES, Secretaria Municipal de Saúde e Vigilância Sanitária;
+
+Definir fluxo diferenciado para o primeiro atendimento ao idoso abrigado, logo após a comunicação do caso suspeito à Vigilância Sanitária. O Poder Público deve providenciar imediato atendimento, encaminhando uma equipe com profissionais de saúde e de assistência social ao abrigo, ocasião em que a testagem deverá ser realizada;
+
+Incluir tais instituições como destinatárias de EPI e itens essenciais para a higiene e limpeza desses locais, bem como providenciar a capacitação das pessoas que trabalham nesses lugares, com orientação permanente e monitoramento sobre como proceder.
+
+DISCUSSÃO
+
+Categoria 1 - Aplicação do princípio da dignidade da pessoa humana em tempos de pandemia
+
+O princípio da dignidade da pessoa humana é norteador de todo o ordenamento jurídico brasileiro. Encontra-se no mais elevado patamar e dá validade ao restante das normas. Ao colocar o ser humano como referência no Direito brasileiro, a CF/88 evidencia que todos os indivíduos são dotados de direitos fundamentais, principalmente o direito à saúde, o qual deve ser apreciado em todas as análises(16).
+
+Assim, ao considerar os casos concretos, o princípio da dignidade da pessoa humana deve iluminar, no Estado Brasileiro, tanto os operadores do direito como os políticos. Nesse sentido, tem o condão de proteger o indivíduo e sua vulnerabilidade, influenciando as decisões judiciais quando houver conflito versando sobre tais conteúdos.
+
+Esse princípio basilar, encontrado no artigo 1º, inciso III, da Carta Magna de 1988, é considerado um dos alicerces do Estado Democrático de Direito, que deve assegurar, minimamente, a preservação e a valorização da vida do ser humano(16).
+
+Na atualidade, vivencia-se uma pandemia, marcada, no contexto brasileiro, por grande instabilidade política, disparidades sociais, acesso desigual ao sistema de saúde pelos cidadãos(17), condições laborais inapropriadas (salários indignos, precariedade de EPI, insuficiência de materiais) para os trabalhadores da saúde, em especial, para os enfermeiros(13,18), resultando em inadequada organização do trabalho.
+
+A referida problemática deve-se, sobretudo, ao aumento súbito de pacientes nas unidades de tratamento intensivo, invariavelmente superlotadas, com quantidade insuficiente de equipamentos para o atendimento, o que sobrecarrega o sistema de saúde. Essa situação repercute nos profissionais de saúde, que se encontram em jornadas exaustivas, implicando negativamente as necessidades fisiológicas, psicológicas e de segurança no trabalho(9,13,18).
+
+A proteção aos trabalhadores tem sido apontada como uma medida primordial e estratégica para o enfrentamento da pandemia. No Reino Unido, estabeleceu-se um plano estratégico com a finalidade de garantir EPI para os profissionais(19), o qual se mostrou eficiente. Por outro lado, na Rússia, a falta de EPI é marcada por um número crescente de adoecimento dos profissionais de saúde(20).
+
+No Brasil, a escassez de EPI é um problema a ser combatido em virtude da escala crescente de óbitos entre os profissionais de saúde, em especial, os trabalhadores de Enfermagem(13,18). Nessa perspectiva, essa escassez resulta em um número maior de adoecimentos e óbitos, o que acaba por comprometer a dignidade da pessoa humana, de pacientes e trabalhadores, que se encontram em precárias condições laborais, levando a um maior risco de vida. Essa situação ainda se agrava com as instabilidades política e econômica vividas no país(17).
+
+Aplicar o princípio da dignidade da pessoa humana é ratificar o Estado Democrático de Direito. Valorizar esse princípio implica o respeito ao ser humano, que possui, como bem maior, a vida. Nesse contexto, ações judiciais têm sido distribuídas para a garantia de direitos, em especial, o direito à saúde.
+
+Por conseguinte, é relevante destacar a necessidade do debate da judicialização da saúde com a aproximação de dois conteúdos: o direito e a saúde, tendo como arcabouço aspectos sociais e econômicos, todos integrantes e necessários para a construção de uma Política Pública de Saúde(11).
+
+Categoria 2 - Combate à Pandemia como aspecto fundamental do direito à saúde
+
+No tocante à pandemia, que atualmente assola o Estado fluminense, algumas medidas foram tomadas, como a necessidade premente para reduzir o contágio pelo Coronavírus, por exemplo, o isolamento social.
+
+Esse status também foi declarado pela União Federal como Emergência de Saúde Pública Nacional, bem como pela Organização Mundial de Saúde(21)(OMS), que reitera a adoção de medidas estratégicas com o intuito da supressão ou diminuição da circulação do vírus, em função do expressivo número de casos, e o comprometimento da capacidade de resposta do Estado.
+
+Assim, o Poder Judiciário manifesta-se favoravelmente à manutenção do isolamento social como forma de resguardar o direito fundamental à saúde, considerando-o um dos principais recursos para o enfrentamento do vírus.
+
+Paralelamente, é notória a fragilidade do SUS diante da universalização dos serviços de saúde, da inclusão de toda a população igualitariamente no sistema, com destaque para ações de alta complexidade e, em última análise, a utilização dos leitos de UTI que apresentam alto custo e elevada densidade tecnológica. A relação demanda e oferta de serviços é comprometida, gerando longas filas de espera(22).
+
+Em função do agravamento da expectativa epidemiológica do Brasil para as próximas semanas e meses, faz-se necessária a adoção de medidas extraordinárias no contexto da pandemia. Uma delas é o rompimento da barreira entre os setores público e privado no cenário hospitalar, em especial, quanto à disponibilidade de leitos, ampliando a resposta ao quadro de calamidade.
+
+Assim, é urgente a regulamentação nacional de normas para a uniformização do acesso aos leitos, no caso excepcional de pandemia, pelos órgãos do Ministério da Saúde, secretarias municipais e estaduais e agências reguladoras. Destaca-se a importância da fila única dos leitos de UTI para os casos graves da COVID-19, em virtude da necessidade pública, transitória e urgente, para evitar leitos ociosos em alguns hospitais, garantindo, assim, o direito fundamental à saúde. Essa proposição tem respaldo no artigo 5o, inciso XXV, da CF/988, e na lei no8080 /1990, em seu artigo 15, inciso XIII(23).
+
+Outro aspecto a analisar é que, diante do iminente perigo de contágio e da necessidade crescente da população por assistência à saúde, os enfermeiros precisam atuar no contexto de precariedade preexistente, em todos os níveis de atenção à saúde, que vêm se agudizando à medida que aumenta o número de casos acometidos pela COVID-19.
+
+O Conselho Federal de Enfermagem (Cofen) recomenda a não participação de profissionais de Enfermagem que estão no grupo de risco na linha de frente para o enfrentamento da COVID-19. Isso se deve ao fato de que o profissional de Enfermagem mantém contato direto com os acometidos pelo vírus, aumentando, desse modo, o seu potencial de contágio. A situação ainda se agrava com a Medida Provisória 927/2020, editada pelo presidente da República, que permite a prorrogação de jornadas laborais e a redução do descanso obrigatório desses profissionais(24).
+
+Cabe considerar ainda que, no Brasil, de acordo com o Cofen, o número de profissionais de Enfermagem mortos era de 98 óbitos em 07 de maio de 2020, superando o número de falecidos nos Estados Unidos, que contabilizavam 91 óbitos de acordo com o levantamento pelo National Nurses United. No mundo, de acordo com International Council of Nurses (ICN), são 260 os profissionais que perderam suas vidas salvando outras(17).
+
+Assim, a fim de garantir o direito à saúde e à vida desses profissionais, o afastamento do trabalho desses indivíduos que estão nos grupos de risco configura medida salutar a ser adotada e padronizada em todo o país.
+
+No Brasil, as medidas estão sendo adotadas de maneira diversa. No Espírito Santo, por exemplo, foi emitida nota técnica para considerar a possibilidade de afastamento de profissionais de Enfermagem e, em caso de impossibilidade, não os alocar no atendimento direto a pacientes com coronavírus, devendo ser mantidos preferencialmente em atividades de gestão(25).
+
+Dessa forma, adotar estratégias de proteção e de organização do trabalho que incluam as medidas protetivas é primordial no contexto contemporâneo. Deve-se avaliar continuamente o perfil profissional de saúde desses trabalhadores. Afinal, o intuito é salvar vidas, inclusive a dos profissionais de saúde, e preservar a dignidade da pessoa humana.
+
+A pandemia da COVID-19 tem possibilitado a análise de diversos segmentos assistenciais em contextos diferenciados. A hora é de avaliação, de cooperação nacional e internacional, de compreensão de que todas as vidas são valiosas e que cada um é tão importante quanto o outro(26).
+
+Nessa linha de raciocínio, pensar em idosos é urgente, uma vez que o vírus tem maior letalidade em pessoas de idade avançada. Assim, preservar a vida e pensar nos que vivem em espaços coletivos é de extrema importância e urgência, visando a assegurar a saúde e a proteção dos residentes das instituições asilares.
+
+No Brasil, a ILPI é definida pela ANVISA, na Resolução da Diretoria Colegiada no 283, como instituição governamental ou não, com a finalidade de abrigar pessoas com idade de 60 anos ou mais, conferindo dignidade e cidadania, no intuito de proporcionar serviços sociais e de saúde(27).
+
+Dessa forma, assegurar condições seguras para os idosos e trabalhadores que atuam nesses espaços é fundamental. O oferecimento de EPI para os trabalhadores e os insumos para a proteção dos residentes das ILPI tornam-se condição indispensável para prover o direito constitucional à dignidade da pessoa humana.
+
+Precisa-se ter foco e disciplina para o enfrentamento das adversidades advindas do SARS-CoV-2 que, no Brasil, se inserem em um contexto de desigualdade social, de diminuição do investimento em ciência (cortes drásticos no financiamento de pesquisa), na segurança social e em serviços públicos em geral(17).
+
+Existe um apelo internacional para que a sociedade invista em ciência, incorporando o conhecimento produzido pelas pesquisas em políticas públicas dos países e nos tratados internacionais(28).
+
+Entende-se como contribuição deste estudo que, ao se analisarem casos concretos que envolvem a judicialização da saúde durante a pandemia da COVID-19, são trazidas à luz as medidas que precisam ser consideradas e adotadas para garantir a efetivação do direito à saúde. Além disso, ao examinar algumas ACP até o momento distribuídas, evidenciaram-se situações que requerem atenção face à crise sanitária, as quais exigem mudanças nos sistemas de saúde público e privado.
+
+Considera-se que a limitação desta pesquisa se situa no fato de a coleta de dados ter ocorrido apenas no Estado do Rio de Janeiro; além disso, não se adotaram três ou mais técnicas de coleta para a triangulação de dados. Isso se deu em decorrência do próprio contexto da pandemia, o qual dificultou o acesso aos cenários de assistência a pacientes com COVID-19 para a obtenção de dados de pesquisa.
+
+CONCLUSÃO
+
+Ao analisar os casos, concluiu-se que o objetivo da judicialização da saúde foi a obtenção de decisões para assegurar o respeito aos direitos fundamentais dos cidadãos pelo Poder Público, bem como garantir o atendimento de medidas e recomendações técnico-científicas que protejam a população durante a pandemia.
+
+Nesse sentido, a síntese dos resultados está interligada com a necessidade de tutela dos direitos fundamentais, estabelecidos em cláusulas pétreas na CF e norteados pelo princípio da dignidade da pessoa humana, mandamento norteador de todo o ordenamento jurídico.
+
+Analisar a judicialização, nesse momento de pandemia, traz à tona o fato de haver um enorme contingente da sociedade brasileira que não é devidamente assistido pelo Poder Público, ressaltando a fragilidade do sistema, a potencialização do agravamento da COVID-19, bem como a possível elevação do número de óbitos decorrentes dessa enfermidade.
+
+A judicialização traz ainda o descumprimento das prerrogativas constitucionais no que tange ao direito à saúde e à dignidade da pessoa humana, como também a incapacidade do Estado de prover os direitos aos cidadãos invisíveis em uma sociedade marcada pela desigualdade e pela enorme concentração de renda.
+
+Nessa perspectiva, deve haver um empenho dos três níveis de governo, para que as normas constitucionais sejam efetivadas, trazendo ao plano concreto a materialização dos direitos fundamentais, a fim de possibilitar uma vida saudável aos trabalhadores e à população. Tais medidas cumprem não apenas a efetivação de direitos, mas evidenciam o dever ético de governantes e a necessidade de um Estado capaz de promover a equidade.

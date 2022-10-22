@@ -1,0 +1,141 @@
+Como preparar o centro cirúrgico para pacientes COVID-19
+
+INTRODUÇÃO
+
+A pandemia pelo novo Coronavírus (SARS-CoV-2), agente da doença denominada Covid-19, gerou aumento exponencial de informações, com a produção de mais de 2.000 artigos científicos, normas técnicas, manuais e boletins informativos pelo mundo1.
+
+Interpretar essas informações para transformá-las em ações operacionais e assistenciais tem sido desafio dos serviços de saúde pelo mundo, com ênfase na segurança profissional, garantia da assistência aos pacientes, evitando consumo de equipamentos de proteção individual (EPI) sem critérios e, principalmente, combatendo a ansiedade entre os profissionais de saúde.
+
+JUSTIFICATIVA
+
+No dia 31 de dezembro de 2019, a China alertou a Organização Mundial de Saúde (OMS)2 sobre vários casos de pneumonia atípica em Wuhan3. O primeiro caso no Brasil foi confirmado em 26 de fevereiro de 20204, e em 11 de março de 2020, a OMS declarou a pandemia Covid-195.
+
+Casos de transmissão comunitária no Brasil começaram a ser relatados em várias cidades por todo o país, e em 20 de março de 2020, o Ministério da Saúde (MS) declarou situação de transmissão comunitária nacional6.
+
+O SARS-CoV-2 apresenta estabilidade em aerossóis e superfícies, sendo transmitido por gotículas em suspensão e por fômites, podendo permanecer infectante por horas em aerossóis, superfícies plásticas, aço inoxidável, papelão e cobre. A quantidade do inóculo e as condições ambientais como temperatura e umidade podem alterar o tempo de viabilidade das partículas virais. Pacientes infectados sintomáticos apresentam maior carga viral e vários procedimentos médicos podem contribuir com a formação de aerossóis7.
+
+Diversas sociedades médicas brasileiras passaram a divulgar orientações a seus associados sobre a necessidade de restrição dos atendimentos eletivos e o uso de EPI para procedimentos de risco para aerolização, como intubação orotraqueal e endoscopias digestivas8,9. O Colégio Brasileiro de Cirurgiões (CBC), em conjunto com a Sociedade Brasileira de Atendimento Integrado ao Traumatizado (SBAIT) e o Capítulo Brasileiro do American College of Surgeons orientaram que “uma política hospitalar para gerenciar pacientes na sala de cirurgia com infecção conhecida ou suspeita por COVID-19” fosse desenvolvida em “acordos com a equipe de anestesia”10.
+
+Assim, como parte da orientação a seus profissionais, diversos serviços por todo o mundo têm implantado ações de biossegurança para lidar com a atual pandemia, incluindo os cuidados específicos na preparação do centro cirúrgico.
+
+OBJETIVO
+
+Apresentar orientações que proporcionem as condições adequadas de assistência e segurança para os profissionais de saúde na prevenção de transmissão da infecção humana pelo SARS-CoV2, no centro cirúrgico.
+
+MÉTODO
+
+A pesquisa de artigos científicos e demais publicações foi realizada utilizando-se os termos “covid-19”, “coronavirus”, “operating room”, na base de dados do PubMed, no período de 17 de março a 14 de abril de 2020.
+
+RESULTADOS
+
+Foram encontrados 19 artigos na base de pesquisa. Após a leitura dos resumos, foram selecionados seis artigos, dos quais houve acesso a cinco textos completos, além de quatro outros escolhidos por divulgação, totalizando nove artigos completos. Adicionalmente, foram incluídas normas regulamentadoras e técnicas oficiais.
+
+ORIENTAÇÕES
+
+Sala cirúrgica
+
+Manter sala exclusiva para atendimento do paciente COVID, preferencialmente uma sala de fácil acesso e que tenha o mínimo contato possível com outras salas, para evitar contaminação de grande extensão11-13.
+
+O paciente deverá ser recebido por porta exclusiva (quando possível), localizada próximo à sala exclusiva para o paciente Covid-19. O paciente deverá sair pelo mesmo acesso11,12.
+
+É preferível que a sala exclusiva para o paciente Covid-19 tenha antessala11,14.
+
+Manter a sala com temperatura adequada para garantir pressão neutra ou negativa11-16. Quando não houver a opção de pressão negativa, é importante permitir pelo menos 30 minutos entre os casos para troca completa de ar ambiente15.
+
+Manter portas fechadas durante o procedimento13,16.
+
+Sinalizar na porta da sala quanto à precaução recomendada (contato e aerossol).
+
+Equipamentos
+
+Somente equipamentos, mobiliários e medicamentos necessários devem ser levados à sala de procedimentos, para reduzir o número de itens que necessitarão ser limpos ou descartados12,13.
+
+Priorizar o uso de equipamentos/materiais descartáveis11-14.
+
+O aparelho de anestesia, monitores, aparelho de ultrassonografia etc., deverão ser protegidos com plástico descartável para reduzir a contaminação dos equipamentos12.
+
+Utilizar filtro de ar particulado de alta eficiência (High-Eficiency Particulate Air - HEPA) no circuito de anestesia e sistema de capnografia anterior ao filtro (entre circuito e filtro)12.
+
+Cuidados gerais
+
+Higienizar as mãos antes e após colocar e retirar os EPI11-13,16-18.
+
+Não utilizar adornos18.
+
+Não entrar na sala cirúrgica portando objetos pessoais.
+
+Utilizar Equipamento de Proteção Individual (EPI) adequado (touca, avental impermeável, óculos, protetor facial, máscara N95, luvas com punhos longos, sapatos fechados e impermeáveis que permitam ser desinfetados) - conforme orientação de uso de EPI em casos suspeitos de COVID-1913,19.
+
+Transporte/Recepção
+
+Todo transporte de paciente suspeito ou confirmado COVID-19 ao centro cirúrgico deve ser previamente comunicado para que a equipe se paramente.
+
+Colocar máscara cirúrgica no paciente durante a transferência entre setores12,13,19.
+
+Profissionais que realizam o transporte do paciente para o Centro Cirúrgico e vice-versa devem utilizar EPI (máscaras N95, face shield/óculos, avental e luvas)11,13,16,19.
+
+Se certificar que não há bloqueio para a passagem do paciente11.
+
+Reservar o elevador próximo ao centro cirúrgico para conduzir o paciente e bloquear o uso para higienização após o transporte do paciente11,13.
+
+A equipe do centro cirúrgico deve aguardar a chegada do paciente devidamente paramentada11,16,19.
+
+O paciente não deve permanecer aguardando em área de recepção ou pré-operatório, sendo encaminhado direto para a sala cirúrgica11,13.
+
+Equipe
+
+Apenas uma equipe mínima necessária deve participar da cirurgia12-14,16,17,20.
+
+Durante a manipulação de vias aéreas (intubação e extubação), a equipe não envolvida no procedimento deverá ficar fora da sala13,21.
+
+Disponibilizar um profissional de apoio na área externa da sala para o atendimento assegurando e adesão às técnicas de precaução11,13,15,17.
+
+Cirurgiões e assistentes devem máscara N95 com uma máscara cirúrgica por cima, face shield completo, avental, luvas e proteção para os sapatos13,19.
+
+Procedimentos
+
+Sempre que possível optar pela anestesia na forma de bloqueios, evitando ao máximo a manipulação de vias aéreas11,12,16,17.
+
+Pacientes intubados, provenientes de unidades críticas, devem ter o tubo orotraqueal ocluído por pinça de apreensão, caso seja necessário trocar o ventilador, para evitar a dispersão de aerossóis11,12.
+
+Reduzir a produção de aerossóis, com o uso criterioso do eletrocautério, mantendo a aspiração contínua e os cuidados durante a laparoscopia (se possível, usar filtro para desinsuflar o pneumoperitôneo)13,20,21.
+
+Pós-operatório
+
+A recuperação do paciente pós-procedimento, deverá ser realizada dentro da sala e o paciente deverá manter-se com máscara cirúrgica e, caso haja necessidade de oxigênio complementar, o cateter de oxigênio deverá ficar sob a máscara11,12,14,16,17.
+
+Suporte não invasivo de vias aéreas com pressão positiva deve ser evitado ao máximo, pois pode favorecer a aerossolização do vírus12.
+
+Quando o paciente estiver em condições de alta anestésica, deverá utilizar máscara cirúrgica para o transporte, e os profissionais que realizarão o transporte deverão utilizar os EPI’s, conforme recomendação de uso de EPIs nas suspeitas de COVID-1912,19.
+
+Desparamentação
+
+Todos os EPIs, incluindo as máscaras N95, mas excluindo-se óculos, protetor facial e sapatos impermeáveis, devem ser descartados (de preferência na antessala) após a utilização durante procedimentos que geram aerossolização (i.e.: intubação, extubação, aspiração, ressuscitação cardiopulmonar, ventilação não invasiva e broncoscopia) ou na presença de contaminação por sangue ou líquidos corporais11.
+
+Retirar EPIs, de preferência, na antessala11,19.
+
+Não tocar o rosto ou face antes de higienizar as mãos19.
+
+Se dirigir ao vestiário para banho de aspersão11,12.
+
+Realizar limpeza dos óculos de proteção com água e sabão, enxugar e colocar álcool a 70%19.
+
+Higienização e descarte
+
+Prever uma hora entre uma cirurgia e outra para transferência do paciente e realização da limpeza e descontaminação de todas as superfícies, telas, teclado, computadores, cabos, monitores e aparelho de anestesia, mobiliários11,15.
+
+Deixar preparada para o próximo procedimento11,15.
+
+Trocar todo o circuito, os filtros, a cal sodada e, proceder à desinfecção do aparelho de anestesia, bem como do compartimento de cal sodada, após cada cirurgia11.
+
+Realizar limpeza minuciosa dos equipamentos e mobiliários da sala de procedimento, utilizando EPI (máscaras N95, faceshield/óculos, avental e luvas)11,13.
+
+Descartar todos os EPIs no lixo infectante11,12.
+
+Descartar todos os itens não utilizados na bandeja de medicamentos e do carro de vias aéreas, pois devem ser considerados contaminados11,12.
+
+Todos os materiais e instrumentais deverão ser encaminhados ao expurgo, dentro de caixas de plástico grande com a tampa totalmente fechada e com identificação escrita de fácil visualização para a equipe da Central de Material e Esterilização (CME).
+
+CONCLUSÃO
+
+Profissionais de saúde estão sob risco durante a pandemia do novo coronavírus SARS-CoV-2. Orientações e diretrizes institucionais quanto à preparação e o uso adequado de EPI ajudam a reduzir a ansiedade e a probabilidade de contaminação das equipes15, garantindo a assistência aos pacientes. Mesmo que nenhum paciente suspeito ou confirmado de Covid-19 tenha sido operado, a expectativa é que isso se modifique em breve, com o aumento do número de casos12.

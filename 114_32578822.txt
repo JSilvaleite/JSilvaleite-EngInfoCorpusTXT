@@ -1,0 +1,75 @@
+Recomendações do Colégio Brasileiro de Cirurgiões para cirurgia videolaparoscópica durante a pandemia por COVID-19
+
+RESUMO
+
+Diante do quadro de pandemia da COVID-19, a comunidade cirúrgica enfrenta o possível risco de contágio de profissionais envolvidos no ato operatório; gerando preocupações e dúvidas referentes a escolha da via de acesso mais adequada nesse momento. Com objetivo de orientar os cirurgiões, baseado em diversos protocolos publicados até o momento, o Colégio Brasileiro de Cirurgiões traz recomendações acerca deste assunto. O objetivo desta nota técnica é, através de uma compilação de publicações e recomendações de Sociedades Científicas de Cirurgia de todo mundo, trazer orientações relativas ao acesso laparoscópico durante a pandemia por COVID-19.
+Descritores: Coronavirus; Laparoscopia; Cirurgia Geral
+
+
+Recomendações do Colégio Brasileiro de Cirurgiões para Cirurgia videolaparoscópica durante a pandemia de COVID-19.
+
+Diante do quadro de pandemia da COVID-19, a comunidade cirúrgica enfrenta o possível risco de contágio de profissionais envolvidos no ato operatório, gerando preocupações e dúvidas referentes à escolha da via de acesso mais adequada, nesse momento. Com objetivo de orientar os cirurgiões, baseado em diversos protocolos publicados até o momento, o Colégio Brasileiro de Cirurgiões traz recomendações acerca deste assunto.
+
+Cabe ressaltar que as presentes orientações são compilações de outras Sociedades Científicas e publicações preliminares, e dado o momento de incerteza sobra esta pandemia, tais orientações se encontram em constante atualização.
+
+1. Adiamento de cirurgias eletivas.
+
+Cirurgias não emergenciais devem ser adiadas para possível necessidade de leitos cirúrgicos, UTI e ventiladores mecânicos1. Ademais, a infecção de um paciente em pós-operatório de cirurgia eletiva pode agregar morbimortalidade ao procedimento.
+
+2. Treinamento da equipe cirúrgica em equipamento de proteção pessoal e COVID-19.
+
+Educar a equipe cirúrgica sobre o equipamento de proteção individual (EPI) é fundamental. Todos os membros da equipe devem ser treinados sobre o uso apropriado do equipamento. Sessões de treinamento são importantes para diminuir não só a transmissão, como também a perda de equipamentos por uso errado em cenário para o qual cada máscara importa. A situação atual nos mostra a importância de treinamento adequado para pandemias2.
+
+3. Preparar área cirúrgica específica para pacientes COVID-19
+
+A criação de área no centro cirúrgico, exclusiva para pacientes com COVID-19, é importante para conter a disseminação da doença. Centros nos Estados Unidos, Canadá e Singapura mostraram pontos chave:
+
+a) centro cirúrgico específico para todos os pacientes com COVID-19, sem tráfico elevado de pessoas e sem material que não seja essencial, incluindo itens pessoais como celulares, canetas e chaves. Apenas o equipamento cirúrgico essencial deve estar na sala;
+
+b) quando possível, a recuperação anestésica deve ser realizada no centro cirúrgico, com equipe apropriada até a transferência para sala isolada;
+
+c) o caminho do paciente para o centro cirúrgico e para a Unidade de Terapia Intensiva ou quarto deve estar livre;
+
+d) devem-se considerar abordagens cirúrgicas mais rápidas para diminuir a exposição da equipe cirúrgica2.
+
+4. Triagem dos pacientes antes do procedimento
+
+Todos os pacientes, quando possível, devem se submeter a anamnese dirigida sobre possível infecção / contaminação por COVID-193. A testagem imunológica rápida também é recomendada4, avaliando-se a urgência do procedimento e a disponibilidade do resultado em tempo hábil.
+
+Não havendo disponibilidade da testagem rápida ou da obtenção do resultado em tempo hábil, os pacientes deverão ser considerados como possíveis portadores da doença. O uso da tomografia de tórax como método de triagem auxiliar tem sido recomendada por alguns autores, principalmente em pacientes que irão ser submetidos a tomografia de abdome para esclarecer o diagnóstico urgente/emergencial5.
+
+5. Uso de EPIs e Equipe Cirúrgica
+
+Os cuidados devem ser os mesmos adotados para pacientes com outras infecções virais com possível transmissão durante procedimentos operatórios. Atenção deve ser dada à proteção ocular ou dispositivos de proteção facial (“face-shields”)6.
+
+Em relação às máscaras cirúrgicas, as recomendadas pelo ministério da saúde são do tipo N95/PFF27. Apesar de recente estudo8 demonstrar que o coronavírus-19 apresenta 50-200nm de tamanho, e a máscara N95 ser capaz de filtrar apenas partículas acima de 300nm, este dispositivo tem 95% de eficácia neste cenário9.
+
+Recomendamos também o uso de dois pares de luvas, pois há o risco de contaminação durante a retirada das mesmas. Do mesmo modo, a retirada do capote descartável e demais paramentações, deve ser feita por outro profissional, como a circulante de sala6.
+
+O procedimento cirúrgico deve ser realizado pelo cirurgião mais experiente, assim como o número de membros da equipe cirúrgica em campo deve ser restringido ao mínimo possível10.
+
+6. Uso dos trocateres
+
+Especial cuidado deve ser tomado na introdução e retirada dos trocateres, assim como na limpeza4. As válvulas e borrachas de vedação devem ser rigorosamente verificadas no intuito de se evitar vazamento do pneumoperitônio. Quando possível, diminuir o número de sítios de punção3. O uso de métodos de vedação em torno das incisões (trocater-balão, cerclagem com sutura etc...) são fortemente recomendados4. Todos os trocarteres só deverão ser retirados após o completo esvaziamento do pneumoperitônio11,12.
+
+7. Manejo do pneumoperitônio
+
+Apesar de não haver estudos específicos sobre a transmissão do coronavírus pela dispersão em aerosol produzida pelo pneumoperitônio, estudos prévios em outras viremias recomendam fortemente a precaução no manejo do pneumoperitônio durante procedimentos laparoscópicos13,14. Mecanismos de filtragem devem ser usados tanto na insuflação quanto na desinsuflação do pneumoperitônio10. É recomendável utilizar a menor pressão intra-abdominal possível, entre 10-12 mmHg1,3,11. Várias recomendações têm sido feitas para que o pneumoperitônio seja mantido em sistema fechado11,12. A técnica de esvaziamento do pneumoperitônio, seja durante a cirurgia para retirada de fumaça ou ao término da cirurgia, deve permitir a menor possibilidade de dispersão de gás carbônico para o ambiente cirúrgico. A proposta11 é a conexão de extensão (tipo um equipo de soro longo) ao portal menos utilizado durante a cirurgia. A outra extremidade deve ter algum dispositivo de filtragem e estar em distância segura da equipe de sala operatória, de pelo menos 2 metros15. Alguns dispositivos em selo d’água vêm sendo propostos16,17. Spinelli e Pellino16 recomendam sistemas fechados de quimioterapia intra-abdominal (PIPAC). Porém estes são dispendiosos e podem não estar disponíveis em todos os Serviços de Cirurgia. Se o insuflador em uso não tiver recurso de desinsuflação, feche a válvula no portal de trabalho que está sendo utilizada para insuflação antes que o fluxo de CO2 no insuflador seja desligado (mesmo se houver um filtro em linha no sistema). Sem tomar essa precaução, o CO2 intra-abdominal contaminado pode retornar para o insuflador quando a pressão intra-abdominal é maior que a pressão dentro desse15. Reduza o tempo de posição do Trendelenburg o máximo possível. Isso minimiza o efeito do pneumoperitônio na função e circulação pulmonar, no intuito de reduzir a suscetibilidade a patógenos e quadros pulmonares mais graves em pacientes com COVID-194.
+
+8. Uso de dispositivos de energia
+
+Estudos prévios já demonstraram dispersão aérea de patógenos pela fumaça produzida por eletrocirurgia18,19, o que leva a crer que o mesmo ocorra na COVID-19. Especificamente na laparoscopia, atenção maior deve ser dada pois a fumaça pode ser expelida para o meio externo sob maior pressão por conta do pneumoperitônio. O uso do equipamento elétrico ou ultrassônico por 10 minutos leva a uma concentração maior de partículas na fumaça em cirurgia laparoscópica do que na cirurgia aberta19. Um motivo para isso seria a pouca mobilidade do gás na cavidade abdominal, que tende a ficar concentrado. O risco de exposição é maior na laparoscopia do que na cirurgia aberta3. Cauterização excessiva e em um mesmo ponto devem ser evitadas3. A intensidade de dispositivos de eletrocautério devem ser ajustadas no mínimo possível nos geradores de energia4. O mesmo cuidado se deve ter com o uso de dispositivos ultrassônicos, pela capacidade de produzir partículas contendo sangue e tecidos3,20,21.
+
+9. Anastomoses do tubo digestivo
+
+Anastomoses intraabdominais devem ser preferíveis em relação às externas, visando diminuir o risco de contaminação por dispersão em aerosol do gás intra-intestinal e despressurização súbita do pneumoperitônio17. Entretanto, tal medida deve ser avaliada em relação ao aumento do tempo cirúrgico/pneumoperitônio assim como experiência do cirurgião com tais modalidades técnicas.
+
+10. Extração de peças cirúrgicas, cirurgias vídeo assistidas e drenos
+
+A extração de peças cirúrgicas deve ser feita após a desinsuflação do pneumoperitônio11,12. Cirurgias híbridas vídeo assistidas não são recomendadas pelo não controle do escape de gás do pneumoperitônio15. Do mesmo modo o uso de drenos deve ser indicado quando somente estritamente necessário, visto que a colocação de drenos pela incisão dos trocartes sob visão laparoscópica aumenta o risco de dispersão de gás para o meio externo de forma não controlada15.
+
+11. Evitar ou não a via laparoscópica
+
+Ainda que existam algumas recomendações para a via laparoscópica em casos selecionados22, a decisão de qual melhor via terá de ser avaliada caso a caso, levando-se em conta variáveis como tempo de pneumoperitônio e recuperação cirúrgica ao trauma cirúrgico. O benefício da via laparoscópica deve suplantar o risco de disseminação viral por aerosol do pneumoperitônio3. Em caso de pacientes com diagnóstico comprovado de COVID-19, avaliar tratamento não operatório ou técnicas menos invasivas sempre que possível3,22.
+
+É importante frisar que todas estas recomendações têm como base princípios de cirurgia segura em vídeolaparoscopia, considerando outras doenças infecciosas, como hepatites, síndrome da imunodeficiência adquirida e não especificamente a Covid-19. Por tal, estão sujeitas a constante atualização, à medida que novas evidências forem comprovadas. Ademais, devem ser analisadas individualizadas de acordo com a estrutura dos Serviços de Cirurgia e experiência pessoal dos cirurgiões.

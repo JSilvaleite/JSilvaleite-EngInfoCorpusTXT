@@ -1,0 +1,179 @@
+Os apelos da enfermagem nos meios de comunicação em tempos de coronavirus
+
+RESUMO
+
+Objetivo:
+
+conhecer e analisar os apelos da Enfermagem nas mídias sociais durante a pandemia de COVID-19.
+
+Método:
+
+pesquisa documental, qualitativa, descritiva e exploratória, com dados coletados em publicações em duas mídias sociais, submetidos à análise de conteúdo utilizando recursos do software ATLAS.ti. Foram analisadas 295 publicações de profissionais de enfermagem veiculadas no Twitter e no Instagram entre os dias 11 e 20 de março de 2020.
+
+Resultados:
+
+organizados em quatro categorias temáticas: #fiqueemcasa, #cadêmeuEPI, #agorasomosheróis, #nadadenovonofront, segundo frequência nas comunicações. Os apelos mostram relação com a utilidade social do trabalho profissional e com condições requeridas para seu exercício.
+
+Considerações finais:
+
+antigos e novos desafios da profissão foram colocados em pauta nas mídias sociais, especialmente relacionados aos instrumentos de trabalho e à própria força de trabalho. Esses discursos podem servir de alicerce para políticas de melhoria das condições trabalho e fomentar a valorização da profissão.
+Descritores: Enfermagem; Condições de Trabalho; Meios de Comunicação; Infecções por Coronavirus; Virus da SARS
+
+
+INTRODUÇÃO
+
+Em 30 de dezembro de 2019, o mundo passou a se preocupar com um novo problema de saúde a partir de três amostras coletadas de um paciente com uma pneumonia de etiologia desconhecida no Hospital Wuhan Jinyintan. Os exames indicaram a presença de um vírus com características da família dos coronavirus, pelas partículas típicas em forma de coroa ao serem observadas no microscópio eletrônico de transmissão(1).
+
+Em 20 de fevereiro de 2020, menos de dois meses do primeiro caso na China, mais de 75 mil casos de COVID-19 foram relatados naquele país. Os casos relatados são baseados no National Reporting System (NRS), que emite relatórios diários de novos casos confirmados, mortes, casos suspeitos e contatos(1). Um relatório diário é fornecido, por província, relatando os casos do dia anterior(1).
+
+No dia 11 de março de 2020, a Organização Mundial de Saúde (OMS) declarou o COVID-19 como pandemia, tendo a Itália como novo epicentro de contaminação. No Brasil, o primeiro caso foi anunciado no dia 26 de fevereiro de 2020. Até o dia 01 de abril de 2020, foram confirmados 885.687 casos em todo o mundo com 44.216 mortes, sendo que no Brasil já estavam confirmados 5.861 casos da doença e 203 mortes(2).
+
+A OMS estima a taxa de letalidade por esse vírus em torno de 3,4%, sendo a mais alta na China e o grupo de assintomáticos apresenta-se muito baixo, cerca de 1%(3-4). A letalidade pelo COVID-19 entre 0,5 a 4% assemelha-se à da gripe espanhola(4), e é muito maior em relação a da influenza A H1N1(5-6) ou da gripe sazonal(7-8).
+
+Dentre as principais medidas adotadas pela China para a redução drástica dos índices de transmissão destacou-se: controle de fronteiras; identificação do agente etiológico; restrições sociais de contato; proteção dos profissionais de saúde com equipamentos de proteção individual (EPI) adequados; identificação dos sintomáticos, testagem, emissão de resultados rápidos e isolamento; identificação dos comunicantes e deixá-los em quarentena(8). Epidemiologista brasileiro(8) afirma que “a evolução da epidemia é incerta [...] e o Brasil tem capacidade de superar esse desafio, pois o SUS é um dos maiores sistemas públicos de saúde do mundo, mas é preciso intensa mobilização social”.
+
+Para o enfrentamento da pandemia, profissionais de saúde, pesquisadores da área e autoridades sanitárias são fundamentais, assim como é preciso envolvimento da sociedade. Os registros do processo, evolução e medidas de enfrentamento da pandemia mostram o que a literatura tem descrito acerca do trabalho em saúde: o resultado depende da colaboração entre quem realiza e quem recebe os cuidados(9); o acesso universal em saúde é um desafio para as nações e requer investimento(10); sua efetividade requer intersetorialidade, instrumentos de trabalho em quantidade e qualidade adequados, com forte investimento em tecnologias inovadoras, ao mesmo tempo em que é altamente dependente da força de trabalho(11).
+
+Diante de uma pandemia como a do COVID-19, os profissionais de saúde, dentre eles, os da enfermagem, são a linha de frente na atuação para o tratamento, a prevenção e a recuperação dos casos. Os profissionais de Enfermagem estão na porta de entrada e em todo o conjunto da assistência nos serviços de saúde, e nas instituições do tipo hospitalar acompanham os doentes nos 365 dias do ano, ininterruptamente. No Brasil, são mais de dois milhões de profissionais de nível médio e superior registrados no Conselho Federal de Enfermagem(12). Grande parte destes profissionais está no mercado de trabalho atuando em instituições assistenciais, de ensino, em instâncias de gestão e envolvidos em pesquisa, atividades fundamentais para a saúde da população e para o combate ao coronavirus. A enfermagem está na linha de frente da pandemia, atuando para promover a saúde da população e cuidando das pessoas com agravos já instalados.
+
+Este ano de 2020 marca o bicentenário do nascimento de Florence Nightingale, sendo declarado pela Organização Mundial da Saúde (OMS) como o “Ano Internacional da Enfermeira” – “Ano Internacional da Enfermagem”, como denominamos no Brasil. Este ano também encerra o triênio da campanha Nursing Now, uma iniciativa do Conselho Internacional de Enfermagem (ICN), OMS e Parlamento Britânico que se espalhou pelo mundo(13). A campanha visa valorizar e dar visibilidade ao trabalho da enfermagem face à sua importância para a saúde das populações. Este chamado nunca foi tão oportuno e necessário.
+
+No mundo atual, fortemente influenciado pela comunicação global em tempo real, as mídias sociais têm se destacado como veículo de expressão das pessoas, organizações e também da enfermagem. Esses recursos têm sido usados de forma bastante criativa e promissora para mostrar a profissão da Enfermagem para a sociedade, o que faz e a importância desse trabalho em todos os contextos de promoção e proteção da saúde das pessoas. Em tempos como este de pandemia, que tem deixado o mundo todo em alerta e preocupado, os profissionais têm feito apelos nas mídias sociais, já que estão constantemente expostos a situações de riscos de contaminação pelo vírus, mas que, pelo caráter da profissão, não podem ter a escolha de se afastar, como os demais.
+
+Este cenário instiga várias perguntas como: que apelos os profissionais de enfermagem têm expressado nas mídias sociais?
+
+OBJETIVO
+
+Conhecer e analisar os apelos da Enfermagem nas mídias sociais durante a pandemia do coronavirus.
+
+MÉTODO
+
+Aspectos éticos
+
+Este estudo, por ter como fonte da coleta de dados, publicações em mídias sociais de livre acesso, dispensa aprovação em comitês de ética em pesquisa com seres humanos. No entanto, a fim de manter o preconizado na Resolução 466/2012 do Conselho Nacional de Saúde, que determina as disposições para as pesquisas envolvendo seres humanos, o anonimato de todos os autores das publicações foi garantido.
+
+Referencial teórico-metodológico e tipo de estudo
+
+Estudo qualitativo, descritivo e exploratório, de base documental, orientado pela teoria do Processo de Trabalho de Karl Marx, para a compreensão do trabalho da enfermagem no contexto histórico e social em que está inserido(14), pela Sociologia das Profissões e pela Teoria do Agir Comunicativo de Jürgen Habermas, que permite a compreensão da linguagem como ação, no sentido de que a comunicação proporciona ações por meio da interação e da racionalidade(15).
+
+Cenário do estudo e fonte de dados
+
+O cenário do estudo é composto por duas mídias sociais, Twitter e Instagram, por meio de suas publicações no Brasil. Os dados disponíveis online totalizaram 295 publicações de profissionais de enfermagem, sendo 101 no Twitter e 194 no Instagram. A busca pelas publicações ocorreu de 11 de março de 2020, quando a OMS declarou a pandemia pelo coronavirus, até o dia 20 de março de 2020, quando foi declarado estado de calamidade pública pelo governo brasileiro.
+
+Coleta e organização dos dados
+
+Utilizou-se o cruzamento de duas hashtags: #enfermagem e #coronavirus para a coleta dos dados no Twitter e no Instagram.
+
+A busca pelas publicações no Twitter ocorreu por meio da ferramenta de importar/exportar do software ATLAS.ti (Qualitative Data Analysis), versão 8.4.24.0. Essa ferramenta possibilita a importação ou a exportação de bases de dados diferentes, na qual ocorre a análise semântica simultânea, a partir do que é proposto na busca.
+Figura 1 Interface da ferramenta de importar/exportar do software ATLAS.ti 
+
+Dentro do projeto denominado #coronavirus no software, foi determinada a busca dos tweets/publicações, e desta pesquisa inicial, foi gerado um documento contendo todas as publicações identificadas na busca. Os dados importados foram codificados automaticamente com base na seleção feita pelo uso das hashtags, obtendo 101 códigos iniciais, que passaram por análise.
+Figura 2 Tela de importação dos dados no Twitter 
+
+Para a busca dos dados no Instagram, a ferramenta utilizada foi a lupa da própria mídia social, colocando as mesmas hashtags. O total de publicações foi exportado para uma planilha do Excel, e essa planilha foi importada para o ATLAS.ti. No Instagram, o software gerou, por meio da codificação automática, 194 códigos.
+
+Análise dos dados
+
+Os códigos gerados pelo ATLAS.ti foram analisados posteriormente, por meio da Análise de Conteúdo Temática, para formar grupos/categorias de codificação expressos nos resultados deste estudo conforme o maior número de publicações, somando quatro categorias, que foram nomeadas com uma hashtag, representando o agrupamento do conteúdo analisado e a comunicação expressa nos conteúdos analisados como: #fiqueemcasa, #cadêmeuEPI, #agorasomosheróis, #nadadenovonofront.
+
+A análise foi realizada de acordo com a semântica das palavras dentro das 295 publicações das duas mídias sociais analisadas, de acordo com o maior número de vezes que as hashtags #enfermagem e #coronavirus apareceram juntas. Embora este seja um estudo qualitativo, o número de citações foi levado em consideração para demonstrar a importância dos apelos dos profissionais de enfermagem em suas publicações.
+
+RESULTADOS
+
+Os resultados estão apresentados por categoria temática considerando a ordem numérica das citações.
+
+#fiqueemcasa
+
+Com um número muito expressivo (95 publicações), os profissionais de enfermagem fizeram apelos em massa solicitando para que as pessoas ficassem em casa durante o período de quarentena estipulado pelos governos estaduais e municipais. As publicações utilizaram diferentes ferramentas para sensibilizar a população, especialmente os idosos, a permanecerem em suas residências como medida preventiva e para promover o achatamento da curva de disseminação do vírus.
+
+As fotos que mais circularam nas mídias foram realizadas pelos profissionais em seus ambientes de trabalho (hospitais, clínicas, Unidades de Pronto Atendimento e Unidades Básicas de Saúde), vestindo EPIs e com placas nas mãos com a frase que correu o mundo: “Nós estamos aqui por vocês, fiquem em casa por nós!”.
+
+Neste momento, milhares de profissionais da saúde estão fora de suas casas enfrentando o Corona vírus. Nós pedimos duas coisas pra vocês, orem por nós e fiquem em casa! #fiqueemcasa #covid #covid19 #corona #enfermagem #pandemia #enfrentamento #coronavirus
+Figura 3 Conteúdo retirado do Instagram e do Twitter, respectivamente – de livre acesso 
+
+#cadêmeuEPI
+
+O apelo de mais impacto e que se refere diretamente aos profissionais que atuam na assistência é, sem sombra de dúvidas, os pedidos por EPI (86). Muitos profissionais vieram a público exigir para que as instituições de saúde e as autoridades providenciem, o mais rapidamente possível, os materiais indispensáveis para a proteção de todos os profissionais de saúde e pacientes.
+
+Se todo soldado precisa de trajes e equipamentos para uma guerra... cadê o meu!? CADÊ MEU EPI? Como combater um bom combate, sem EPI? CADÊ MEU EPI? #coronavírus #coronavirusnobrasil #ccih #enfermagem #direitoavida #Deus #lutarsempre
+
+Só entro no hospital se tiver EPI, uma falta de humanidade isso conosco nesse momento. #coronavírus #coronavirusnobrasil #ccih #enfermagem
+
+Dentre os apelos, vieram muitas críticas e denúncias, como se vê a seguir na informação de que a máscara N95 é recomendada somente para a equipe médica, e a falta completa de equipamentos e álcool.
+Figura 4 Partes de publicações com recortes de comunicados de profissionais 
+
+#agorasomosheróis
+
+Todos gostam de homenagens e ser chamados de heróis, no entanto, a partir de publicações de outras pessoas chamando os profissionais de enfermagem de heróis, alguns apelos tomaram forma após o agradecimento pelo carinho das pessoas. Esses apelos, que somaram 70 publicações, se referem à jornada de trabalho, ausência de piso salarial digno e plano de aposentadoria especial, às condições de trabalho precárias e à valorização do trabalho.
+
+Pergunta para os governantes se após tudo isso, vão criar pisos para a enfermagem! Se vai aprovar as ٣0h da enfermagem! Nós estamos nas ruas, vocês ficam em casa! #Coronavirus #COVID-19 #nurse #Enfermagem #ficaemcasa
+
+MAIS UM DIA (de cansaço, pressão psicológica, desconforto por trás da máscara embaçando o óculos e responsabilidade) VENCIDO! #covid19 #enfermeiro #enfermagem #coronavirus
+
+Enquanto muitos estão em casa se protegendo, nosso trabalho continua. Na luta contra o Coronavírus, o respeito é fundamental. Valorize os que estão na linha de frente desta batalha! Reconheça o trabalho dos profissionais de enfermagem. #enfermagem #covid19 #coronavírus
+
+Adoramos as palmas, as homenagens, mas queria saber se depois de tudo isso, quando fizermos greve e reivindicações por melhores condições de trabalho, ainda seremos heróis. #Coronavirus #COVID-19 #nurse #Enfermagem #ficaemcasa #valorizeaenfermagem
+
+Por trás da máscara: medo, receio, cansaço, pressão, preocupação, medo, aflição, insegurança, medo. Já disse medo? A famosa linha de frente que não pode recuar. Dar ré? Nem se for para pegar impulso. #COVID19 #Enfermeiro #Nurse #coronavirus #Enfermagem
+
+#nadadenovonofront
+
+Muitos dos apelos dos profissionais se referem aos aspectos educativos (44 publicações), uma das dimensões do trabalho em enfermagem. As mídias sociais têm se configurado em um bom recurso educativo nesse momento crítico. A educação das pessoas não é uma maneira nova de prevenção para os profissionais de Enfermagem, ela faz parte do cotidiano de trabalho e contribui para mudar vida das pessoas.
+
+Os conteúdos das publicações que visam educar a população são relativos à lavagem correta das mãos, à utilização de álcool 70% para antissepsia e à etiqueta da tosse. Mesmo diante de uma situação totalmente nova, os profissionais atuantes mostram a sua capacidade de conscientização, orientação e as medidas de prevenção, muito peculiares na profissão.
+
+LAVAGEM DAS MÃOS - PASSO A PASSO ! *Repassem, vamos respeitar a quarentena e vamos acabar com esse vírus *#CoronavirusPlantao #EuNaQuarentena #ficaemcasa #Dia5 #Covid_19 #coronavirus #CuarentenaTotal #COVID19 #Enfermagem ProfissionaisDaSaúde #TodosContraOCoronaVirus
+
+A Enfermeira e Pesquisadora [nome da pesquisadora] explica de forma clara e objetiva alguns pontos importantes sobre o #coronavirus [vídeo na publicação]
+
+COVID19 - Cuidados em casa, com a Profª Drª [nome da professora], Docente da EPE-UNIFESP. Acesse: youtu.be/X7SBiCr2LWs
+
+Fotos e vídeos com imagens semelhantes a esta da Figura 5 foram vistos nas mídias pesquisadas com muita frequência, reiterando os cuidados com a lavagem das mãos.
+
+
+Figura 5 Fotografia de vídeo no qual enfermeira ensina como lavar as mãos corretamente 
+
+DISCUSSÃO
+
+No cotidiano dos serviços de saúde e em situações críticas, como é o caso da pandemia de coronavirus que está assolando o mundo em 2020, a enfermagem se destaca no cuidado às pessoas, em ações curativas, preventivas, de reabilitação, de alívio do sofrimento e de promoção da saúde, desenvolvendo um trabalho de características profissionais(9).
+
+Os apelos da enfermagem nas mídias sociais em tempos de coronavirus, objeto deste estudo, mostram dois grandes aspectos de um trabalho do tipo profissional. Primeiro, a identidade dos que exercem a enfermagem com a realização de uma prática de forte relevância social, visível nas mensagens agrupadas nas hashtags #fiquemecasa e #nadadenovonofront, diretamente relacionas às pessoas que são seu objeto de trabalho. Segundo, a defesa de condições apropriadas para o exercício profissional, visível nas hashtags #cadêmeuEPI e #agorasomosheróis, relacionadas à força de trabalho e às condições requeridas para a realização de um trabalho com esta expertise e utilidade para a vida humana.
+
+Uma das medidas mais eficazes de minimizar os riscos de contaminação pelo coronavirus e alongar o período da disseminação é o isolamento social. Essa tem sido a medida mais adotada nos países com casos confirmados doença, para que se evitem aglomerações de pessoas e o contágio faça com que os números de casos subam rapidamente. A introdução de medidas de quarentena no início de um surto pode atrasar a introdução da doença ou o pico de uma epidemia em uma área onde a transmissão está em andamento(16). No contexto do atual surto de COVID-19, o cenário global de estratégia de contenção inclui a rápida identificação de casos confirmados em laboratório e seu isolamento e gestão em instalações médicas(17) ou em casa(18).
+
+Atrasar o curso da doença em um país é a forma mais eficaz de não sobrecarregar os sistemas de saúde que, em alguns países, como o Brasil, já sofrem as consequências dos agravos em saúde comuns a suas populações. A implementação de tais medidas requer uma velocidade incomum e sem precedentes de tomada de decisão pelos líderes, rigor operacional pelos sistemas de saúde pública e engajamento da sociedade, para ganhar semanas ou meses necessários para a testagem de medicamentos e desenvolvimento de vacinas(1). Por isso, a Enfermagem como peça fundamental do Sistema Único de Saúde (SUS) esteve engajada todos os dias, desde o início da epidemia, para conscientizar as pessoas pedindo a hashtag #fiqueemcasa. Como linguagem é ação, esse pedido, vindo de uma profissional de importância ímpar para a sociedade, pode ter melhor efeito.
+
+Mesmo diante de tantos desafios, maiores ainda do que já são acostumados a enfrentar no cotidiano da profissão, a Enfermagem destinou tempo e criatividade nas mídias sociais para educar a sociedade, seja em uma simples e didática explicação de como lavar as mãos corretamente, seja nos vídeos elaborados incentivando a higiene do lar e a etiqueta respiratória. Logo, não há nada de novo no front, essa é uma das dimensões do processo de trabalho da enfermagem continuamente realizada por enfermeiros do mundo todo.
+
+Educar em saúde é uma premissa da Enfermagem de importância extrema, e tem seu embasamento na cultura, no conhecimento e nas experiências anteriores das pessoas, precisando estar alinhada com os aspectos éticos e legais da profissão(19-20). Na área da saúde, especialmente na enfermagem, educar visa à mudança de atitude, de comportamento, melhorando os resultados em saúde ao transformar a realidade. Educar, na Enfermagem, é inerente ao cuidar, são atitudes indissociáveis para uma assistência de enfermagem integral e de qualidade(20).
+
+Ao ensinar medidas de higiene, por meio da divulgação de fotos, vídeos e encartes, a Enfermagem cumpre com sua missão de cuidar das pessoas, pois através da educação, previne doenças e promove a saúde.
+
+Assim como o isolamento, a utilização de EPIs, instrumentos de trabalho para garantir a segurança de trabalhadores e pacientes, é fundamental para a biossegurança das equipes de Enfermagem, pois são as pessoas com maior risco de contrair a doença por estarem em contato com pacientes com COVID-19(21). Isso, inevitavelmente, coloca-os em risco de contrair a infecção, por isso, uma das metas na China foi proteger os profissionais de saúde(1). Para avaliar esses riscos, a OMS publicou em 19 de março de 2020 um formulário de coleta de dados para ser usado na identificação de violações nas normas de proteção e definir políticas que visam a mitigação da exposição dos profissionais(21).
+
+Estudo de revisão sinaliza que a ausência de EPIs adequados contribui para a exposição ocupacional da Enfermagem. Situações de risco, que poderiam ser evitadas, ocorrem devido à ausência de EPIs apropriados, muitas vezes, situação imposta pelo empregador(22). Os EPIs devem ser entendidos como equipamentos essenciais na rotina de trabalho da Enfermagem, por isso, a NR 6 determina que o empregador é responsável pela distribuição gratuita dos EPIs(23). O apelo mais evidente nas publicações analisadas sobre EPI se refere à máscara semifacial filtrante que protege os profissionais de gotículas ou aerossóis causadores pelas doenças de transmissão respiratória(24). Mesmo a máscara cirúrgica, que não é considerada um EPI, por não ser eficiente como barreira para infecções das vias respiratórias, não tem sido disponibilizada como deveria. Por essa razão, a pergunta #cadêmeuEPI? tomou parte considerável das discussões nesse período, para que os trabalhadores de Enfermagem não sejam submetidos à infecção pela não disponibilização de algo inerente ao seu processo de trabalho, os instrumentos que visam à sua proteção.
+
+Muitos países têm testemunhado ocasiões muito generosas e singelas para homenagear e agradecer os profissionais de saúde nesse período conturbado de epidemia. São aplausos nas janelas das residências das pessoas, geralmente, no período noturno. É emocionante, de fato! Diante de tanto reconhecimento, os profissionais de Enfermagem agradecem nas mídias sociais e aproveitam o ensejo para chamar a atenção para o que, há muito tempo, passou despercebido: as condições de trabalho dessa profissão.
+
+Condições de trabalho se referem ao “ambiente de trabalho e a todas as circunstâncias que afetam o trabalho”(25), portanto, são os fatores que influenciam o trabalho, como a jornada, as relações, as formas de organização, o salário e os direitos. Neste sentido, a Enfermagem há muito tempo trava uma batalha para conseguir, por meio da Lei, que sua jornada de trabalho semanal não ultrapasse 30 horas e seja estipulado um piso salarial digno, além, é claro, de aposentadoria especial, haja vista a natureza do trabalho. Entretanto, essas reinvindicações, embora sempre estejam na pauta das entidades representativas, parecem não ter relevância para quem tem o poder de mudar esse quadro, o poder legislativo.
+
+Ainda, tramita na Câmara Federal dos Deputados, o Projeto de Lei 2.295/2000, que estabelece jornada máxima de 30 horas semanais para enfermeiros, técnicos e auxiliares de enfermagem, que tomou força em 2011 e 2012 com as várias investidas de entidades representativas e sindicatos, porém, sem sucesso. No entanto, se a comunicação tem esse poder de promover mudanças na prática, esses apelos podem vir em boa hora, para que, passando essa tempestade (epidemia do coronavirus), a sociedade e o legislativo olhem com mais vigor para essas demandas da profissão.
+
+Então, para além dos discursos de heroísmo estampados em uma sociedade historicamente doente pela sede de uma economia estável, estão os profissionais que ainda sofrem pela precarização de um trabalho que sempre fez a diferença entre a vida e a morte, só não foi notado antes, porque a morte talvez nunca esteve tão perto.
+
+Limitações do estudo
+
+As limitações se referem à escolha das mídias, ao período de coleta e à incipiência de estudos, nessa mesma vertente, que poderiam enriquecer ainda mais a discussão.
+
+Contribuições para a área da enfermagem, saúde ou política pública
+
+Este estudo pode contribuir com a Enfermagem na medida em que dá visibilidade a seus apelos diante de uma crise importante como essa para a saúde pública, para que formuladores de políticas e a sociedade, como um todo, valorizem a profissão e entendam as necessidades desses profissionais, que sempre foram urgentes não somente agora durante a pandemia do coronavirus.
+
+CONSIDERAÇÕES FINAIS
+
+Ao conhecer e analisar os apelos da Enfermagem em tempos de pandemia do coronavirus, antigos desafios da profissão foram colocados em pauta, especialmente relacionados aos instrumentos e à própria força de trabalho constantemente exposta a situações de risco por condições precárias de trabalho.
+
+Esses discursos assumem relevância pela conjuntura atual de visibilidade da profissão, que infelizmente é conectada por uma epidemia cruel que tem levado muito sofrimento e mortes em vários países. Retomando o referencial adotado neste estudo, que a linguagem, mesmo tão peculiar das mídias sociais (por meio de hashtags), sirva de apoio para as mudanças que virão pós-pandemia, a fim de reconhecer e valorizar os profissionais que nunca se afastam dos cuidados com as pessoas.
+
+Por fim, guardar as memórias desse momento histórico pode servir de alicerce para lembrar a sociedade e aos formuladores de políticas que nos piores momentos da humanidade, essa profissão não deixou de ser estar presente. Portanto, que não sejam esquecidas as palmas na janela e os agradecimentos pelo heroísmo, para que a profissão possa desfrutar de seu merecido reconhecimento.
+

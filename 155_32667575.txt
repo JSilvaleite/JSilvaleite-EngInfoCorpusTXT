@@ -1,0 +1,142 @@
+Enfermagem Militar na “Operação Regresso ao Brasil”: evacuação aeromédica na pandemia do coronavirus
+
+RESUMO
+
+Objetivo:
+
+descrever a experiência da enfermagem militar na Operação Regresso ao Brasil em uma evacuação aeromédica.
+
+Método:
+
+trata-se de um relato de experiência da equipe de enfermagem, na evacuação aeromédica dos brasileiros potencialmente contaminados que estavam em Wuhan, China, após o surto do novo coronavírus.
+
+Resultado:
+
+o relato foi construído a partir de cuidados de enfermagem realizados em três etapas: pré-voo, triagem e voo. No pré-voo, os cuidados incluíram a configuração da aeronave e a previsão do material. Na triagem, a equipe preocupou-se em estar devidamente aparamentada. Na avaliação de saúde dos repatriados, durante voo, concentrou-se a atenção no manejo dos Equipamentos de Proteção Individual para minimizar o risco de contaminação pelo contato prolongado, com passageiros potencialmente contaminados.
+
+Considerações finais:
+
+a enfermagem empenhou-se no planejamento de todas as ações dessa missão, que foi uma das mais longas, extenuantes e inéditas da história do transporte aeromédico do Brasil.
+Descritores: Infecções por Coronavírus; Doenças Transmissíveis; Infecção; Enfermagem Militar; Evacuação; Resgate Aéreo
+
+
+INTRODUÇÃO
+
+Inúmeras epidemias de doenças causadas por coronavírus foram registradas em humanos e animais, com gravidade variável e de caráter limitado geograficamente. A SARS-CoV-2 é um RNA vírus pertencente à família coronaviridae e da linhagem C do gênero Betacoronavirus (1-2). Por ser um vírus RNA, traz consigo uma tendência maior de mutações e de disseminar-se com facilidade, frequentemente causando picos epidêmicos.
+
+Segundo as informações do Centro de Controle e Prevenção de Doenças (CDC) da China, a SARS-CoV-2 é o resultado de recombinações virais que lhe facultaram a capacidade de quebrar a barreira biológica e escapar do ciclo animal-animal, passando a infectar também seres humanos, caracterizando-o como uma zoonose que, hipoteticamente, tem o morcego como o hospedeiro primário (3). Entretanto, a transmissão entre humanos é o que potencializa a característica epidêmica da infecção causada pela SARS-CoV-2, a exemplo das epidemias causadas tanto pela SARS-CoV quanto pela MERS-CoV (4-5). De acordo com as ponderações do CDC americano, o período de incubação da SARS-CoV-2 para a infecção entre humanos varia de 2 a 14 dias (6).
+
+No dia 31 de dezembro de 2019, a China anunciou ao mundo a ocorrência de uma misteriosa síndrome respiratória aguda que cursava como pneumonia atingindo moradores da cidade de Wuhan. Em janeiro de 2020, a OMS divulgou o resultado das primeiras análises da sequência genética do vírus e comprovou se tratar de um novo tipo de coronavírus (2019-nCoV).
+
+A primeira morte ocorreu em 09 de janeiro, com um chinês de 61 anos, hospitalizado com dificuldades respiratórias e pneumonia grave, morrendo após uma parada cardíaca. Naquele momento, 41 pacientes estavam infectados pelo novo coronavírus. A primeira morte fora da China ocorreu em 13 de janeiro, com uma mulher que regressava de uma viagem a Wuhan. Segundo a OMS, tratava-se de uma pessoa infectada na Tailândia. Em 13 de janeiro, o vírus se espalhou e surgiram informações sobre casos no Japão, Coreia do Sul, Tailândia e Taiwan.
+
+A transmissão comunitária do vírus foi admitida pelas autoridades chinesas em 20 de janeiro de 2020. No mesmo período, Wuhan, foi considerada o epicentro da transmissão do vírus. Wuhan foi a primeira localidade a adotar a medida de isolamento social, e em 23 de janeiro, outras duas cidades vizinhas a Wuahan, Huanggang e Ezhou, seguiram a mesma recomendação e também suspenderam a circulação de trens.
+
+O mês de janeiro encerrou-se com um total de 9.976 casos relatado em pelo menos 21 países (7), incluindo o primeiro caso confirmado de infecção por 2019-nCoV nos Estados Unidos.
+
+A COVID 19 levantou uma preocupação mundial desde que surgiu em Wuhan, pois a infecção pode resultar em pneumonia grave e, em conjuntos de doenças crônicas cardiorrespiratórias, pode evoluir rapidamente para óbito, causando grandes impactos na saúde pública, o que torna fundamental o esclarecimento das características da doença para manter o controle de sua transmissão e evolução (8).
+
+Desde os primeiros relatos da síndrome respiratória grave causada pelo novo coronavírus de 2019 (SARS-CoV-2), mais dados estão surgindo rapidamente à medida que a epidemia continua a se expandir, predominantemente na China, mas também em todo o mundo (9). O vírus suscitou alerta devido à sua alta capacidade de transmissão e alta mobilidade e mortalidade (10).
+
+OBJETIVO
+
+Descrever experiência da enfermagem militar na Operação Regresso ao Brasil em uma Evacuação Aeromédica (EVAM).
+
+MÉTODOS
+
+Trata-se de um relato de experiência sobre a repatriação dos brasileiros que estavam localizados em Wuhan, China, após o surto do novo coronavírus (2019- nCoV). Foram utilizados os registros de bordo realizados pela equipe de enfermagem, no trajeto da EVAM. Foi realizada uma leitura preliminar do diário escrito pela enfermeira militar que participou da missão.
+
+Ressalta-se que, a fim de garantir o cumprimento das questões éticas, o estudo foi encaminhado ao Comitê de Ética em Pesquisa da Universidade Federal do Estado do Rio de Janeiro e aprovado.
+
+RELATO DA EXPERIÊNCIA
+
+No dia 27 de janeiro de 2020 foi verificada pela equipe técnica do Instituto de Medicina Aeroespacial Brigadeiro Médico Roberto Teixeira (IMAE) a necessidade de atualização de conhecimentos sobre a COVID-19, visando um possível acionamento do IMAE para emprego na Evacuação Aeromédica de Defesa Química, Biológica, Radiológica e Nuclear (EVAM DQBRN), devido à epidemia da COVID-19 na China.
+
+Dois dias após, em uma reunião técnica, todo o efetivo esteve presente e foram ministrados temas sobre a atualização da COVID-19, revisão do uso de Equipamento de Proteção Individual (EPI) para atuação de DQBRN (teórica e prática) e treinamento do uso da cápsula de isolamento para transporte de pacientes contaminados. Essa reunião contou com a presença de um infectologista, que apresentou orientações específicas sobre o novo vírus. No dia seguinte, os militares novamente se reuniram no Hospital de Aeronáutica dos Afonsos (HAAF) para planejar a estratégia de atendimento e triagem a ser realizada nos passageiros oriundos de Wuhan.
+
+No dia 01 de fevereiro de 2020 a Divisão Técnica (DT) da Diretoria de Saúde da Aeronáutica (DIRSA) acionou o IMAE para participar de uma reunião de planejamento do transporte dos repatriados organizada pelo Ministério da Defesa (MD) em Brasília, a ser realizada dia 03 de fevereiro de 2020.
+
+Finalmente, na noite do dia 02 de fevereiro de 2020, o Governo Federal anunciou, em cadeia nacional, que o Brasil realizaria a Operação Regresso à Pátria Amada Brasil, uma ação interministerial com o objetivo de repatriar brasileiros potencialmente contaminados que estavam localizados na cidade de Wuhan, China, devido ao surto do novo coronavírus (COVID-19).
+
+Na reunião de planejamento do MD, foi definido que as atribuições do IMAE na EVAM de repatriação dos brasileiros oriundos do epicentro da COVID-19 englobaria as seguintes etapas:
+
+Pré-Voo: preparo da aeronave; orientação do uso do EPI necessário aos tripulantes; triagem dos passageiros em Wuhan; Durante o Voo: monitoramento dos sinais vitais e assistência médica aos passageiros; controle da biossegurança; transmissão de informações aos órgãos superiores; Pós-Voo e Quarentena: realização de monitoramento dos sinais vitais três vezes por dia, conforme protocolo pré-estipulado; acompanhamento do atendimento médico de pequena complexidade ainda na Zona Branca (local da quarentena - Hotel de Trânsito dos Oficiais da Base Aérea de Anápolis).
+
+A tripulação aeromédica, assim como todos os militares e civis que entrassem em contato direto com os repatriados, deveriam cumprir quarentena na Base Aérea de Anápolis (GO) e serem submetidos a exames periódicos de testagem para a COVID-19.
+
+CUIDADOS NO PRÉ-VOO
+
+Duas aeronaves VC-2, modelo Embraer - 190, decolaram da Ala 1 - Base Aérea de Brasília, no dia 5 de fevereiro, às 12:20, com destino a Wuhan.
+
+Estavam a bordo 12 militares especialistas em transporte aeromédico de pacientes contaminados, sendo 6 médicos, 01 enfermeiro, 03 técnicos de enfermagem e 02 militares responsáveis pela equipagem e desparamentação adequada de toda equipe.
+
+As profissionais de saúde eram capacitadas para realizar missões DQBRN, que consistem em empregar meios da Força Aérea para deslocar pessoal e material que tenha sido submetido à ação de agentes químicos, biológicos, radiológicos e/ou nucleares, além de transportar pessoal e material especializado nas atividades decorrentes de eventos DQBRN.
+
+Em coordenação com o Ministério da Saúde (MS) e com a Agência Nacional de Vigilância Sanitária (ANVISA), a Ala 2 - Base Aérea de Anápolis e os seus Hotéis de Trânsito foram preparados para receber os repatriados brasileiros. A equipe aeromédica do IMAE foi, então, dividida em duas equipes de seis militares (uma equipe para cada aeronave). A decolagem aconteceu em Brasília com destino a Wuhan às 12:20 Z, seguindo o seguinte planejamento de escalas: Brasília - Fortaleza - Las Palmas (Espanha) - Varsóvia (Polônia) - Urumqi (China) - Wuhan (China).
+
+O planejamento do transporte aeromédico foi feito em trabalho multidisciplinar entre a equipe médica e de enfermagem. Levaram-se em consideração as seguintes etapas: dimensionamento da equipe necessária, quantidade de insumos médicos, seleção de equipamentos necessários para a adequada monitorização e definição da melhor configuração da aeronave.
+
+O dimensionamento da equipe aeromédica vinculava-se à quantidade de pacientes definidos para a missão, ao grau de dependência e à classificação do paciente. Quanto maior o grau de dependência, mais criterioso deverá ser a escolha da quantidade e da especialização dos membros da equipe de enfermagem.
+
+Tendo em vista todas essas vertentes, na manhã do dia 04 de fevereiro, a equipe de enfermagem do IMAE iniciou o processo de preparação de insumos e equipamentos que seriam necessários para equipar duas aeronaves VC-2, modelo Embraer - 190.
+
+Havia a preocupação da equipe em prever o quantitativo de máscaras N-95 (usadas pela tripulação), máscaras cirúrgicas (usadas pelos passageiros repatriados e com previsão de troca a cada 4 horas), além de trajes de proteção, óculos de proteção, álcool em gel, sacos de lixo contaminado, entre outros insumos.
+
+Outro cuidado importante no transporte de passageiros potencialmente contaminados, principalmente quando a via de contaminação é aérea, foi a posição dos mesmos em relação ao fluxo de ar da aeronave. O planejamento de embarque previu os assentos dos passageiros no fundo da aeronave em decorrência ao tipo de fluxo de ar da mesma. Era necessário, ainda, prever banheiros de uso exclusivo dos passageiros e disponibilização de álcool em gel distribuído em locais estratégicos na aeronave.
+
+Com base nos conhecimentos de gerenciamento de áreas de contaminação de agentes QBRN, os militares do IMAE iniciaram a configuração da aeronave em três áreas distintas (Figura 1):
+Figura 1 A aeronave militar é dividida em internamente em três zonas: quente, morna e fria 
+
+Zona Quente: ou crítica, é o local destinado ao transporte do paciente. Todos os profissionais que permanecem nessa área devem usar os EPI e o paciente é acomodado em uma cápsula de isolamento hermética portátil. O local selecionado foram as poltronas localizadas na parte posterior da aeronave e onde ficariam os passageiros potencialmente contaminados.
+
+Zona Morna: serve para armazenar equipamentos e materiais para o uso do paciente assim como área de preparação para os profissionais que necessitem ter algum tipo de contato com quem está na Zona Quente. É uma zona de transição entre a Zona Quente e a Zona Fria e também o local de desparamentação da equipe.
+
+Zona Fria: abriga os pilotos, mecânicos e demais especialistas que necessitem estar no voo, considerada livre de contaminação. Para esta configuração, foram reservadas as poltronas localizadas a frente da aeronave, onde a tripulação de voo ficou isolada.
+
+No dia 05 de fevereiro de 2020 a equipe aeromédica do IMAE encontrava-se pronta para início da Operação, com todo o material necessário para a missão, no entanto uma peculiaridade do transporte aeromédico é o controle no peso e cubagem dos materiais e insumos utilizados na missão, tendo em vista que as aeronaves possuem restrições de peso. Essa dificuldade foi percebida pela equipe de enfermagem, que precisou reorganizar e recalcular o material planejado para a missão, ainda na manhã do dia 05 de fevereiro.
+
+A equipe de enfermagem, durante parte do percurso de ida para Wuhan, dedicou o seu tempo aos ajustes finos da configuração da aeronave tais como: a montagem do leito de emergência em voo, a distribuição de álcool em gel em locais estratégicos da aeronave e a organização dos insumos e equipamentos médico-hospitalares.
+
+CUIDADOS NA TRIAGEM
+
+Na viagem de ida para Wuhan, foi feita uma escala em Varsóvia, na Polônia, que durou aproximadamente 11 horas. Nesta escala, a equipe aeromédica definiu os procedimentos que seriam realizados na triagem dos passageiros na China, para que a mesma pudesse ser feita do modo mais rápido e eficaz possível, uma vez que ainda não sabíamos quais seriam as condições e o local destinado pelos chineses para a realização da mesma.
+
+No dia 07 de fevereiro às 18:00 horas Z, as aeronaves brasileiras pousaram em Wuhan. As equipes aeromédicas desceram no aeroporto, devidamente paramentadas, e realizaram a triagem dos passageiros no hall de elevadores do aeroporto. Os passageiros desceram do elevador em grupos de 5 pessoas para que suas condições de saúde pudessem ser avaliadas pela equipe aeromédica.
+
+A triagem em Wuhan foi realizada através de atendimentos simultâneos e fracionados. Um membro da equipe médica foi responsável pela anamnese, outro pela ausculta pulmonar e um terceiro pela avaliação de nariz e garganta, enquanto a equipe de enfermagem se encarregou da verificação de temperatura e a oximetria de pulso dos passageiros.
+
+Na escada de acesso da aeronave, permaneceu um membro da equipe de enfermagem, para garantir que todos fizessem higienização das mãos com álcool em gel e realizassem a troca de máscaras antes de entrar na aeronave. Esse procedimento trouxe segurança para que o protocolo de troca de máscara ocorresse a cada 4 horas a partir do momento da entrada na aeronave.
+
+Um formulário de triagem contendo perguntas sobre ocorrência de febre, de sintomas respiratórios, ocorrência de contato com pessoas doentes pela COVID-19 ou se o passageiro era portador de alguma doença crônica foi aplicado a todos os passageiros.
+
+CUIDADOS EM VOO
+
+O tempo em solo em Wuhan foi de 02 horas. Após a autorização da equipe aeromédica, os 39 passageiros (34 brasileiros e 5 poloneses) foram liberados para embarcar nas duas aeronaves da FAB (21 passageiros na aeronave 1 e 19 na aeronave 2).
+
+Durante todo o tempo de permanência a bordo das aeronaves, foi realizada a higiene das mãos dos passageiros com álcool em gel e troca das máscaras a cada 4 horas. A entrada das equipes aeromédicas e dos tripulantes comissários de bordo na Zona Quente das aeronaves só era realizada com EPI adequado. Essa barreira permaneceu intacta durante todo o voo.
+
+A cada troca de turno, outro cuidado importantíssimo era a desparamentação (retirada de todos os EPI) e higienização das mãos. Esta foi coordenada por um profissional da equipe de que pontuava a retirada sistemática de cada equipamento. Essa é uma estratégia valiosa para minimizar os riscos de contaminação durante a retirada do EPI.
+
+A bordo de cada aeronave estava presente um militar com atenção exclusiva a todas as etapas desse processo. Dentro da doutrina DQBRN, esse militar é chamado de Elemento Controle e, durante todo voo de retorno, ele se manteve na Zona Morna auxiliando no cumprimento correto de toda sequência correta de desparamentação da equipe aeromédica.
+
+O processo de equipagem seguiu as seguintes etapas: primeiro, a colocação da máscara N95; depois, colocação da primeira luva de látex por cima do Décimo Uniforme RUMAER (Regulamento de Uniformes para os militares da Aeronáutica), colocação do macacão de Tyvek (feito com tecido de polietileno com principais características a alta resistência e a impermeabilidade); colocação da segunda luva de látex por cima do macacão Tyvek tendo o cuidado de prendê-la ao macacão com fita impermeável; colocação da terceira luva de látex; e colocação do óculos de proteção.
+
+No entanto, um dos momentos mais crítico para o risco de contaminação da equipe aeromédica na missão de DQBRN é, sem dúvidas, a desparamentação. Neste momento, toda a área externa da vestimenta é tida como contaminada e o auxílio do Elemento Controle se torna imprescindível. As etapas de retirada dos EPI foram cumpridas com rigor e seguiram a seguinte sequência: retirada da terceira luva de látex na transição entre as Zonas Quentes e Mornas; retirada do macacão de Tyvek e da segunda luva; retirada dos óculos de proteção; retirada da máscara N95; e retirada da primeira luva.
+
+Após a desparamentação, a lavagem das mãos com água e sabão foi realizada de forma meticulosa.
+
+Durante toda a viagem de retorno ao Brasil, houve um revezamento entre os tripulantes da equipe aeromédica para prestar os cuidados aos passageiros na Zona Quente. Esse revezamento foi realizado com turnos de 5 horas, devido à grande fadiga gerada pelo uso do EPI por tempos prolongados.
+
+O integrante da equipe que estivesse cumprindo o seu turno permanecia na Zona Quente devidamente paramentado, e era o profissional responsável por verificar a temperatura corporal e lançar os dados no mapa de temperatura de cada passageiro, além de solicitar a higienização das mãos com álcool em gel e a troca de máscaras cirúrgicas.
+
+Após 37 horas de voo, a chegada foi na Ala 2 - Base Aérea de Anápolis (GO), onde o Hotel de Trânsito havia sido totalmente preparado para receber um grupo de 58 pessoas que passaram pelo processo de quarentena. Além dos 34 repatriados de Wuhan, militares da equipe do IMAE, integrantes das tripulações do Grupo de Transporte Especial (GTE), médicos ligados ao MS e dois profissionais da área de comunicação, um do Centro de Comunicação Social da Aeronáutica (CECOMSAER) e outro da Empresa Brasil de Comunicação (EBC), também permaneceram no período de observação.
+
+CONSIDERAÇÕES FINAIS
+
+O estudo traz uma descrição dos cuidados específicos no pré, trans e pós-EVAM. A importância de treinamento para o atendimento de qualidade e com segurança para todos os envolvidos no evento.
+
+Neste sentido, é possível observar que para desempenhar este tipo de função, o profissional de enfermagem deve ser bem capacitado, além de estar preparado para desempenhar seu papel em conjunto com uma equipe multiprofissional. Portanto, são fundamentais as habilidades de comunicação, gestão e espírito de corpo.
+
+A enfermagem empenhou-se no planejamento de todas as especificidades das ações/atividades dessa EVAM, que, de longe, seria uma das missões mais longas, extenuantes e inéditas da história do transporte aeromédico de passageiros potencialmente contaminados do Brasil.
+
+Os resultados deste estudo contribuem para reflexões no âmbito da profissão acerca do modo de atuação da enfermagem na EVAM, especialmente por ser uma área pouco explorada, com potencial de expansão, necessitando de recursos humanos devidamente treinados e preparados para esta demanda.
