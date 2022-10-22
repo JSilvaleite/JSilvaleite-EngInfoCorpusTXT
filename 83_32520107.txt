@@ -1,0 +1,109 @@
+COVID-19 no município do Rio de Janeiro: análise espacial da ocorrência dos primeiros casos e óbitos confirmados
+
+RESUMO
+
+Objetivo
+
+descrever a distribuição espacial dos primeiros casos e óbitos confirmados de COVID-19 do Rio de Janeiro.
+
+Métodos
+
+estudo ecológico de casos e óbitos confirmados de SARS-CoV-2 entre 6 de março e 10 de abril de 2020. Calcularam-se as taxas de incidência, taxas de mortalidade, letalidade, excesso de risco e índices global e local de Moran.
+
+Resultados
+
+foram registrados 1.808 casos e 92 óbitos confirmados. A taxa de incidência de COVID-19 foi 26,8/100 mil hab., a taxa de mortalidade, 1,36/100 mil hab., e a letalidade, 5%. Oito bairros exibiram taxa de incidência de 4 a 12 vezes superior à do município: Joá, na Zona Oeste; Cosme Velho, Gávea, Ipanema, Jardim Botânico, Lagoa, Leblon e São Conrado, na Zona Sul.
+
+Conclusão
+
+observou-se alto risco de infecção e morte por COVID-19 em bairros da Zona Sul do município do Rio de Janeiro; bairros da Zona Norte também se destacam em relação ao alto risco de morte.
+Palavras-Chave: Coronavirus; Análise Espacial; Epidemiologia; Brasil
+
+
+INTRODUÇÃO
+
+Em dezembro de 2019, um novo vírus da família Coronaviridae (inicialmente chamado de Novo Coronavírus 2019-nCoV, e mais tarde renomeado para SARS-CoV-2), causador de uma síndrome respiratória aguda grave (COVID-19), emergiu em Wuhan, província de Hubei, China.1 Ao todo, sete coronavírus humanos (HCoVs) já foram identificados: HCoV-229E, HCoV-OC43, HCoV-NL63, HCoV-HKU1, SARS-CoV (que causa síndrome respiratória aguda grave), MERS-CoV (que causa síndrome respiratória do Oriente Médio) e SARS-CoV-2.3
+
+A transmissão ocorre de pessoa para pessoa por meio de gotículas respiratórias, principalmente.4 O SARS-CoV-2 demonstrou padrão de infecção em humanos semelhante a outros coronavírus, particularmente o coronavírus com síndrome respiratória aguda grave (SARS-CoV) e o coronavírus com síndrome respiratória do Oriente Médio (MERS-CoV).3
+
+Em 30 de janeiro de 2020, a Organização Mundial da Saúde (OMS) declarou a epidemia do novo coronavírus como uma Emergência de Saúde Pública de Importância Internacional (ESPII) – o mais alto nível de alerta da Organização, conforme previsto no Regulamento Sanitário Internacional. Em 11 de março de 2020, a COVID-19 foi caracterizada pela OMS como uma pandemia.4 Até o dia 10 de abril de 2020, foram registrados 1.521.252 casos e 92.798 óbitos confirmados da doença em 210 países.6
+
+O primeiro caso de COVID-19 no Brasil, e na América do Sul, foi registrado em 26 de fevereiro de 2020 em São Paulo.7 Até o dia 10 de abril de 2020, contabilizavam-se 19.638 casos e 1.056 óbitos confirmados da doença, com letalidade de 5,4%.8 A COVID-19 tem avançado rapidamente pelo país, com transmissão comunitária declarada em todo o território nacional em 20 de março de 2020.9
+
+A cidade do Rio de Janeiro é um dos maiores centros urbanos do país e a segunda cidade com maior número de casos da doença.10 O primeiro caso de COVID-19 no município do Rio de Janeiro foi registrado em 6 de março de 2020, apenas 11 dias após o primeiro caso do Brasil.11 A cidade do Rio de Janeiro possui uma dinâmica econômica e social de alta conectividade com outros centros urbanos, o que favorece sua transformação num polo de disseminação da doença para outros territórios e reforça a necessidade de compreender o padrão de transmissão da doença, para melhor implementação de medidas de mitigação e de controle.13
+
+Os métodos de análise espacial na Saúde Coletiva vêm sendo utilizados principalmente em estudos ecológicos, na detecção de aglomerados espaço-temporais voltados para o planejamento e avaliação do uso de serviços de saúde. Em situações de surtos e epidemias, a análise espacial é uma importante ferramenta para identificação de áreas de maior risco, servindo como suporte para implementação de medidas de controle.2
+
+Compreender a distribuição espacial da doença é fundamental para prever surtos locais e desenvolver estratégias de resposta durante os estágios iniciais da emergência da COVID-19.
+
+O objetivo deste trabalho foi descrever a distribuição espacial dos primeiros casos e óbitos confirmados de COVID-19 no município do Rio de Janeiro.
+
+MÉTODOS
+
+Foi realizado estudo ecológico, cujas unidades de análise foram os bairros do município do Rio de Janeiro.
+
+O município está dividido em 160 bairros, com população estimada de 6.752.339 habitantes em 2020.15 O Rio de Janeiro possui desigualdades sociais conhecidas, devido ao grande número de pessoas em pobreza extrema, que moram majoritariamente nas 763 favelas do município, e que têm dificuldade de acesso a serviços de saúde de qualidade.15
+
+Foram incluídos todos os casos e óbitos confirmados de COVID-19 do município do Rio de Janeiro entre 6 de março (data do primeiro caso confirmado) e 10 de abril de 2020. Foram utilizados os dados de casos e óbitos confirmados de SARS-CoV-2, por local de residência, de acesso aberto, do painel da Secretaria Municipal de Saúde.12
+
+Foram considerados casos confirmados de COVID-19 indivíduos com resultado de exame laboratorial positivo para o SARS-CoV-2, independentemente de sinais e sintomas.16
+
+As variáveis estudadas foram sexo (feminino, masculino, sem informação), idade (média em anos), faixa etária (0 a 9, 10 a 19, 20 a 29, 30 a 39, 40 a 49, 50 a 59, 60 a 69, 70 a 79, 80 a 89, 90 a 100, sem informação) e bairro de residência. Essa última foi posteriormente classificada segundo área (Zona Norte, Zona Central, Zona Oeste, Zona Sul).
+
+As frequências absoluta e relativa de casos e óbitos foram descritas segundo sexo e faixa etária.
+
+Foi calculada a projeção do número de habitantes de 2020 em cada bairro do município do Rio de Janeiro, utilizando as populações dos Censos de 2000 e 2010, por meio de interpolação. Foram calculadas as taxas de incidência e taxa de mortalidade por 100 mil habitantes, a letalidade (proporção de pessoas infectadas que morrem) e o excesso de risco ( excess risk ), que foram apresentados em mapas temáticos. O excesso de risco é calculado ao se estabelecerem a taxas gerais do município, e interpretado observando-se os bairros cujas taxas de incidência e de mortalidade estavam abaixo ou acima dessas taxas gerais.17
+
+As taxas de incidência e de mortalidade por bairros do município também foram utilizadas para calcular o Índice de Moran Global (I de Moran), o qual analisa a autocorrelação espacial global, e o Indicador Local de Associação Espacial (LISA), para identificar aglomerados de forma local no município e suas significâncias estatísticas.17 Os índices global e local de Moran têm o objetivo de identificar padrões da distribuição espacial dos indicadores apresentados.17 Os quadrantes: alto-alto ( high-high ), baixo-baixo ( low-low ), alto-baixo ( high-low ) e baixo-alto ( low-high ) foram apresentados através de gráfico de dispersão ( scatterplot ) e mapa de cluster ( cluster-map ).17
+
+O software R 3.5.3 foi utilizado para manipulação e análise de dados, e os softwares Quantum Geographic Information System (QGIS) versão 2.14.8 e GeoDa versão 1.14.0 foram utilizados para as análises espaciais.
+
+O presente estudo, realizado com dados secundários e agregados, foi realizado em conformidade com as diretrizes da ética em pesquisa.
+
+RESULTADOS
+
+Entre 6 de março e 10 de abril de 2020, foram registrados 1.808 casos e 92 óbitos confirmados pela COVID-19 no município do Rio de Janeiro. Do total de casos, 47,7% eram do sexo masculino, 51,4% do sexo feminino, e 0,9% sem informação, enquanto, do total de óbitos, 56,5% eram do sexo masculino, 38,0 % do sexo feminino, e 5,5% sem informação ( Tabela 1 ). A média de idade dos casos foi de 49 anos, enquanto a média de idade dos óbitos foi de 68 anos. Indivíduos na faixa de 30 a 59 anos foram mais prevalentes entre os casos, enquanto indivíduos de 60 a 89 anos aparecem com a maior frequência entre os óbitos ( Tabela 1 ). O número de casos novos por dia pode ser observado na Figura 1 , que mostra um aumento de casos novos diariamente registrados a partir de 23 de março.
+
+Tabela 1 – Frequências absoluta e relativa de casos e óbitos confirmados da COVID-19, por sexo e idade, no município do Rio de Janeiro, entre 6 de março e 10 de abril de 2020 
+Figura 1 – Casos novos confirmados da COVID-19, no município do Rio de Janeiro, de 6 de março a 10 de abril de 2020 (N=1.808) 
+
+A taxa de incidência de COVID-19 no município do Rio de Janeiro foi de 26,8/100 mil hab., e a taxa de mortalidade, de 1,4/100 mil hab. A letalidade foi de 5,0% até 10 de abril. A maior taxa de incidência do município foi registrada no bairro do Joá (300,7/100 mil hab.), vindo em seguida os bairros de São Conrado (240,6/mil hab.), Leblon (202,6/100 mil hab.), Jardim Botânico (200,5/100 mil hab.), Lagoa (193,9/100 mil hab.), Ipanema (186,2/100 mil hab.) e Gávea (123,9/100 mil hab.); com exceção do primeiro bairro, o restante está localizado na Zona Sul da cidade ( Figura 2A ).
+Figura 2 – Distribuição espacial dos indicadores da COVID-19 no município do Rio de Janeiro, de 6 de março a 10 de abril de 2020 
+
+A maior taxa de mortalidade encontrada no município foi a do bairro Cosme Velho (14,0/100 mil hab.), seguindo-se Ipanema (12,9/100 mil hab.), ambos na Zona Sul; e Vista Alegre (11,2/100 mil hab.) e Bonsucesso (11,0/100 mil hab.), ambos na Zona Norte ( Figura 2B ).
+
+A maior letalidade do município ocorreu no bairro de Vista Alegre (100,0%), na Zona Norte, seguida da que se verificou em Vila Valqueire (66,6%), na Zona Oeste; Pilares (50,0%), Maré (50,0%) e Vigário Geral, na Zona Norte (40,0%); e Inhoaíba (33,3%), na Zona Oeste ( Figura 2C ).
+
+Aplicando-se o método de excesso de risco, foi possível avaliar que o bairro Joá, na Zona Oeste, e os bairros Cosme Velho, Gávea, Ipanema, Jardim Botânico, Lagoa, Leblon e São Conrado, na Zona Sul, apresentaram taxas de incidência entre 4 e 12 vezes maiores que a do município ( Figura 3A ). Por sua vez, os bairros Benfica, Bonsucesso, Vaz Lobo e Vista Alegre (na Zona Norte), Copacabana, Leme, Cosme Velho, Flamengo, Gávea, Ipanema e Jardim Botânico (na Zona Sul), e Vila Valqueire, Jardim Sulacap e Gardênia Azul (na Zona Oeste), possuíam taxas de mortalidade entre 4 e 10 vezes maiores que a do município ( Figura 3B ).
+Figura 3 – Distribuição espacial dos indicadores da COVID-19 no município do Rio de Janeiro, de 6 de março a 10 de abril de 2020 
+
+Por fim, o I de Moran mostrou significância estatística (p-valor=0,001) para autocorrelação espacial global da COVID-19 no município do Rio de Janeiro ( Figura 4A ). Aplicando o método LISA, observou-se autocorrelação em nível local e aglomerados espaciais. Os bairros Alto da Boa Vista, Barra da Tijuca, Joá, Botafogo, Copacabana, Gávea, Humaitá, Ipanema, Jardim Botânico, Lagoa, Leblon, Rocinha e São Conrado foram classificados como alto-alto , ou seja, onde a situação é mais grave e onde as taxas de incidência devem aumentar cada vez mais nas próximas semanas ( Figura 4B ).
+Figura 4 – Autocorrelação espacial global e local dos indicadores da COVID-19 no município do Rio de Janeiro, de 6 de março a 10 de abril de 2020 
+
+DISCUSSÃO
+
+Este estudo analisou a distribuição espacial da COVID-19 no município do Rio de Janeiro. As medidas de frequência encontradas para o município foram maiores que a média nacional. Os dados de mortalidade encontrados seguem o padrão dos dados nacionais, com maior risco de óbito para pessoas do sexo masculino e maiores de 60 anos.8
+
+Entre os primeiros casos notificados no município do Rio de Janeiro, predominaram indivíduos do sexo feminino, diferentemente do perfil nacional. Quanto à faixa etária mais acometida, de adultos jovens, houve similaridade com o padrão nacional.8 Padrões semelhantes foram encontrados na literatura internacional1 e nacional, o que sugere que a COVID-19 infecta um número maior de pessoas economicamente ativas, mas causa mais mortes entre idosos, pessoas com doenças crônicas e indivíduos com histórico de imunossupressão.18 A cidade do Rio de Janeiro é um importante ponto de entrada para viajantes internacionais, pois é um destino turístico mundialmente conhecido.
+
+Tal fato pode ter contribuído para a introdução do vírus no território, sendo essa a segunda cidade do país a registrar casos confirmados de COVID-19.19
+
+O número de casos novos por dia no Rio de Janeiro oscilou, assim como no restante do país, uma vez que a rede de distribuição de testes diagnósticos para os serviços de saúde ainda está sendo implementada.18
+
+A partir da distribuição espacial da taxa de incidência no município, foi possível verificar que os bairros da Zona Sul foram os mais afetados pela doença. E, como também apresentaram o registro dos primeiros casos confirmados, potencialmente foram a fonte de disseminação da doença para o restante do território.
+
+Chamou atenção que bairros da Zona Norte do município tivessem apresentado maior taxa de mortalidade, mesmo quando comparados com bairros da Zona Sul que possuíam maior incidência. Tal fato pode estar ligado ao acesso à rede de serviços de saúde e ao comportamento socioeconômico e cultural da população.20
+
+O mesmo fenômeno foi observado na apresentação do excesso de risco. Sete bairros da Zona Sul possuíam taxa de incidência acima da média do município. No excesso de risco para a taxa de mortalidade, observamos o acréscimo de quatro bairros da Zona Norte e três da Zona Oeste, locais que concentram uma alta aglomeração de pessoas de média e baixa renda e bolsões de populações em situação de vulnerabilidade social.20
+
+O I de Moran e o LISA demonstraram autocorrelação espacial global e local, sugerindo a necessidade da manutenção e intensificação de estratégias de controle, como o distanciamento social, nessas regiões da cidade, para que se reduza a velocidade de transmissão do SARS-CoV-2 e, consequentemente, se evite o aumento de óbitos, dada a possibilidade de um colapso do sistema de saúde.18
+
+Tal padrão chama a atenção para a necessidade de um plano de mitigação ou supressão da doença considerando-se os contextos e realidades sociais. As áreas de maior vulnerabilidade social no município já começaram a sofrer os primeiros impactos da doença, como a ocorrência de óbitos em aglomerados subnormais (favelas),22 o que reforça a necessidade de políticas públicas de saúde que incorporem contextos socioeconômicos e culturais.20
+
+Algumas limitações e considerações são importantes para a interpretação dos achados deste estudo. Primeiramente, a definição de caso confirmado está fundamentada em critério laboratorial. Este fato está intrinsecamente relacionado a uma potencial subnotificação, tanto para o município quanto para o território nacional. A população de 2020 utilizada para o cálculo das taxas foi uma estimativa usando o Censos de 2000 e de 2010, e apesar de serem próximas, podem ser diferentes da realidade. As taxas de incidência e mortalidade, apesar de serem as melhores formas de realizar comparações entre uma localidade e outra, podem não refletir bem as informações para bairros com populações pequenas, como o Joá e o Cosme Velho, que acabam por apresentar taxas muito elevadas. O mesmo é válido para a letalidade, uma vez que bairros com números pequenos de casos e óbitos acabam por apresentar mais de 50% de letalidade, a exemplo de Vista Alegre.
+
+Ainda, 215 casos e 2 óbitos não possuíam a informação de bairro de residência ou não eram residentes do município do Rio de Janeiro, e não foram incluídos na análise espacial. Isso se deve ao fato de a rede hospitalar do município servir de referência para populações da região metropolitana.
+
+Este estudo avaliou a distribuição espacial dos primeiros casos e óbitos pela COVID-19 no município do Rio de Janeiro. Os resultados das análises descrevem alto risco de infecção e morte pela doença em bairros da Zona Sul do município. Bairros da Zona Norte também se destacaram em relação ao alto risco de morte. Supõe-se que essa distribuição possa se alterar rapidamente, devido à elevada capacidade de transmissão da COVID-19, aliada às marcantes diferenças sociais entre os bairros do Rio de Janeiro. Novos estudos que empreguem análises espaciais dos óbitos e casos recuperados da doença irão contribuir para se compreender a evolução da COVID-19 no Rio de Janeiro.
+
+Analisar o perfil espacial de uma nova doença no território é essencial para a compreensão de padrões e adoção de ações de controle. Sugere-se a criação de planos emergenciais para a COVID-19 que considerem as características socioeconômicas e culturais dos diferentes conglomerados presentes no território, a fim de se alcançar uma maior efetividade com as medidas de controle.

@@ -1,0 +1,143 @@
+Progressão dos casos confirmados de COVID-19 após implantação de medidas de controle
+
+RESUMO
+
+Objetivo:
+
+Analisar as medidas adotadas por países que demonstraram controle sobre a transmissão da doença pelo novo coronavírus 2019 (COVID-19) e também como cada curva de casos acumulados se comportou após a implantação dessas medidas.
+
+Métodos:
+
+A metodologia adotada para este estudo compreendeu três fases: sistematização das medidas de controle adotadas por diferentes países, identificação dos pontos de inflexão na curva do crescimento do número de casos nesses países e análise específica dos dados brasileiros.
+
+Resultados:
+
+Observamos que China (excluindo-se Hubei), Hubei e Coreia do Sul foram eficazes na desaceleração das taxas de crescimento dos casos de COVID-19. A eficácia das medidas tomadas por esses países pode ser observada após 1 ou 2 semanas de sua aplicação. Na Itália e Espanha, foram tomadas medidas de controle em nível nacional em uma fase tardia da epidemia, o que pode ter contribuído para a elevada propagação da COVID-19. No Brasil, Rio de Janeiro e São Paulo adotaram medidas que podem ter sido eficazes na redução da rapidez da propagação do vírus, entretanto, só temos expectativa de ver seus efeitos no crescimento da curva nos próximos dias.
+
+Conclusão:
+
+Nossos resultados podem ajudar os responsáveis pela tomada de decisões em países em estágios relativamente precoces da epidemia, especialmente no Brasil, a compreenderem a importância das medidas de controle para desaceleração da curva de crescimento de casos confirmados.
+
+Descritores: COVID-19; Infecções por coronavírus/prevenção & controle; Pandemias/prevenção & controle; Controle de infecção/métodos; Tomada de decisão; Medidas de controle
+INTRODUÇÃO
+
+A doença pelo novo coronavírus 2019 (COVID-19) foi identificada em janeiro de 2020 na cidade de Wuhan, na China, e seu surgimento foi declarado Emergência em Saúde Pública de Importância Internacional em 30 de janeiro de 2020, e pandemia em 11 de março de 2020, com mais de 118 mil casos registrados e 4.000 óbitos no mundo.(1) Desde então, o número de casos confirmados de COVID-19 mostrou crescimento exponencial em diferentes países, o que resultou em uma sobrecarga nos sistemas de saúde ao redor do mundo. No Brasil, o primeiro caso foi confirmado em 25 de fevereiro, e o número de pessoas contaminadas cresceu rapidamente, com 1.891 casos conformados em 23 de março de 2020.
+
+Para aliviar os danos causados à população, muitos governos adotaram medidas de controle para redução dos níveis de transmissão, que incluíram a suspensão das aulas em escolas e universidades, a proibição de eventos e o fechamento de fronteiras. Porém, a eficácia dessas ações no controle da progressão da pandemia causada pelo coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2) não é clara, e especialistas debatem se estas tentativas para achatamento da curva de casos acumulados são significantes para compensar os ônus financeiros e sociais.
+
+Neste estudo, avaliamos a progressão dos casos acumulados de COVID-19 nas regiões que implantaram medidas de controle para reduzir a transmissão do vírus. Exploramos a relação entre quando e quais medidas de controle foram adotadas e como a curva de casos acumulados tem se comportando após a implantação. Este estudo pode ajudar às pessoas nos países que têm o encargo de decidir em estágios relativamente precoces da epidemia, especialmente no Brasil, onde as medidas de controle foram instituídas de forma esparsa e localizada.
+
+MÉTODOS
+
+Conduzimos um estudo observacional, que compreendeu três fases: sistematização das medidas de controle adotadas por diferentes países, identificação dos pontos de inflexão na curva de crescimento do número de casos nesses países, e análise específica dos dados brasileiros. Nossa fonte para o número de casos por dia foi a Organização Mundial da Saúde, utilizando dados fornecidos pela John Hopkins University.(2) Especificamente para o Brasil, utilizamos os dados informados pelo Ministério da Saúde.
+
+A primeira fase consistiu no mapeamento das informações relatadas pela mídia concernentes às medidas de controle adotadas pelos países que enfrentaram a COVID-19 por períodos mais longos, isto é, suficientemente longos para que se possam observar os efeitos das medidas de controle. Os dados da província de Hubei, epicentro da pandemia, foram segregados dos de outras províncias da China e analisados de forma separada.
+
+Os dados referentes às medidas de controle foram comparados com as séries temporais de casos confirmados (começando a partir do dia em que o país atingiu o total de pelo menos 50 casos), para permitir a análise do impacto dessas medidas nas curvas de cada país. Nessa fase, avaliamos primeiramente os países que tinham séries históricas que apresentaram desaceleração da taxa de crescimento. A seguir, analisamos os números dos países que ainda se encontravam na fase de crescimento acelerado da doença e levaram mais tempo para aplicar medidas em nível nacional. Nesses casos, os dados foram também avaliados em nível mais detalhado (em cada região), uma vez que as medidas de controle foram definidas e adotadas por autoridades locais.
+
+Após isto, identificamos os pontos em que o padrão das séries temporais se alterou. Dessa forma, aplicamos uma busca automática de modificações na estrutura da curva para cada país, com utilização do pacote R strucchange.(3) Esta abordagem considera um modelo clássico de regressão linear, como na equação 1.
+onde i é o índice de observações, y é a variável resposta, x é a variável que explica y, β é o coeficiente que conecta y e x, e u é o resíduo. Para identificar os pontos de inflexão da curva, deve-se supor que há m pontos de interrupção em y, nos quais os coeficientes de regressão linear variam de um segmento para outro. Dessa forma, há m + 1 segmentos nos quais os coeficientes de regressão são constantes e o modelo pode ser reescrito como na equação 2.
+onde j denota o índice do segmento. Na prática, os pontos de inflexão ij são raramente obtidos de forma exógena, razão por que necessitam ser estimados. Para fazê-lo, isto é, para definir os pontos de inflexão, a soma residual da soma dos quadrados na equação (2) é minimizada.
+
+Finalmente, o caso do Brasil foi analisado com foco especial em seus dois estados com os maiores números de casos, Rio de Janeiro e São Paulo, considerando as medidas de controle ali adotadas.
+
+RESULTADOS
+
+A figura 1 apresenta a evolução do número de casos após o 50º caso em cada país, ajudando, assim, na escolha dos países a serem analisados. Hubei, China (exceto Hubei) e Coreia do Sul já apresentaram redução de suas taxas de crescimento de casos confirmados, embora tenham adotado diferentes medidas de controle. Os demais países aparentemente ainda não mostraram sinais de estabilização até o 60º dia de epidemia.
+
+
+Figura 1 Evolução do número de casos confirmados, começando pelo dia em que cada país chegou a 50 casos. Os dados da China não consideram os da província de Hubei. 
+
+Assim, as curvas do número de casos em Hubei, China (excluindo-se Hubei) e Coreia de Sul, juntamente de suas medidas de controle, foram examinadas à parte. Espanha e Itália - países que ainda não pareceram ter estabilização das taxas de crescimento (pelo menos até 24 de março) -, foram investigados em mais detalhes por nível regional.
+
+Análise das medidas de controle efetivas
+
+Hubei
+
+Em 23 de janeiro, Hubei, o epicentro da pandemia de COVID-19, aplicou uma medida de isolamento da cidade de Wuhan, suspendendo toda movimentação pública dentro da cidade e fechando todo transporte para dentro e para fora da cidade.(4-6) )No dia seguinte (24 de janeiro), 15 outras cidades da província também foram isoladas.(4,6) Esta medida foi tomada no dia em que Hubei relatou um total de 444 casos. A figura 2 mostra a evolução dos casos confirmados em Hubei e as medidas de controle adotadas (linhas verticais azuis). O gráfico à esquerda mostra o número de casos em escala aritmética, enquanto o gráfico à direita apresenta os mesmos dados em escala logarítmica (embora o número de casos ainda seja mostrado como números absolutos).
+Figura 2 Evolução do número de casos confirmados em Hubei em escalas aritmética (esquerda) e logarítmica (direita), mostrando as datas das medidas de controle. 
+
+É possível observar um crescimento exponencial na primeira fase de propagação da doença até o início de fevereiro, quando a curva mudou para um perfil linear, e posteriormente uma atenuação da curva na segunda semana de fevereiro. Salientamos que os números em 11 e 12 de fevereiro foram os mesmos, o que provavelmente se deveu a atualizações não relatadas.
+
+Os pontos de inflexão que indicaram alterações estruturais na curva de Hubei são ilustrados como linhas verticais vermelhas na figura 3. Eles ocorreram em 3 de fevereiro (quando mudaram para crescimento linear) e em 12 de fevereiro (quando é possível observar o início do período de desaceleração da taxa de crescimento, mesmo considerando a falta de atualizações).
+Figura 3 Evolução do número de casos confirmados em Hubei em escalas aritmética e logarítmica, mostrando as datas das medidas de controle e os pontos de ruptura. 
+
+Em uma escala de dias, considerando t = 0 como a data quando a primeira medida de controle foi adotada, os pontos de inflexão na curva de casos confirmados aconteceram em t = 11 e t = 20.
+
+China (excluindo-se Hubei)
+
+No final de janeiro, a China impôs a seus habitantes um regime de isolamento.(6,7) Nessa data, existiam 199 casos confirmados e, embora não fosse possível identificar o dia exato em que a medida entrou em vigor, assumimos que ocorreu próximo ao fechamento dos limites de Wuhan (23 de janeiro). A figura 4 mostra a evolução dos casos confirmados na China (exceto Hubei) e as medidas de controle adotadas, em escalas aritmética e logarítmica.
+Figura 4 Evolução do número de casos confirmados na China (exceto Hubei) em escala aritmética (esquerda) e escala logarítmica (direita), mostrando a data da medida de controle. 
+
+Semelhantemente ao que se percebeu em Hubei, ocorreu um crescimento exponencial da propagação da doença em janeiro, enquanto em fevereiro a curva se desacelerou, e a taxa de crescimento se atenuou na segunda semana do mês.
+
+Os pontos de inflexão na curva chinesa ocorreram em 31 de janeiro (quando muda a concavidade da curva) e em 9 de fevereiro (indicando um declínio mais expressivo da taxa de crescimento), como mostra a figura 5.
+Em uma escala de dias, considerando t = 0 como a data quando a primeira medida de controle foi adotada, os pontos de inflexão na curva de casos confirmados ocorreram em t = 8 e t = 17.
+
+Coreia do Sul
+
+A proibição da entrada de passageiros oriundos de Hubei na Coreia do Sul ocorreu em 4 de fevereiro, quando o país relatava um total de apenas 16 casos. A recomendação de isolamento social(8) foi publicada em 20 de fevereiro, quando existiam 104 casos. A figura 6 mostra a evolução do número de casos na Coreia do Sul e as medidas de controle adotadas, tanto em escala aritmética quanto logarítmica.
+
+
+Figura 6 Evolução do número de casos confirmados na Coreia do Sul em escalas aritmética e logarítmica, mostrando as datas das medidas de controle. 
+
+Houve um período significante (16 dias) durante o qual a Coreia do Sul teve número reduzido de casos confirmados, desde que a primeira medida de controle foi adotada (4 de fevereiro) até que atingiu mais de 50 casos (mais precisamente, 104 casos em 20 de fevereiro). Desde então, observamos crescimento exponencial compatível com a propagação do vírus na fase de transmissão comunitária, que durou até 28 de fevereiro, quando começou a inclinação linear. O achatamento da curva começou alguns dias depois, na primeira semana de março.
+
+Os pontos de inflexão na curva da Coreia do Sul ocorreram em 28 de fevereiro (quando a concavidade da curva muda) e em 5 de março (início de uma nova desaceleração na taxa de crescimento), como representa a figura 7.
+Logo, em uma escala de dias, considerando t = 0 como a data quando a primeira medida de controle foi adotada, os pontos de inflexão da curva de casos confirmados ocorreram em t = 8 e t = 14.
+
+Análise das medidas de controle sem efeitos percebidos em nível nacional (até 20 de março)
+
+Em 23 de março de 2020 alguns países ainda se encontram na fase de crescimento exponencial do número de casos de COVID-19, não havendo dados históricos suficientes para analisar a efetividade de suas medidas de controle em nível nacional, já que ainda estão sendo implantadas ou foram recentemente colocadas em ação. Isto inclui Itália e Espanha, que analisamos a seguir.
+
+Itália
+
+A análise do que está acontecendo na Itália é mais complexa do que o que vimos nos países mencionados acima. Enquanto na China (excluindo-se Hubei), Hubei e Coreia do Sul tem havido indicações de que a efetividade das medidas de controle começou entre 8 e 11 dias após sua implantação, na Itália, o crescimento do número de casos ainda é expressivo, mesmo após a adoção de algumas medidas de controle. Exemplos destas medidas são a suspensão das aulas nas escolas (em 4 de março, quando já se contabilizavam 3.089 casos), o fechamento de fronteiras (em 7 de março, 5.883 casos) e a implantação da quarentena (em 9 de março, 9.172 casos).(9) Assim sendo, as medidas de controle só foram adotadas quando o país já tinha número expressivo de casos confirmados (3.089 casos), o que pode ter contribuído para reduzir a eficácia das ações (Figura 8).
+Figura 8 Evolução do número de casos confirmados na Itália em escalas aritmética e logarítmica, mostrando as datas das medidas de controle. 
+
+Quando analisamos o gráfico da escala aritmética, as medidas não parecem ser efetivas, porque ainda se percebe grande número de novos casos. Contudo, quando olhamos para o crescimento na escala logarítmica, podemos observar uma desaceleração no número de novos casos, marcada pelos pontos de inflexão em t = 8 e t = 14, quando a suspensão das aulas é definida como t = 0 (Figura 9).
+Figura 9 Evolução do número de casos confirmados na Itália em escalas aritmética e logarítmica, mostrando as datas das medidas de controle e pontos de ruptura. 
+
+Aparentemente, esses pontos não estão relacionados com o fechamento das escolas, com o fechamento das fronteiras ou com a quarentena. As medidas de controle apresentadas no gráfico foram ações tomadas para todo o território italiano, e sabe-se que diferentes regiões e províncias da Itália adotaram medidas que precederam as tomadas em nível nacional. Assim, a desaceleração da taxa de crescimento pode ser explicada pelas medidas regionais. A figura 10 apresenta a evolução da COVID-19, em escala logarítmica, nas províncias mais afetadas de Lombardia (epicentro da epidemia na Itália).
+Figura 10 Evolução do número de casos confirmados nas províncias da Lombardia, Itália, em escala logarítmica, até 17 de março de 2020. 
+
+A província de Lodi adotou medidas de fechamento em 23 de fevereiro, quando o número de casos ainda era menor que 100 (considerado como t = 0). Entretanto, em Bergamo, estas medidas só ocorreram em t = 11 (11 dias após a detecção do 50º caso nessa província).(10) Embora Lodi tenha o maior número de casos em seu t = 0, podemos ver uma evolução mais lenta da doença, quando se compara com outras províncias. Aproximadamente no t = 7 e no t = 14, ocorreu redução nas taxas de crescimento similar à observada na China (excluindo-se Hubei), Hubei e Coreia do Sul. Esta comparação reforça as indicações de eficácia das medidas de controle.
+
+Espanha
+
+Semelhantemente ao que aconteceu na Itália, as medidas de controle adotadas pela Espanha em nível nacional são recentes (15 de março), quando o governo declarou estado de alarme,(11) e, em 23 de março, ainda não era possível analisar seus efeitos, conforme mostra a figura 11, também em escalas aritmética e logarítmica.
+Figura 11 Evolução do número de casos confirmados na Espanha, em escalas aritmética e logarítmica, mostrando as datas da medida nacional de controle. 
+
+Assim, é importante analisar a progressão da COVID-19 em diferentes regiões da Espanha (Figura 12).
+
+
+Figura 12 Evolução do número de casos confirmados nas regiões da Espanha, em escala logarítmica, até 17 de março de 2020. 
+
+Na Espanha, as comunidades autônomas (Madri, País Basco e La Rioja) adotaram medidas de controle mais cedo, em 10 de março.(12) Embora as três medidas de isolamento tenham ocorrido no mesmo dia, as comunidades se encontravam em fases diferentes da expansão da epidemia. Enquanto La Rioja e o País Basco ainda estavam no início do desenvolvimento, isto é, terceiro e quarto dias após o 50º caso, Madri já se encontrava no sétimo dia. Na figura 12, é possível observar que a evolução da COVID-19 nas regiões de La Rioja e País Basco foi mais lenta do que em outras áreas da Espanha. Esta diferença reforça a eficácia das indicações de medidas de controle e a importância não apenas do momento, mas também do número de casos diagnosticados, o que indiretamente mede a transmissão que ocorre na comunidade.
+
+Brasil
+
+No Brasil, a progressão da epidemia ainda se encontra em crescimento exponencial, não havendo assim dados históricos suficientes para analisar as medidas de controle em nível nacional. Entretanto, conforme o exemplo de outros países, alguns estados adotaram medidas de controle para retardar o crescimento da curva. A figura 13 ilustra o número total de casos confirmados no Brasil e nos dois estados com maior número de casos: Rio de Janeiro e São Paulo. As medidas de controle adotadas por ambos os estados também são ilustradas.
+Figura 13 Evolução do número de casos confirmados no Brasil e nos estados do Rio de Janeiro e São Paulo, em escala aritmética, mostrando as datas das medidas de controle. 
+
+O estado do Rio de Janeiro suspendeu as aulas em 16 de março(13) e adotou isolamento social em 17 de março.(14) O estado de São Paulo adotou isolamento social em 18 de março, e embora tivesse quase cinco vezes o número de casos confirmados do Rio de Janeiro (em 17 de março), levou mais tempo para suspender as aulas (23 de março).(15) Mais ainda, o estado do Rio de Janeiro também determinou o fechamento de fronteiras em 21 de março. Com relação às medidas de isolamento social, ambos os estados recomendaram o fechamento dos shopping centers e academias, e suspenderam todos os eventos.
+
+DISCUSSÃO
+
+O resultado da análise dos dados indica que medidas de controle de alto impacto (como isolamento social e quarentena), que foram adotadas pela China (excluindo-se Hubei), por Hubei e pela Coreia do Sul, foram eficazes para desaceleração das taxas de crescimento dos casos de COVID-19. A evolução da epidemia nesses países indica que a eficácia destas medidas começa após 1 a 2 semanas de sua aplicação. Nos países analisados, a primeira desaceleração da curva de crescimento ocorreu após 8 a 11 dias, enquanto uma segunda desaceleração ocorreu após 14 a 20 dias após o dia da primeira medida de controle.
+
+Estas conclusões se alinham com as obtidas pelo trabalho de Anderson et al.(16) Esses autores afirmaram que quarentena, distanciamento social e isolamento da população afetada deveriam inspirar os países nos quais a doença está começando a se espalhar. Eles também observaram que o comportamento individual pode ser crucial para controlar a disseminação da COVID-19, dentre as quais atitudes pessoais, como autoisolamento e distanciamento social, podem ser mais importantes do que imposições governamentais, especialmente nas democracias ocidentais.
+
+A análise das medidas de controle adotadas pela Coreia do Sul apresenta algumas peculiaridades. Primeiramente, as ações foram tomadas no início da pandemia, quando o número de casos confirmados era muito baixo. Este crescimento lento pode indicar que a medida de controle inicialmente adotada, no início da epidemia, pode ter retardado a propagação da doença. Outro fator importante a considerar é que a Coreia do Sul utilizou a realização maciça de testes como estratégia inicial para identificar mais casos na comunidade, o que é uma medida considerada eficaz, mas nem sempre viável em larga escala. Também, é plausível considerar que aspectos culturais da população sul-coreana podem ter contribuído para a alta eficácia da recomendação de isolamento social.
+
+Na Itália e na Espanha, as medidas de controle em nível nacional levaram mais tempo para serem tomadas e, na ocasião em que foram adotadas, a epidemia já se encontrava em estágio avançado, o que pode ter diminuído sua eficácia. As regiões nas quais foram tomadas medidas locais nos primeiros dias da epidemia (Lodi, na Itália, La Rioja e País Basco, na Espanha) apresentam indicações de redução na propagação da doença.
+
+Com relação à evolução da COVID-19 no Brasil, os estados com número maior de casos (Rio de Janeiro e São Paulo) adotaram medidas que podem ter sido eficazes para retardar a propagação do vírus. Porém só esperamos ver seus efeitos na curva de crescimento nos próximos dias. Considerando-se que as medidas no Rio de Janeiro foram tomadas antes, em comparação a São Paulo (especialmente quando comparamos o número de casos no Estado quando foram adotadas), cremos que a contenção no Rio será mais eficaz. Podemos também observar que o país ainda não adotou uma medida nacional de controle, o que pode prejudicar a contenção da doença no Brasil.
+
+Devemos levar em consideração que os dados analisados são os concernentes a casos confirmados. Estima-se que a infecção por COVID-19 pode levar até 14 dias para a apresentação de sintomas. Em estudos realizados na China, a mediana foi entre 4 e 5 dias. Assim, a análise dos casos confirmados e a tomada de decisão ocorrem com pelo menos 4 dias de atraso. Além disto, os efeitos observados nas taxas de crescimento podem ter sido influenciados por outros fatores não listados aqui, que merecem mais investigação.
+
+É importante que o Brasil se beneficie de encontrar-se no início da propagação em um momento mais tardio que outros países. Assim, as análises feitas nesta pesquisa podem ajudar no processo decisório e funcionar como evidência sobre os efeitos das medidas de controle. Além disto, os exemplos de outros países e regiões também foram analisados com relação aos diferentes tipos de medidas, variando em seu nível de cobertura (local, regional ou nacional), dose (impacto moderado ou radical), prontidão (prevenção ou mitigação), nível de autoridade da imposição (recomendações ou proibições) e aspectos culturais.
+
+CONCLUSÃO
+
+Neste artigo, apresentamos e analisamos dados e informações da Organização Mundial da Saúde a respeito das medidas de controle adotadas por outros países, assim como as modificações nas taxas de crescimento observadas no número de casos de COVID-19. Além disto, comentamos as recentes medidas de controle adotadas no Brasil, especificamente nos estados do Rio de Janeiro e São Paulo, comparando com o que se observou em outros países. Nossa análise pode ajudar os responsáveis pelas decisões em países em estágios relativamente iniciais da epidemia, especialmente no Brasil, a compreender a importância das medidas de controle para retardar a curva de crescimento de casos confirmados.

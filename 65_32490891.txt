@@ -1,0 +1,127 @@
+A atuação da Angiologia e da Cirurgia Vascular na pandemia de COVID-19
+
+RESUMO
+
+A epidemia pelo novo Coronavirus (2019-nCoV), surgido na cidade de Wuhan, na China, em dezembro de 2019, quando sintomática, apresenta-se majoritariamente por um quadro de pneumonia pulmonar que é precedida por febre, tosse seca e mialgia. No entanto, conforme a doença se espalhou globalmente e o número de hospitalizações aumentaram de forma exponencial, notou-se que a maior parte dos pacientes graves internados por COVID-19 possuem alterações laboratoriais dignas de atenção, como linfopenia, neutrofilia, aumento do tempo de protrombina e elevação dos níveis de D-dímero. Devido tais mudanças se mostrarem cruciais para a taxa de mortalidade e morbidade nesse subgrupo de infectados, diversos trabalhos com enfoque na fisiopatologia, principalmente hematológica, da doença surgem a cada dia. Aprofundando em tais estudos, variados trabalhos publicados evidenciaram a infecção pelo Sars-CoV-2 à instalação de um estado pró-trombótico em pacientes hospitalizados graves, o que acarreta em potencial ocorrência de eventos trombóticos venosos ou arteriais nessa coorte. Assim, para entender como os Departamentos de Angiologia e Cirurgia Vascular estão atuando no contexto da pandemia de COVID-19, este estudo tem por objetivo reunir estudos que revelam desde protocolos aplicados nos serviços vasculares na atual conjuntura, até a atuação dos cirurgiões vasculares e angiologistas no manejo clínico e cirúrgico de pacientes infectados ou não, como forma de ajudar e esclarecer essa especialidade durante o contexto de pandemia pelo novo coronavírus. Para a seleção dos trabalhos foram utilizados os seguintes critérios de busca: “Coronavirus and venous thrombosis”, “Coronavirus and thrombosis”, “COVID-19 and venous thrombosis” e “COVID-19 Coronavirus and thrombosis”.
+
+Palavras chave: Infecções por Coronavirus; Coagulação Sanguínea; Trombose; Embolia Pulmonar; Coronavirus
+
+
+
+INTRODUÇÃO
+
+A COVID-19 é uma doença infecciosa causada por um subtipo de coronavirus recém-descoberto (Sars-CoV-2) na cidade de Wuhan, na China, em dezembro de 2019, e que já infectou mais de dois milhões de pessoas ao redor do mundo até a data de confecção deste artigo, de acordo com os dados da Organização Mundial da Saúde1.
+
+Trata-se de uma doença com amplo espectro clínico, podendo se apresentar de forma assintomática ou como uma síndrome gripal, relacionada a sintomas como febre, tosse e mialgia, além de poder evoluir em alguns casos para pneumonia grave ou síndrome respiratória aguda grave (SRAG)2.
+
+Alterações laboratoriais como linfopenia, neutrofilia, aumento do tempo de protrombina e elevação de D-dímero (DD) são encontradas em pacientes que apresentam uma evolução desfavorável da doença3. Além disso, o estudo de Zhou et al.4 com 191 pacientes dos Hospitais de Jinyintan e do Hospital Pulmonar Wuhan propuseram que idade avançada, maior escore SOFA e DD maior que 1 µg/mL na admissão foram associados ao maior risco de morte, com cerca de 90% dos pacientes internados com pneumonia apresentando hipercoagulabilidade4. O mesmo estudo expôs também que os possíveis mecanismos contributivos para as alterações sistêmicas encontradas incluem: (1) a formação de citocinas pró-inflamatórias, que são mediadores da aterosclerose contribuindo diretamente para a ruptura da placa por inflamação local, (2) indução de fatores pró-coagulantes, e (3) alterações hemodinâmicas que predispõem à isquemia e trombose em tais pacientes.
+
+Desta maneira, nota-se que pacientes internados e em estado crítico possuem alterações hematológicas que podem ser comprovadas, por exemplo, por índices elevados de DD. No entanto, a relação entre o vírus Sars-Cov-2 e os mecanismos de coagulação ainda é pouco explorada nos recentes estudos. Han et al.5 demonstraram que os valores de antitrombina, um anticoagulante natural, em pacientes com COVID-19 foram menores, enquanto o DD e outros produtos da degradação de fibrina (PDF) e fibrinogênio foram maiores em relação a população saudável usada como controle. Dessa forma, revelou-se que a coagulação sanguínea nesses pacientes parece estar alterada e que os PDF, incluindo DD, podem ser preditivos da progressão da doença. Portanto, conclui-se que o monitoramento de rotina de tais marcadores é aconselhável nos pacientes com COVID-19, sendo esse resultado similar aos encontrados por Tang, Li, Wang e Sun6. Logo, devido a estado pró-trombótico presumido de muitos pacientes, houve aumento drástico da demanda por exames laboratoriais para o acompanhamento dos parâmetros de coagulação, de exames de ultrassonografia vascular e de outros métodos de imagem em pacientes positivos para COVID-19.
+
+Este estudo tem por objetivo reunir informações sobre a rotina de atuação dos especialistas vasculares e centros de referência na área, no contexto da pandemia de COVID-19. Os seguintes critérios de busca foram utilizados: “Coronavirus and venous thrombosis”, “Coronavirus and thrombosis”, “COVID-19 and venous thrombosis” e “COVID-19 Coronavirus and thrombosis”.
+
+DESENVOLVIMENTO
+
+1. Diagnóstico e tratamento do tromboembolismo venoso (TEV) durante a pandemia de COVID-19
+
+Em consonância com os recentes estudos que revelaram o alto risco dos pacientes hospitalizados com a COVID-19 desenvolverem eventos tromboembólicos, os Departamentos de Angiologia e Cirurgia Vascular de hospitais ao redor do mundo se viram desafiados, devido ao requerimento massivo de tomografias computadorizadas (TC) e eco Doppler colorido (EDC) para o diagnóstico de embolia pulmonar (EP) e trombose venosa profunda (TVP), respectivamente, nesses pacientes. Tornou-se essencial revisar evidências para diagnóstico e tratamento de TEV, além de adaptar algoritmos e fluxogramas clínicos para uso durante o atual cenário mundial. Além disso, recomendações de terapia para esses pacientes é outro ponto crítico que deve ser abordado com cuidado, pois o uso de anticoagulantes em pacientes que necessitam de ventilação invasiva gera risco potencial de sangramento. Logo, o risco-benefício deve sempre ser reavaliado durante a evolução clínica.
+
+Para atuar nesse cenário, o Sistema de Saúde da Universidade de Michigan, por exemplo, publicou um completo estudo7 sobre a criação de um comitê temporário de especialistas em TEV, cirurgiões e clínicos vasculares, para revisar protocolos de manejos já estabelecidos na instituição, com a consulta de outros especialistas de áreas como a pneumologia, hematologia e clínica médica, entre outros, para que um novo plano de ação fosse elaborado e executado para melhor atender os pacientes durante a pandemia. Para a decisão sobre o uso de profilaxia para TEV, os pacientes durante sua admissão no hospital foram submetidos ao escore de Caprini8. Apesar de não existirem dados suficientes que expressem a incidência de TEV em pacientes positivo para COVID-19, já há evidências que demonstram uma redução da mortalidade em pacientes com DD altamente elevados (>3x limite superior do normal) quando foi utilizada tromboprofilaxia com heparina não fracionada (HNF) ou heparina de baixo peso molecular (HPBM)7. Além disso, TEV e trombo pulmonar primário podem ser etiologias subjacentes e potenciais responsáveis pela mortalidade de pacientes graves por COVID-19. Diante dessas constatações e do fato de pacientes menos críticos possuírem baixo risco de sangramento, caso utilizem tromboprofilaxia, o comitê desse estudo indica a tromboprofilaxia de rotina para todos os pacientes hospitalizados por COVID-19, independente da estratificação de risco.
+
+Em relação ao diagnóstico suspeito de EP, Obi et al.7 analisaram duas variáveis: o escore de Wells modificado e se o paciente encontrava-se intubado ou não.
+
+Tabela 1 Conduta sugerida no caso suspeito de embolia pulmonar e escore de Wells <47.
+* TC: tomografia computadorizada; †IOT: intubação orotraqueal.
+
+O estudo não recomendou o uso de EDC para exclusão do diagnóstico de EP devido a sua baixa precisão. DD negativo associado a uma baixa pontuação no escore de Wells modificado foram considerados suficientes para afastar o diagnóstico, porém no contexto da infecção por Sars-Cov-2, que acarreta em aumento nos valores de DD, sua utilidade torna-se comprometida, o que não significa que seus valores devam ser ignorados.
+
+Em pacientes intubados sem SRAG, há escassez de dados sobre a relação risco-benefício das estratégias de anticoagulação empírica. O uso de anticoagulação em doses inferiores à dose plena, mas superiores à dose profilática nos pacientes com SRAG foi considerada baseada em uma experiência anterior da equipe durante a pandemia de H1N1 de 2009, porém tal estratégia não foi testada na atual situação7.
+
+Tabela 3 Conduta sugerida com base no escore de Wells na suspeita de trombose venosa profunda7. 
+* Escore de risco de sangramento maior em pacientes com tromboembolismo venoso.
+
+Para o diagnóstico suspeito de TVP, o time da Michigan Medicine recomenda a utilização do escore de Wells, mesmo reconhecendo sua limitação no ambiente hospitalar e com seu desempenho durante o cenário da pneumonia pandêmica ainda não tendo sido comprovado em larga escala.
+
+O uso da dosagem de DD não deve ser o principal critério para realização de exames de imagens, pois se espera que ele esteja alto na COVID-19, ou seja, outras manifestações clínicas da TVP devem ser avaliadas antes da solicitação de tais exames para o seu diagnóstico final.
+
+Por fim, a equipe do Michigan Medicine salienta a consideração do uso de terapia em longo prazo com anticoagulantes. Nos pacientes tratados com anticoagulantes e que não puderam realizar exames de imagens para fins diagnósticos durante o surto de COVID-19, recomenda-se após a alta o tratamento de um a dois meses com anticoagulantes orais diretos ou antagonistas da vitamina K, até que um exame de imagem possa ser feito. Para pacientes considerados de risco moderado a alto para EP, deve-se solicitar uma TC dentro de um mês, uma vez que sejam considerados negativos para COVID-19. Para pacientes considerados de alto risco para TVP, um EDC de membros inferiores deve ser solicitado, uma vez que sejam considerados negativos para COVID-19. Todos os pacientes devem ser acompanhados e recomendações para a terapia em longo prazo devem ser fornecidas7.
+
+Para Casini et al.9, todos os pacientes internados com COVID-19 devem receber farmacoprofilaxia, exceto se contraindicado. Dessa forma, preconiza o uso de HBPM nos pacientes com clearence de creatinina >30 mL/min e HNF nos pacientes com clearence <30 mL/min, elevando-se a dose em ambos os casos em pacientes com mais de 100kg. Orienta, também, o monitoramento regular (diário ou duas a três vezes por semana) de todos os pacientes com tempo de protrombina, DD, fibrinogênio, contagem de plaquetas, LDH, creatinina e ALT, além de antitrombina se o paciente apresentar coagulação intravascular disseminada (CIVD), coagulopatia induzida pela sepse ou resistência à heparina e atividade anti-Xa em casos selecionados. Deve-se considerar o uso de doses terapêuticas de HNF ou HBPM nos pacientes em UTI com aumento de DD, sinais de inflamação grave, ou sinais de disfunção hepática ou renal.
+
+Já na Itália, Marietta et al.10 publicaram estudo no qual orienta alguns cuidados em relação à hemostasia na abordagem do paciente com COVID-19.
+
+No manejo dos pacientes confirmados, o monitoramento laboratorial deve sempre incluir função hemostática, contagem de plaquetas e pesquisa de TVP, quando possível.
+
+Aconselha-se o uso de doses profiláticas de fondaparinux, HBPM ou HNF em todos os pacientes hospitalizados ou profilaxia mecânica se não for possível.
+
+A farmacoprofilaxia deve ser administrada durante toda a internação e até sete a 14 dias após a alta, ou no pré-hospitalar caso seja paciente de risco para TVP.
+
+Doses intermediárias de HBPM devem ser consideradas nos pacientes com alto risco para TEV.
+
+Doses terapêuticas de HBPM ou HNF são recomendadas somente em pacientes com diagnóstico de TEV ou na troca de pacientes que já utilizam anticoagulantes orais. Uma vez que o uso de anticoagulantes orais pode representar interferência significativa no tratamento antirretroviral de pacientes com COVID-19.
+
+Nos pacientes utilizando dose plena, a dosagem do anti-fator Xa ou anticoagulantes orais no plasma deve ser considerada.
+
+Deve-se salientar que diversos estudos demonstraram que o paciente com COVID-19 apresenta um estado de hipercoagulabilidade2,5,6,11,12 e que por isso o índice de microembolia pulmonar é, provavelmente, maior do que o reportado. Considerando-se isso, é também possível que a EP já esteja presente em muitos pacientes antes da internação, justificando a resposta diminuída da tromboprofliaxia no ambiente intra-hospitalar.
+
+Testa et al.13, de Cremona, na Itália, expõem o protocolo utilizado em seu Hospital para a transição do anticoagulante oral para o parenteral no paciente com COVID-19.
+
+Tabela 4 Protocolo para transição de anticoagulante oral para parenteral em paciente com COVID-197. 
+2. A atuação da Cirurgia Vascular
+
+Devido ao aumento repentino de hospitalizações para atender a demanda dos pacientes graves por COVID-19, diversas unidades hospitalares se viram na necessidade de reestruturar seus serviços.
+
+A Unidade de Cirurgia Vascular de um hospital terciário de Cingapura14, por exemplo, deslocou 25% de sua equipe para atuar na linha de frente do atendimento da pandemia. Esse rearranjo foi necessário tanto pela demanda aumentada de profissionais de saúde, independente da especialidade, que o momento exige quanto pela necessidade de atender pacientes que necessitam de alguma intervenção cirúrgica, mas que também apresentam sintomas da infecção por Sars-CoV-2. Além disso, para manter os Serviços de Cirurgia Vascular de emergência e eletivo funcionantes, dois a três cirurgiões ficaram no Tan Tock Seng Hospital, enquanto o restante da equipe encontrava-se no Centro Nacional de Doenças Infecciosas, atendendo os casos de COVID-19. Dentre as medidas adotadas podemos ressaltar:
+
+Suspensão de reuniões não essenciais, mantendo-se o uso de plataformas digitais.
+
+Reuniões essenciais com, no máximo, dez pessoas, respeitando-se o uso de máscaras e distanciamento de um metro entre os participantes. Assim como realização das visitas diárias com um número reduzido de pessoas e os pacientes com suspeita ou confirmação de COVID-19 sendo vistos por apenas um responsável da equipe.
+
+Funcionamento ambulatorial de cirurgia vascular somente para atendimento ao pé diabético, além de revisão da necessidade de atendimento a cada duas a três semanas antes da data agendada daqueles que necessitavam de cirurgia ou os sintomáticos.
+
+Adiamento das consultas dos pacientes crônicos, garantindo o recebimento das medicações e oferecendo o serviço de entrega em domicílio.
+
+Manutenção de cirurgias eletivas apenas àqueles pacientes que teriam impacto imediato na qualidade de vida e mortalidade do paciente ou que reduzissem o risco de amputação.
+
+Rastreamento de sintomas sugestivos de infecção pelo COVID-19 nos pacientes submetidos à cirurgia no momento da internação e encaminhamento à emergência nos casos positivos.
+
+No ato operatório, outras medidas como permanência da equipe fora da sala na indução e na recuperação anestésicas.
+
+O uso de equipamento de proteção individual (EPI), composto por máscara N95 ou respirador purificador de ar, óculos de proteção, pijama estéril à prova d’água e camada dupla de luvas estéreis foi feito pela equipe cirúrgica, que deve ser composta pelo menor número possível de pessoas. O estudo indica que o respirador purificador de ar é o ideal para cirurgias prolongadas (mais de 3 horas), pois é mais confortável para o cirurgião. Um ponto relevante é que os cirurgiões vasculares devem estar cientes da complexidade do uso de lupas cirúrgicas de aumento associado ao uso de EPI ao operar os pacientes suspeitos ou positivos da COVID-19, principalmente ao realizar a retirada e limpeza deles.
+
+Já a Seção de Cirurgia Vascular e Endovascular do Instituto do Coração de Mineápolis, seguindo as recomendações do Colégio Americano de Cirurgiões15 para a COVID em procedimentos eletivos, instituiu alterações drásticas em sua prática clínica. A unidade optou pelo adiamento de todos os procedimentos eletivos, com exceção daqueles considerados necessários, que poderiam de alguma maneira ameaçar à vida ou a integridade dos membros dos pacientes. Para garantir que os procedimentos adiados não fossem esquecidos, desenvolveu-se um banco de dados para que posteriormente se faça o reagendamento. A maioria das visitas ambulatoriais foi convertida em visitas telefônicas, com a revisão de prontuários e imagens de exames sendo limitadas, para a proteção do corpo clínico16.
+
+Na Itália, o Departamento de Cirurgia Vascular e Endovascular do Hospital San Giovanni di Dio em Florença adotou um protocolo de reorganização, criando também um Setor Vascular Cirúrgico para casos urgentes de COVID-19. As medidas principais foram:
+
+Suspensão de todas as cirurgias de varizes e atividades de consultório e urgências.
+
+Centralização das cirurgias de aneurisma, artéria carotídea sintomática, cirurgia vascular para correção de isquemia crítica dos membros (ICM) e fístula arteriovenosa para hemodiálise.
+
+Priorização do tratamento endovascular às pontes, a fim de eliminar a necessidade de um anestesista na sala cirúrgica.
+
+Lesões carotídeas assintomáticas foram direcionadas a um hospital particular que se disponibilizou a realizá-las nesse período.
+
+Casos urgentes de pacientes confirmados ou suspeitos de COVID-19, hemodinamicamente estáveis de hospitais periféricos, foram centralizados no Setor Cirúrgico criado dedicado ao COVID-19 com ala isolada dos outros centros operacionais convertida em uma sala de cirurgia e em leitos de UTI, com área de transferência da emergência com elevador exclusivo.
+
+Padronização da sequência de equipagem dos profissionais, na qual os cirurgiões acessam uma sala, onde se vestem com os EPIs, incluindo máscara N95, óculos de proteção, protetor facial, pijama estéril a prova d’água, protetores de pés e dois pares de luvas cirúrgicas. Em seguida, os cirurgiões se encaminham para a sala de cirurgia da área COVID-19, onde ainda ocorre a aplicação de uma solução alcoólica no segundo par de luvas, a colocação de um avental estéril e de um par extra de luvas cirúrgicas estéreis. Após a conclusão da cirurgia, os cirurgiões seguem para uma sala localizada a frente do centro cirúrgico, como em uma linha de produção, para retirarem os EPIs sob supervisão de um operador treinado.
+
+Avaliação pós-operatória feita por dois médicos, sendo que somente um entra em contato com o paciente, utilizando o EPI, e o outro aguarda fora da sala, considerado “não contaminado”, com o objetivo de diminuir o risco de contaminação cruzada na equipe de saúde.
+
+Alguns cirurgiões permaneceram em suas casas por alguns dias de forma alternada, a fim de preservar um conjunto de profissionais não infectados que poderiam ser usados a qualquer momento em caso de necessidade ou para substituir colegas infectados de qualquer especialidade.
+
+Nesse algoritmo de atendimento instituído, a separação clara entre hospitais COVID e não-COVID, sendo obrigatório pelo menos um teste de todos os pacientes admitidos, foi o primeiro passo para organizar e reestruturar o atendimento durante o surto17.
+
+DISCUSSÃO
+
+Uma melhor compreensão dos mecanismos de alterações patológicas em pacientes graves hospitalizados pela COVID-19 vem sendo cada vez mais o foco de estudos que têm por objetivo definir terapias mais assertivas e um melhor acompanhamento clínico durante a internação desses pacientes. Diversos trabalhos clínicos revelaram que a “tempestade de citocinas inflamatórias”18,20 é um importante mecanismo implícito no agravamento e na mortalidade de pacientes com COVID-19. Um estudo revelou que os níveis de IL-6 em pacientes gravemente doentes foram significativamente maiores do que em casos leves, evidenciando a contribuição desta citocina para muitos efeitos fisiopatológicos em pacientes graves como extravasamento vascular, ativação do complemento e da cascata de coagulação e a indução, em raríssimos casos, da coagulação intravascular disseminada (CIVD). O mesmo estudo evidenciou que o uso de HBPM melhora a disfunção da coagulação de pacientes com COVID-19, pois exerce efeitos anti-inflamatórios, ou seja, o seu uso pode contribuir para prevenir ou mesmo reverter a “tempestade de citocinas”, melhorando, assim, a condição dos pacientes e corroborando para o potencial uso terapêutico que essa medicação vem exibindo quando utilizada21. Seguindo essa mesma intenção em aprofundar os achados fisiopatológicos da doença, um estudo conduzido na Weill Cornell Medicine, em Nova Iorque, utilizando amostras de biópsia e autópsia pulmonar e cutânea de cinco indivíduos com COVID-19 grave, documentou que pelo menos alguns pacientes infectados com SARS-CoV-2 que ficaram gravemente doentes sofreram uma lesão microvascular trombótica generalizada que parece ser mediada por intensa ativação do complemento. Apesar de apenas cinco casos terem sido avaliados, impossibilitando uma generalização, levanta-se uma suspeita que um subconjunto de pacientes graves com a COVID-19 pode junto com seu estado pró-coagulante, ter associado lesões microvasculares que são relevantes no desfecho desfavorável que a maioria desses pacientes apresenta22. Dessa forma, o sistema complemento pode ter um papel crítico na patogenicidade da doença e que mais estudos nessa área necessitam ser desenvolvidos.
+
+Apesar do avanço nas publicações em torno da relação entre a COVID-19 e a condição pró-trombótica que os pacientes vêm apresentando, até o momento, não existe estudos completos associando o TEV à infecção pelo COVID-19. No entanto, Cui et al.23 em estudo retrospectivo analisando 81 pacientes graves com pneumonia por COVID-19 em UTI encontraram incidência de 25% de TEV. Em Klok et al.24, apesar de ter sido feita profilaxia para trombose, encontrou-se incidência de 31% de complicações trombóticas em pacientes de UTI com infecções por COVID-19, sendo essa porcentagem notavelmente alta. Middeldorp et al.25 em seu estudo concluíram que o risco de TEV em pacientes com COVID-19 é alto, principalmente nos pacientes hospitalizados em UTI, e que adotar uma estratégia de rastreamento com testes diagnósticos em um baixo limiar pode ser uma boa conduta. Com isso, fica claro que um esforço conjunto entre os profissionais locais que atuam na área da Angiologia e Cirurgia Vascular se faz necessário para que uma rede colaborativa possa, em nível coletivo, aprimorar cada vez mais as condutas e fluxogramas de atendimento que estão sendo conduzidos, além de auxiliar no remodelamento dos serviços prestados durante a pandemia de COVID-19.
+
+CONCLUSÃO
+
+A COVID-19 pode predispor à doenças tromboembólicas venosas e arteriais devido à inflamação excessiva, hipóxia, imobilização e CIVD. Logo, há a necessidade de estratificação de risco para TEV para todos os pacientes hospitalizados por meio do uso de escores como Caprini8, por exemplo, além do uso complementar de escores para a estratificação de risco de sangramento.
+
+Nota-se que a tromboprofilaxia se faz necessária durante a internação de pacientes com a COVID-19, a menos que haja contraindicação, com a escolha e duração da terapia variando de acordo com a situação clínica do paciente e com o protocolo estabelecido na unidade hospitalar, baseado nas diretrizes das Sociedades de Hemostasia e Trombose. A tromboprofilaxia pós-alta hospitalar do paciente com COVID-19 permanece carente de dados, não havendo consenso, e a decisão pelo seu uso e ponto de corte de DD que orienta a sua escolha, deve ser feita de forma individualizada, analisando-se sempre o risco de evento trombótico ou sangramento, de acordo com os protocolos institucionais estabelecidos baseados em evidências seguras anteriores.
+
+Para além do manejo clínico das complicações vasculares e hematológicas que a infecção por Sars-CoV-2 pode acarretar, os departamentos de cirurgia vascular necessitam readequar suas rotinas por meio de criação ou revisão de algoritmos e protocolos que viabilizem sua atuação, ainda que restrita, durante a atual conjuntura de surto mundial da COVID-19.
+

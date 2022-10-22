@@ -1,0 +1,60 @@
+COVID-19 e hospitalizações por SRAG no Brasil: uma comparação até a 12a semana epidemiológica de 2020
+RESUMO:
+
+A vigilância de síndrome respiratória aguda grave (SRAG) no Brasil visa a caracterizar a circulação dos vírus Influenza A e B em casos hospitalizados e óbitos, tendo sido ampliada em 2012 para incluir outros vírus respiratórios. A COVID-19 foi detectada no Brasil pela primeira vez na 9ª semana epidemiológica de 2020 e o teste para o vírus SARS-CoV-2 foi incluído no protocolo de vigilância a partir da 12ª semana epidemiológica. O objetivo deste estudo foi investigar o padrão de hospitalizações por SRAG no país após a entrada do SARS-CoV-2, comparando o perfil temporal, etário e de resultados laboratoriais com os anos de 2010 a 2019. Em 2020, a hospitalização por SRAG, contabilizada desde a data do primeiro caso de COVID-19 confirmado até a 12ª semana, superou o observado, no mesmo período, em cada um dos 10 anos anteriores. A faixa etária acima de 60 anos foi a mais acometida, em nível acima do histórico. Houve um aumento considerável de testes laboratoriais negativos, sugerindo a circulação de um vírus diferente dos presentes no painel. Concluímos que o aumento das hospitalizações por SRAG, a falta de informação específica sobre o agente etiológico e a predominância de casos entre idosos, no mesmo período de tempo em que cresce o número de casos novos de COVID-19, é coerente com a hipótese de que os casos graves da doença já estejam sendo detectados pela vigilância de SRAG com sobrecarga para o sistema de saúde. A inclusão da testagem para SARS-CoV-2 no protocolo de vigilância de SRAG e sua efetiva implementação são de grande importância para acompanhar a evolução dos casos graves da doença no país.
+
+Palavras-chave: Síndrome Respiratória Aguda Grave; Infecções por Coronavirus; Vigilância Epidemiológica
+
+
+INTRODUÇÃO
+
+No Brasil, a notificação de casos hospitalizados devido à síndrome respiratória aguda grave (SRAG) passou a ser realizada no Sistema de Informação de Agravos de Notificação (SINAN) desde a pandemia de Influenza A (H1N1), em 2009 1. Inicialmente, o protocolo de vigilância de SRAG estava voltado para identificar os casos hospitalizados e óbitos relacionados aos vírus Influenza A e B, e, a partir de 2012, passou a incluir também o vírus sincicial respiratório (VSR), Adenovírus e Parainfluenza 1, 2 e 3 1,2. Com a chegada da COVID-19 e a detecção de transmissão comunitária no país, o protocolo passou a incluir também o teste para SARS-CoV-2, a partir da 12ª semana epidemiológica 3.
+
+A introdução do teste RT-PCR para SARS-CoV-2 na vigilância de SRAG ocorre em meio à crescente disseminação deste vírus no país e os desafios de contenção e mitigação da pandemia 3. Nesse contexto, o objetivo deste trabalho foi avaliar se a entrada do SARS-CoV-2 no país resultou em alterações no padrão de hospitalizações por SRAG. Em particular, comparando a evolução do número de casos confirmados de COVID-19 e de SRAG da 9ª a 12ª semanas epidemiológicas no ano de 2020, e a frequência de hospitalização por SRAG entre os anos de 2010 e 2020, estratificada por faixas etárias e resultados de testes laboratoriais para a identificação de vírus respiratórios. A hipótese levantada é a de que a importância do novo vírus como causa de SRAG em 2020 já esteja sendo observada, mesmo antes da confirmação laboratorial desses casos.
+MÉTODOS
+
+Dados
+
+COVID-19
+
+Em função da readequação necessária dos protocolos e do sistema de informação do país, os casos novos de COVID-19 não estavam publicamente disponíveis no sistema, mas sim em relatórios/boletins epidemiológicos produzidos pelas Secretarias Estaduais de Saúde e Ministério da Saúde. Nesse contexto, os casos registrados entre a 9ª semana epidemiológica de 2020, quando ocorreu a confirmação do primeiro caso 4, até a 12ª semana foram coletados por dois agregadores de dados independentes. O primeiro agregador foi desenvolvido por Wesley Cota 5, disponibilizado na página de Internet https://labs.wesleycota.com/sarscov2/br/ e será referenciado por “COVID-19 (WC)”. O segundo foi desenvolvido por Álvaro Justen e colaboradores e disponibilizado na página https://brasil.io/dataset/covid19/boletim e será chamado de “COVID-19 (AJ et al.)”.
+
+SRAG
+
+São considerados casos de SRAG, devendo ser notificados compulsoriamente, os indivíduos com a combinação dos seguintes quadros sintomáticos 6:
+
+Febre alta (acima de 37,8ºC) E
+
+Tosse OU dor de garganta E
+
+Dificuldade respiratória OU dispneia OU saturação de O2 < 95% E
+
+Necessitou de hospitalização OU veio a óbito tendo apresentado os sintomas referidos, independentemente de hospitalização.
+
+Os números de casos novos de hospitalização por SRAG no Brasil, por faixa etária, por ano, entre os anos de 2010 e 2020, da 9ª até a 12ª semana epidemiológica de cada ano, bem como os resultados dos testes laboratoriais realizados nesses pacientes foram extraídos do SINAN e do Sistema de Informação de Vigilância da Gripe (SIVEP-Gripe), que substituiu o SINAN para a notificação de SRAG a partir de 2019. A contagem predita de casos de SRAG para as semanas anteriormente citadas foi extraída do sistema Infogripe (http://info.gripe.fiocruz.br), que usa um método estatístico bayesiano para a correção de atraso da notificação 7. Esse método é utilizado na rotina da vigilância da Influenza, conforme o plano de contingência estabelecido pelo Ministério da Saúde 8. O sistema Infogripe é fruto da parceria entre o Ministério da Saúde, o Programa de Computação Científica da Fundação Oswaldo Cruz (http://www.procc.fiocruz.br) e a Escola de Matemática Aplicada da Fundação Getulio Vargas (https://emap.fgv.br/).
+
+Os dados de SRAG utilizados foram inseridos no sistema até o dia 21 de março de 2020, último dia da 12ª semana epidemiológica.
+
+Análises
+
+Calculamos a frequência absoluta por semana epidemiológica de casos novos de COVID-19 para o ano de 2020 e de hospitalização por SRAG para os anos de 2010 a 2020, estratificada por faixas etárias. Para avaliar o efeito da entrada da COVID-19 no Brasil nas notificações de hospitalizações por SRAG, foi conduzida uma análise descritiva realizada no software R, versão 3.6.3 (http://www.r-project.org).
+
+RESULTADOS
+
+A COVID-19 foi registrada pela primeira vez no Brasil na 9ª semana epidemiológica, totalizando dois casos. A Figura 1 apresenta a evolução do número de casos a partir dessa semana até a 12ª semana epidemiológica. Nesse intervalo, observou-se uma tendência de aumento na frequência de notificação dessa doença, ultrapassando 100 casos na 11ª semana epidemiológica e 1.000 casos na 12ª. A frequência de hospitalização por SRAG também apresentou tendência crescente nesse mesmo período, com o número de casos na 11ª semana epidemiológica (n = 1.365) aumentado cerca do dobro do da semana anterior (n = 691). Para a comparação, a mediana histórica de casos, em temporadas não epidêmicas, é de 266 na 11ª semana e 299 casos na 12ª. De acordo com a estimativa de SRAG com correção do atraso de notificação, a ocorrência real de hospitalização por SRAG na 12ª semana é 59% maior do que o notificado até o momento. Usando-se essa correção, observa-se um aumento de SRAG concomitante à chegada da COVID-19 (Figura 1).
+Os anos com os maiores registros de hospitalização por SRAG foram 2010, 2016, 2019 e 2020 (com n = 1.826, n = 3.821, n = 3.305 e n = 4.056 hospitalizações, respectivamente). Esses valores são superiores à média observada para os demais anos, considerando-se o mesmo período de tempo (n = 951,3 hospitalizações/ano). A Figura 2 apresenta a frequência de hospitalização por SRAG entre a 9ª e a 12ª semanas epidemiológicas dos anos 2010 a 2020, estratificada por faixa etária. A estratificação por idade revela que a faixa de 0 a 2 anos de idade é a de maior frequência em todos os anos, exceto em 2020, quando a maior frequência foi observada entre indivíduos com 60 anos ou mais (26,7%).
+A Figura 3 mostra a frequência relativa dos resultados dos testes laboratoriais para os vírus respiratórios Influenza A e B, Parainfluenza tipos 1, 2 e 3, VSR e Adenovírus, dentre os casos hospitalizados de SRAG entre a 9ª a 12ª semanas epidemiológicas dos anos de 2010 a 2020. Observa-se que entre 2010 e 2018, cerca de 50% a 70% dos testes realizados foram negativos para os vírus testados, já em 2019 e 2020 a proporção de testes negativos subiu para 72,1% e 94,5%, respectivamente. Nos anos com maior frequência de hospitalização por SRAG (2010, 2016, 2019 e 2020), o vírus Influenza A foi detectado em 12,5%, 34,5%, 4,9% e 2,8% dos casos, respectivamente. Em 2019, o VSR foi detectado em 23,3% dos casos, já o Influenza B, o Parainfluenza e o Adenovírus não ultrapassaram as frequências de 3%, 2% e 1%, respectivamente, em nenhum dos anos analisados.
+DISCUSSÃO
+
+Em 2020, a hospitalização por SRAG desde a detecção do primeiro caso de COVID-19 no Brasil superou o observado, no mesmo período, em cada um dos 10 anos anteriores, mesmo com o reconhecido atraso de notificação existente. O aumento das hospitalizações por SRAG em 2020, a falta de informação específica sobre o agente etiológico das hospitalizações e a predominância de casos entre idosos, no mesmo período em que cresce o número de casos novos de COVID-19, é consistente com a hipótese de que a COVID-19 está sendo detectada pelo sistema de vigilância de SRAG, embora não seja possível comprovar devido à ausência de testes específicos. Nesse caso, a hospitalização de casos graves de COVID-19 já consiste numa sobrecarga para o sistema de saúde.
+
+Chama a atenção a alta negativação dos testes laboratoriais de SRAG na vigilância, tanto historicamente, como em 2020. É possível que uma parte dessa dificuldade em obter resultados positivos derive de problemas com a qualidade da amostra coletada, manuseio inapropriado, ou demora de processamento 2. Porém, não se pode descartar a possível circulação de outros agentes etiológicos diferentes dos testados. Ao longo dos anos, a composição do painel de testes foi se modificando para aumentar a abrangência da vigilância, embora tenha sempre colocado como prioridade o vírus Influenza 8. A negativação dos testes em 2020 alcançou 91%, um nível antes não encontrado.
+
+Os fatores de risco para a hospitalização por COVID-19 são idade maior que 60 anos e presença de comorbidades como hipertensão, diabetes, cardiopatias e doenças respiratórias 9. Essa faixa etária foi a mais hospitalizada em 2020 com diagnóstico de SRAG.
+
+O ano de 2019 também foi atípico quanto às hospitalizações por SRAG. Nesse ano, mais da metade dos casos ocorreu entre menores de dois anos de idade e o vírus com maior frequência de detecção no período foi o VSR (23,3%). Esse vírus, no Brasil, tem mostrado sazonalidade semelhante ao Influenza e tem sido reconhecido, mundialmente, como a causa mais comum de infecção respiratória aguda entre crianças, apesar de também causar doenças respiratórias nos outros grupos etários, sobretudo idosos e adultos com comorbidades 10.
+
+A chegada da COVID-19 ocorreu durante a estação do ano em que a atividade dos vírus respiratórios é, em geral, baixa. Apenas em 2010 e 2016 a sazonalidade da SRAG ocorreu mais precocemente (no final do verão e outono) na maioria dos estados brasileiros 11, com predominância do vírus da Influenza A. O aumento da hospitalização por SRAG tão precocemente em 2020 chama a atenção, uma vez que existe a tendência de aumento de casos entre outono e inverno, sobretudo nos estados de maior latitude 11. Nesse cenário, preocupa que a persistência da pandemia de COVID-19, juntamente com os picos de infecção por Influenza, possa sobrecarregar ainda mais o sistema de saúde nos próximos meses, o que justificou a antecipação da campanha de vacinação contra a Influenza no país em 2020.
+
+A hipótese de que o aumento do número de casos de COVID-19 no país já esteja evidenciando sua importância como causa de SRAG em 2020 é coerente com a mudança do perfil de hospitalização identificado. Sua comprovação requer a inclusão da testagem para SARS-CoV-2 no protocolo de vigilância de SRAG e sua efetiva implementação em todo o país.
+

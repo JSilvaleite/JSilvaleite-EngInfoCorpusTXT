@@ -1,0 +1,302 @@
+Recomendações da Sociedade Portuguesa de Cuidados Intensivos e Grupo de Infeção e Sépsis para a abordagem do COVID-19 em medicina intensivaRESUMO
+Descritores: Infecções por coronavirus; COVID-19; Virus da SARS; Sepse; Unidades de terapia intensiva
+
+
+A atual epidemia de COVID-19 foi declarada em 31 de dezembro de 2019 no mercado de frutos do mar da cidade de Wuhan, com rápida disseminação na China e, posteriormente, envolvendo múltiplos países (como maior expressão na Coreia do Sul, Japão, Itália e Irã) incluindo, desde 1º de março, Portugal. A maioria dos doentes infetados apresenta doença ligeira sem necessidade de hospitalização. Dentre os internados, de 6% a 10% necessitam de cuidados intensivos. As presentes recomendações visam facilitar a organização dos serviços de medicina intensiva para a resposta ao COVID-19, proporcionado os melhores cuidados aos doentes e protegendo os profissionais de saúde.
+INTRODUÇÃO
+
+A COVID-19, abreviação de coronavirus disease 2019, é a doença clínica causada pelo SARS-CoV-2, um vírus de genoma de RNA simples de sentido positivo pertencente à família dos coronavírus (CoV). Existem quatro estirpes (HCoV-229E, HCoV-NL63, HCoV-OC43 e HCoV-HKU1) que circulam de forma sazonal na população humana, causando mais frequentemente infeções respiratórias de baixa gravidade (como a constipação comum) e, raramente, pneumonias virais.(1) Até ao aparecimento do SARS-CoV-2,(2) estavam descritas duas outras estirpes causadoras de surtos epidêmicos com origem zoonótica: SARS-CoV-1, causador da síndrome respiratória aguda grave (severe acute respiratory syndrome - SARS) com origem em morcegos e transmitido à civeta-africana e, posteriormente, a humanos, em 2002; e MERS-CoV, causador da síndrome respiratória do Médio Oriente (Middle East respiratory syndrome - MERS) com origem em morcegos e transmitido a camelídeos e, posteriormente, a humanos, em 2012.(1)
+
+Em 31 de dezembro de 2019 foi identificado um cluster de pneumonia de causa desconhecida na cidade de Wuhan (província chinesa de Hubei), posteriormente associado a um mercado de frutos do mar e animais vivos (Huanan Seafood Wholesale Market). Nas amostras respiratórias dos doentes deste cluster foi identificado um novo vírus (SARS-CoV-2) com disseminação epidêmica na China e envolvendo em seguida múltiplos países (como maior expressão na Coreia do Sul, Japão, Itália e Irã)(3) incluindo, desde 2 de março, Portugal.(4) Esta capacidade de contágio deve-se à significativa taxa de ataque (R⌀, número de novos casos gerados a partir de um único confirmado) que tem sido estimada entre 2,5 a 2,9, mas potencialmente influenciada por intervenções de saúde pública.(5) Tem sido observado elevado risco de transmissão nosocomial bem como de aquisição por profissionais de saúde.(6)
+
+O período de incubação mediano é de 4 dias, podendo se prolongar por até 14 dias,(6) sendo que o SARS-CoV-2, à semelhança do SARS-CoV-1, liga-se ao receptor da enzima conversora de angiotensina 2, localizado nas células alveolares do tipo II, causando lesão alveolar difusa por lesão citopática direta.(7) A maioria dos doentes infetados (> 80%) apresenta doença ligeira sem necessidade de hospitalização. Dentre os internados, de 6% a 10% necessitam de cuidados intensivos.(3,6
+
+As presentes recomendações visam facilitar a organização dos serviços de medicina intensiva para a resposta à COVID-19, proporcionado os melhores cuidados aos doentes e protegendo os profissionais de saúde.
+
+1. SÍNDROMES CLÍNICAS ASSOCIADAS À COVID-19
+
+Recomendação 1
+
+Recomenda-se uma adaptação dos critérios da Organização Mundial da Saúde (OMS) para a definição das síndromes clínicas associadas à COVID-19 (Anexo 1).
+
+2. CRITÉRIOS DE ADMISSÃO AOS SERVIÇOS DE MEDICINA INTENSIVA
+
+Recomendação 1
+
+Recomenda-se que doentes com critérios de pneumonia grave (Anexo 1) sejam precocemente referenciados a serviços de medicina intensiva, para discussão de decisão e timing de transferência para serviço de medicina intensiva.
+
+Recomendação 2
+
+Recomenda-se que a admissão em serviço de medicina intensiva não se baseie em critérios estritos, mas, antes, em uma avaliação caso a caso, que inclua, a cada momento, a perceção de gravidade por parte do clínico e a gestão global dos recursos disponíveis.
+
+Recomendação 3
+
+Recomenda-se que, em caso de extraordinária escassez de recursos, tornem-se explícitos os critérios de priorização de admissão em serviço de medicina intensiva.
+
+3. ISOLAMENTO E EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL
+
+Recomendação 1
+
+Recomenda-se isolamento em quarto individual com pressão negativa com adufa, banheiro privativo e sistema de ventilação adequado com capacidade para, pelo menos, 6 - 12 renovações de ar/hora. Uma vez esgotados esses recursos, recomenda-se que os doentes sejam isolados em quarto individual com sistema de ventilação com capacidade para, pelo menos, 6 - 12 renovações de ar/hora. Quando não estiverem disponíveis quartos individuais de isolamento, recomenda-se isolamento em coorte, respeitando distância mínima superior a 1m entre unidades de doente.
+
+Recomendação 2
+
+Recomenda-se restrição de visitas a todos os doentes e limitação do número de profissionais em contato com o doente (idealmente com profissionais dedicados), com implementação de formas alternativas, à distância, de comunicação entre o doente e a família e entre a equipe clínica e o doente e a família, independentemente do local de isolamento.
+
+Recomendação 3
+
+Recomenda-se que todos profissionais de saúde envolvidos na prestação de cuidados clínicos apliquem precauções universais, precauções de contato e precauções de gotículas. Estas incluem a utilização de equipamento de proteção individual específico, descartável (de uso único) e impermeável: bata, máscara cirúrgica, proteção ocular e luvas limpas. Durante a prestação de cuidados clínicos potencialmente geradores de aerossóis (por exemplo: intubação, aspiração de secreções e broncoscopia) ou contato prolongado (> 15 minutos) e/ou íntimo (por exemplo: colocação de cateter venoso central, cirurgia e manobras de reanimação cardiorrespiratória), recomenda-se a aplicação de precauções de via aérea. Estas incluem a utilização de equipamento de proteção individual específico, descartável (uso único) e impermeável: bata (com punhos que apertem ou com elásticos e que cubra até ao meio da perna ou tornozelo), touca, máscara FFP2/FFP3 (com adequado ajuste facial), proteção ocular (com proteção lateral), luvas (com punho acima do punho da bata) e proteção de calçado (idealmente sapatos impermeáveis e de uso exclusivo nas áreas de isolamento ou, opcionalmente, coberturas de sapato impermeáveis). Recomenda-se que o fato de proteção integral (impermeável, com capuz incorporado e proteção de pescoço) seja limitado a profissionais com treino e experiência prática em sua utilização. Uma vez que a utilização de nebulizadores, ventilação mecânica não invasiva ou oxigênio de alto fluxo por cânulas nasais é potencialmente geradora de aerossóis, recomenda-se que, na prestação de cuidados clínicos a estes doentes, sejam igualmente aplicadas precauções de via aérea.
+
+Recomendação 4
+
+Recomenda-se que a ordem e a técnica para colocação e remoção do equipamento de proteção individual sejam rigorosamente cumpridas (idealmente com uso de espelho ou vigilância por outro profissional de saúde), sendo que, no procedimento de remoção, deve existir cuidado adicional para evitar contaminação do próprio, dos outros e do ambiente.
+
+Recomendação 5
+
+Recomenda-se que todos os profissionais de saúde tenham treino e experiência prática nos procedimentos para colocação e remoção do equipamento de proteção individual previamente ao contato com doentes.
+
+Justificação
+
+São adotadas as recomendações da Direção Geral de Saúde(8) que se baseiam nas orientações emanadas pela OMS(9) e pelo European Centre for Disease Prevention and Control (ECDC)(10) para a estratégia de prevenção e controle de infecções, em casos de suspeita de infecção por SARS-CoV-2, principalmente a prevenção da transmissão nas unidades de saúde, são baseadas nas recomendações emanadas anteriormente para o MERSCoV1 e para a SARS-CoV1.
+
+4. ORGANIZAÇÃO HOSPITALAR
+
+Recomendação 1
+
+Recomenda-se que a gestão de todas as camas de nível 2 (intermediário) e de nível 3 (intensivo) do hospital (independentemente do serviço em que se localizam) seja realizada pela Direção do Serviço de Medicina Intensiva, em estrita articulação com a Direção Clínica, Direção Geral de Saúde e Ministério da Saúde.
+
+Recomendação 2
+
+Recomenda-se que, em hospitais em que exista mais que uma unidade de cuidados intensivos, seja criada uma área de coorte de casos críticos confirmados de COVID-19, e que seja considerada uma área de coorte de doentes críticos suspeitos (para internamento transitório), nomeadamente estabelecendo critérios para sua ativação.
+
+5. DIAGNÓSTICO DE INFECÇÃO
+
+Recomendação 1
+
+Recomenda-se que o diagnóstico microbiológico seja efetuado por reação em cadeia da polimerase (PCR - polymerase chain reaction) em tempo real (real-time PCR) em amostra do trato respiratório superior (exsudado da nasofaringe e orofaringe colhido com zaragatoa) sempre que possível associada à amostra do trato respiratório inferior (secreções brônquicas colhidas por aspirado endotraqueal).
+
+Recomendação 2
+
+Recomenda-se a não realização de broncofibroscopia com intuito único de colheita de amostras do trato respiratório inferior.
+
+Recomendação 3
+
+Recomenda-se que sempre que exista elevada suspeita clínica (em especial se a tomografia computadorizada mostrar evidência de doença) e o exame de diagnóstico microbiológico inicial seja negativo, repita-se a colheita, de modo a confirmar ou infirmar a infecção, dando preferência a amostras do trato respiratório inferior.
+
+Recomendação 4
+
+Recomenda-se a colheita de hemoculturas (pelo menos dois conjuntos de hemoculturas aeróbica e anaeróbica) e de amostra do trato respiratório inferior para pesquisa de outros agentes microbiológicos.
+
+Justificação
+
+A real-time PCR para identificação de SARS-CoV-2 é um teste de elevada especificidade, e doentes com maior carga viral (mais frequente no decurso da doença) podem ter maior probabilidade de ter um teste positivo. No entanto, nos doentes com suspeita de COVID-19 e real-time PCR inicial negativa, a repetição (conversão ao longo de dias) da RT-PCR foi positiva em 23% dos casos, o que aponta para sensibilidade < 80%. Nestes casos, sempre que possível, deve ser efetuada uma tomografia torácica que mostra evidência de doença prévia à real-time PCR.(11,12) A coinfecção por outros agentes microbiológicos, em especial na presença de choque séptico, é frequente.(11)
+
+6. TERAPÊUTICA INICIAL EM CASO SUSPEITO/CONFIRMADO
+
+Recomendação 1
+
+Recomenda-se que todos os doentes com pneumonia grave recebam oxigenoterapia, iniciada com cânulas nasais a 4L/minuto e titulada para saturação de oxigênio (SpO2) ≥ 92%, sem utilização de umidificação.
+
+Recomendação 2
+
+Recomenda-se uma estratégia de fluidoterapia conservadora, em especial na ausência de choque.
+
+Justificação
+
+Seguem-se as recomendações da OMS,(13) reforçando-se que não é necessária umidificação para fluxos de oxigênio < 4L/minuto(14) e que utilização de umidificadores de bolha com fluxo de oxigênio ≥ 5L/minuto produz aerossóis com risco de transmissão de microrganismos.(15) A apresentação inicial do COVID-19 raramente é de choque séptico, e a causa de morte mais frequente é por insuficiência respiratória hipoxêmica,(16) que é agravada pela fluidoterapia.(17)
+
+7. INDICAÇÕES E ESTRATÉGIA DE OXIGENOTERAPIA DE ALTO FLUXO POR CÂNULAS NASAIS
+
+Recomendação 1
+
+Recomenda-se a não utilização de oxigenoterapia de alto fluxo por cânulas nasais em doentes em fase ativa de replicação viral.
+
+Recomendação 2
+
+Recomenda-se que se uma decisão de iniciar oxigenoterapia de alto fluxo por cânulas nasais for tomada:
+
+(1) que a técnica seja iniciada em serviço de medicina intensiva e com ambiente de elevada monitorização, que permita evitar atrasos na intubação endotraqueal perante falência de resposta;
+
+(2) que sejam preferencialmente utilizados fluxos baixos (15 - 30L/minuto) com aplicação de máscara cirúrgica ao doente (sempre que possível); e
+
+(3) que os profissionais utilizem precauções de contato, de gotícula e de via aérea (idealmente em quartos de pressão negativa).
+
+Justificação
+
+A utilização de oxigenoterapia de alto fluxo por cânulas nasais tem sido utilizada com sucesso em doentes com insuficiência respiratória hipoxêmica,(18) no entanto tem potencial risco de atraso da intubação endotraqueal(19) e risco acrescido da geração de aerossóis.(20)
+
+8. INDICAÇÕES E ESTRATÉGIA DE VENTILAÇÃO NÃO INVASIVA
+
+Recomendação 1
+
+Recomenda-se a não utilização de ventilação mecânica não invasiva nestes doentes, sobretudo em fase ativa de replicação viral.
+
+Recomendação 2
+
+Recomenda-se que, se uma decisão de iniciar ventilação mecânica não invasiva for tomada:
+
+(1) que a técnica seja iniciada em serviço de medicina intensiva e com ambiente de elevada monitorização, que permita evitar atrasos na intubação endotraqueal perante falência de resposta;
+
+(2) que sejam utilizadas máscaras para ventilação não invasiva com selagem máxima ou capacetes, bem como ventiladores de circuito duplo (por exemplo: com ansa expiratória) com aplicação de alta eficiência; e
+
+(3) que os profissionais utilizem precauções de contato, de gotícula e de via aérea (idealmente em quartos de pressão negativa).
+
+Justificação
+
+A utilização de ventilação mecânica não invasiva tem piores resultados que a oxigenoterapia convencional e a oxigenoterapia de alto fluxo por cânula nasal em doentes com insuficiência respiratória hipoxêmica,(18) tendo sido associada à elevada taxa de falência terapêutica em doentes com MERS,(21) bem como a risco acrescido da geração de aerossóis.(20,22)
+
+9. INDICAÇÕES PARA INTUBAÇÃO OROTRAQUEAL
+
+Recomendação 1
+
+Recomenda-se uma estratégia precoce de intubação em oposição a uma estratégia tardia de intubação (Figura 1).
+
+Figura 1 Opções terapêuticas (suporte e dirigidas) no COVID-19. AST - aspartato aminotransferase; ALT - alanina aminotransferase; FiO2 - fração inspirada de oxigênio; PEEP - pressão positiva expiratória final; MFAC - máscara facial de alta concentração; ECMO - oxigenação por membrana extracorpórea. 
+
+Justificação
+
+Em contexto de insuficiência respiratória hipoxêmica, o atraso da intubação endotraqueal associa-se ao aumento da mortalidade(23) o que já foi verificado em doentes com COVID-19.(20)
+
+10. ESTRATÉGIA DE INTUBAÇÃO OROTRAQUEAL
+
+Recomendação 1
+
+Recomenda-se que a intubação endotraqueal seja realizada por um operador experimentado (aquele com maior probabilidade de intubação na primeira tentativa), que utilize precauções de contato, de gotícula e de via aérea (idealmente em quarto de pressão negativa).
+
+Recomendação 2
+
+Recomenda-se que a intubação endotraqueal seja realizada utilizando:
+
+(1) pré-oxigenação com máscara facial de alta concentração ou sistema de balão tipo Mapleson C conectado a filtro respiratório de alta eficiência, mas sempre sem recurso a insuflações manuais;
+
+(2) técnica de intubação de sequência rápida;
+
+(3) videolaringocopia com utilização de lâmina descartável;
+
+(4) pós-intubação encerramento do tubo com clamp até conexão a ventilador manual (ou sistema de balão tipo Mapleson C) ou traqueia do ventilador mecânico adaptado a filtro respiratório de alta eficiência;
+
+(5) confirmação de intubação por capnografia/capnometria seguida de radiografia de tórax (sem auscultação).
+
+Justificação
+
+A intubação endotraqueal associa-se a risco franco da geração de aerossóis,(20,22) devendo ser utilizadas todas as estratégias que minimizem o risco de transmissão a profissionais de saúde.(24
+
+11. INDICAÇÕES E ESTRATÉGIA DE VENTILAÇÃO MECÂNICA INVASIVA E TERAPÊUTICAS ADJUVANTES
+
+Recomendação 1
+
+Recomenda-se uma estratégia de ventilação clássica baseada no protocolo da Acute Respiratory Distress Syndrome (ARDS) Network (volume corrente de 6mL/kg de peso corporal ideal com limite superior para pressões de plateau <30cmH2O) com utilização de tabela de pressão positiva expiratória final (PEEP) elevada em doentes com síndrome de dificuldade respiratória aguda (SDRA) moderada a grave, associada a driving pressure < 15cmH2O, com frequência respiratória mínima para pH > 7,25.
+
+Recomendação 2
+
+Recomenda-se a utilização precoce de decúbito ventral em doentes com pressão parcial de oxigênio/fração inspirada de oxigênio (PaO2/FiO2) < 150mmHg, por períodos mínimos de 16 horas.
+
+Recomendação 3
+
+Recomenda-se a utilização de bloqueadores neuromusculares por ≤ 48 horas em doentes com PaO2/FiO2 < 150mmHg.
+
+Recomendação 4
+
+Recomenda-se que, em doentes com replicação viral ativa, o teste de respiração espontânea, quando indicado, seja efetuado em pressão de suporte, utilizando circuito fechado, e não em tubo em T.
+
+Justificação
+
+Seguem-se as recomendações da OMS(13) reforçando-se as estratégias que demonstram eficácia na SDRA.(25-28
+
+12. INDICAÇÕES PARA OXIGENAÇÃO POR MEMBRANA EXTRACORPÓREA
+
+Recomendação 1
+
+Recomenda-se que se mantenham os critérios vigentes de referenciação para oxigenação por membrana extracorpórea (ECMO), baseados em uma avaliação caso a caso, que inclua, a cada momento, a perceção de gravidade por parte do clínico e a gestão global dos recursos disponíveis.
+
+Recomendação 2
+
+Recomenda-se que em caso de extraordinária escassez de recursos se tornem explícitos critérios de referenciação para ECMO.
+
+Justificação
+
+A ECMO é uma terapêutica a se considerar em contexto de insuficiência respiratória hipoxêmica refratária,(29) e, embora já seja utilizada, ainda se desconhece o grau de benefício na COVID-19.(30
+
+13. INDICAÇÕES PARA BRONCOFIBROSCOPIA
+
+Recomendação 1
+
+Recomenda-se a não realização de broncofibroscopia fora de indicações bem estabelecidas.
+
+Recomendação 2
+
+Recomenda-se que, se uma decisão de realização de broncofibroscopia for tomada, a técnica seja realizada pelo operador mais experimentado e se utilizem precauções de via aérea (em quartos de pressão negativa).
+
+Justificação
+
+A broncofibroscopia associa-se a risco franco da geração de aerossóis(22) devendo ser utilizadas todas as estratégias que minimizem o risco de transmissão a profissionais de saúde.(11
+
+14. ADMINISTRAÇÃO DE TERAPÊUTICA INALATÓRIA
+
+Recomendação 1
+
+Recomenda-se que, quando se encontre clinicamente indicada a administração de terapêutica inalatória, não sejam utilizados sistemas de nebulização pneumática, ultrassônica ou de membrana oscilatória.
+
+Justificação
+
+A administração de terapêutica inalatória utilizando sistemas de nebulização pneumática, ultrassônica ou de membrana oscilatória associa-se a risco franco da geração de aerossóis(22) devendo ser utilizadas todas as estratégias que minimizem o risco de transmissão a profissionais de saúde.(11
+
+15. INDICAÇÕES PARA CORTICOTERAPIA
+
+Recomendação 1
+
+Recomenda-se que a administração de corticosteroides seja evitada, a menos que indicada por outros motivos (por exemplo: exacerbação da doença pulmonar obstrutiva crônica ou choque séptico, de acordo com as diretrizes da Campanha Sobrevivendo à Sepse).
+
+Justificação
+
+As evidências atuais apontam para a ausência de benefício dos corticosteroides na mortalidade, condicionando à atraso na depuração viral na infeção por SARS-CoV-1 e MERS-CoV.(31,32
+
+16. INDICAÇÕES E ESTRATÉGIA DE TERAPÊUTICA ANTIBIÓTICA
+
+Recomendação 1
+
+Recomenda-se, perante pneumonia grave suspeita (a aguardar identificação de SARS-CoV-2), iniciar terapêutica antibiótica associada, em período de gripe sazonal, à cobertura para influenza (Tabela 1), reavaliada após obtenção de resultados culturais e laboratoriais.
+
+Tabela 1 Esquema de terapêutica antibiótica na pneumonia grave (alternativas devem ser ponderadas em função da presença de fatores modificadores) 
+
+[Ceftriaxona 2g/dia (ou 1g a cada 12 horas) por via endovenosa ou amoxicilina/ ácido clavulânico 2,2g a cada 8 horas por via endovenosa
++ Azitromicina 500mg/dia por via endovenosa, ou claritromicina 500mg a cada 12 horas por via endovenosa]*
++ Oseltamivir 75mg (comprimido), 2 comprimidos (150mg) a cada 12 horas, via entérica
+*Levofloxacina 500mg/dia por via endovenosa (se intolerância/alergia aos agentes de primeira linha).
+
+Recomendação 2
+
+Recomenda-se, perante pneumonia grave (com identificação de SARS-CoV-2) na presença de choque séptico, iniciar terapêutica antibiótica até obtenção de resultados culturais, que permitam afirmar ou excluir a coexistência de infeção bacteriana.
+
+Recomendação 3
+
+Recomenda-se, perante pneumonia grave (com identificação de SARS-CoV-2), na ausência de choque séptico, que o início de terapêutica antibiótica seja equacionado de forma individualizada e reconsiderada sua manutenção com resultados negativos.
+
+Justificação
+
+A coinfecção por outros agentes microbiológicos, em especial em na presença de choque séptico, é frequente.(11) A mortalidade associada ao choque séptico é elevada e associa-se ao atraso no início de terapêutica antibiótica efetiva.(33)
+
+17. INDICAÇÕES E ESTRATÉGIA DE TERAPÊUTICA ANTIVIRAL
+
+Recomendação 1
+
+Não há evidência resultante de estudos randomizados e controlados para recomendar qualquer tratamento antiviral específico para doentes com COVID-19.
+
+Recomendação 2
+
+Pode ser considerado esquema terapêutico experimental (Tabela 2) em doentes com critérios clínicos de gravidade.
+
+Tabela 2 Esquema de terapêutica antiviral no doente crítico 
+
+Remdesivir 200mg por via endovenosa (dose de carga, dia 1) seguida de remdesivir 100mg/dia por via endovenosa (dose de manutenção, dias 2 a 10)*
++
+Fosfato de cloroquina 250mg (comprimido), 2 comprimidos (500mg) a cada 12 horas, via entérica† por 5 a 20 dias (determinado pela evolução clínica)
+*Se/enquanto remdesivir não disponível: lopinavir/ritonavir 200/50mg (comprimido), 2 comprimidos (400/100mg) a cada 12 horas, via entérica OU lopinavir/ritonavir 80/20mg/mL (solução oral), 5mL (400/100mg) a cada 12 horas, por via entérica;
+
+†ou, em alternativa, hidroxicloroquina 200mg (comprimido), 1 comprimido 2 vezes/dia, por via entérica.
+
+Justificação
+
+Não está comprovado que qualquer terapêutica antiviral seja eficaz na COVID-19. Estão em curso múltiplos estudos randomizados e controlados.(34) Existe evidência limitada da utilização de lopinavir/ritonavir,(35,36) cloroquina(37) e remdesivir,(38,39) tendo sido incluídos em um protocolo terapêutico italiano.(40) Dados retrospetivos do SARS-CoV apontam para maior eficácia no início precoce (< 48 horas) da terapêutica(35) mas não se exclui eficácia após este período, o que é consistente com os dados da infeção pelo influenza.
+
+Adaptação para o português (Brasil) do artigo “RECOMENDAÇÕES DA SOCIEDADE PORTUGUESA DE CUIDADOS INTENSIVOS PARA A ABORDAGEM DO COVID-19 EM MEDICINA INTENSIVA” publicado pela Sociedade Portuguesa de Terapia Intensiva, disponível na plataforma https://www.spci.pt/client_files/COVID_19_R.pdf

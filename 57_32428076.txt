@@ -1,0 +1,45 @@
+COVID-19 e tabagismo: uma relação de risco
+
+O SARS-CoV-2 é um novo tipo de coronavírus, causador da COVID-19, que emergiu na China no final de 2019 e alcançou status de pandemia rapidamente. Esse vírus tem tropismo pelo sistema respiratório, causando desde uma síndrome respiratória aguda, que na grande maioria dos casos se manifesta de forma leve, evoluindo em alguns casos para um tipo gravíssimo e célere de pneumonia com insuficiência respiratória importante, progredindo para óbito 1.
+
+Entre os fatores de risco para desfechos mais graves como a necessidade de internação em unidade de terapia intensiva (UTI) e/ou uso de ventilação mecânica e morte para a COVID-19 estão: idade de 65 anos ou mais; pessoas internadas em instituições de longa permanência; pacientes com doença pulmonar obstrutiva crônica, asma (moderada a grave) e dependentes de oxigênio; pessoas com problemas cardíacos graves ou descompensados; hipertensos descompensados; diabéticos; portadores de doenças cromossômicas ou estado de fragilidade imunológica; indivíduos com insuficiência renal crônica avançada; gestantes de alto risco; pessoas de qualquer idade com obesidade grave (IMC > 40); e condições médicas, como doenças hepáticas 2,3. É possível ainda que a COVID-19 seja uma doença endotelial, podendo levar a quadros graves de coagulopatias e tromboses 4.
+
+Entretanto, é possível que um importante fator de risco para a COVID-19 não esteja sendo incluído nas recomendações globais para o controle da pandemia, o tabagismo.
+
+Fumantes fazem parte do grupo de risco para a contaminação pela COVID-19. É plausível inferir sobre o aumento do risco de contaminação desse grupo na medida em que fumantes levam os produtos de tabaco, quer sejam tradicionais ou dispositivos eletrônicos para fumar (DEFs) à boca, sem a adequada higienização das mãos.
+
+Os narguilés, muito populares entre a população jovem, que geralmente compartilha os bocais, facilitam a transmissão da COVID-19 5. A Organização Mundial da Saúde (OMS) demonstrou preocupação com o potencial para a disseminação da doença por intermédio do uso dos produtos de tabaco 5. A literatura indica que doenças como influenza, herpes labial e tuberculose são transmitidas por bocais do narguilé 6. Por suas características que possibilitam seu compartilhamento, os DEFs também devem ser incluídos como produtos que contribuem para a contaminação pelo SARS-CoV-2.
+
+Outro fato relevante é o risco do fumante sofrer queimaduras ao acender o cigarro ou manusear o narguilé pós-higienização das mãos com álcool em gel, haja vista ser este produto altamente inflamável.
+
+Em relação aos danos causados pela infecção da COVID-19, fumar aumenta o risco de danos pulmonares. O tabagismo está relacionado à bronquiolite respiratória (geralmente assintomática), com diversos tipos de pneumonias, além da bronquite crônica, enfisema pulmonar, tuberculose e cânceres de pulmão, promovendo o declínio da função pulmonar 7.
+
+Estudos em animais e em células humanas sugerem que o tabaco aumenta a gravidade de doenças como a infecção por influenza, aumentando a replicação viral pela supressão dos mecanismos antivirais e alterações nos padrões de citocinas em células com papel central na imunidade inata da mucosa 5. Somando-se a isso, o tabagismo também aumenta a expressão da enzima conversora de angiotensina 2 (ECA2), conhecido receptor do SARS-CoV-2 8.
+
+O tabagismo tem relação com a disfunção endotelial e a elevação da concentração dos radicais livres, da mesma forma que infecções microbianas como a COVID-19 9. É plausível acreditar que a COVID-19 possa ocasionar danos ao endotélio previamente lesionado do fumante. Entretanto, a cessação do tabagismo melhora significativamente a função endotelial 10.
+
+Pacientes com COVID-19 apresentaram níveis elevados de proteína C reativa (PCR) e dímero-D 6,7. Esses marcadores de diagnóstico de trombose encontram-se também alterados em fumantes 11,12. Um estudo observou quadro de coagulação intravascular disseminada em 71% dos óbitos por COVID-19 comparado com 0,4% dos sobreviventes 13. Níveis mais altos de dímero-D (acima de 1μg/L) na admissão aumentam em 18 vezes a chance de evolução para óbito 14,15. É desconhecido o mecanismo dessas complicações, mas elas sugerem a relevância da relação do impacto do tabagismo no endotélio e a COVID-19.
+
+Apesar de uma metanálise não ter encontrado relação entre o tabagismo e os desfechos mais graves da COVID-19 14, o artigo mais robusto e com maior população estudada apontou relação entre o fumar e um quadro mais sombrio de progressão da doença 15. Artigos em preprints sugerem que o tabagismo poderia ser um fator de risco para manifestações graves da COVID-19 13,16. Somando-se a isso, uma metanálise publicada mais recentemente aponta que o tabagismo é um fator de risco para o prognóstico da COVID-19 17.
+
+Fumantes com COVID-19 têm 3,25 vezes mais chances de desenvolver quadros mais graves da doença do que não fumantes 18.
+
+Apesar da plausibilidade de que essas complicações possam ser explicadas pelos impactos do tabagismo, alguns estudos não demonstraram a relação entre o tabagismo e a progressão da COVID-19.
+
+As possíveis explicações para tais fatos podem ser observadas no artigo de Szklo 19, em que são listadas: a incorreta identificação dos fumantes, vulnerabilidade econômica, maior atenção à exposição ao vírus e a menor frequência em ambientes fechados devido às leis de ambientes livres. Em adição as essas, poderíamos incluir: a definição de fumantes utilizada (p.ex.: considerar usuários de cigarros eletrônicos como não fumantes e quanto tempo desde o último uso de tabaco) e o viés de informação, haja vista a quase ausente comunicação entre profissionais de saúde, familiares e pacientes nos casos mais graves.
+
+No caso dos DEFs, não existe estudo que correlacione a progressão da COVID-19 e o consumo destes. Entretanto, no caso dos cigarros eletrônicos estudos em animais demonstraram alteração na homeostase lipídica dos macrófagos alveolares e células epiteliais e diminuição da imunidade contra agentes virais 20.
+
+Em humanos, foi relatado que usuários de cigarros eletrônicos apresentaram alterações no perfil de proteínas ligadas à defesa imunológica inata nas secreções das vias aéreas, induzindo alterações semelhantes às observadas nos fumantes tradicionais 21.
+
+Em relação aos produtos de tabaco aquecido, estudos independentes sugerem que estes produtos causariam alterações na homeostase das células pulmonares 22 e danos endoteliais 23. Tantos esses produtos como os cigarros eletrônicos poderiam também aumentar a expressão do receptor viral ECA2 8.
+
+Assim, as alterações e danos pulmonares causados pelo uso de produtos do tabaco, incluindo os DEFs, poderiam ser considerados fatores de risco para manifestações e evoluções mais graves da COVID-19.
+
+Com a chegada da pandemia, as incertezas futuras e as medidas de isolamento social se associam à preocupação com a doença. Nesse cenário, a população pode ter respostas emocionais que irão interferir de forma negativa na autoeficácia, por se sentir emocionalmente fragilizada diante de uma real ameaça, podendo recorrer às estratégias inadequadas, como fumar, na tentativa de reduzir o desequilíbrio emocional 24.
+
+Apesar de não existirem dados sobre tabagismo e sua recaída em relação às epidemias, estudos apontam que fumantes expostos a desastres naturais fumam mais do que fumantes não expostos 25 e afetam também a recaída de ex-fumantes 26.
+
+No isolamento social e a indicação para que as pessoas fiquem em suas casas, os fumantes expõem os não fumantes às emissões destes produtos. O fumo passivo pode causar danos semelhantes ao tabagismo ativo 27, incluindo aumentar a expressão da ECA2 8. Não se pode descartar a possibilidade da emissão de aerossóis contendo o vírus, em especial nos DEFs considerando sua menor temperatura de operação. Mais pesquisas são necessárias para responder à extensão dos impactos do fumo passivo na progressão e transmissão da COVID-19.
+
+As trocas gasosas, a função pulmonar e a circulação sanguínea, processos diretamente afetados na COVID-19, melhoram em curto espaço de tempo após a cessação do tabagismo 10. Parar de fumar e não se expor à fumaça e vapores do tabaco pode impactar positivamente na redução da relação de risco entre COVID-19 e tabagismo.

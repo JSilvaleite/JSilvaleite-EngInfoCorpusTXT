@@ -1,0 +1,49 @@
+Carta ao Editor sobre o Artigo “Estimativa do Excesso
+de Mortalidade Durante a Pandemia COVID-19: Dados
+Preliminares Portugueses https://doi.org/10.20344/
+amp.13928”
+Palavras-chave: Coronavírus; COVID-19; Infecções por Coronavírus; Mortalidade; Pandemia; Portugal
+
+As teses essenciais do artigo de Nogueira PJ et al1
+ partem de baselines próprias, cuja justificação não é convincente: “the current lockdown situation can be thought as
+having some similarities to a summer holiday period”. São
+destacadas semelhanças, mas são desvalorizadas diferenças importantes. Por exemplo, destacaria os muitos idosos
+subitamente privados de apoio – idosos que vivem sozinhos e lares de idosos sem funcionários. O artigo não provou a afirmação que, “individuals below age 55 benefited 
+from this lockdown period”, nem isso teria sido relevante.
+Não parece convincente que o aumento da mortalidade
+geral tenha sido causado fundamentalmente por “decreased in access to health care”. Não é plausível que as 1291
+mortes “occurring within the ED 24-48 hours after admission” teriam todas sido evitadas se as pessoas tivessem ido
+a essas mesmas Urgências, como parece implícito; 1291
+seriam 77% das 1683 mortes acima da média, o que é inverosímil. A Fig. 5 do artigo em questão mostra que as idas às
+Urgências se mantiveram uniformemente baixas durante
+o confinamento. Tal implicaria correspondente continuidade da mortalidade em excesso, facto que não se verificou:
+a mortalidade desceu em abril (Fig. 1 do mesmo artigo).
+Se o excesso de mortes foi fundamentalmente nos muitos
+idosos, não é crível que os hospitais as pudessem evitar
+tão substancialmente.
+Dados do artigo contrariam a sua própria tese de que
+“it is unlikely that deaths due to known or unknown COVID-19 infections would account for the total observed
+excess mortality”: a) “Excess mortality seems associated
+with the increasing number of observed official COVID-19
+deaths (Fig. 1B)”; b) “Excess mortality is geographically
+superimposed with districts where more COVID-19 cases
+were observed (Fig. 2)”; c) As correlações apresentadas
+(Fig.s 3 e 4 do artigo de Nogueira PJ et al) são fortes (R
+e Rho, 0,98/ 0,78/ 0,45/ 0,52) e significativas (p < 0,001/
+< 0,001/ < 0,06/ < 0,028). Usando dados do INE,2
+ verifica-
+-se que tanto a subida em março, o cume no início de abril
+e a descida posterior dos novos casos COVID-19 como o
+excesso de mortalidade foram simultâneas. Estes dados,
+juntamente com os dados do relatório nº 55 da DGS reforçam a importância já denotada do factor COVID-19: a)
+as mortes por COVID-19 explicarão a esmagadora maioria das mortes em excesso verificadas, b) a grande maioria
+de ambas verificaram-se nas idades acima de 84 anos;
+recorda-se que 40% das mortes por COVID-19 foram em
+lares de idosos (DGS), que se desconhecem as causas
+de muitas mortes nos lares ou em instituições de cuidados
+continuados,3
+ e que os dados são de auto-preenchimento
+por parte dos lares.4 O grupo mortalidade nos com mais de
+74 anos é demasiado grande e heterogéneo, pelo que seria
+benéfica a análise de subgrupos. As mesmas razões para
+análise separada por sexos.

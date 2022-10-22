@@ -1,0 +1,92 @@
+Modelo de segurança para realização de drenagem torácica na pandemia pela COVID-19
+
+RESUMO
+
+Mais de um milhão de casos do vírus SARS-CoV-2 foram confirmados em todo o mundo, com o número de mortos ultrapassando 50.000 pessoas. Uma questão importante a ser abordada diz respeito à exposição dos profissionais de saúde à esse novo vírus. Os primeiros relatórios da província de Wuhan, na China, descreveram taxas de infecção de até 29% entre os profissionais de saúde antes que o uso de equipamentos de proteção pessoal (EPI) fosse totalmente regulamentado. Existem vários protocolos sobre o uso correto de EPI durante os procedimentos geradores de aerossóis. No entanto, não há orientação específica sobre como proceder em casos de necessidade de drenos torácicos em pacientes com vazamento de ar ativo COVID-19 positivos. O objetivo desse trabalho é auxiliar os cirurgiões das mais diversas especialidades durante a drenagem torácica de um paciente com COVID-19 e evitar um risco de contaminação ao profissional e no ambiente.
+Palavras chave: Síndrome Respiratória Aguda Grave; Toracostomia; Cirurgia Torácica; Coronavirus
+INTRODUÇÃO
+
+Mais de um milhão de casos do vírus SARS-CoV-2 foram confirmados em todo o mundo, com o número de mortos ultrapassando 50.000 pessoas1. Uma questão importante a ser aborda refere-se à exposição dos profissionais de saúde a esse novo vírus. Os primeiros relatórios da província de Wuhan, na China, descreveram taxas de infecção de até 29% entre os profissionais de saúde antes que o uso de equipamentos de proteção pessoal (EPI) fosse totalmente regulamentado2. Existem vários protocolos sobre o uso correto de EPI durante os procedimentos geradores de aerossóis. No entanto, não há orientação específica sobre como proceder em casos de necessidade de drenos torácicos em pacientes com vazamento de ar ativo e que sejam COVID-19 positivos, suspeitos e até mesmo os assintomáticos, que são em torno de 80% dos pacientes3. Considerando que estamos diante de pandemia de doença até então desconhecida e que não há exames diagnósticos suficientes para testes em massa no Brasil, toda precaução deve ser considerada ao abordar-se qualquer paciente.
+
+O vírus SARS-CoV-2, que causa a doença COVID-19, demonstrou-se viável na forma de aerossol e é transmitido por gotículas4. Durante a pandemia, nos deparamos com pacientes que necessitam de drenagem de tórax, seja em enfermarias ou unidades de tratamento intensivo. Embora os drenos possam ser inseridos com menor risco de propagação viral para derrames pleurais simples, existe o receio de que possa haver alto risco de produção de aerossóis em casos de pneumotórax com vazamento de ar ativo, sejam esses primários, secundários, espontâneos ou iatrogênicos.
+
+Coletores tradicionais de drenagem torácica em selo d´água têm um orifício que permite o acoplamento a sistema de pressão negativa. Se o coletor de drenagem não estiver conectado à sucção, o orifício é aberto para a atmosfera. Assim, quando o ar escapa para dentro de um coletor de drenagem torácica, faz com que o líquido dentro desse borbulhe. Dada a aerossolização que provavelmente ocorrerá dentro do coletor de drenagem, o mesmo escapa através desse orifício e este pode ser um modo importante de contaminação do ambiente e transmissão viral5.
+
+RELATO TÉCNICO
+
+A presente proposta tem como objetivo servir de ferramenta e auxiliar os cirurgiões no tratamento das afecções que necessitam de drenagem torácica durante a Pandemia da COVID-19. Baseia-se na revisão de literatura publicada até o momento, na opinião de indivíduos especialistas na área de cirurgia torácica e não necessariamente em instruções baseadas em evidências. Reconhecemos que as estratégias de gestão são dinâmicas e devem ser determinadas individualmente, dependendo do equipamento e ferramentas disponíveis em cada instituição.
+
+Idealmente, deveriam ser utilizados sistemas de drenagem fechados digitais regularizados no Brasil e comercializados pela indústria. Como essa não é a realidade da maioria dos hospitais, propomos o passo a passo de uma alternativa segura e viável, visando diminuir a contaminação do ambiente e a exposição da equipe assistente.
+
+O principal mecanismo para prevenção da disseminação de partículas seria a utilização do filtro High Efficiency Particulate Arrestance (HEPA). O filtro HEPA foi desenvolvido em 1940 e utilizado no Projeto Manhattan, responsável pela produção das primeiras bombas atômicas da história para dificultar a propagação de contaminantes cancerígenos pelo ar6.
+
+Feitos de fibra de vidro, os filtros HEPA são projetados para conter partículas e impurezas bem menores que filtros comuns. O diâmetro das fibras, a velocidade das partículas e a espessura do filtro são fatores consideráveis na hora de analisar os filtros HEPA. Esses funcionam a partir de três passos: interceptação, impacto e difusão. As partículas aderem à fibra após seguir o fluxo de ar e sofrer o impacto nas fibras, o que faz com que essas se fixem no filtro7,8.
+
+Filtros comuns não conseguem manter vírus e bactérias, já o HEPA é capaz de reter 99,97% das impurezas do ar. A capacidade de filtragem que justifica tal porcentagem é a de que o filtro HEPA consegue filtrar partículas de até 0,3 micrômetros (µm)6,7, o que pode ser importante defesa contra a aerossolização. As partículas de aerossóis são menores que 5 micrômetros4, dessa forma o filtro HEPA seria importante barreira contra a dispersão de aerossóis no ambiente.
+
+Material necessário:
+
+3 KITS de equipamentos de proteção individual (EPIs): gorro, máscara N95, 2 pares de luvas de cano longo, avental/capote impermeável, óculos de proteção, protetor facial/face shield;
+
+Dreno de tórax do tamanho desejado e coletor;
+
+Tubo orotraqueal número 7 ou 8;
+
+Filtro HEPA;
+
+Dispositivo para fechamento da comunicação do coletor com o ambiente caso o mesmo não apresente mecanismo próprio;
+
+1 pinça hemostática esterilizada;
+
+Campos esterilizados;
+
+Lidocaína 1%;
+
+Seringa de 10 mL;
+
+Agulhas 40x12 e 25x8mm;
+
+Lâmina de bisturi número 15;
+
+Caixa de pequenos procedimentos;
+
+Fios cirúrgicos Vicryl® 1 e Nylon® 2.0 (ou fios de escolha no serviço);
+
+Material para curativo: gaze e micropore.
+
+O procedimento deve ser realizado com o uso dos EPIs preconizados pelas normativas de cada serviço para contato com pacientes COVID-19 positivo e demais cuidados, durante a pandemia. Nossas recomendações são paramentação com equipamento de proteção individual (EPI) para aerossolização: máscara N95, touca, óculos de proteção, face shield, avental impermeável descartável e luvas de cano longo; protetores de pés também podem ser recomendados em alguns serviços.
+
+Fazer preparação prévia do sistema de drenagem de forma esterilizada, com o uso de um frasco coletor, com coluna de água de 5cm (Figura 1);
+
+Utilizar o conector do tubo orotraqueal em um dos orifícios do dreno, que possui látex (Figura 2);
+
+Tampar o outro orifício com dispositivo de preferência, que garanta vedação, como por exemplo, êmbolo de seringa de 1mL, alguns drenos já possuem mecanismo próprio para vedação (Figura 3);
+
+Realizar a conexão do filtro HEPA ao mesmo (Figura 4);
+
+Medir quantos centímetros do dreno devem ser introduzidos, e ocluir com o uso de pinça hemostática reta;
+
+Conectar o dreno ao sistema (Figura 5);
+
+Posicionar o paciente de forma preconizada habitualmente, em decúbito dorsal, cabeceira a 30º e o braço ipsilateral elevado;
+
+Realizar antissepsia ampla com clororexidina degermante e alcoólica;
+
+Colocar os campos esterilizados;
+
+Realizar a anestesia local;
+
+Proceder com a incisão no 5º espaço intercostal na linha axilar posterior;
+
+Dissecar por planos, até atingir a cavidade pleural. Caso o paciente se encontre em ventilação mecânica, interromper a ventilação nesse momento;
+
+Introduzir o dreno ocluído e com o conector intermediário ligado ao frasco coletor, fixá-lo com Vicryl® 1. Realizar pontos de pele de modo a obter fechamento hermético do orifício;
+
+Retirar a pinça hemostática;
+
+Passar ponto em U com Nylon 2.0® e fazer o curativo.
+CONCLUSÕES
+
+A aerossolização pelo dreno de tórax é fenômeno ainda desconhecido, porém devemos pensar em evitar qualquer possível meio de contaminação. A utilização de todo o circuito fechado, ocluído por pinça e também já conectado ao frasco coletor fazem parte do arsenal para a segurança da equipe assistencial.
+
+Deve-se considerar como limitação do trabalho o fato de que o filtro HEPA intercepta partículas de no mínimo 0,3µm. Uma gotícula tem 0,5µm. Entretanto, o tamanho do vírus varia entre 0,07 e 0,09µm9. Considerando-se que o microorganismo precisa de um veículo para ser carreado para o ambiente e que o mesmo seria a aerossolização, o filtro HEPA seria eficiente. Entretanto, a eficácia desta adaptação precisa ser estudada e os benefícios comprovados por meio da medicina baseada em evidências. No entanto, dada a pandemia atual, qualquer método de redução da propagação viral deve ser considerado.

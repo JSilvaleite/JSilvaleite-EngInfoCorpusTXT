@@ -1,0 +1,83 @@
+Buscas na internet sobre medidas de enfrentamento à COVID-19 no Brasil: descrição de pesquisas realizadas nos primeiros 100 dias de 2020
+
+
+RESUMO
+
+Objetivo
+
+descrever os perfis de interesse de busca de informações na internet sobre termos relacionados à epidemia da Covid-19 no Brasil.
+
+Métodos
+
+realizou-se uma pesquisa quantitativa exploratória usando o Google Health Trends; foram analisados dados diários de interesse, definido como probabilidade de consulta (Pr), sobre 23 termos nas buscas realizadas por usuários conectados no Brasil no período de 1º de janeiro a 9 de abril de 2020.
+
+Resultados
+
+o pico de interesse (Pr=0,0651) pelo tema coronavirus ocorreu em 21 de março; o interesse pelos temas uso de máscaras (Pr=0,0041), distanciamento social (Pr=0,0043) e higienização das mãos com álcool em gel (Pr=0,0037) foi superior ao interesse pelos temas etiqueta respiratória (Pr=0,0010) e higienização das mãos com água e sabão (Pr=0,0005).
+
+Conclusão
+
+a diferença de interesse pelos temas relacionados ao combate à Covid-19 foi expressiva e pode orientar novas estratégias de divulgação de informações em saúde.
+Palavras-Chave: Infecções por Coronavirus; Comunicação; Epidemiologia Descritiva
+
+
+INTRODUÇÃO
+
+A Covid-19 é uma doença infecciosa causada por um coronavírus (SARS-CoV-2) descoberto recentemente. O vírus e a doença eram desconhecidos até o surto em Wuhan, China, ocorrido em dezembro de 2019.1 O primeiro caso confirmado no Brasil foi detectado em São Paulo, em 26 de fevereiro,2 e, até 8 de abril de 2020, 15.927 casos foram confirmados no país, com 800 óbitos.3 Desde 30 de janeiro de 2020, a Covid-19 é considerada pela Organização Mundial da Saúde (OMS) uma emergência internacional de saúde pública.
+
+Medicamentos para o tratamento efetivo da doença ou vacinas para impedir a infeção pelo SARS-CoV-2 não estão disponíveis até o momento. Dessa forma, recomenda-se distanciamento social, etiqueta respiratória e higienização das mãos como medidas de combate à pandemia.2 Entre essas medidas, o distanciamento social é a que trouxe maiores impactos ao cotidiano dos brasileiros. O Distrito Federal implementou essa estratégia em 11 de março,2 seguido por São Paulo, estado brasileiro com maior população, que adotou o distanciamento em 21 de março.4 Outros estados também aderiram ao distanciamento social, contudo, em 24 de março de 2020, o presidente da República conclamou, em cadeia nacional, a “volta à normalidade”, contrariando recomendações globais para o enfrentamento da epidemia.5
+
+O perfil de consultas aos mecanismos de busca na internet é uma boa proxy do interesse, preocupações e intenções de uma população sobre determinado tema. Embora não represente a opinião de quem faz a busca, sinaliza a sua tendência, pois não é possível saber o motivo de uma dada busca, mas acessa-se o seu conteúdo.6 Essa é uma ferramenta crescente no monitoramento de agravos e condições de saúde7 e de comportamentos relacionados a eles.9
+
+As estratégias para se conter a propagação da Covid-19 são, em grande parte, comportamentais, e impactam a sociabilidade e a subsistência da população. Acrescente-se que essas medidas atualizaram e recrudesceram a polarização política e social da população. Nesse contexto, conhecer as dúvidas da população brasileira sobre esse objeto pode oferecer aos formuladores de políticas públicas possibilidades de aprimorar a adesão das pessoas às medidas de contenção da pandemia.
+
+O objetivo desta pesquisa foi descrever os perfis de interesse de busca de informações na internet sobre termos relacionados à epidemia da Covid-19 no Brasil.
+
+MÉTODO
+
+Trata-se de uma pesquisa quantitativa exploratória que descreveu as buscas realizadas no Google sobre termos relacionados à pandemia da Covid-19 e medidas de contenção estabelecidas pelo Ministério da Saúde.
+
+Em 2018, a quantidade de brasileiros que acessavam a internet atingiu 70%, o que equivale a, aproximadamente, 127 milhões de pessoas. Na região Sudeste, 75% dos habitantes tinham acesso à internet e, na região Nordeste, 64%. Nas demais regiões, 70% dos habitantes tinham acesso à internet.10
+
+Foram analisados 23 termos relacionados à COVID-19 usando o Google Health Trends (GHT), uma interface para acessar dados de buscas na internet. O GHT é gratuito e requer acesso por meio de interface de programação de aplicativo (API; disponível em: https://sites.google.com/a/google.com/health-trends-api-getting-started-guide/).
+
+A API do GHT fornece dados de consultas na internet a partir de 2004, em vários níveis de agregação espacial e temporal. As consultas são extraídas do conjunto de dados geral do Google na forma de uma proporção, dividindo-se o número de pesquisas para um termo específico em um intervalo de tempo pelo número total de pesquisas de termos nesse mesmo período. O valor obtido é multiplicado por uma constante predefinida para facilitar sua visualização. Portanto, seus resultados expressam a probabilidade de busca (Pr) de um determinado termo, denominada interesse neste artigo, e padronizada para o intervalo entre 0 e 1.
+
+Foram extraídos dados diários de buscas feitas por usuários conectados no Brasil no período de 1º de janeiro a 9 de abril de 2020. A Pr de cada termo foi agregada de acordo com categorias definidas. O interesse geral no tema foi representado pelos termos “coronavírus”, “corona”, “covid” e “sars”. Para a etiqueta respiratória: ‘tosse’, ‘tossir’, ‘espirro’, ‘espirrar’, ‘aperto de mão’, ‘apertar a mão’, ‘abraço’, ‘abraçar’. Para uso de máscaras: ‘máscara’, ‘N95’, ‘bico de pato’. Para distanciamento social: ‘quarentena’, ‘isolamento social’, ‘distanciamento social’. Para higienização das mãos com álcool em gel: ‘álcool gel’, ‘álcool em gel’. Para higienização das mãos com água e sabão: ‘sabão’, ‘sabonete’, ‘lavar as mãos’.
+
+Na escolha dos termos, foram selecionados termos não técnicos, os quais, ainda que imprecisos, são provavelmente mais próximos da linguagem cotidiana da população brasileira em geral.
+
+A API do GHT utiliza a linguagem Python, e a organização dos dados e elaboração dos gráficos foi realizada por meio da linguagem R.
+
+RESULTADOS
+
+Entre 1º de janeiro e 9 de abril de 2020, verificou-se um aumento do interesse sobre o tema coronavírus e sobre temas associados às medidas comportamentais para sua contenção.
+
+A Figura 1 mostra a tendência da Pr entre alguns marcos da epidemia no país. O pico de interesse (Pr=0,0651) pelo tema ocorreu em 21 de março, quando São Paulo divulgou o decreto sobre o distanciamento social.
+Figura 1 – Tendência da probabilidade de interesse de busca sobre o tema COVID-19 no Brasil, segundo o Google Health Trends, de 1o de janeiro a 9 de abril de 2020Legenda:A: 11/01 – 1º óbito registrado na China.B: 27/01 – 1º caso suspeito no Brasil (em Minas Gerais).C: 30/01 – A organização Mundial da Saúde (OMS) declara emergência de saúde pública.D: 26/02 – 1º caso confirmado no Brasil.E: 11/03 – 1º decreto sobre distanciamento social no Brasil (Distrito Federal).F: 17/03 – 1º óbito registrado no Brasil (em São Paulo).G: 21/03 – O estado de São Paulo anuncia decreto sobre distanciamento social. 
+
+Destaca-se o pequeno interesse (menor Pr=0,0008) sobre o tema no período entre a pandemia ser considerada emergência de saúde pública e o primeiro caso confirmado no Brasil. É apenas com o início de aplicação de medidas de distanciamento social (Pr=0,0273) e com o primeiro óbito no Brasil (Pr= 0,0577) que se observa crescimento consistente e sustentado de interesse sobre o tema.
+
+Observa-se, na Figura 2 , que o interesse da população em buscar informações sobre as medidas de contenção da pandemia apresentou crescimento expressivo a partir das primeiras medidas de distanciamento social. O interesse pelos temas uso de máscaras (Pr=0,0041), distanciamento social (Pr=0,0043) foi higienização das mãos com álcool em gel (Pr=0,0037) é superior ao interesse pelos temas etiqueta respiratória (Pr=0,0010) e higienização das mãos com água e sabão (Pr=0,0005).
+Figura 2 – Tendência da probabilidade de interesse de busca sobre os temas relacionados à prevenção da Covid-19 no Brasil, segundo o Google Health Trends, de 1o de janeiro de 2020 a 9 de abril de 2020Legenda:A: 11/03 – 1º decreto sobre distanciamento social no Brasil (Distrito Federal). 
+
+DISCUSSÃO
+
+Os períodos de aumento do interesse sobre a Covid-19 ocorreram após a divulgação dos principais marcos epidemiológicos da doença no Brasil pelos meios de comunicação. Além disso, os resultados sugerem possíveis lacunas de informação sobre algumas das principais formas de prevenção.
+
+O perfil das buscas encontrado durante a atual epidemia de Covid-19 foi semelhante ao observado durante a epidemia de Zika, ocorrida em 2015, quando predominaram as buscas reativas e não as proativas, direcionadas para estratégias de prevenção.11
+
+As notícias falsas, os ruídos de comunicação e as divergências entre o presidente da República e os governadores e ministro da Saúde sobre como lidar com a epidemia5 podem ter contribuído para reduzir o interesse da população pela doença até o final de março, bem como para o crescimento repentino e heterogêneo do interesse pelos temas relacionados a sua prevenção após a adoção das medidas de distanciamento social.
+
+Além disso, a falta de clareza nas informações fornecidas pelas autoridades sanitárias sobre o distanciamento social, incluindo ausência de uniformidade sobre quais cuidados devem ser tomados, pode contribuir para agravar os impactos psicológicos de uma quarentena.12
+
+O crescimento substancial e sustentado do interesse pela pandemia no Brasil ocorreu a partir das primeiras medidas de distanciamento social. Portanto, não é surpreendente que o tema de maior interesse seja distanciamento social, dadas suas implicações para além do campo da saúde, incluindo os impactos na renda de trabalhadores informais e precários e a necessidade de programas estatais emergenciais destinados a esses segmentos.13
+
+O tema máscaras foi o segundo mais procurado, principalmente após a recomendação do Ministério da Saúde quanto ao uso de máscaras faciais para a população em geral, inclusive sugerindo a fabricação artesanal e estimulando a população a compartilhar os resultados dessa experiência nas redes sociais.14
+
+O grande interesse pelo tema higienização das mãos com álcool gel e o pequeno interesse pelo tema higienização das mãos com água e sabão são relevantes para se questionar se a comunicação entre as autoridades sanitárias e a população foi efetiva. É possível que exista uma lacuna de informação sobre um comportamento efetivo e de baixo custo para a contenção da pandemia.
+
+A principal limitação deste trabalho é fundamentar-se na probabilidade de busca pelos termos, não sendo possível estabelecer os motivos que levaram às buscas. O distanciamento social, por exemplo, foi o tema de maior destaque entre as medidas de contenção, mas este estudo não é capaz de definir se existe, ou não, apoio e adesão da população a essa medida. Para tal, são necessárias investigações adicionais – por exemplo, sobre o conteúdo de postagens em redes sociais.
+
+Conclui-se, então, que houve diferença de interesse pelos temas relacionados ao combate à Covid-19, o que pode orientar novas estratégias de divulgação de informações em saúde. As autoridades de saúde pública podem utilizar o monitoramento de buscas de internet como proxy da difusão de informação em saúde.9
+

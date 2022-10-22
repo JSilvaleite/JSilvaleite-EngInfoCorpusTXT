@@ -1,0 +1,249 @@
+Recomendações do Colégio Brasileiro de Cirurgiões e da Sociedade Brasileira de Cirurgia Bariátrica e Metabólica para o retorno às cirurgias bariátricas e metabólicas em regiões epidemiológicas flexibilizadas, no período de pandemia COVID-19
+
+
+RESUMO
+
+A priorização de qualquer operação eletiva visa facilitar o acesso do paciente de acordo com as necessidades clínicas, maximizando a equidade de acesso e minimizando os danos causados pelo atraso. As categorias de operações eletivas foram adaptadas para definir sistema de priorização objetiva que reflete esses princípios para operações bariátricas e metabólicas. Em razão dos fatores que contribuem para a morbidade e mortalidade da obesidade e do diabetes tipo 2, a priorização cirúrgica deve ser baseada na estratificação de risco clínico. Para pacientes com diabetes tipo 2, sugerimos que a operação possa ser priorizada para aqueles com maior risco de morbidade e mortalidade, em prazo relativamente curto. Da mesma forma, é necessário orientar a equipe cirúrgica quanto aos cuidados necessários tanto no pré, per e pós-operatório da cirurgia bariátrica e metabólica. As recomendações visam reduzir o risco de contágio hospitalar da equipe cirúrgica tanto entre profissionais de saúde quanto entre profissionais de saúde e pacientes. Em resumo, estas recomendações foram moldadas após análise minuciosa da literatura disponível e são extremamente importantes para mitigar os danos das complicações clínicas, sensíveis a doença obesidade e comorbidades, mantendo a segurança dos profissionais de saúde e dos pacientes.
+Palavras chave: Cirurgia Bariátrica; Diabetes Mellitus Tipo 2; Obesidade; Comorbidade; Coronavirus; Pandemia
+
+
+INTRODUÇÃO
+
+À medida que a pandemia de COVID-19 assume diferentes comportamentos nas várias localidades do país e a aderência da população às medidas de distanciamento social e higienização parecem ter sido efetivas, são crescentes os questionamentos sobre a retomada de procedimentos cirúrgicos eletivos. Esses estão suspensos até então por recomendação das principais sociedades científicas de Cirurgia do país.
+
+O Conselho Federal de Medicina (CFM) divulgou no dia 2 de abril de 2020 recomendações dirigidas aos Conselhos Regionais de Medicina (CRMs) para que avaliassem a necessidade de suspensão, ou não, de atendimentos eletivos (consultas, procedimentos e operações) nas respectivas jurisdições, durante a pandemia da COVID-19. Para tanto o CFM, orientou que fossem consideradas as determinações legais feitas pelas autoridades locais (governadores e prefeitos), as recomendações sanitárias vigentes, a capacidade da rede assistencial local (pública e privada) e os indicadores epidemiológicos1.
+
+A recomendação do CFM foi adotada em função da coexistência, no País, de múltiplos cenários e realidades no campo assistencial, decorrente do aspecto não uniforme da disseminação da doença COVID-19 no Brasil, face à vasta extensão territorial. Assim, os CRMs podem analisar, de modo específico e adequado, os contextos locais de estados e municípios1.
+
+BENEFÍCIOS DAS CIRURGIAS BARIÁTRICAS E METABÓLICAS
+
+O Boletim Epidemiológico, editado pela Secretaria de Vigilância em Saúde do Ministério da Saúde - Centro de Operações de Emergências em Saúde Pública | COE-COVID-19, publicado em 26 de abril de 2020, aponta a existência, no Brasil, de múltiplos cenários e distintas realidades no campo assistencial, no que tange à COVID-19. Há disseminação não uniforme da doença COVID-19, face à vasta extensão territorial. No mesmo boletim, entre os óbitos confirmados no Brasil por COVID-19, 40% tinham diabetes e, em todos os grupos de risco, a maioria dos indivíduos tinha 60 anos ou mais, exceto para aqueles com obesidade2. Diversas evidências de níveis 1 e 2 demonstraram que as cirurgias bariátricas e metabólicas são seguras e quando comparadas a qualquer outra forma terapêutica de obesidade, levam a maior e mais duradoura perda ponderal. Além disso, estes procedimentos estão associados à diminuição da mortalidade cardiovascular e por qualquer causa com seguimento maior do que 20 anos, entre indivíduos com obesidade extrema3-5.
+
+Em relação ao DT2, diversos estudos prospectivos e randomizados controlados incluindo milhares de pacientes, com seguimento de cinco anos, comprovaram que o tratamento cirúrgico leva a melhor controle metabólico do que o tratamento clínico isolado. Além disso, também em estudos de níveis 1 e 2 de evidência científica, a cirurgia metabólica é superior ao tratamento clínico na prevenção da doença renal por diabetes3-9.
+
+Assim sendo, em razão da não uniformidade do retorno das cirurgias eletivas em nosso País, neste período de transição, torna-se essencial a definição de uma série de medidas visando garantir a máxima segurança dos profissionais de saúde e do próprio paciente. Este é o retorno ao chamado “novo normal”, durante o período de enfrentamento da COVID-19. Desta maneira:
+
+Toda a programação cirúrgica deverá ser revista em relação aos riscos, prioridades e recursos, conforme determinação dos Conselhos Regionais de Medicina frente às determinações legais regionais/locais.
+
+Após a liberação local pelos governos e Conselhos de Medicina estaduais, caberá ao diretor técnico do hospital a responsabilidade de determinar o momento para o retorno das cirurgias bariátricas e metabólicas10,11.
+
+Assim, as recomendações relativas para o retorno seguro às operações eletivas foi dividido em: I.
+
+Recomendações para o período pré-operatório: ?
+
+Período compreendido entre a primeira consulta e o momento de marcação da operação.
+
+Recomendações para o período per-operatório: ?
+
+Período compreendido entre a internação até à alta hospitalar.
+
+Recomendações para o período pós-operatório: ?
+
+Período após a alta hospitalar.
+
+1. Recomendações para o período pré-operatório: a.
+
+As orientações para indicação de tratamento cirúrgico para obesidade e diabetes tipo 2 não mudam em relação às resoluções CFM nº 2.131/15 e CFM nº 2.172/2017 em que estão elencados todos os critérios.
+
+A ANVISA, em nota técnica GVIMS/GGTES/ANVISA nº 06/20, classifica as cirurgias eletivas em essenciais e não essenciais. Cirurgias eletivas essenciais são aquelas em que o adiamento da intervenção causa prejuízos à saúde do paciente, agravando as lesões sobre órgãos alvos e aumentando a morbi-mortalidade durante eventual espera. Foram definidas como eletivas essenciais, aquelas que devem ser realizadas entre três e oito semanas depois da preparação do paciente para a operação: I.
+
+Analogamente a pacientes com câncer, para os quais existem situações em que o retardo das intervenções pode agravar consideravelmente a evolução clínica, classificam-se os procedimentos para o tratamento da obesidade e do diabetes tipo 2 como cirurgias eletivas essenciais.
+
+Em razão do momento de exceção que a pandemia causou, critérios para priorização dos candidatos à cirurgia bariátrica e metabólica são definidos11: I.
+
+Em relação à doença obesidade: ?
+
+Pacientes com obesidade grave, definidos como superobesos com IMC > de 50 kg/m2.
+
+Pacientes com outras comorbidades, independentemente do IMC: i.
+
+Portadores > 2 comorbidades e/ou;
+
+Síndrome de hipoventilação grave e/ou;
+
+Apneia do sono grave e/ou;
+
+Insuficiência renal e/ou;
+
+Insuficiência cardíaca congestiva por obesidade e/ou;
+
+Prévio a transplante de órgãos, em que a perda ponderal diminui a probabilidade de complicações graves e mortalidade.
+
+Em relação ao diabetes tipo 2: ?
+
+Pacientes com IMC >30 kg/m2:
+
+a.
+HbA1c > 8% em uso de duas ou mais medicações orais;
+
+Uso de insulina;
+
+História prévia de evento cardiovascular e;
+
+Albuminúria e/ou Insuficiência renal.
+
+Testes diagnósticos para COVID-19, para os pacientes e equipe cirúrgica: I.
+
+Recomenda-se anamnese detalhada sobre sintomas respiratórios do paciente cuja operação foi indicada e para todos que estiveram em contato com ele nos últimos 30 dias.
+
+A mínima suspeita de infecção, principalmente clínica, deve ser razão para suspensão da cirurgia.
+
+Já a utilização de testes diagnósticos, seja por RT-PCR ou sorologia deve seguir a orientação dos protocolos específicos de cada serviço.
+
+As mesmas orientações diagnósticas se aplicam à equipe cirúrgica.
+
+Estratégias para minimização de riscos dos pacientes prioritários durante a espera12: I.
+
+Pacientes sem controle glicêmico adequado pelas mudanças de estilo de vida e uso de metformina, recomenda-se adicionar análogos GLP1 e/ou inibidores da SGLT-2, com o objetivo de melhor controle glicêmico e perda/manutenção de peso. ?
+
+Os inibidores da SGLT2 não devem ser usados se COVID19 for diagnosticada, por maior risco de cetoacidose.
+
+Reforçar a orientação da utilização de dietas de baixo índice glicêmico e hiperproteicas.
+
+2. Recomendações para o período per-operatório13-15: a.
+
+Equipe Cirúrgica, incluindo anestesiologista: I.
+
+No cenário da transmissão comunitária, todos os trabalhadores do serviço de saúde correm algum risco de exposição à COVID-19, seja no local de trabalho ou na comunidade.
+
+Toda a equipe deve usar máscara cirúrgica no ambiente hospitalar, inclusive ao examinar o paciente.
+
+É fundamental o reforço dirigido às equipes cirúrgicas quanto a medidas de higiene, como lavar as mãos com água e sabão SEMPRE antes e após cada contato com paciente, quando tocar a máscara ou os óculos, por exemplo.
+
+Antes de realizar o procedimento cirúrgico é imperativo que haja equipamentos de proteção individual (EPI) para toda a equipe, adequados para o atendimento de todos pacientes que serão operados.
+
+Seguir rigorosamente as recomendações da NT GVIMS/GGTES/ANVISA 04/2020 - Orientações para serviços de saúde: medidas de prevenção e controle que devem ser adotadas durante a assistência aos casos suspeitos ou confirmados de infecção pelo novo coronavírus (SARS-CoV-2) para escolha de EPI, assim como de paramentação e desparamentação de forma segura. ?
+
+Vale ressaltar que máscaras de tecido não são EPIs e dessa forma não devem ser utilizadas pela equipe médica durante a assistência hospitalar.
+
+Qualquer membro da equipe cirúrgica, anestésica ou colaborador da instituição que apresente sintomas “gripais” (sintomático) deve ser orientado a não participar do ato operatório. Este deve ser testado para COVID-19 e afastado do trabalho, seguindo as orientações do Ministério da Saúde.
+
+Estimular a realização de simulações de paramentação e desparamentação adequadas para toda a equipe: ?
+
+Justifica-se esta medida uma vez que o uso incorreto de EPI (relacionado com o modelo adequado e o ato de vestir apropriado) além de favorecer o risco de contaminação da equipe, também pode refletir em desperdício de EPIs, nesse momento de franca escassez de recursos;
+
+Importante ressaltar que o momento da desparamentação é crítico para o risco de contaminação quer seja por negligência individual e/ou cansaço após ato cirúrgico.
+
+É importante a elaboração de protocolos e conferências específicas (recomenda-se, minimamente, o Protocolo de Cirurgia Segura - Lista de verificação de segurança cirúrgica e outro protocolo para paramentação e desparamentação de EPIs) com o objetivo de otimizar o fluxo de trabalho e prevenir infecções ou outros eventos adversos.
+
+Preferencialmente, o ato operatório deve ser realizado pelo cirurgião mais experiente, para minimizar as complicações assim como o tempo cirúrgico.
+
+É fundamental manter o menor número de pessoas dentro do ambiente centro-cirúrgico, em especial no interior da sala operatória. Assim, é importante orientar as equipes de apoio, em especial as de órteses, próteses e materiais especiais (OPME), para que limitem a permanência na sala, devendo permanecer apenas em situações essenciais.
+
+Ratificar as orientações sobre os objetos pessoais (bolsas, carteiras, chaves etc.) que não devem ser levados para o ambiente cirúrgico. No caso de aparelhos celulares, o uso deve ser feito de forma bastante criteriosa, seguindo as orientações da CCIH do serviço de saúde.
+
+Durante a obtenção da via aérea do paciente para o ato anestésico, deve-se reduzir o pessoal em sala. A equipe cirúrgica deve ficar fora da sala até que a via aérea definitiva seja estabelecida e o doente conectado a sistema fechado de anestesia.
+
+Estratégia de vigilância passiva deve ser implementada no hospital. Todos os profissionais de saúde devem ser orientados a fazer autoavaliação quanto a febre, tosse, falta de ar ou outros sintomas não específicos, mas potenciais indicativos de COVID-19. Na presença de algum desses sinais ou sintomas, os indivíduos devem: ?
+
+Relatar essas informações à chefia no serviço de saúde;
+
+Submeter-se a avaliação médica imediata e receber orientações sobre o acompanhamento;
+
+Ser afastados das atividades por até 14 dias, ou conforme específico protocolo adotado pelo serviço de saúde.
+
+Em relação aos riscos relativos à cirurgia videolaparoscópica versus a via laparotômica, a evidência científica é limitada para pacientes com suspeita ou confirmação de COVID-19. Entretanto, o vírus já foi encontrado em células do trato gastrointestinal e em todas as secreções, incluindo saliva, conteúdo entérico e fezes, além de estar presente no sangue15-17. Assim, sugere-se: ?
+
+Uso de trocartes descartáveis mitigando o risco de vazamento por válvulas e/o membranas de borracha.
+
+Em caso de trocartes permanentes, verificar a integridade de borrachas e redutores no sentido de minimizar o vazamento durante o procedimento.
+
+Determinar um único trocarte para esvaziamento do pneumoperitôneo após a cirurgia, se possível, em sistema fechado e com dispositivos de filtragem.
+
+Limitar a incisão ao diâmetro do trocarte para reduzir a possibilidade de vazamento no sítio de punção.
+
+A decisão de usar ou não a via laparoscópica deve ser individualizada a critério clínico e do cirurgião, levando em consideração o risco de contágio por questões técnicas inerentes ao material cirúrgico18.
+
+O uso de dreno abdominal é de indicação da equipe cirúrgica e, esta não deve ser mudada em razão da pandemia.
+
+Os pacientes devem ser preferencialmente extubados na sala operatória e caso necessitem de recuperação pós-anestésica, essa deverá ocorrer na sala operatória. Pacientes que necessitem de permanência em sala de recuperação pós-anestésica devem usar máscara e ser mantidos a distância não menos que 1,5 metros de outros pacientes.
+
+A decisão de transferência para a UTI é da equipe cirúrgica em comum acordo com o anestesiologista e não deve ser mudada face à pandemia. Assim, devem-se rever os recursos hospitalares que estão sendo utilizados em razão da COVID-19, como taxa de ocupação de terapia intensiva.
+
+Paciente e acompanhantes: I.
+
+É essencial capacitar continuamente e incentivar os profissionais de saúde para que tenham alto índice de alerta para identificar casos suspeitos de COVID-19 entre os pacientes, acompanhantes/visitantes e até entre os próprios profissionais do serviço de saúde.
+
+Um dos objetivos da identificação de pacientes com suspeita da COVID-19 é orientar estratégias de prevenção e controle de infecção para impedir ou limitar a transmissão do vírus, principalmente na instituição.
+
+IDevem-se estabelecer estratégias de triagem e de vigilância que podem ser adotadas pelos serviços de saúde.
+
+Manter profissionais de saúde treinados e alertas para: ?
+
+Definições de casos (suspeitos ou confirmados) de COVID-19;
+
+Sinais e sintomas clínicos da COVID-19 e;
+
+Epidemiologia local relevante, incluindo grupos de risco.
+
+Exigir, no momento da internação, o termo de consentimento livre e esclarecido preenchido e devidamente assinado para todos os doentes, o qual deve incluir informações sobre o risco de desenvolvimento da COVID-19 em razão da disseminação comunitária do vírus.
+
+Pacientes e acompanhantes devem ser orientados a dirigirem-se para o hospital com máscara cirúrgica, e devem lavar as mãos, com posterior aplicação de álcool gel, assim que chegarem à Instituição.
+
+Solicitar diariamente que as equipes de saúde relatem e discutam pacientes identificados com sintomas/histórico compatíveis com COVID-19.
+
+4. Recomendações para o período pós-operatório: I.
+
+Os critérios de alta devem ser os mesmos empregados pela equipe fora do período de pandemia, devendo todos estar alertas aos sintomas sugestivos da COVID-19, não só em ambiente hospitalar, mas também após a alta.
+
+A alta hospitalar, quando muito prematura, aumenta o risco de re-internação. Isso exporia o paciente, já debilitado pelo ato cirúrgico, a eventuais ambientes de contágio ao SARS-CoV-2 em pronto-atendimentos, em especial pela eventual dificuldade de disponibilidade de leitos.
+
+Os doentes devem ser orientados para possíveis sintomas relacionados à COVID-19, após a alta e se presentes, devem entrar em contato com a equipe cirúrgica ou hospital onde foram operados.
+
+A nutrição é determinante crítico da resposta imunológica. A cirurgia bariátrica leva a alteração anatômica do trato gastrointestinal com potencial para deficiências nutricionais. Ademais, a ingestão alimentar é bastante limitada no pós-operatório imediato em decorrência do próprio procedimento cirúrgico. Assim, a necessidade de modificação da dieta no pós-operatório da cirurgia bariátrica é compreensível. ?
+
+Porém, não há evidências de que suplementação adicional, diferente das já citadas em diretrizes nacionais e internacionais específicas para pacientes após cirurgia bariátrica, modifiquem a resposta imunológica. Atenção deve ser dada à avaliação clínica e laboratorial para possíveis quadros de deficiências nutricionais19.
+
+Em virtude da alta prevalência de deficiências nutricionais de certos micronutrientes em pacientes candidatos à cirurgia bariátrica, a investigação e correção no pré-operatório é obrigatória.
+
+Recomenda-se a progressão gradual da dieta em volume e consistência em etapas e conforme tolerância. Portanto, é imprescindível reposição, no pós-operatório imediato, de polivitamínico mastigável ou em gotas, além de vitamina D3 em gotas e vitaminas do complexo B intramuscular.
+
+Apesar da desnutrição proteica estar associada à piora da imunidade mediada por células, havendo redução da função fagocítica, assim como alterações do sistema complemento, da concentração de IgA e da produção de citocinas, não é descrita maior taxa de complicações infecciosas precoces em pacientes submetidos à cirurgia bariátrica, quando comparados a pacientes submetidos a outros tipos de procedimentos cirúrgicos. A suplementação com proteína do soro do leite (“whey protein”), clara de ovo e/ou caseína são algumas fontes de proteína de alta biodisponibilidade recomendadas e podem ser associadas a partir da 2ª semana da operação, conforme a adaptação à dieta: ?
+
+A equipe também deve oferecer a assistência nutricional remota aos pacientes, evitando-se danos causados por má nutrição/hidratação decorrentes da eventual inadequada adaptação dietética, no pós-operatório. Isso poderia expor os pacientes à necessidade de reposição endovenosa em ambiente hospitalar ou mesmo nova internação.
+
+A equipe deve disponibilizar o atendimento remoto aos pacientes por meio da telemedicina, nesse período de exceção. O objetivo é favorecer o reconhecimento precoce de sinais e sintomas referentes à doença COVID-19 assim como mitigar a possibilidade de contágio aos pacientes, em ambientes ambulatorial e hospitalar. ?
+
+Deve-se reforçar a atenção psicológica aos pacientes frente aos possíveis efeitos biopsicossociais negativos que a pandemia pode determinar àqueles operados.
+
+a.
+Assim as equipes devem contar com apoio psicológico, também, remoto, favorecendo a assistência segura aos pacientes nesse momento de exceção.
+
+Essas recomendações são baseadas em evidências produzidas até o momento. Desta forma, podem ser modificadas a qualquer tempo, desde que novas evidências conclusivas estejam disponíveis ou que a situação epidemiológica da COVID-19 seja alterada em nosso país.
+
+DISCUSSÃO
+
+No Brasil, país de dimensões continentais, a distribuição da COVID-19 é díspar, assim como é o período dos picos de infecção viral. Nesse sentido, o poder público tem papel fundamental na avaliação permanente do comportamento geográfico da disseminação da COVID-19. Por outro lado, a pandemia não impediu a evolução natural de afecções não relacionadas ao novo coronavírus.
+
+Em paralelo aos casos de infecção por coronavírus, há outras doenças com elevado índice de morbidez e mortalidade, no caso em particular a obesidade e o diabetes20.
+
+Atualmente, 55,7% da população adulta do Brasil estão com excesso de peso e 19,8% é obesa, de acordo com a Pesquisa de Vigilância de Fatores de Risco e Proteção para Doenças crônicas por Inquérito Telefônico (Vigitel/MS), de 201820. Esse inquérito mostra ainda que 7,7% da população adulta apresenta diabetes e 24,7%, hipertensão - doenças que podem estar relacionadas à obesidade. A Pesquisa Nacional de Saúde (PNS), de 2013, indica que, dentre os adultos com diabetes, 75,2% têm excesso de peso e, entre os adultos com hipertensão, 74,4% têm excesso de peso. Assim, o Brasil atingiu a maior prevalência de obesidade (19,8%) em adultos nos últimos treze anos. Entre 2006 e 2018, o percentual cresceu 67,8%20.
+
+Segundo o 16º Boletim Epidemiológico, publicado pelo Ministério da Saúde em 2019, o diabetes é a quarta causa de morte em homens e a terceira causa em mulheres - a doença causou mais de 48 mil óbitos só em 201721.
+
+Vale lembrar, ainda, que o diabetes é fator de risco para mortes por infarto, AVC e alguns tipos de câncer. A Sociedade Brasileira de Cardiologia (SBC) e a Sociedade de Cardiologia do Estado de São Paulo (SOCESP) alertam para queda de até 70% nos procedimentos cardíacos ao longo da pandemia. Estariam os pacientes deixando de procurar os médicos ou negligenciando sintomas com medo de ir às unidades de saúde?
+
+Um agravante nessa história é que pessoas com diabetes usualmente também têm hipertensão arterial e dislipidemia. Todos são quadros silenciosos, porém potencialmente letais - sobretudo quando combinados. Para piorar, sabe-se que o descontrole dessas doenças, bem como o da glicemia, pode favorecer as formas mais graves da COVID-1922.
+
+Os procedimentos bariátricos continuam sendo intervenções seguras e eficazes para pacientes com obesidade e de alto risco. A tomada de decisão clínica deve ser evidência baseada no contexto de doença crônica. A abordagem adequada da equipe para o cuidado perioperatório é obrigatória, com atenção especial às questões nutricionais e metabólicas19.
+
+No cenário determinado pela pandemia, o retardo no início, ou na continuidade, do tratamento desses pacientes com doenças não emergenciais, graves e/ou crônicas pode resultar em aumento da morbimortalidade. A câmara técnica de cirurgia bariátrica e síndrome metabólica do CFM, preocupada com essa situação considera imperativos a priorização e a organização conjunta da retomada do atendimento. Entre os muitos casos de paciente sem risco emergencial, tem-se observado morbidade aumentada, documentada em diferentes países, o que levou várias associações a definir planos estruturados de retomada, como por exemplo o indicado pelo American College of Surgeons (ACS)13.
+
+Alguns destes pacientes obesos e/ou diabéticos têm tido diminuída a probabilidade de sucesso do tratamento cirúrgico, causada pelo adiamento. Entidades da saúde também devem se preocupar com esse grupo e considerar planejamento do tratamento destes pacientes. Em especial, aquelas enfermidades cujo atraso do tratamento resulta em piores resultados, pois isso não só aumenta as complicações como gera sobrecarga ainda maior ao sistema de saúde.
+
+Devido à natureza progressiva da obesidade e do diabetes, o atraso da operação aumenta os riscos de morbimortalidade, exigindo estratégias para mitigar os danos. O risco de dano, no entanto, varia entre os pacientes, dependendo do tipo e da gravidade das comorbidades.
+
+No Brasil, em regiões flexibilizadas pelos governos locais, tendo como base dados epidemiológicos da COVID-19, as operações eletivas já estão sendo retomadas, havendo enorme acúmulo de pacientes que se beneficiariam de cirurgia bariátrica e metabólica, durante o momento de quarentena1,2.
+
+Sendo assim, como deve-se priorizar a quem servir primeiro com recursos limitados?
+
+Em nível amplo, a resposta é simples. Se os pacientes estiverem suficientemente bem para serem candidatos a cirurgia de forma segura, deve-se dar preferência àqueles com maior risco de morbimortalidade relacionada à doença, se for provável que esse risco possa ser reduzido pela operação.
+
+Além disso, em muitos sistemas de saúde, públicos ou privados, os candidatos à cirurgia bariátrica e metabólica são atualmente colocados em única lista de espera para procedimentos eletivos, independentemente de indicação. A prioridade é estabelecida em grande parte por ordem de chegada, e não por necessidade clínica. Essa abordagem é comparável a colocar todos os candidatos a cirurgia do trato digestório na mesma lista de espera com prioridade semelhante, independentemente do diagnóstico ser câncer ou doença benigna.
+
+Portanto, existe forte necessidade de critérios clinicamente sólidos para ajudar a priorizar o acesso à cirurgia em tempos de pandemia, com recursos limitados. Esses critérios também podem informar o gerenciamento futuro da lista de espera e a tomada de decisões sobre a estrutura dos serviços cirúrgicos.
+
+CONCLUSÃO
+
+Nesse período de pandemia as indicações de cirurgias bariátricas e metabólicas não mudam, e devem seguir as resoluções do Conselho Federal de Medicina: CFM nº 2.131/15 e CFM nº 2.172/2017. Nesse cenário de pandemia, a priorização de qualquer operação eletiva objetiva facilitar o acesso ao tratamento de acordo com as necessidades clínicas, assim como maximizar a oportunidade do acesso e minimizar os danos decorrentes do atraso determinado pela suspensão dessas cirurgias. As categorias referentes às cirurgias eletivas foram adaptadas para definir um sistema simples de priorização para operações bariátricas e metabólicas. Essas recomendações são baseadas em evidências produzidas até agora. Assim, podem ser modificados a qualquer momento, desde que novas evidências sobrevenham ou que a situação epidemiológica do COVID-19 seja alterada, no Brasil.
+

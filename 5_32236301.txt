@@ -1,0 +1,17 @@
+Coronavírus 2020
+
+Doenças infecciosas emergentes e reemergentes são constantes desafios para a saúde pública mundial. Recentes casos de pneumonia de causa desconhecida ocorridos em Wuhan, China, levaram à descoberta de um novo tipo de Coronavírus (2019-nCoV), que são RNA vírus envelopados, comumente encontrados em humanos, outros mamíferos e aves, capazes de causar doenças respiratórias, entéricas, hepáticas e neurológicas(1).
+
+Até o momento, são seis as espécies de Coronavírus conhecidas que causam doenças em humanos. Quatro dessas (229E, OC43, NL63 e HKU1) causam sintomas comuns de gripe em pessoas imunocompetentes, e duas espécies (SARS-CoV e MERS-CoV) provocam síndrome respiratória aguda grave com taxas elevadas de mortalidade(2).
+
+É provável que outros Coronavírus, periodicamente, afetem humanos devido à alta prevalência das infecções, ampla distribuição do vírus, diversidade genética, recombinação frequente de Coronavírus e aumento da interface homem-animal(1-2).
+
+O 2019-nCoV, denominado Novel Coronavirus-Infected Pneumonia (NCIP), foi confirmado por meio do lavado bronco-alveolar, sequenciamento de genoma inteiro, PCR e cultura nos pacientes hospitalizados em Wuhan, China. A análise completa do genoma do vírus enquadrou-o no gênero betacoronavírus, que inclui também o SARS-CoV, descobertos em humanos, morcegos e outros animais selvagens(3).
+
+Com relação às características epidemiológicas e clínicas dos casos confirmados de 2019-nCoV, na cidade de Wuhan, China, uma coorte retrospectiva de 41 pacientes demonstrou que 66% (27 pacientes) tiveram contato direto com um grande mercado de frutos do mar e animais. A idade média foi de 49 anos, com prevalência do sexo masculino. Foram considerados importantes sinais e sintomas do 2019-nCoV: febre (98%), tosse seca (76%), dispneia (55%), mialgia ou fadiga (44%) e linfopenia (63%)(4).
+
+Nesse contexto, as secreções respiratórias foram consideradas o principal meio de propagação do vírus. A análise de cultura de células epiteliais das vias aéreas humanas, a microscopia eletrônica e o sequenciamento completo do genoma da cultura sobrenadante foram compartilhados com a Organização Mundial da Saúde, destinando-se à vigilância e detecção da infecção 2019-nCoV globalmente e na China(1).
+
+Sumariamente, ainda é desconhecida a evolução viral e patogenicidade do 2019-nCoV. Embora com letalidade baixa em torno de 3%, a transmissibilidade se apresenta alta(1). No entanto, os estudos inferem a possível transmissibilidade animal-humano e humano-humano.
+
+Portanto, a ausência de vacina contra o 2019-nCoV reforça entre a população, em geral, a adoção das medidas de prevenção contra a infecção, preconizadas pela OMS, como realizar higiene das mãos, evitar ambientes fechados e contato com pessoas provenientes da região onde o surto teve início. Para os profissionais da área da saúde, o uso dos óculos de proteção ou protetor facial, máscara cirúrgica/N95, avental, luva de procedimento e lavagem das mãos devem ser utilizados para a prestação de assistência aos casos suspeitos ou confirmados de infecção por 2019-nCoV.

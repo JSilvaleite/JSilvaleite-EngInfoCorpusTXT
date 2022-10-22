@@ -1,0 +1,24 @@
+Medidas de frequência: calculando prevalência e incidência na era do COVID-19
+
+CENÁRIO PRÁTICO
+
+A doença coronavírus 2019 (COVID-19), causada pelo coronavírus denominado SARS-CoV-2, tornou-se uma pandemia apesar dos esforços globais para impedir sua propagação. O primeiro caso confirmado de COVID-19 no Brasil foi relatado em 26 de fevereiro de 2020. Até 11 de maio de 2020, um total de 168.331 brasileiros tinha diagnóstico confirmado de COVID-19, dos quais 89.429 (53,1%) ainda estavam infectados, 67.384 (40%) estavam curados e 11.519 (6,8%) foram a óbito. O número de novos casos em 11 de maio foi de 5.632, e a incidência relatada foi de 80,1/100.000 habitantes.1
+
+MEDIDAS DE MORBIDADE E MORTALIDADE DO COVID-19
+
+Contar os números de casos leves a graves e assintomáticos de COVID-19 é essencial para descrever e interpretar as respostas epidêmicas locais. Nesse cenário, estimativas repetidas de prevalência e incidência informam as tendências de trajetória da doença e orientam o processo de tomada de decisões relacionadas às medidas de controle e de alocação de recursos.2
+
+Prevalência é definida como a proporção de uma população que tem a doença em um determinado momento (Tabela 1). Estudos transversais são comumente utilizados para realizar estudos de prevalência porque examinam a doença em um determinado momento. A prevalência de casos confirmados de COVID-19 em 11 de maio foi de 0,08%, estimada como o número de casos de COVID-19 naquele dia dividido pela população em risco (população brasileira).1 Como as medidas de prevalência incluem tanto os novos casos e os casos existentes, elas não fornecem uma imagem completa da história natural da doença. Além disso, o cálculo da prevalência da COVID-19 no Brasil em 11 de maio pode não ser preciso, pois os dados relatados pelo Ministério da Saúde do Brasil não incluem uma testagem ampla para SARS-CoV-2 em todo o espectro da gravidade da doença; portanto, o número de casos relatados provavelmente representa aqueles mais graves (uma vez que a maioria dos testes foi realizada em indivíduos sintomáticos e não na população em geral) e, como consequência, subestimando a prevalência real da doença.
+
+Tabela 1 Incidência e prevalência do COVID-19 em 11 de maio de 2020 no Brasil.1  
+mi: milhões (população brasileira). aPopulação brasileira menos o número total de casos confirmados em 11 de maio.
+
+Incidência é uma medida da ocorrência de novos casos durante um período especificado em uma população em risco de ter a doença. Enquanto a prevalência se refere a casos novos e casos existentes da doença, a incidência enfoca apenas os casos novos (Tabela 1). Para estimar a incidência, todos os indivíduos no denominador (população em risco) devem ter o potencial de estar no numerador (aqueles que desenvolvem a doença). As estimativas de incidência requerem acompanhamento longitudinal (por exemplo, em horas, dias ou anos). O desenho do estudo de escolha é estudo de coorte envolvendo indivíduos em risco de desenvolver a doença, sem a doença na inclusão, e que são acompanhados ao longo do tempo e avaliados em relação ao desenvolvimento da doença. Finalmente, a incidência também depende da frequência da doença, da definição dos casos e da população em risco. No cenário brasileiro, a incidência de casos confirmados de COVID-19 em 11 de maio foi de 2,7/100.000 habitantes em risco (Tabela 1).
+
+PONTOS-CHAVE PARA INTERPRETAR ESTIMATIVAS DE PREVALÊNCIA E INCIDÊNCIA
+
+Definições precisas de casos e não casos são essenciais para definir prevalência e incidência.
+
+As estimativas de prevalência e incidência podem ser enganosas se o número de casos for subestimado devido a barreiras no acesso a informações sobre o diagnóstico e as práticas de cuidados de saúde ou se apenas pacientes com doença grave forem submetidos a testes diagnósticos.
+
+O momento das estimativas de prevalência e incidência deve ser levado em consideração ao interpretar essas medidas. Por exemplo, as estimativas podem ser mais baixas no início de um surto quando comparadas com a epidemia posteriormente.

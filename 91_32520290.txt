@@ -1,0 +1,107 @@
+Análise Espacial dos Casos de COVID-19 e leitos de terapia intensiva no estado do Ceará, Brasil
+
+RESUMO
+
+A distribuição geográfica da COVID-19 por meio de recursos de Sistemas de Informação Geográfica é pouco explorada. O objetivo foi analisar a distribuição de casos da COVID-19 e de leitos de terapia intensiva exclusivos para a doença no estado do Ceará, Brasil. Estudo ecológico, com distribuição geográfica do coeficiente de detecção de casos da doença em 184 municípios. Construíram-se mapas dos valores brutos e estimados (método bayesiano global e local), com cálculo do índice de Moran e utilização do “BoxMap” e “MoranMap” Os leitos foram distribuídos por meio de pontos geolocalizados. Estudaram-se 3.000 casos e 459 leitos. As maiores taxas encontram-se na capital Fortaleza, região metropolitana (RM) e ao sul dessa região. Há autocorrelação espacial positiva na taxa bayesiana local (I = 0,66). A distribuição dos leitos de terapia intensiva sobreposta ao “BoxMap” evidenciou aglomerados com padrão Alto-Alto apresentando número de leitos (capital, RM, porção noroeste); porém, há o mesmo padrão (extremo leste) e em áreas de transição com insuficiência de leito. O “MoranMap” evidenciou “clusters” estatisticamente significativos no estado. A interiorização da COVID-19 no Ceará demanda medidas de contingência voltadas à distribuição dos leitos de terapia intensiva específicos para casos de COVID19 para atender à demanda.
+Palavras-chave COVID-19; Análise espacial; Estudos ecológicos
+
+
+INTRODUÇÃO
+
+Identificada pela primeira vez em Wuhan (província de Hubei), em dezembro de 2019, uma infecção viral de evolução rápida tornou-se uma pandemia. Possui como agente etiológico um novo coronavírus de origem zoonótica, semelhante aos vírus responsáveis pela Síndrome Respiratória Aguda Grave (SARS) e pela Síndrome Respiratória no Oriente Médio (MERS). Atualmente denominada COVID-19, esta doença, com características sintomáticas predominantemente respiratórias, pode evoluir, em uma parcela de infectados, para desconforto respiratório agudo/dano alveolar difuso, necessitando de cuidados intensivos1.
+
+A pandemia do COVID-19 já trouxe consequências devastadoras para a humanidade. Além do número de pessoas mortas pela doença, os impactos econômicos e sociais ainda são incalculáveis. A velocidade de propagação do vírus, a existência ao longo da fonte de infecção e a dificuldade de bloqueio completo da transmissão em um grande contingente populacional suscetível torna razoável pensar na presença da doença por um longo período2.
+
+Em um estudo retrospectivo, cerca de 25% das pessoas diagnosticadas com COVID-19 tornaram-se graves e, destes, 80% necessitaram ser internadas em leitos de Unidade de Terapia Intensiva (UTI)3. Dessa forma, é imprescindível uma quantidade de leitos de terapia intensiva que possa atender à demanda que está a crescer.
+
+Algumas pesquisas vêm sendo desenvolvidas no sentido de estimar a necessidade de planejamento de eventuais contingências, como requisitos de leitos de internação em enfermarias, em UTI e prováveis óbitos por população4.
+
+Na América Latina, o Brasil foi o primeiro país a reportar o COVID-19, no dia 25 de fevereiro de 2020. Desde então, até o dia 14 de abril já foram 65.000 casos detectados na América Latina, com discrepâncias de atuação entre os governantes dos países5.
+
+No Brasil, até o dia 17 de abril haviam sido confirmados 33.962 casos de COVID-19 e 2.141 óbitos pela doença (6,4% de letalidade). No Ceará, por sua vez, foram registrados 2.684 casos e 149 óbitos no mesmo período (5,5% de letalidade)6.
+
+A distribuição do COVID-19, entretanto, não se dá de forma homogênea nas regiões. Com os primeiros casos sendo identificados nas capitais brasileiras, aos poucos novos casos foram sendo detectados em regiões mais longínquas, em detrimento da transmissão comunitária.
+
+Conhecer como a doença está se distribuindo em uma região permite a compreensão da sua propagação e de como está se interiorizando, dos grandes centros urbanos para áreas menos desenvolvidas. Ainda, observar como a doença se dispersa geograficamente aliado à expansão de leitos de UTI-COVID19 facilita o entendimento sobre a acessibilidade a esse tipo de atendimento, que pode ser crucial ao paciente grave. Dessa forma, este estudo teve como objetivo analisar a distribuição do COVID-19 e de leitos de UTI no estado do Ceará.
+
+MÉTODOS
+
+Trata-se de estudo ecológico, no qual foi realizada análise exploratória da distribuição espacial da COVID-19 no estado do Ceará, a partir de casos registrados entre 15 de março de 2020 (primeiro registro no estado) e 18 de abril de 2020. Adotaram-se os municípios como unidades de análise e foram utilizados dados da doença distribuídos por área e de leitos de UTI específicos para receber pessoas com COVID-19 distribuídos por pontos.
+
+O Ceará localiza-se na Região Nordeste do Brasil. É dividido em 184 municípios, com área aproximada de 148.895 km². Possui aproximadamente 9.178.363 habitantes7. Atualmente, é um dos estados com maior incidência de COVID-196.
+
+Os dados concernentes ao número de casos confirmados em cada município do estado foram extraídos da plataforma IntegraSUS (https://indicadores.integrasus.saude.ce.gov.br). A busca foi realizada em 18 de abril de 2020, às 14h. Ressalta-se que os dados são atualizados constantemente. No portal, é possível obter o número de casos por município, a partir do local de residência do indivíduo.
+
+Dados populacionais foram obtidos mediante consulta ao Tabnet (https://datasus.saude.gov.br/informacoes-de-saude-tabnet/), em 18 de abril de 2020. A população total do Ceará utilizada foi a estimada por Unidade Federativa até 2030. A população de cada município foi alcançada mantendo a proporção populacional da estimativa do Tribunal de Contas da União do ano de 2019. Considerou-se, para este estudo, que não houve mudança na proporção entre municípios comparado ao valor total da população do Estado em 2019.
+
+O número de leitos de UTI-COVID19 foi obtido na plataforma do Cadastro Nacional de Estabelecimento de Saúde - CNES (http://cnes2.datasus.gov.br/), no dia 19 de abril de 2020.
+
+A base cartográfica do Ceará foi obtida no site do Instituto Brasileiro de Geografia e Estatística.
+
+Foram avaliados um total de 3.034 casos. Destes, 34 casos foram excluídos por não ter informação sobre o local de residência. Dos 3.000 casos, foi realizada a distribuição da frequência absoluta e relativa (número de casos dividido pela população total, multiplicado por 100.000) por município.
+
+Para suavização da proporção de casos detectados por município, também foram calculadas as taxas bayesianas globais e locais. A primeira (Estimador Bayesiano Empírico Global) suaviza o valor do coeficiente de detecção do município comparado à média do conjunto de todos os outros; a segunda (Estimador Bayesiano Local) calcula este valor baseado também na média dos seus vizinhos8.
+
+Foram criados mapas temáticos para visualização da distribuição dos coeficientes de detecção por município brutos, suavizado pelo estimador bayesiano global e local. A graduação dos valores se deu por quebras naturais (jerks).
+
+Foi criada uma Matriz de Proximidade por contiguidade. O Índice de Moran foi calculado para verificar a dependência espacial da distribuição do coeficiente de detecção bruto, taxa bayesiana global e local. Considerou-se o nível de significância de 5%. O índice varia de -1 a +1: valores próximos a +1 mostram uma autocorrelação positiva; valores próximos a -1 indicam correlação espacial negativa; valores próximos a 0 indicam ausência de autocorrelação espacial9.
+
+Utilizou-se o diagrama de espalhamento de Moran do coeficiente de detecção calculado pelo Estimador Bayesiano Local. A visualização do mesmo se deu através do BoxMap a fim de identificar áreas com altos valores e vizinhos em igual condição (Q1- Padrão Alto-Alto), áreas com baixos valores e com vizinhança também em igual condição (Q2- Padrão Baixo-Baixo), ou ainda áreas em transição (Q3- Padrão Alto-Baixo e Q4- Padrão Baixo-Alto). A visualização desses clusters com autocorrelação espacial positiva estatisticamente significante foi demonstrada através do MoranMap.
+
+A distribuição dos leitos de UTI-COVID19 deu-se pela criação de uma camada vetorial de pontos, sobreposta ao BoxMap, com a localização dos leitos nos municípios, tendo como atributo o número de leitos. Realizou-se categorização por tamanho do ponto, em ordem crescente ao número de leitos.
+
+Foram utilizados os programas Excel 2013, Terraview 4.2.2 e Qgis 2.18.0.
+
+O estudo respeitou as políticas que envolvem pesquisas em seres humanos. Por se tratar de dados de domínio público, o estudo não foi submetido a um comitê de ética em pesquisa.
+
+RESULTADOS
+
+Em relação ao COVID-19, o estado do Ceará possui atualmente 33 casos/100.000 habitantes. Considerando o número de casos da doença incluídos no estudo, a maior parte dos mesmos concentra-se na região metropolitana de Fortaleza (Figura 1). A capital cearense possui o maior número de casos (2.540 pessoas detectadas com COVID-19), representando aproximadamente 85% da totalidade. Boa parte dos municípios encontravam-se com número de casos menor ou igual a 7.
+
+
+Fonte: IntegraSUS (2020).
+
+Figura 1 Distribuição do número casos de COVID-19 detectados no Ceará por município, Ceará, Brasil, 2020. 
+
+A Figura 2 mostra a distribuição do coeficiente de detecção de casos de COVID-19 bruto (Figura 2A), suavizado pelo estimador bayesiano global (Figura 2B) e bayesiano local (Figura 2C). A seguir, apresentam-se os Índices de Moran e os respectivos valores de p. O índice de Moran que teve autocorrelação espacial positiva foi calculado baseado no estimador bayesiano local, com valor de 0,66 (p = 0,001).
+Figura 2. Coeficiente de detecção de casos de COVID-19 no estado do Ceará, Brasil - bruto, suavizado pelo estimador bayesiano global e local, 2020.Índice de Moran. Coeficiente de detecção bruto = 0,45 (p = 00,1). Suavizado pelo Estimador Bayesiano Global = 0,43 (p = 00,1). Suavizado pelo Estimador Bayesiano Local = 0,66 (p = 00,1). 
+
+Considerando os dados brutos, 98 municípios não relataram casos de COVID-19. A partir do coeficiente de detecção bayesiano local, observou-se que os coeficientes de detecção mais altos se concentram na capital (94,6 casos/100.000 hab.) e nos municípios da Região Metropolitana, como Eusébio (70,9 casos/100.000 hab.), Aquiraz (54,3 casos/100.000 hab.), Itaitinga (29,8 casos/100.000 hab.), Maracanaú (29,1 casos/100.000 hab.) e Caucaia (22,4 casos/100.000 hab.). Além disso, municípios da porção central do Estado, como Quixadá e Jaguaribe, também possuem valores mais altos (ambos com 14,8 casos/100.000 hab.). O litoral oeste e a porção sul do Ceará possuem os municípios sem registro de casos ou com coeficiente de detecção mais baixos.
+
+Em relação ao BoxMap do coeficiente de detecção de casos de COVID-19 suavizado pelo método bayesiano local (Figura 3), tanto a região metropolitana de Fortaleza, com adição de municípios mais ao sul dessa mesma região, apresenta padrão Alto-Alto, ou seja, altas taxas de detecção com vizinhos também apresentando altos valores. Também apresenta o mesmo padrão na região do município de Sobral e do seu entorno (oeste), Aracati e seu entorno. É importante notar zonas no estado com padrão de transição (Ato-Baixo ou Baixo-Alto), tanto na porção central (municípios de Quixadá, Quixeramobim, Canindé). Zonas com padrão Baixo-Baixo podem ser visualizados no extremo sul, extremo oeste e em faixa da porção central.
+Fonte: IntegraSUS, TabNet, Cnes (2020).
+
+Figura 3 BoxMap do coeficiente de detecção de casos de COVID-19 por município e distribuição do número de leitos de UTI-COVID19, Ceará, Brasil, 2020. 
+
+Depreende-se com a sobreposição da distribuição de leitos de UTI-COVID19 que a maior parte dos leitos se concentram próximos aos municípios com maiores taxas na capital e na Região Metropolitana (Fortaleza possuía 307 leitos da doença), em parte da porção oeste (Sobral possuía 47 leitos). Municípios considerados em transição, como Quixeramobim e Icó (ambos com padrão Baixo-Alto), possuem 20 e 10 leitos, respectivamente. Apesar de Iguatu (centro-sul do estado) ser um município com padrão Baixo-Baixo e possuir 29 leitos específicos para COVID-19, tem municípios próximos com padrão Alto-Alto (Orós), Baixo-Alto (Icó) e Alto-Baixo (Cariús e Cedro).
+
+Na porção sul do estado há 35 leitos de UTI localizados em Juazeiro do Norte, entretanto a região possui padrão Baixo-Baixo em quase toda a sua extensão. Ressalta-se que o extremo noroeste do estado possui municípios com padrão Alto-Alto (por exemplo, Aracati e Fortim) e não há municípios com leitos de UTI próximos; além disso, a porção centro-oeste com municípios com padrão de transição (Novo Oriente, Quiterianópolis, Tauá, Mombaça e Pedra Branca) são supridos por apenas um leito de UTI-COVID19 localizado em Tauá. É importante frisar que os leitos de UTI atendem não apenas aos municípios detentores dos mesmos, mas municípios limítrofes compreendidos na mesma região de saúde.
+
+Em relação ao MoranMap da taxa bayesiana local (Figura 4), é possível observar um cluster estatisticamente significante com padrão Alto-Alto na capital e em quase totalidade dos municípios da região metropolitana e com padrão Baixo-Baixo no extremo noroeste e no extremo sul do estado.
+
+
+Fonte: IntegraSUS; Tabnet (2020).
+
+Figura 4 MoranMap do coeficiente de detecção de casos de COVID-19 por município, Ceará, Brasil, 2020. 
+
+DISCUSSÃO
+
+Este estudo evidenciou, até a data da coleta de dados, uma autocorrelação espacial positiva das taxas bayesianas locais (I = 0,66), observando uma dependência espacial da distribuição da doença. A distribuição dos leitos de UTI-COVID19 sobreposta ao BoxMap evidenciou aglomerados com padrão Alto-Alto na capital e Região Metropolitana e segmento da porção oeste apresentando número de leitos UTI-COVID19. No sul do estado, com padrão Baixo-Baixo, há a presença de 29 leitos de UTI; entretanto, o extremo leste (litorâneo) possui padrão Alto-Alto e na porção oeste central possui área de transição com provável insuficiência de leitos. O MoranMap evidenciou clusters estatisticamente significantes com padrão Alto-Alto na região metropolitana (incluindo a capital) e com padrão Baixo-Baixo no sul cearense e extremo leste.
+
+Na data da coleta de dados, o Ceará apresentou coeficiente de detecção de 33 casos por 100.000 habitantes. As maiores taxas encontram-se na capital do Estado, sua região metropolitana, estendendo-se ainda ao sul desta região. Observa-se que também outras regiões do Ceará apresentam com padrão Alto-Alto da doença, confirmando a interiorização da pandemia no estado. Neste sentido, compreender as redes sociais, econômicas, os padrões comerciais e o fluxo de viagens pode ser importante no entendimento da expansão territorial da doença10. Essas outras regiões, como o município de Sobral e entorno, o município de Aracati e entorno, são polos econômicos e turísticos importantes para a região, o que pode explicar maior contato com a capital, onde foi identificado o primeiro caso da doença, ou outros grandes centros urbanos.
+
+Em estudo realizado nos Estados Unidos, as diferenças geográficas do número de casos de COVID-19 refletiam-se a partir da data da introdução da doença no local, densidade populacional, distribuição etária, condições médicas subjacentes, medidas aplicadas na comunidade, capacidade diagnóstica e práticas de notificação11.
+
+Na China, o estudo da sua distribuição de casos e da sua emigração populacional de Wuhan evidenciou que a população que emigrou desta cidade foi a fonte de infecção primária para as demais no país. Ainda, cidades com inicial baixa detecção de casos apresentou aumento veloz da carga da doença12. O Ceará ainda apresenta locais sem detecção de casos e clusters com padrão Baixo-Baixo, que devem ser protegidos para evitar a introdução de casos por deslocamento de doentes para esses locais.
+
+Outro estudo chinês indicou que o transporte público se tornou um veículo de disseminação de casos importados de COVID-19 para regiões nas quais ainda não havia casos autóctones. A distância entre o epicentro e o destino, bem como a conectividade entre esses dois espaços, determinaram os riscos de transmissão13. No BoxMap da distribuição das taxas da doença no Ceará, a faixa central de municípios com padrão Alto-Alto e em transição é transpassada por uma importante estrada (BR-122) que liga a capital outras regiões do país. No entanto, outros métodos deveriam ser utilizados para analisar essa relação.
+
+O uso dos recursos de análise exploratória dos dados geográficos permitiu a visualização da expansão da pandemia do estado e da distribuição dos recursos disponíveis para cuidados intensivos. Em epidemias anteriores, como a epidemia original do SARS-CoV em 2002-03 e na Influenza, os Sistemas de Informações Geográficas (SIG) já eram utilizados em várias formas de aplicação, como mapeamento em tempo real dos casos de doença, reação das mídias sociais no espalhamento da doença, mapeamento preditivo a partir de viagens da população, além do tracejar de trajetórias e contatos “espalhadores”, sendo um aparato importante no monitoramento da evolução do COVID-19 e da resposta às atuações de prevenção14.
+
+Em uma análise tempo-geográfica do crescimento do número de casos de COVID-19 fora da China, percebeu-se que a distribuição geográfica mudou de único centro entre o período de 13 de janeiro a 20 de fevereiro de 2020 para uma distribuição multicêntrica a partir do dia 22 de fevereiro, incluindo, além da China, a Coreia do Sul, a Itália e o Irã como centros epidêmicos15. Da mesma forma, dentro do estado do Ceará, a doença não se concentra apenas na capital cearense, evidenciado pelo BoxMap.
+
+O estudo apresenta algumas limitações. O Brasil atualmente realiza testagem apenas em pessoas sintomáticas, podendo os valores do coeficiente de detecção estarem subestimados, considerando que possa haver uma proporção importante de pessoas assintomáticas portadora do vírus. Entretanto, atualmente estes dados obtidos são de ampla utilização nas pesquisas epidemiológicas e de apoio à decisão na gestão. A ausência de pesquisas semelhantes voltadas para a distribuição geográfica do COVID-19 limita a comparabilidade da interiorização da doença em outras localidades. Também não há consistência quanto ao número de leitos de UTI necessários para atender à demanda necessária.
+
+O estudo mostrou maior concentração das taxas da doença na capital do Ceará e na Região Metropolitana, entretanto já com marcas da interiorização do COVID-19. A distribuição de leitos UTI-COVID-19, apesar de maior número nas regiões com padrão Alto-Alto, pode apresentar escassez em algumas regiões de alta concentração da doença em locais que estão em transição. Tais municípios que já contam com leitos de UTI podem beneficiar-se com o aproveitamento da estrutura para enfrentamento da pandemia.
+
+O recurso metodológico utilizado nesta análise, através da confecção de mapas, torna o entendimento da espacialização da doença e dos recursos, podendo ser utilizado como ferramenta de gestão e base para decisões de alocação de equipamentos de saúde.

@@ -1,0 +1,115 @@
+Evolução de indicadores e capacidade de atendimento no início da epidemia de COVID-19 no Nordeste do Brasil, 2020
+
+RESUMO
+
+Objetivo
+
+descrever a evolução dos indicadores e a capacidade de atendimento em saúde na fase inicial da epidemia de COVID-19 na região Nordeste do Brasil.
+
+Métodos
+
+estudo descritivo com base em boletins epidemiológicos sobre os casos de COVID-19, até 1º de abril de 2020, divulgados pelo Ministério da Saúde. Calcularam-se taxa de incidência, letalidade e número de casos diários acumulados.
+
+Resultados
+
+foram identificados 1.005 casos confirmados de COVID-19, a maioria deles no Ceará e na Bahia. A taxa de incidência foi de 1,8/100 mil habitantes, e a letalidade, de 2,7%. O Ceará foi o estado com maior número de casos – em média, 29,6 casos novos por dia. A média de oferta de leitos de terapia intensiva na região Nordeste (1,04/10 mil hab.) encontrava-se abaixo da média nacional (2,8/10 mil hab.).
+
+Conclusão
+
+os indicadores sugerem a heterogeneidade do impacto da COVID-19 e sinalizam os desafios para os sistemas de saúde da região Nordeste.
+Palavras-Chave: Coronavirus; Infecções por Coronavirus; Pandemias; Indicadores de Saúde; Epidemiologia Descritiva
+
+
+INTRODUÇÃO
+
+Em dezembro de 2019, a China identificou um surto de uma síndrome respiratória aguda em trabalhadores de um mercado de alimentos e animais vivos em Wuhan, causado por um novo coronavírus (SARS-CoV-2). Esse vírus é pertencente à família Coronaviridae e provoca a doença respiratória denominada COVID-19.1 Os impactos dessa doença começaram a ser percebidos no setor saúde e na economia mundial no início de 2020.
+
+O SARS-CoV-2 tem alta transmissibilidade, que se dá pelo contato de pessoa a pessoa e por meio de fômites, podendo permanecer viável em superfícies do ambiente por mais de 24 horas.2 A síndrome respiratória aguda provocada por ele pode variar de casos leves (cerca de 80%) a casos muito graves com insuficiência respiratória (5% a 10%). A letalidade também é variável, dependendo da faixa etária e de condições clínicas associadas.3 O SARS-CoV-2 se disseminou rapidamente, atingindo mais de 100 países nos cinco continentes, o que levou a Organização Mundial da Saúde (OMS) a declarar a COVID-19 como uma pandemia no dia 11 de março de 2020.1
+
+No Brasil, de acordo com o Ministério da Saúde (MS), até o dia 31 de março foram confirmados 5.717 casos de COVID-19, com 201 óbitos.5 A região Nordeste concentrou 875 (15,3%) desses casos, sendo a segunda região do país em número de casos, superada apenas pela região Sudeste.
+
+Considerando-se a rápida dispersão do novo coronavírus em todo o território brasileiro, a importância do contínuo monitoramento epidemiológico para conter a epidemia, a necessidade de planejamento do atendimento à saúde da população e as peculiaridades econômicas, ambientais e sociais da região Nordeste, é necessário conhecer a evolução da epidemia e a capacidade de atendimento inicial de saúde no Nordeste brasileiro, de forma a serem geradas informações que possam subsidiar a escolha das melhores estratégias para o enfrentamento da doença.
+
+O objetivo deste artigo foi descrever a evolução dos indicadores e a capacidade de atendimento em saúde da fase inicial da epidemia de COVID-19 na região Nordeste do Brasil.
+
+MÉTODOS
+
+Trata-se de um estudo descritivo, com base nos boletins epidemiológicos para acompanhamento dos casos de COVID-19 no Nordeste do Brasil.
+
+Os estados do Nordeste abrangem uma população de aproximadamente 53 milhões de habitantes, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), numa área de 1.554.257km2, sendo a segunda região mais populosa do território brasileiro. A população nordestina é composta etnicamente por 62,5% de pardos; 29,2% de brancos; 7,8% de negros; e 0,5% de indígenas.6 Entre os anos de 2009 e 2017, houve um decréscimo de 8,2% na taxa de leitos por mil habitantes, aumento de 73,6% nos leitos de unidade de terapia intensiva (UTI) e ampliação do número de hospitais de grande porte disponíveis no Sistema Único de Saúde (SUS). Quanto à esfera jurídica, de 2012 para 2017, ocorreu uma queda no número dos hospitais empresariais e sem fins lucrativos disponíveis ao SUS, e um aumento nos estabelecimentos hospitalares de administração pública. Considerando-se os extremos do período, a diminuição nas internações totais foi de 10,7%.7
+
+Foram analisados os registros referentes a casos ocorridos na população residente nos nove estados que compõem o Nordeste do Brasil, a saber: Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe.
+
+As variáveis analisadas foram: número de casos confirmados, número de óbitos, número de leitos hospitalares e número de leitos de UTI.
+
+A pesquisa foi realizada com os dados registrados no período de 6 de março a 1º de abril de 2020, extraídos do Painel Coronavírus Brasil (disponível no link: https://covid.saude.gov.br/), que apresenta o monitoramento on-line dos casos da doença no país, informando a ocorrência de casos novos e óbitos por região, estado, dia e semana epidemiológica.8 Dados sobre a capacidade de leitos hospitalares, incluindo os leitos de UTI, foram obtidos no Cadastro Nacional de Estabelecimentos de Saúde (CNES). Os dados sobre a população residente foram extraídos dos sítios eletrônicos do IBGE e do Departamento de Informática do SUS (Datasus), consultando-se a projeção da população do Brasil e Unidades da Federação (UFs), por sexo e idade, para o período 2000-2030.
+
+A partir do número absoluto de casos confirmados e óbitos por COVID-19, calcularam-se as taxas de incidência (número de casos confirmados dividido pela população residente, multiplicado por 100.000 habitantes), letalidade (número de óbitos por COVID-19 dividido pelo total de casos confirmados, multiplicado por 100) e índice acumulado diário (IAD) (casos confirmados pelo número de dias, entre o primeiro caso relatado e 1º de abril de 2020).
+
+Os cálculos de incidência, letalidade, IAD, capacidade de leitos hospitalares, bem como a elaboração de gráficos, foram processados com uso do programa Excel for Windows 2016. Além disso, foram calculadas as médias e apresentados os valores mínimo e máximo para o número de casos.
+
+Não foi necessário submeter o estudo para aprovação do Comitê de Ética em Pesquisa, visto os dados serem de acesso público e sem identificação de participantes.
+
+RESULTADOS
+
+No período de 6 de março a 1º de abril de 2020, foram confirmados 1.005 casos de COVID-19 na região Nordeste. O primeiro caso foi registrado no dia 6 de março no estado da Bahia, com aumento contínuo a partir dessa data. Do total de casos notificados no período em estudo, 27 (2,7%) evoluíram a óbito, sendo a primeira morte registrada no dia 25 de março em Pernambuco ( Figura 1 ).
+Figura 1 – Evolução dos casos e óbitos da COVID-19 nos estados da região Nordeste, Brasil (N=1.005), de 06 de março a 1º de abril de 2020 
+
+Os estados do Ceará (41,1%) e da Bahia (24,4%) concentraram mais de 60% dos casos notificados na região Nordeste. O número de óbitos foi maior no Ceará e em Pernambuco. A taxa de incidência total foi de 1,8/100 mil hab., sendo maior nos estados do Ceará (4,9), Rio Grande do Norte (2,6) e Bahia (1,7). A letalidade total foi de 2,7%, destacando-se a letalidade observada no estado Piauí (22,2%), seguido de Pernambuco (8,4%) e Alagoas (5,6%). Em média, o estado do Ceará foi o que mais notificou na região Nordeste, com 30 casos por dia (mínimo: 1; máximo: 54 casos) desde o surgimento do primeiro caso naquele estado ( Tabela 1 ).
+
+Tabela 1 – Indicadores da COVID-19 segundo estados da região Nordeste, Brasil, 06 de março a 1º de abril de 2020 
+Os casos acumulados da região Nordeste e dos estados com maior notificação de COVID-19 estão apresentados na Figura 2 . Observa-se o crescimento exponencial com o decorrer dos dias, em maior escala, nos estados do Ceará (444) e Bahia (246), seguidos dos estados de Pernambuco (95) e Rio Grande do Norte (92). O Ceará apresentou a maior incidência (4,9/100 mil hab.).
+Fonte: Ministério da Saúde (BR). Painel Coronavírus. Acesso em: 2020 abr 02.
+
+Figura 2 – Evolução dos casos acumulados da COVID-19 na região no Nordeste e nos estados com maior ocorrência, 06 de março a 1º de abril de 2020 
+
+A razão de leitos de UTI por habitantes está apresentada na Tabela 2 . A razão era menor que 1 para a maioria dos estados. Somente Pernambuco, Rio Grande do Norte e Paraíba apresentaram melhor distribuição na relação entre leitos de UTI e população residente.
+
+Tabela 2 – Distribuição de leitos de unidade terapia intensiva (UTI) nos estados da região Nordeste, 06 de março a 1º de abril de 2020 
+Fonte: Ministério da Saúde (BR). Painel Coronavírus. Acesso em: 2020 abr 02.
+
+a) SUS: Sistema Único de Saúde
+
+b) Por 10.000 habitantes
+
+DISCUSSÃO
+
+Os resultados evidenciaram que a evolução inicial da epidemia de COVID-19 ocorreu de forma distinta nos estados da região Nordeste. Durante o período do estudo, foram confirmados mais de 1 mil casos de COVID-19 no Nordeste. A epidemia se iniciou na Bahia, sendo a primeira morte relatada em Pernambuco. Ressalta-se que a região não dispõe de estrutura suficiente para o enfrentamento da epidemia, conforme descrito a seguir.
+
+No Brasil, a região Nordeste é a segunda região com maior número de casos confirmados de COVID-19, destacando-se os estados do Ceará, Bahia, Pernambuco e Rio Grande do Norte. Nesses estados, assim como em quase todas as capitais do Nordeste, encontram-se os principais destinos turísticos que atraem visitantes de todo o Brasil e de outros países. O fluxo de turistas para essa região na alta temporada, incluindo os feriados de Natal, Ano Novo e Carnaval, pode ter contribuído para a introdução do SARS-Cov-2 e sua consequente disseminação. Ainda que os primeiros casos de COVID-19 tenham sido registrados a partir de março, é provável que a contaminação tenha ocorrido há, pelo menos, 14 dias antes, coincidindo com o período de grande fluxo de turistas em aeroportos, rodoviárias e espaços com aglomeração de pessoas, próprio do Carnaval.
+
+A transmissão ampliada do novo coronavírus no Brasil deve ocorrer nos próximos meses (foi previsto para os meses de abril ou maio), quando grande parte da população dos grandes centros urbanos será exposta ao vírus.9 No entanto, devido às dimensões continentais e diversificação climática no país (áreas temperadas, subtropicais e equatoriais), é possível identificar distintos padrões de sazonalidade viral nas diferentes regiões do país.11
+
+Embora a letalidade observada no conjunto de casos da região Nordeste seja inferior à média estimada pela OMS, que é de 3,4%,1 a maioria dos estados nordestinos registrou letalidade acima da observada para o Brasil (5,4%), principalmente nos estados do Piauí e Pernambuco. Isso sugere a falta de capacidade de atendimento adequado aos casos iniciais, seja por falha na suspeição, notificação, diagnóstico laboratorial ou aparato no atendimento oportuno de cuidados intensivos; além disso, há baixa cobertura de testagem.
+
+Foram realizados, no Brasil, apenas 153.961 testes para investigação de síndrome respiratória aguda grave (SRAG) até 7 de abril de 2020, com o objetivo de identificar o SARS-CoV-2, vírus da influenza, vírus sincicial e outros vírus respiratórios. Dos testes realizados, 62.985 seguiram para a investigação específica do SARS-CoV-2, com 13.717 resultados positivos. Os testes para coronavírus começaram a ser realizados no Brasil no dia 16 de fevereiro em laboratórios públicos e privados.12 Entre os casos confirmados de COVID-19, 5 a 10% das pessoas irão evoluir com insuficiência respiratória, necessitando assim de assistência hospitalar.13
+
+Até 1º de abril de 2020, no Brasil, existiam 2,80 leitos de UTI de internação específica da COVID-19 para cada 10 mil hab., razão maior que a observada em países como Reino Unido, Itália e França.14 No entanto, grande parte desses leitos estão concentrados na região Sudeste do país. A oferta de leitos de UTI na região Nordeste (1,04/10 mil hab.) encontrava-se abaixo da razão nacional, havendo a necessidade de ampliação do número de leitos. É patente a preocupação quanto à disponibilidade de leitos de UTI e ventiladores mecânicos necessários para os casos graves hospitalizados em decorrência da infecção pelo novo coronavírus, bem como em relação à disponibilidade de testes diagnósticos específicos, para a detecção precoce do vírus e a prevenção da transmissão subsequente.10
+
+Diante desta nova realidade, o MS criou o Plano de Contingência Nacional para Infecção Humana pelo novo Coronavírus, para atender à demanda frente a uma possível epidemia e definir o nível de resposta e a estrutura de comando correspondente a ser configurada, em cada nível de resposta. Desse modo, o MS recomenda que as Secretarias de Saúde dos Municípios, Estados e Governo Federal, bem como serviços de saúde pública ou privada, agências e empresas, usem esse plano como referência na elaboração de seus planos individuais de contingência e medidas de resposta.3 Seguindo a recomendação, todos os estados brasileiros elaboraram seus planos, tendo como elementos comuns a classificação de emergência em três níveis de resposta (1-alerta; 2-perigo iminente; e 3-emergência em saúde pública), sendo cada nível estabelecido com base na avaliação do tipo de risco da COVID-19 e seu impacto na saúde pública, apresentando-se recomendações de vigilância, suporte laboratorial, controle de infecção, assistência, comunicação de risco e gestão.3
+
+Até o início de abril de 2020, o Ceará apresentava o maior número de casos notificados. Tal fato pode ter relação com o investimento e ampliação de testes rápidos para COVID-19 em Fortaleza e no interior daquele estado.15 Além disso, é um polo atrativo para o turismo e recebe milhares de pessoas provenientes de vários lugares. O estado possuía 110 leitos de isolamento simples em unidades hospitalares, sendo 93 pelo SUS, dispostos em 53 estabelecimentos de saúde. Também possuía 1.475 ventiladores mecânicos, entre os quais, 1.337 em uso, disponíveis em 145 estabelecimentos.16 Constata-se que, até o dia 1º de abril de 2020, o número de leitos era suficiente para atender à demanda de casos graves. Porém, se o número de casos diários confirmados continuar aumentando nessa mesma proporção, o sistema de saúde poderá não atender adequadamente à população, em pouco tempo.
+
+A Bahia, segundo estado com maior número confirmado de casos, possuía três hospitais em atendimento para o coronavírus, 190 leitos clínicos e 161 de UTI, com capacidade de ampliação de 200 leitos clínicos e 83 leitos de UTI.17 Além disso, o governo do estado solicitou judicialmente a autorização para abertura temporária de dois hospitais, com previsão de mais 139 leitos clínicos e 80 de UTI. Está prevista ainda a inauguração de dois hospitais no interior do estado, sendo um na cidade de Lauro de Freitas, que oferecerá 100 leitos clínicos, e outro em Feira de Santana, com 40 leitos de UTI. Outros dois estabelecimentos no estado serão adaptados para montagem de tendas ou novos leitos, contabilizando mais 200 leitos clínicos.18 Tendo em vista o aumento do número de casos, o estado terá que atentar para a real necessidade do cumprimento dessas propostas.
+
+Pernambuco e Rio Grande do Norte apresentam o mesmo IAD, sendo que a população de Rio Grande do Norte é um pouco superior a um terço da de Pernambuco. Durante o período analisado, o número de casos confirmados em Pernambuco manteve-se estável. Em Pernambuco, as unidades de referência para atendimento dos casos suspeitos de COVID-19 serão definidas conforme os níveis de respostas sejam revistos. Assim, no nível 1, três hospitais realizarão o atendimento a adultos, crianças e gestantes. O nível 2 é caracterizado pela ampliação de 10 leitos de UTI. No Nível 3, ocorrerá a ampliação dos serviços de referência – com mais três hospitais –, bem como do número de leitos de internação e de UTI nos hospitais. Desde o início da epidemia, o estado vem readequando a estrutura de saúde para atender à população.19 A partir da ocorrência dos primeiros casos de COVID-19 no estado, o governo pernambucano abriu 353 leitos, sendo 133 de UTI e 220 clínicos, com previsão de expansão dos leitos. Os gestores confirmaram a utilização, como apoio às unidades de referência, de uma maternidade, que contará com 120 vagas, sendo 40 de UTI, e a aquisição de um hospital na capital, que disponibilizará 230 leitos, sendo 100 de UTI.20
+
+O Rio Grande do Norte, até o início de abril de 2020, dispunha de dois hospitais de referência, sendo que 11 hospitais da Rede Pública Estadual de Saúde estavam aptos a realizar atendimentos para COVID-19 e serem utilizados como hospitais de referência. Assim, serão disponibilizados 1.229 leitos clínicos e 76 de UTI. Além disso, existiam 47 leitos de UTI a serem postos em funcionamento. Todos os serviços de saúde no estado estavam sensibilizados e aptos a realizarem os atendimentos iniciais às pessoas com suspeita de COVID-19.21
+
+O Maranhão é o quinto estado com maior número de casos. Para a organização dos atendimentos, os casos suspeitos devem ser atendidos nas unidades básicas de saúde (UBS), unidades de pronto atendimento (UPAs), unidades mistas, além dos hospitais públicos e privados. Os casos graves deverão ser encaminhados à rede hospitalar com capacidade de atender infecções respiratórias graves, observando-se as medidas de precaução padrão. Ressalta-se que os serviços de porta aberta preferenciais para o atendimento de casos suspeitos da Rede Estadual são duas UPAs. O estado disponibiliza dois hospitais de referência e um de retaguarda para o atendimento de adultos e crianças em casos graves.22
+
+Paraíba e Sergipe apresentaram a mesma quantidade de casos diagnosticados, apesar da população da Paraíba ser bem superior à de Sergipe. A rede assistencial da Paraíba é composta por 1.441 equipes de Saúde da Família, 17 UPAs e 32 hospitais, sob gestão estadual, e dois hospitais federais. Apresenta dois hospitais de referência para atendimento dos casos suspeitos, sendo um de referência para atendimento infantil.23
+
+Em Sergipe, os casos suspeitos são detectados na triagem de um serviço de saúde, tanto na capital como no interior. Os casos leves devem ser acompanhados pela Atenção Primária à Saúde (APS), e instituídas medidas de precaução domiciliar e isolamento social. Os casos graves devem ser encaminhados a um dos três hospitais de referência para isolamento e tratamento conforme a regulação estadual. Além disso, casos não graves, mas que necessitem de internação hospitalar e forem identificados em unidades não hospitalares e/ou sem condição de acomodação, serão regulados através da Central de Regulação das Urgências para um hospital de referência.24
+
+Alagoas e Piauí possuíam o mesmo número de casos confirmados e população residente semelhante. Em Alagoas, o atendimento dos casos leves será direcionado para os serviços da APS, cuja cobertura estadual é de 81,42% da população. O estado dispõe de 265 leitos de UTI adulto cadastrados, sendo quase 70% leitos do SUS, além de 56 leitos de UTI pediátrica. Para os casos graves, o estado possui 12 UPAs, localizadas em nove municípios. Esse quadro não é suficiente para atender a uma possível demanda de emergência da COVID-19; com isso, a Secretaria de Estado da Saúde está estruturando mais 100 leitos de UTI adulto e pediátrico.25
+
+O Piauí destaca-se por apresentar o menor número de casos confirmados e a maior letalidade do Nordeste. Não há dados oficiais sobre o quantitativo exato de testes realizados para o diagnóstico da COVID-19 no estado. Acredita-se, entretanto, que não haja kits de testes suficientes para a realização de diagnósticos da população, tendo em vista que foram doados para o Piauí apenas 7.260 testes rápidos e 4.180 RT- PCR pelo governo federal.13 Assim, a alta taxa de letalidade pode não estar representando a real situação da epidemia no estado. A Secretaria Estadual de Saúde do Piauí está mobilizada no sentido de desenvolver ações de prevenção, controle e assistência, tendo como porta de entrada a APS e/ou pontos de atenção hospitalar. A rede de assistência hospitalar possui um hospital de referência estadual para atendimento da COVID-19. A partir da declaração de risco iminente, pelo MS, e de emergência de saúde internacional, pela OMS, o estado deverá se adaptar às necessidades de ampliação do serviço hospitalar aos hospitais regionais dos 11 territórios de saúde do estado, que contará com mais 14 hospitais de retaguarda ou porta de entrada, bem como de referência estadual.26
+
+No início da epidemia, o MS anunciou a abertura de processo de licitação para alocar 1 mil leitos adicionais nos hospitais de referência indicados pelos estados, para atender a possíveis casos de COVID-19. Foi anunciada também a publicação de edital para processo de aquisição de equipamentos de proteção individual (EPIs) destinados aos profissionais de saúde – como máscaras cirúrgicas, protetores faciais, gorros, máscaras N95 e luvas –, além de outros insumos.10
+
+Destaca-se que todas as medidas adotadas devem ser baseadas nas melhores evidências disponíveis no momento e divulgadas por instituições e profissionais de reconhecido conhecimento na área.27 A redução da transmissão do vírus na China ocorreu principalmente pela adoção de três medidas essenciais: proteção dos profissionais de saúde com equipamentos de proteção individual; identificação dos indivíduos sintomáticos, com realização dos testes e fornecimento rápido dos resultados; e isolamento de casos confirmados, além da identificação dos comunicantes e da imposição da quarentena ou distanciamento social.28
+
+As evidências científicas disponíveis na atualidade ainda são insuficientes para esclarecer todos os aspectos da COVID-19 no Nordeste do Brasil, assim como em outras regiões do país e do mundo, sendo uma limitação para o presente estudo. Os dados aqui apresentados referem-se ao período inicial da epidemia nessa região, sendo necessário o monitoramento contínuo para se obterem mais informações e melhor se caracterizar a história natural da doença e capacidade de atendimento do sistema de saúde.
+
+Conclui-se que os indicadores analisados sugerem a heterogeneidade na caracterização e evolução dos primeiros casos de COVID-19 nos estados do Nordeste brasileiro e evidenciam a insuficiência de leitos para contenção da epidemia. Embora constituam subsídios importantes para a gestão em saúde, faz-se necessário o direcionamento de esforços para a ampliação da capacidade de vigilância epidemiológica e de atendimento em saúde, principalmente quanto ao diagnóstico oportuno e ao tratamento adequado. Além disso, ressalta-se a importância do fornecimento de EPIs para todos os profissionais de saúde, e da sensibilização da sociedade para a adoção de medidas de prevenção, principalmente o distanciamento social.

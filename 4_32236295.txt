@@ -1,0 +1,61 @@
+Os cirurgiões e a pandemia do COVID-19.
+
+RESUMO
+
+A atual pandemia do novo coronavírus, Covid-19, tem sido o assunto mais discutido no momento, tanto na mídia como em periódicos científicos. O medo, a incerteza e o desconhecimento sobre o comportamento da doença são os fatores preponderantes que podem justificar essa realidade. Sabe-se de antemão que a enfermidade tem grande disseminação, é mais grave entre idosos e está associada a grande impacto socioeconômico mundial. Além dos desafios em lidar com o desconhecido, há outros relacionados com a sobrecarga de informação e nesse quesito, a grande quantidade de estudos científicos, que englobam pesquisas in vitro, relatos de casos, estudos observacionais e randomizados, além de revisões sistemáticas complementam o panorama de dúvidas. Essa situação é piorada porque o conhecimento sobre o método científico não é dominado pela maioria dos profissionais de saúde, algo que há muito já vem sendo divulgado por vários autores. De sorte que em função desta realidade, torna-se fundamental que sociedades de especialidades apoiadas por dados da Organização Mundial da Saúde e do Ministério da Saúde assumam a liderança da divulgação da informação correta e confiável. O Colégio Brasileiro de Cirurgiões sugere neste documento medidas que podem auxiliar cirurgiões e outros profissionais de saúde, assim como pacientes, em caso de necessidade cirúrgica, a lidar com a atual pandemia.
+
+Descritores: Pandemias; Cirurgia Geral; Cuidados Pré-Operatórios; Cuidados Intra-Operatórios; Cuidados Pós-Operatórios; Organizações de Planejamento e Atendimento a Desastre
+A pandemia do novo coronavírus, Covid-19, é o assunto mais discutido nos dias de hoje, seja no imaginário popular, nos veículos de mídia ou nas páginas da literatura científica. Esta realidade é decorrente do medo, da incerteza e, principalmente, do desconhecimento sobre o comportamento da doença. De antemão, pode-se afirmar que tem capacidade de disseminação geométrica, grande impacto socioeconomômico mundial e taxas de letalidade, que aparentemente baixas no contexto global, parecem ser muito altas entre idosos, principalmente, na Itália.
+
+A doença tem influenciado o cotidiano de todos de forma contundente. Desde a obrigatoriedade em seguir regras de isolamento social estritas, com concomitante fechamento de fronteiras impostas por governos de alguns países, até ao planejamento e à adoção de medidas de saúde para enfrentar a crise onde ainda está incipiente. O certo é que a Covid-19 impregnou-se no cotidiano de todos, de forma dominante e, talvez, sem precedentes.
+
+Usando-se o buscador da internet Google com os termos “Covid-19”, “Covid19”, “Covid 19”, “Covid-19 Brasil”, “coronavirus” e “coronavirus Brasil” os números alcançam quase nove bilhões de resultados quando não se restringe ao Brasil, e cinco quando o país é especificado. São números que, provavelmente, impressionam qualquer céptico em relação à magnitude da enfermidade e alertam aqueles que estão cientes do impacto sobre a sociedade contemporânea global, principalmente aqueles que trabalham na área da saúde. Neste quesito, os médicos são não só os responsáveis por triar, atender e tratar aqueles acometidos pela doença mas também os questionados pela população sobre como comportar-se frente às mais diversas situações. Isso demanda conhecimento sobre a enfermidade e preparo para enfrentá-la, algo difícil em qualquer circunstância, pois trata-se de doença muito nova, que surgiu no final de 2019. A despeito desta realidade, em pouco mais de três meses, pode-se encontrar na literatura científica grande número de publicações que abordam a doença, nos diversos tipos de divulgação científica como experimentos in vitro, relatos de casos, uso de potenciais medicamentos e até revisão sistemática1.
+
+No Pubmed há, conforme a palavra-chave utilizada, entre 1300 a mais de 3000 artigos publicados, o que denota a relevância do assunto (figura 1)2. Por outro lado, a capacidade para ler, analisar e concluir sobre o que melhor se aplica à realidade de cada um é limitada, não só pelo pouco tempo, mas também por falta de conhecimento sobre o método científico correto. Há muito que Jonh Ioannidis vem questionando a deficiência metodológica da pesquisa e a falta de senso crítico dos profissionais da saúde3-6. De forma provocativa, em recente texto de opinião, Ioannidis volta sua “metralhadora metodológica” contra os dados apresentados até o momento sobre o Covid-197. Todas estas incertezas aumentam a responsabilidade daqueles que, talvez, melhor possam orientar tanto o público em geral como os médicos: os órgãos de saúde mundial e nacional, e as sociedades de especialidades. Saliente-se que esta tarefa é árdua e pode também ser marcada por controvérsias, uma vez que o que hoje parece ser lógico, amanhã poderá ser contestado. Afinal, as verdades transitórias sempre marcaram a Medicina.
+
+
+O experiente e sábio Professor Saul Goldenberg há alguns anos indagou “Como editor de revista científica pergunto-me sempre: Como ficar convencido da veracidade de um artigo científico? Como discernir o verdadeiro do falso?”8. Ioannidis, por outro lado, afirma que a grande maioria dos trabalhos científicos é falsa6. Assim, muitos profissionais acreditam que a melhor forma para solucionar a avalanche de informação científica9 é ler revisões sistemáticas, metaanálises ou guias, principalmente de fontes conceituadas como a Cochrane, algo que também exige senso crítico. Afinal, as controvérsias sobre estas fontes, tidas como de qualidade, têm sido frequentemente questionáveis com embasamento científico3,4,10-12. É certo que a possibilidade de produção de níveis de evidência elevados neste cenário é muito difícil. Entretanto, a própria Medicina Baseada em Evidências é definida como “o emprego consciencioso, explícito e judicioso da melhor evidência disponível na tomada de decisões sobre os cuidados de saúde de um paciente12”. E embora as publicações até o momento sejam fracas do ponto de vista de evidências, incluindo análise de ensaios clínicos ainda em andamento e tratamentos “off-label”; é o que temos à nossa disposição para enfrentarmos esta pandemia. Nos cabe somente, enquanto comunidade científica, senso crítico e temperança na análise destes dados.
+
+De sorte que neste momento crítico instituições científicas devem assumir a liderança no esclarecimento de fatos e verdades, ainda que a evidência possa ser ténue e passível de mudanças. Neste sentido, o Colégio Brasileiro de Cirurgiões, com a maturidade de um nonagenário, por meio de seu veículo científico, a Revista do Colégio Brasileiro de Cirurgiões, propõe medidas de qualidade e segurança visando orientar os profissionais cirurgiões e os pacientes, tendo como base o que há disponível, até o momento, em cirurgia, na literatura científica13-17, nas diretrizes do Ministério da Saúde do Brasil18, sob a liderança firme do cirurgião ortopedista Dr. Luiz Henrique Mandetta, e na página da Organização Mundial de Saúde19.
+
+O fato é que os serviços de saúde devem estar preparados para situação emergencial de evolução rápida, que muda exponencialmente, a qualquer momento. Na verdade, os serviços de saúde deveriam ter, como princípio perene, estratégias e diretrizes de qualidade e segurança cirúrgica (20), abordando também temas relacionados aos desastres naturais, às guerras e pandemias, algo que na atual situação assume relevante papel13. De sorte que:
+
+• Procedimentos cirúrgicos eletivos devem ser re-agendados para momento oportuno.
+
+○ Justificativa: 1) haver necessidade de espaços disponíveis para receber mais pacientes; 2) disponibilizar mais aparelhos de ventilação mecânica, em caso de demanda aumentada13; 3) prevenir eventos adversos em pacientes submetidos a procedimentos cirúrgicos de baixa morbimortalidade, mas que foram fatais em enfermos infectados pelo Covid-19, assintomáticos16.
+
+• Traçar plano objetivo para realizar operações essenciais durante a pandemia, especificamente urgências e emergências.
+
+○ Justificativa: 1) atender a situações tais como trauma, hemorragias digestivas, infecções graves que demandam intervenção imediata ou quase imediata; 2) preparar e orientar toda a equipe assistencial em como proceder, protegendo-se eficazmente por meio de uso de equipamentos de proteção individual (EPI); 3) permitir o mínimo de pessoas necessárias em sala cirúrgica, evitando assim o risco de maior de contaminação de outros profissionais. Na verdade, este quesito deveria ser parte do treinamento em qualidade e segurança para atender situações de desastres e pandemias13.
+
+• Definir, se possível, considerando o tipo de hospital e a dinâmica assistencial, salas específicas para a realização de operações, com orientações sobre quesitos importantes a serem seguidos nesta fase, colocados de forma visível para todos.
+
+○ Justificativa: 1) diminuir o tráfego de pessoas e objetos; 2) garantir ao paciente menos contato com potenciais transmissores da doença21
+
+• Ter cuidado rigoroso, durante as de operações, laparoscópicas ou abertas, com o uso aparelhos de aspiração, cauterização, insuflação. A pressão do pneumoperitónio deve ser mantida o mais baixa possível, respeitando a segurança da exposição anatómica da região a ser operada. O cautério deve ser usado com a menor potência capaz de realizar adequada cauterização.
+
+○ Justificativa: minimizar a dispersão de partículas contaminantes17;
+
+• Realizar desinfecção rigorosa da sala e dos materiais utilizados conforme as orientações dos órgãos sanitários locais18.
+
+○ Justificativa: 1) garantir a segurança do próximo paciente e da equipe assistencial.
+
+• Limitar o número de visitas aos pacientes operados, principalmente em unidades de terapia intensiva (se necessário, até avaliar a suspensão).
+
+○ Justificativa: 1) diminuir o tráfego de pessoas e objetos; 2) garantir ao paciente menor contato com potenciais transmissores da doença15.
+
+• Garantir, nos casos de trauma, que a equipe realize o processo assistencial desde a triagem, o primeiro atendimento no local do trauma, o transporte e a admissão hospitalar em conformidade com o descrito anteriormente, principalmente, no tocante ao uso de EPIs14.
+
+○ Justificativa: 1) diminuir a disseminação do vírus entre os profissionais de saúde maiormente expostos a secreções, considerando todos os pacientes como potenciais transmissores ; 2) minimizar o risco de transmissão para o paciente, a partir de profissionais de saúde assintomáticos; 3) reorganizar os horários e plantões das equipes antevendo o risco de cansaço excessivo e adoecimento concomitante de vários membros da equipe médica, o que poderia afetar o desempenho, e a oferta de número adequado de profissionais.
+
+• Desenvolver estratégias de apoio aos profissionais de saúde, principalmente, aqueles com filhos em idade escolar, para que as melhores condições psicológicas possíveis de trabalho sejam alcançadas.
+
+○ Justificativa: 1) as aulas estão suspensas; 2) potenciais cuidadores, como avós, são grupo de risco para maior morbidade relacionada ao Covid-19, logo não devem ficar responsáveis pelos cuidados das crianças19
+
+• Apoiar, neste momento crítico, a orientação do Conselho Federal de Medicina ofício n(o.) 1756/202022 sobre teleorientação, telemonitoramento e a teleinterconsulta.
+
+○ Justificativa: 1) necessidade de apoio remoto a pacientes em isolamento; 2) apoiar sob orientação e supervisão médica o monitoramento ou vigência à distância de parâmetros de saúde ou doença; 3) possibilitar a troca de informações e opiniões entre médicos, para auxílio diagnóstico e terapêutico
+
+• Re-marcar operações somente quando sugerido pelos órgãos de saúde nacionais18.
+
+O Colégio Brasileiro de Cirurgiões ciente de que as informações são muitas, mas a evidência científica ainda é fraca sugere, essencialmente, medidas de qualidade e segurança gerais para com os pacientes e equipes de saúde. Os profissionais de saúde não devem ser vistos como heróis23, mas sim como seres humanos que escolheram como profissão o cuidado ao outro, sendo ensinados para tal, mas que infelizmente, não são rotineiramente treinados para enfrentar situações de crise e muito menos, têm preparo científico suficiente para questionar a avalanche de trabalhos que são publicados12,24-26.
